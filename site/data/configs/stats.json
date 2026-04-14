@@ -1,0 +1,101 @@
+{
+  "company_count": 17,
+  "topic_count": 6,
+  "alias_count": 73,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "toray",
+      "short_name": "Toray Industries",
+      "tier": ""
+    },
+    {
+      "id": "lenzing",
+      "short_name": "Lenzing AG",
+      "tier": ""
+    },
+    {
+      "id": "far_eastern",
+      "short_name": "遠東新世紀",
+      "tier": ""
+    },
+    {
+      "id": "formosa_taffeta",
+      "short_name": "南紡",
+      "tier": ""
+    },
+    {
+      "id": "lealea",
+      "short_name": "力麗集團",
+      "tier": ""
+    },
+    {
+      "id": "shenzhou",
+      "short_name": "申洲國際",
+      "tier": ""
+    },
+    {
+      "id": "eclat",
+      "short_name": "儒鴻企業",
+      "tier": ""
+    },
+    {
+      "id": "makalot",
+      "short_name": "聚陽實業",
+      "tier": ""
+    },
+    {
+      "id": "nike",
+      "short_name": "Nike",
+      "tier": ""
+    },
+    {
+      "id": "adidas",
+      "short_name": "Adidas AG",
+      "tier": ""
+    },
+    {
+      "id": "inditex",
+      "short_name": "Inditex",
+      "tier": ""
+    },
+    {
+      "id": "hm",
+      "short_name": "H&M",
+      "tier": ""
+    },
+    {
+      "id": "lululemon",
+      "short_name": "Lululemon Athletica",
+      "tier": ""
+    },
+    {
+      "id": "vf_corp",
+      "short_name": "VF Corporation",
+      "tier": ""
+    },
+    {
+      "id": "fast_retailing",
+      "short_name": "迅銷集團",
+      "tier": ""
+    },
+    {
+      "id": "pvh",
+      "short_name": "PVH Corp",
+      "tier": ""
+    },
+    {
+      "id": "tapestry",
+      "short_name": "Tapestry",
+      "tier": ""
+    }
+  ]
+}
