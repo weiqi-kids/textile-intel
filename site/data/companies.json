@@ -6,8 +6,8 @@
       "short_name": "東麗",
       "position": "upstream",
       "role": "化纖原料",
-      "x": 0.05,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.04
     },
     {
       "id": "lenzing",
@@ -15,8 +15,8 @@
       "short_name": "蘭精",
       "position": "upstream",
       "role": "纖維素纖維",
-      "x": 0.106,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.11
     },
     {
       "id": "far_eastern",
@@ -24,8 +24,8 @@
       "short_name": "遠東新",
       "position": "upstream",
       "role": "聚酯纖維",
-      "x": 0.163,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.17
     },
     {
       "id": "formosa_taffeta",
@@ -33,8 +33,8 @@
       "short_name": "南紡織",
       "position": "upstream",
       "role": "織布",
-      "x": 0.219,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.24
     },
     {
       "id": "lealea",
@@ -42,8 +42,8 @@
       "short_name": "力麗",
       "position": "upstream",
       "role": "聚酯纖維",
-      "x": 0.275,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.17
     },
     {
       "id": "shenzhou",
@@ -51,8 +51,8 @@
       "short_name": "申洲",
       "position": "upstream",
       "role": "針織製造",
-      "x": 0.331,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.3
     },
     {
       "id": "eclat",
@@ -60,8 +60,8 @@
       "short_name": "儒鴻",
       "position": "midstream",
       "role": "機能布料/成衣",
-      "x": 0.388,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.35
     },
     {
       "id": "makalot",
@@ -69,8 +69,8 @@
       "short_name": "聚陽",
       "position": "midstream",
       "role": "成衣代工",
-      "x": 0.444,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.65
     },
     {
       "id": "nike",
@@ -78,8 +78,8 @@
       "short_name": "耐吉",
       "position": "downstream",
       "role": "品牌",
-      "x": 0.5,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.7
     },
     {
       "id": "adidas",
@@ -87,8 +87,8 @@
       "short_name": "愛迪達",
       "position": "downstream",
       "role": "品牌",
-      "x": 0.556,
-      "y": 0.34
+      "x": 0.2,
+      "y": 0.7
     },
     {
       "id": "inditex",
@@ -96,8 +96,8 @@
       "short_name": "印地紡",
       "position": "downstream",
       "role": "快時尚",
-      "x": 0.613,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.96
     },
     {
       "id": "hm",
@@ -105,8 +105,8 @@
       "short_name": "H&M",
       "position": "downstream",
       "role": "快時尚",
-      "x": 0.669,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.96
     },
     {
       "id": "lululemon",
@@ -114,8 +114,8 @@
       "short_name": "露露檸檬",
       "position": "downstream",
       "role": "品牌",
-      "x": 0.725,
-      "y": 0.34
+      "x": 0.35,
+      "y": 0.7
     },
     {
       "id": "vf_corp",
@@ -123,8 +123,8 @@
       "short_name": "威富",
       "position": "downstream",
       "role": "品牌",
-      "x": 0.781,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "fast_retailing",
@@ -132,8 +132,8 @@
       "short_name": "優衣庫",
       "position": "downstream",
       "role": "品牌",
-      "x": 0.838,
-      "y": 0.34
+      "x": 0.65,
+      "y": 0.7
     },
     {
       "id": "pvh",
@@ -141,8 +141,8 @@
       "short_name": "PVH",
       "position": "downstream",
       "role": "品牌",
-      "x": 0.894,
-      "y": 0.34
+      "x": 0.8,
+      "y": 0.7
     },
     {
       "id": "tapestry",
@@ -151,7 +151,7 @@
       "position": "downstream",
       "role": "品牌",
       "x": 0.95,
-      "y": 0.34
+      "y": 0.7
     }
   ],
   "links": [
