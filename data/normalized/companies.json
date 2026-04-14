@@ -1,0 +1,319 @@
+{
+  "companies": [
+    {
+      "id": "toray",
+      "name": "Toray Industries",
+      "short_name": "東麗",
+      "position": "upstream",
+      "role": "化纖原料",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "lenzing",
+      "name": "Lenzing AG",
+      "short_name": "蘭精",
+      "position": "upstream",
+      "role": "纖維素纖維",
+      "x": 0.106,
+      "y": 0.34
+    },
+    {
+      "id": "far_eastern",
+      "name": "遠東新世紀",
+      "short_name": "遠東新",
+      "position": "upstream",
+      "role": "聚酯纖維",
+      "x": 0.163,
+      "y": 0.34
+    },
+    {
+      "id": "formosa_taffeta",
+      "name": "南紡",
+      "short_name": "南紡織",
+      "position": "upstream",
+      "role": "織布",
+      "x": 0.219,
+      "y": 0.34
+    },
+    {
+      "id": "lealea",
+      "name": "力麗集團",
+      "short_name": "力麗",
+      "position": "upstream",
+      "role": "聚酯纖維",
+      "x": 0.275,
+      "y": 0.34
+    },
+    {
+      "id": "shenzhou",
+      "name": "申洲國際",
+      "short_name": "申洲",
+      "position": "upstream",
+      "role": "針織製造",
+      "x": 0.331,
+      "y": 0.34
+    },
+    {
+      "id": "eclat",
+      "name": "儒鴻企業",
+      "short_name": "儒鴻",
+      "position": "midstream",
+      "role": "機能布料/成衣",
+      "x": 0.388,
+      "y": 0.34
+    },
+    {
+      "id": "makalot",
+      "name": "聚陽實業",
+      "short_name": "聚陽",
+      "position": "midstream",
+      "role": "成衣代工",
+      "x": 0.444,
+      "y": 0.34
+    },
+    {
+      "id": "nike",
+      "name": "Nike",
+      "short_name": "耐吉",
+      "position": "downstream",
+      "role": "品牌",
+      "x": 0.5,
+      "y": 0.34
+    },
+    {
+      "id": "adidas",
+      "name": "Adidas AG",
+      "short_name": "愛迪達",
+      "position": "downstream",
+      "role": "品牌",
+      "x": 0.556,
+      "y": 0.34
+    },
+    {
+      "id": "inditex",
+      "name": "Inditex",
+      "short_name": "印地紡",
+      "position": "downstream",
+      "role": "快時尚",
+      "x": 0.613,
+      "y": 0.34
+    },
+    {
+      "id": "hm",
+      "name": "H&M",
+      "short_name": "H&M",
+      "position": "downstream",
+      "role": "快時尚",
+      "x": 0.669,
+      "y": 0.34
+    },
+    {
+      "id": "lululemon",
+      "name": "Lululemon Athletica",
+      "short_name": "露露檸檬",
+      "position": "downstream",
+      "role": "品牌",
+      "x": 0.725,
+      "y": 0.34
+    },
+    {
+      "id": "vf_corp",
+      "name": "VF Corporation",
+      "short_name": "威富",
+      "position": "downstream",
+      "role": "品牌",
+      "x": 0.781,
+      "y": 0.34
+    },
+    {
+      "id": "fast_retailing",
+      "name": "迅銷集團",
+      "short_name": "優衣庫",
+      "position": "downstream",
+      "role": "品牌",
+      "x": 0.838,
+      "y": 0.34
+    },
+    {
+      "id": "pvh",
+      "name": "PVH Corp",
+      "short_name": "PVH",
+      "position": "downstream",
+      "role": "品牌",
+      "x": 0.894,
+      "y": 0.34
+    },
+    {
+      "id": "tapestry",
+      "name": "Tapestry",
+      "short_name": "Coach",
+      "position": "downstream",
+      "role": "品牌",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "toray",
+      "target": "eclat",
+      "strength": 2
+    },
+    {
+      "source": "toray",
+      "target": "makalot",
+      "strength": 2
+    },
+    {
+      "source": "toray",
+      "target": "nike",
+      "strength": 2
+    },
+    {
+      "source": "toray",
+      "target": "adidas",
+      "strength": 2
+    },
+    {
+      "source": "lenzing",
+      "target": "eclat",
+      "strength": 2
+    },
+    {
+      "source": "lenzing",
+      "target": "makalot",
+      "strength": 2
+    },
+    {
+      "source": "lenzing",
+      "target": "inditex",
+      "strength": 2
+    },
+    {
+      "source": "lenzing",
+      "target": "hm",
+      "strength": 2
+    },
+    {
+      "source": "far_eastern",
+      "target": "eclat",
+      "strength": 2
+    },
+    {
+      "source": "far_eastern",
+      "target": "makalot",
+      "strength": 2
+    },
+    {
+      "source": "far_eastern",
+      "target": "nike",
+      "strength": 2
+    },
+    {
+      "source": "far_eastern",
+      "target": "adidas",
+      "strength": 2
+    },
+    {
+      "source": "formosa_taffeta",
+      "target": "eclat",
+      "strength": 2
+    },
+    {
+      "source": "formosa_taffeta",
+      "target": "makalot",
+      "strength": 2
+    },
+    {
+      "source": "formosa_taffeta",
+      "target": "nike",
+      "strength": 2
+    },
+    {
+      "source": "lealea",
+      "target": "eclat",
+      "strength": 2
+    },
+    {
+      "source": "lealea",
+      "target": "makalot",
+      "strength": 2
+    },
+    {
+      "source": "shenzhou",
+      "target": "nike",
+      "strength": 2
+    },
+    {
+      "source": "shenzhou",
+      "target": "adidas",
+      "strength": 2
+    },
+    {
+      "source": "shenzhou",
+      "target": "lululemon",
+      "strength": 2
+    },
+    {
+      "source": "shenzhou",
+      "target": "fast_retailing",
+      "strength": 2
+    },
+    {
+      "source": "eclat",
+      "target": "nike",
+      "strength": 2
+    },
+    {
+      "source": "eclat",
+      "target": "adidas",
+      "strength": 2
+    },
+    {
+      "source": "eclat",
+      "target": "lululemon",
+      "strength": 2
+    },
+    {
+      "source": "eclat",
+      "target": "vf_corp",
+      "strength": 2
+    },
+    {
+      "source": "makalot",
+      "target": "nike",
+      "strength": 2
+    },
+    {
+      "source": "makalot",
+      "target": "adidas",
+      "strength": 2
+    },
+    {
+      "source": "makalot",
+      "target": "inditex",
+      "strength": 2
+    },
+    {
+      "source": "makalot",
+      "target": "hm",
+      "strength": 2
+    },
+    {
+      "source": "makalot",
+      "target": "vf_corp",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_xrt",
+      "name": "SPDR S&P Retail ETF",
+      "ticker": "XRT",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "零售業 ETF，涵蓋服飾零售商"
+    }
+  ]
+}

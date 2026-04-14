@@ -1,0 +1,306 @@
+# 紡織供應鏈情報追蹤 - 公司清單
+
+companies:
+- id: toray
+  name: Toray Industries
+  aliases:
+  - 東麗
+  - Toray
+  ticker: 3402.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 化纖原料
+  description: 全球最大碳纖維與合成纖維製造商
+  downstream:
+  - eclat
+  - makalot
+  - nike
+  - adidas
+- id: lenzing
+  name: Lenzing AG
+  aliases:
+  - Lenzing
+  - 蘭精
+  ticker: LNZ.VI
+  market: VIE
+  currency: EUR
+  position: upstream
+  role: 纖維素纖維
+  description: 全球領先天絲與再生纖維製造商
+  downstream:
+  - eclat
+  - makalot
+  - inditex
+  - hm
+- id: far_eastern
+  name: 遠東新世紀
+  aliases:
+  - Far Eastern New Century
+  - 遠東新
+  - FENC
+  ticker: 1402.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 聚酯纖維
+  description: 台灣最大聚酯纖維與寶特瓶回收再生
+  downstream:
+  - eclat
+  - makalot
+  - nike
+  - adidas
+- id: formosa_taffeta
+  name: 南紡
+  aliases:
+  - Formosa Taffeta
+  - 南紡織
+  ticker: 1440.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 織布
+  description: 台灣機能布料與織布大廠
+  downstream:
+  - eclat
+  - makalot
+  - nike
+- id: lealea
+  name: 力麗集團
+  aliases:
+  - Lealea Enterprise
+  - 力麗
+  ticker: 1444.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 聚酯纖維
+  description: 聚酯纖維與環保再生纖維
+  downstream:
+  - eclat
+  - makalot
+- id: shenzhou
+  name: 申洲國際
+  aliases:
+  - Shenzhou International
+  - 申洲
+  ticker: 2313.HK
+  market: HKEX
+  currency: HKD
+  position: upstream
+  role: 針織製造
+  description: 全球最大縱向一體化針織製造商
+  downstream:
+  - nike
+  - adidas
+  - lululemon
+  - fast_retailing
+- id: eclat
+  name: 儒鴻企業
+  aliases:
+  - Eclat Textile
+  - 儒鴻
+  ticker: 1476.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 機能布料/成衣
+  description: 全球機能布料與成衣代工龍頭
+  upstream:
+  - toray
+  - far_eastern
+  - formosa_taffeta
+  - lealea
+  downstream:
+  - nike
+  - adidas
+  - lululemon
+  - vf_corp
+- id: makalot
+  name: 聚陽實業
+  aliases:
+  - Makalot Industrial
+  - 聚陽
+  ticker: 1477.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 成衣代工
+  description: 台灣成衣代工大廠，專注休閒與運動服飾
+  upstream:
+  - toray
+  - far_eastern
+  - formosa_taffeta
+  - lealea
+  - lenzing
+  downstream:
+  - nike
+  - adidas
+  - inditex
+  - hm
+  - vf_corp
+- id: nike
+  name: Nike
+  aliases:
+  - 耐吉
+  - Nike Inc
+  ticker: NKE
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 品牌
+  description: 全球最大運動品牌
+  upstream:
+  - eclat
+  - makalot
+  - shenzhou
+  - toray
+  - far_eastern
+- id: adidas
+  name: Adidas AG
+  aliases:
+  - 愛迪達
+  - Adidas
+  ticker: ADS.DE
+  market: XETRA
+  currency: EUR
+  position: downstream
+  role: 品牌
+  description: 全球第二大運動品牌
+  upstream:
+  - eclat
+  - makalot
+  - shenzhou
+  - toray
+- id: inditex
+  name: Inditex
+  aliases:
+  - Zara
+  - 印地紡
+  ticker: ITX.MC
+  market: BME
+  currency: EUR
+  position: downstream
+  role: 快時尚
+  description: Zara 母公司，全球最大快時尚集團
+  upstream:
+  - makalot
+  - lenzing
+- id: hm
+  name: H&M
+  aliases:
+  - H&M
+  - Hennes & Mauritz
+  ticker: HM-B.ST
+  market: STO
+  currency: SEK
+  position: downstream
+  role: 快時尚
+  description: 全球第二大快時尚品牌
+  upstream:
+  - makalot
+  - lenzing
+- id: lululemon
+  name: Lululemon Athletica
+  aliases:
+  - Lululemon
+  - 露露檸檬
+  ticker: LULU
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 品牌
+  description: 高端瑜伽與運動服飾品牌
+  upstream:
+  - eclat
+  - shenzhou
+- id: vf_corp
+  name: VF Corporation
+  aliases:
+  - VF
+  - 威富
+  ticker: VFC
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 品牌
+  description: The North Face、Timberland 母公司
+  upstream:
+  - eclat
+  - makalot
+- id: fast_retailing
+  name: 迅銷集團
+  aliases:
+  - Fast Retailing
+  - Uniqlo
+  - 優衣庫
+  ticker: 9983.T
+  market: TSE
+  currency: JPY
+  position: downstream
+  role: 品牌
+  description: Uniqlo 母公司，全球第三大服飾集團
+  upstream:
+  - shenzhou
+  - toray
+- id: pvh
+  name: PVH Corp
+  aliases:
+  - PVH
+  - Calvin Klein
+  - Tommy Hilfiger
+  ticker: PVH
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 品牌
+  description: Calvin Klein 與 Tommy Hilfiger 母公司
+  upstream:
+  - eclat
+  - makalot
+- id: tapestry
+  name: Tapestry
+  aliases:
+  - Coach
+  - Kate Spade
+  ticker: TPR
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 品牌
+  description: Coach 與 Kate Spade 母公司
+  upstream:
+  - eclat
+etfs:
+- id: xrt
+  name: SPDR S&P Retail ETF
+  ticker: XRT
+  market: NYSE
+  currency: USD
+  description: 零售業 ETF，涵蓋服飾零售商
+supply_chain_positions:
+  upstream:
+  - 化纖原料
+  - 纖維素纖維
+  - 聚酯纖維
+  - 織布
+  - 針織製造
+  midstream:
+  - 機能布料/成衣
+  - 成衣代工
+  downstream:
+  - 品牌
+  - 快時尚
+topics:
+- id: cotton_price
+  name: 棉花價格
+- id: fast_fashion
+  name: 快時尚趨勢
+- id: sustainable_textile
+  name: 永續紡織
+- id: order_visibility
+  name: 訂單能見度
+- id: supply_chain_shift
+  name: 供應鏈轉移
+- id: earnings
+  name: 法說會

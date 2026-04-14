@@ -1,0 +1,116 @@
+# 紡織供應鏈情報追蹤 - 主題清單
+
+topics:
+  cotton_price:
+    display: 棉花價格
+    keywords:
+    - cotton price
+    - 棉花價格
+    - cotton futures
+    - 棉花期貨
+    - cotton index
+    - ICE cotton
+    - yarn price
+    - 紗線價格
+    - polyester price
+    - 聚酯價格
+    - fiber price
+    - 纖維價格
+    sentiment_keywords:
+      positive:
+      - 上漲
+      - 漲價
+      - price rally
+      - cotton surge
+      negative:
+      - 下跌
+      - 跌價
+      - price drop
+      - cotton decline
+  fast_fashion:
+    display: 快時尚趨勢
+    keywords:
+    - fast fashion
+    - 快時尚
+    - Shein
+    - Temu
+    - ultra-fast fashion
+    - fashion trend
+    - 時尚趨勢
+    - DTC
+    - direct to consumer
+  sustainable_textile:
+    display: 永續紡織
+    keywords:
+    - sustainable textile
+    - 永續紡織
+    - recycled fiber
+    - 再生纖維
+    - circular fashion
+    - 循環時尚
+    - green textile
+    - 環保紡織
+    - ESG
+    - carbon footprint
+    - 碳足跡
+    - organic cotton
+    - 有機棉
+  order_visibility:
+    display: 訂單能見度
+    keywords:
+    - order visibility
+    - 訂單能見度
+    - order backlog
+    - 在手訂單
+    - booking
+    - 接單
+    - order intake
+    - 新增訂單
+    - lead time
+    - 交期
+    - capacity utilization
+    - 產能利用率
+    sentiment_keywords:
+      positive:
+      - 訂單增加
+      - 能見度提升
+      - order growth
+      - strong booking
+      negative:
+      - 訂單減少
+      - 能見度下降
+      - order decline
+      - weak booking
+  supply_chain_shift:
+    display: 供應鏈轉移
+    keywords:
+    - supply chain shift
+    - 供應鏈轉移
+    - nearshoring
+    - reshoring
+    - Vietnam
+    - 越南
+    - Bangladesh
+    - 孟加拉
+    - India
+    - 印度
+    - Indonesia
+    - 印尼
+    - Cambodia
+    - 柬埔寨
+    - China+1
+  earnings:
+    display: 法說會
+    keywords:
+    - earnings
+    - 法說會
+    - 財報
+    - quarterly results
+    - guidance
+    - outlook
+    - revenue
+    - 營收
+    - profit
+    - 獲利
+    - 毛利率
+    - gross margin
