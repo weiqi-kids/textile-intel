@@ -12,6 +12,7 @@ companies:
   position: upstream
   role: 化纖原料
   description: 全球最大碳纖維與合成纖維製造商
+  rss_url: https://news.google.com/rss/search?q="Toray+Industries"&hl=en&gl=US&ceid=US:en
   downstream:
   - eclat
   - makalot
@@ -28,6 +29,7 @@ companies:
   position: upstream
   role: 纖維素纖維
   description: 全球領先天絲與再生纖維製造商
+  rss_url: https://news.google.com/rss/search?q="Lenzing+AG"&hl=en&gl=US&ceid=US:en
   downstream:
   - eclat
   - makalot
@@ -45,6 +47,7 @@ companies:
   position: upstream
   role: 聚酯纖維
   description: 台灣最大聚酯纖維與寶特瓶回收再生
+  rss_url: https://news.google.com/rss/search?q="Far+Eastern+New+Century"&hl=en&gl=US&ceid=US:en
   downstream:
   - eclat
   - makalot
@@ -61,6 +64,7 @@ companies:
   position: upstream
   role: 織布
   description: 台灣機能布料與織布大廠
+  rss_url: https://news.google.com/rss/search?q="Formosa+Taffeta"&hl=en&gl=US&ceid=US:en
   downstream:
   - eclat
   - makalot
@@ -76,6 +80,7 @@ companies:
   position: upstream
   role: 聚酯纖維
   description: 聚酯纖維與環保再生纖維
+  rss_url: https://news.google.com/rss/search?q="Lealea+Enterprise"&hl=en&gl=US&ceid=US:en
   downstream:
   - eclat
   - makalot
@@ -90,6 +95,7 @@ companies:
   position: upstream
   role: 針織製造
   description: 全球最大縱向一體化針織製造商
+  rss_url: https://news.google.com/rss/search?q="Shenzhou+International"&hl=en&gl=US&ceid=US:en
   downstream:
   - nike
   - adidas
@@ -106,6 +112,7 @@ companies:
   position: midstream
   role: 機能布料/成衣
   description: 全球機能布料與成衣代工龍頭
+  rss_url: https://news.google.com/rss/search?q="Eclat+Textile"&hl=en&gl=US&ceid=US:en
   upstream:
   - toray
   - far_eastern
@@ -127,6 +134,7 @@ companies:
   position: midstream
   role: 成衣代工
   description: 台灣成衣代工大廠，專注休閒與運動服飾
+  rss_url: https://news.google.com/rss/search?q="Makalot+Industrial"&hl=en&gl=US&ceid=US:en
   upstream:
   - toray
   - far_eastern
@@ -150,6 +158,7 @@ companies:
   position: downstream
   role: 品牌
   description: 全球最大運動品牌
+  rss_url: https://news.google.com/rss/search?q="Nike"+fashion+brand&hl=en&gl=US&ceid=US:en
   upstream:
   - eclat
   - makalot
@@ -167,6 +176,7 @@ companies:
   position: downstream
   role: 品牌
   description: 全球第二大運動品牌
+  rss_url: https://news.google.com/rss/search?q="Adidas+AG"&hl=en&gl=US&ceid=US:en
   upstream:
   - eclat
   - makalot
@@ -183,6 +193,7 @@ companies:
   position: downstream
   role: 快時尚
   description: Zara 母公司，全球最大快時尚集團
+  rss_url: https://news.google.com/rss/search?q="Inditex"+fast+fashion&hl=en&gl=US&ceid=US:en
   upstream:
   - makalot
   - lenzing
@@ -212,6 +223,7 @@ companies:
   position: downstream
   role: 品牌
   description: 高端瑜伽與運動服飾品牌
+  rss_url: https://news.google.com/rss/search?q="Lululemon+Athletica"&hl=en&gl=US&ceid=US:en
   upstream:
   - eclat
   - shenzhou
@@ -226,6 +238,7 @@ companies:
   position: downstream
   role: 品牌
   description: The North Face、Timberland 母公司
+  rss_url: https://news.google.com/rss/search?q="VF+Corporation"&hl=en&gl=US&ceid=US:en
   upstream:
   - eclat
   - makalot
@@ -257,6 +270,7 @@ companies:
   position: downstream
   role: 品牌
   description: Calvin Klein 與 Tommy Hilfiger 母公司
+  rss_url: https://news.google.com/rss/search?q="PVH+Corp"&hl=en&gl=US&ceid=US:en
   upstream:
   - eclat
   - makalot
@@ -271,6 +285,7 @@ companies:
   position: downstream
   role: 品牌
   description: Coach 與 Kate Spade 母公司
+  rss_url: https://news.google.com/rss/search?q="Tapestry"&hl=en&gl=US&ceid=US:en
   upstream:
   - eclat
 etfs:
