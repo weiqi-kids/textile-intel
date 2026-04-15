@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:09:53.319250+00:00",
+  "updated_at": "2026-04-15T12:00:57.395002+00:00",
   "companies": {
     "toray": {
       "name": "Toray Industries",
@@ -23,61 +23,61 @@
           "holder": "American Century ETF Trust-Avantis International Small Cap Value ETF",
           "shares": 924807,
           "pct_held": 2.39,
-          "value": 22796492
+          "value": 22519050
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 269718,
           "pct_held": 0.7,
-          "value": 6648548
+          "value": 6567633
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 171793,
           "pct_held": 0.44,
-          "value": 4234697
+          "value": 4183159
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 143585,
           "pct_held": 0.37,
-          "value": 3539370
+          "value": 3496294
         },
         {
           "holder": "iShares, Inc.-iShares MSCI Austria ETF",
           "shares": 99225,
           "pct_held": 0.26,
-          "value": 2445896
+          "value": 2416128
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Continental Small Company Series",
           "shares": 75389,
           "pct_held": 0.2,
-          "value": 1858338
+          "value": 1835722
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 72411,
           "pct_held": 0.19,
-          "value": 1784931
+          "value": 1763207
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 67823,
           "pct_held": 0.18,
-          "value": 1671836
+          "value": 1651490
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard European Stock Index Fd.",
           "shares": 46180,
           "pct_held": 0.12,
-          "value": 1138336
+          "value": 1124483
         },
         {
           "holder": "American Century ETF Trust-Avantis International Small Cap Value Fund",
           "shares": 45878,
           "pct_held": 0.12,
-          "value": 1130892
+          "value": 1117129
         }
       ]
     },
@@ -170,13 +170,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 75935,
           "pct_held": 0.04,
-          "value": 10566354
+          "value": 10501810
         },
         {
           "holder": "Winch Advisory Services LLC",
           "shares": 2,
           "pct_held": 0.0,
-          "value": 278
+          "value": 276
         }
       ]
     },
@@ -189,19 +189,19 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 100956,
           "pct_held": 0.0,
-          "value": 5348648
+          "value": 5294132
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 21900,
           "pct_held": 0.0,
-          "value": 1160261
+          "value": 1148435
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 14693,
           "pct_held": 0.0,
-          "value": 778435
+          "value": 770500
         }
       ]
     },

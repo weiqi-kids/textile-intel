@@ -1,23 +1,28 @@
 {
   "date": "2026-04-15",
-  "total_events": 6,
-  "by_company": {},
+  "total_events": 10,
+  "by_company": {
+    "nike": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "by_topic": {
     "cotton_price": {
       "count": 1,
       "sentiment_avg": -0.5
     },
     "supply_chain_shift": {
-      "count": 4,
-      "sentiment_avg": -0.38
+      "count": 5,
+      "sentiment_avg": -0.3
     },
     "earnings": {
-      "count": 2,
-      "sentiment_avg": 0.0
+      "count": 4,
+      "sentiment_avg": -0.25
     },
     "sustainable_textile": {
-      "count": 1,
-      "sentiment_avg": 0.5
+      "count": 2,
+      "sentiment_avg": 0.25
     }
   },
   "baselines_used": {
