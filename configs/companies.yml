@@ -197,6 +197,7 @@ companies:
   position: downstream
   role: 快時尚
   description: 全球第二大快時尚品牌
+  rss_url: https://hmgroup.com/feed
   upstream:
   - makalot
   - lenzing
@@ -240,6 +241,7 @@ companies:
   position: downstream
   role: 品牌
   description: Uniqlo 母公司，全球第三大服飾集團
+  rss_url: https://www.fastretailing.com/eng/rss/ir.xml
   upstream:
   - shenzhou
   - toray
