@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T04:26:23.830332+00:00",
+  "updated_at": "2026-04-15T09:09:53.319250+00:00",
   "companies": {
     "toray": {
       "name": "Toray Industries",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 5941,
           "pct_held": 0.0,
-          "value": 6832150
+          "value": 6796504
         }
       ]
     },
@@ -23,61 +23,61 @@
           "holder": "American Century ETF Trust-Avantis International Small Cap Value ETF",
           "shares": 924807,
           "pct_held": 2.39,
-          "value": 22519050
+          "value": 22796492
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 269718,
           "pct_held": 0.7,
-          "value": 6567633
+          "value": 6648548
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 171793,
           "pct_held": 0.44,
-          "value": 4183159
+          "value": 4234697
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 143585,
           "pct_held": 0.37,
-          "value": 3496294
+          "value": 3539370
         },
         {
           "holder": "iShares, Inc.-iShares MSCI Austria ETF",
           "shares": 99225,
           "pct_held": 0.26,
-          "value": 2416128
+          "value": 2445896
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Continental Small Company Series",
           "shares": 75389,
           "pct_held": 0.2,
-          "value": 1835722
+          "value": 1858338
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 72411,
           "pct_held": 0.19,
-          "value": 1763207
+          "value": 1784931
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 67823,
           "pct_held": 0.18,
-          "value": 1651490
+          "value": 1671836
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard European Stock Index Fd.",
           "shares": 46180,
           "pct_held": 0.12,
-          "value": 1124483
+          "value": 1138336
         },
         {
           "holder": "American Century ETF Trust-Avantis International Small Cap Value Fund",
           "shares": 45878,
           "pct_held": 0.12,
-          "value": 1117129
+          "value": 1130892
         }
       ]
     },
@@ -90,7 +90,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 780554,
           "pct_held": 0.05,
-          "value": 37091926
+          "value": 36670426
         }
       ]
     },
@@ -170,13 +170,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 75935,
           "pct_held": 0.04,
-          "value": 10471436
+          "value": 10566354
         },
         {
           "holder": "Winch Advisory Services LLC",
           "shares": 2,
           "pct_held": 0.0,
-          "value": 275
+          "value": 278
         }
       ]
     },
@@ -189,19 +189,19 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 100956,
           "pct_held": 0.0,
-          "value": 5356725
+          "value": 5348648
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 21900,
           "pct_held": 0.0,
-          "value": 1162014
+          "value": 1160261
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 14693,
           "pct_held": 0.0,
-          "value": 779610
+          "value": 778435
         }
       ]
     },
@@ -214,13 +214,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 3758,
           "pct_held": 0.0,
-          "value": 654079
+          "value": 655395
         },
         {
           "holder": "Gardner Russo & Quinn, LLC",
           "shares": 64000,
           "pct_held": 0.0,
-          "value": 11139200
+          "value": 11161599
         }
       ]
     },
@@ -367,13 +367,13 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 181386,
           "pct_held": 0.06,
-          "value": 13524140160
+          "value": 13478793660
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 1581,
           "pct_held": 0.0,
-          "value": 117879360
+          "value": 117484110
         }
       ]
     },

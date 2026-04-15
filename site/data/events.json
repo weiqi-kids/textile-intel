@@ -49,6 +49,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-15-006",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh forms cabinet committee to adjust power prices amid crisis",
+    "summary": "Bangladesh recently formed a six-member cabinet committee to recommend the necessary power tariff adjustment at the wholesale and retail levels amid the Middle East crisis, global oil price volatility",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-14-011",
     "date": "2026-04-14",
     "companies": [],
@@ -277,6 +289,20 @@
     "sources": []
   },
   {
+    "id": "nike-2026-03-27-008",
+    "date": "2026-03-27",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Nike Earnings Preview: The Company Really Needs To Return To Mid-Single-Digit Revenue Growth - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQVl9ZZEFDYnRocWNCYXRBQ2JBRU1tZW9LLVNUZzBqWE5WME5oSjlTR2E2UkV4ZDZHZHdjMzhOLU9YLTNUVktDd2xWVm40ZzdkUk5ONWNETWFvYUdPanhNQ0FFcTZIdHdBYnJXUG9PTX",
+    "sources": []
+  },
+  {
     "id": "nike-2026-03-25-027",
     "date": "2026-03-25",
     "companies": [
@@ -384,6 +410,18 @@
     "impact": "neutral",
     "title": "Sportswear Market Outlook & Forecast 2024-2029: Key Players - GlobeNewswire",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gJBVV95cUxOcmw3SlBkbjR4MmxMYTdUWlNMaFd3a3Jwaks0eWtuaW5WTGpMdGR6NkFXalJEOVRmLWswUU9zaXM3TFpVSUdmWElxRV9yZVAwTVlpclJSNFVEaWptOUVXVzA5bzZ4bDVXTmpXU1ZxYn",
+    "sources": []
+  },
+  {
+    "id": "unknown-2023-06-22-005",
+    "date": "2023-06-22",
+    "companies": [],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "Key driver of textile and apparel industry management: fashion brand ESG and brand reputation - Frontiers",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2ZNbVh6YUt5Qi1MR0Q2M1JrOXlPdjY1bEZadWlfVFNPdkdld2ZFOXpodUNMT1ZtNE5wWEdrV0RGYm5wazVzWnFIR3YwNE5aQkRIaHVVVXJmN0pPMXhSMlcwaFc5dW56LXJNWjF0aj",
     "sources": []
   }
 ]
