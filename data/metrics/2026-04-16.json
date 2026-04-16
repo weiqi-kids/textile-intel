@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-16",
+  "total_events": 6,
+  "by_company": {},
+  "by_topic": {
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "supply_chain_shift": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

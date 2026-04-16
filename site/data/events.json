@@ -1,5 +1,78 @@
 [
   {
+    "id": "unknown-2026-04-16-012",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "negative",
+    "title": "ICE cotton rallies to 22 month-high on weaker dollar, drought worries",
+    "summary": "ICE cotton surged to a 22-month high, led by a weaker US dollar, firm crude oil and drought concerns in key US regions. \nThe July 2026 contract hit its highest since July 2024. \nStrong trading volumes",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-013",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Vietnam to streamline foreign trade procedures from May 1",
+    "summary": "Vietnam will streamline foreign trade procedures from May 1 under a new decision aimed at cutting red tape and improving access to tariff preferences for businesses. \nThe decision abolishes several ad",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-014",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "sustainable_textile",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Sustainable textiles in India: An unstoppable industry shift",
+    "summary": "Sustainability in India’s textile sector is steadily advancing, driven by informed buyers and rising certification demands across both export and domestic markets.\nHowever, adoption remains uneven, wi",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-015",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India's Commerce Ministry launches website & app for trade access",
+    "summary": "The Indian Ministry of Commerce and Industry has launched a modern, integrated Department of Commerce website aligned with DBIM 3.0 and GIGW standards. \nDesigned to improve service delivery, it offers",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-016",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh RMG units call for allowing local FOC raw material sourcing",
+    "summary": "Bangladesh RMG players have urged the government to remove restrictions on sourcing raw materials free of cost (FOC) from local suppliers. \nIndustry leaders said allowing FOC sourcing from domestic su",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-017",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "positive",
+    "title": "Temu targets counterfeit crackdown",
+    "summary": "Temu is a member of the International AntiCounterfeiting Coalition (IACC), marking the latest step in its expanding IP protection program.",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-15-007",
     "date": "2026-04-15",
     "companies": [],
@@ -108,6 +181,48 @@
     "impact": "neutral",
     "title": "What is Zacks Research's Estimate for NIKE FY2026 Earnings? - MarketBeat",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmE4aF9iUWtZRy1JT1EwZkNmdzZleFJNVTV2bXphTE9SV1JtelZiZXZ6dUNzeURJSlBpOWlWS0tKXzRHV3FVa1VXeGNsMzlpblRfN2dwY1I0WWJSalRGeXE5cmNtS3dkYkpmR0VEbm",
+    "sources": []
+  },
+  {
+    "id": "lululemon-2026-04-15-007",
+    "date": "2026-04-15",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Lululemon Stock Trades at 2018 Levels Despite Record Revenue: Time to Buy? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOQTluQWlISlpvclFfVS1Nb1VzNG5pQk5TcHM1Sk80LXBRZHhyWEhXaDV3US1JYnZZX1lMeFRESEJSMlRVYmVldy1IZDZ6ZmFwV1ZTLUFTRGdGZm1SZTRqVWpIUUJKZ0d0SlNBUmdzUD",
+    "sources": []
+  },
+  {
+    "id": "nike-2026-04-15-018",
+    "date": "2026-04-15",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike earnings rebound, brand positioning questioned by UBS - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbERKbndKOFpIMjdDVk1wakNIZG9EUmxRNHlpVDUwNlNjUWhiZDlZOWVnU2kzdzhhaGtkVlptX2lPS0dhc2NUcWlOaDdXeGhaNFRFd19ZQzBKVTNDclJqMTRGaHNFZWhEVUdadHlkTm",
+    "sources": []
+  },
+  {
+    "id": "nike-2026-04-15-020",
+    "date": "2026-04-15",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Nike (NKE) a 'buy' ahead of its upcoming earnings announcement? - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxQZFVDaG1tNnRSRktYY3VINnE1aTB1VGQzLXFSbVJ2U1VuQW9haWZ6VlFhTWRpVU8tZHdxc3hkZFZYcTZfbjBzQUJOUlc2T0w4NXpyNTIzRUpJMXhVREJucHV0Tm0tdExsM1g4UDl2V1",
     "sources": []
   },
   {
@@ -361,6 +476,20 @@
     "sources": []
   },
   {
+    "id": "nike-2026-04-02-019",
+    "date": "2026-04-02",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nike CEO acknowledges frustration after disappointing earnings, turnaround slow to take hold - Fox Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0xxd0VHVGExNnlWLXVXQXVxQnM0emY1OFVDNlpqRlVtWENlZ1R0aU9rZkFDRGk4d1hiamJSMGxWdFRHY3ZTRmFpN04zMG9Db2F1dXNjVEQtRlFyTzhLX0ZWZVltZ19IUWlwTmMwbl",
+    "sources": []
+  },
+  {
     "id": "nike-2026-04-01-019",
     "date": "2026-04-01",
     "companies": [
@@ -457,6 +586,20 @@
     "impact": "neutral",
     "title": "PVH Corp.'s Q4 Earnings Beat Estimates, DTC Revenues Rise 1% Y/Y - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHY3MWFHX2dlb0tUV3RNbkdvOTRnT1IydXpzT3g0Zm5oVlhSa2QyYUE0T3hYQlFsVXNrY3d1RHlrNFUxZVNKdXJtZ25aRU04MWdKS2d3akMxVlJRSUZrRk9ZaGNRY2Z0LWFFN1NBal",
+    "sources": []
+  },
+  {
+    "id": "nike-2026-04-01-021",
+    "date": "2026-04-01",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nike Earnings: Positive Signs Amid a Frustratingly Slow Turnaround; Shares Attractive - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTU0UWVuWVlEbGhDeElfTFN2SmxJRkFFanFCZ1Q2ZU4wbEV4WkNHRFRZRzRXRHVQSUZDUkNydnJ5LWs3QmxyaVp2ZDl0LWswSjlQQVcyNXJGMkhyT2xSMldWc3lIYnFMYVpyWFc5dl",
     "sources": []
   },
   {
@@ -683,6 +826,20 @@
     "sources": []
   },
   {
+    "id": "eclat-2026-03-18-002",
+    "date": "2026-03-18",
+    "companies": [
+      "eclat"
+    ],
+    "topics": [
+      "order_visibility"
+    ],
+    "impact": "neutral",
+    "title": "Order visibility unaffected by Mideast war, Eclat says - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBvUVozYlFaZTEtSnRBdjF5TDJtNFJLZWRGdmltNHVacld5cjhEV1ktM2psRmpCUnJ1S0o0a1ZJeWV4aUk5cFFsZlF3S0ptU0szaXVoQjk3cEZZSG1ZSHZPRHBLX081dS1TcThvNlpxZF",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-12-040",
     "date": "2026-03-12",
     "companies": [],
@@ -718,6 +875,20 @@
     "impact": "neutral",
     "title": "Adidas Profit Forecast Disappoints on Tariffs, Currency Swings - Bloomberg.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEtyTm5sQkhMOWtGRU9KZm9YVXdmVDl0N1c1a3FQMDBQMjY1empJQjRhVDEzVFl5d3F4cGJDaDlLRG42VlpXYkdYUzM5TGpuUjVTbWNBdEk1ZUNjVXpXVFRablVZUW54TS0wQVItQz",
+    "sources": []
+  },
+  {
+    "id": "adidas-2026-03-04-005",
+    "date": "2026-03-04",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "adidas AG 2025 Q4 - Results - Earnings Call Presentation (OTCMKTS:ADDYY) 2026-03-04 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUdrMUtEZmZjZmZEQnpmYkU2NFhNVk9LVXhXakRvZnB1RGY1My1IRzF1MUpmVjhXR3BYb2ZMemd4emkzaWd2b0VET0RvUkItOVpOZ3FyOGNPVy1FbWxpRDR2bUNLR1RhcnBGRWJkMm",
     "sources": []
   },
   {
@@ -772,6 +943,20 @@
     "impact": "neutral",
     "title": "Earnings call transcript: Toray Industries’ Q3 2025 earnings miss EPS forecasts - Investing.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcFRpdTI1MWtqVlg0ZmZ6YUdPQTZKWlFsMGFGSU5CcjZZZmxYRjdVaWxYX0tQUU0wVGVha3hObDk4MDRGS2tzMlNEZUllcmJTUnRJc3dUcEdaVEk2ak5TU0RrMl9pZ21sSGVJYlZCSl",
+    "sources": []
+  },
+  {
+    "id": "toray-2026-02-09-001",
+    "date": "2026-02-09",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toray Industries: Profit fell sharply on battery separator film impairment, with mixed segment performance - TradingView — Track All Markets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNVV9YS0IwMWIwZ2lsZUVjS3k4OWlaQnZkVllQUk5fcVN0VVpyYWlDN0hRTGE1SzNPYXlQWTBlcE5mODZYUXl3dS1fSFhUZWNpdDc5MjY0ZDl2b2IzM0JZQ0lGdUstZnZaY0JvXzBLd1",
     "sources": []
   },
   {
@@ -836,6 +1021,34 @@
     "impact": "neutral",
     "title": "Adidas Announces New Share Buyback Program as Profits Jump - Bloomberg.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPaE9MbU5ySGZ6RlMtc1YwUFZEQ0NiVXJOMXN1cEU5UzBwQW1DR2ZKMjNUb2dhOXl4WnFHVUV0eUtHai1GbS1rZXh2aUlhXzE3Z2VQZVFLOHpUSzZYWEZjanRhYmVvOC1YdWtGX3d2N3",
+    "sources": []
+  },
+  {
+    "id": "adidas-2026-01-29-006",
+    "date": "2026-01-29",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "adidas reports record revenues in 2025 and launches share buyback - adidas Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU2ZwMDlYdEk2aFFJTUdEWUVodkctYVlJYmMzQVEtcmdLRy1IQXFvRG5jaHUyVVNfc2dqVXd1WTAzZTAwWERaQ2hyaEZjQk9VcTMzdkUyUWJTMVpuZHlFUllsdmVSNGxJVjdQQXNGVX",
+    "sources": []
+  },
+  {
+    "id": "vf_corp-2026-01-28-010",
+    "date": "2026-01-28",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "VF Corporation Progressed on Transformation in Its Third Quarter Fiscal 2026 Delivering Revenue Growth, Margin Expansion and Debt Reduction - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWhMU2ZKLV9VNGk3c212M1lxQ2lob1lwUGtubUpIRmF3dlhkb0gyYU4tdFRuOUM3MWs0VUVEMGs3N2NxNWNERkRGckgyZkxXSFZ1eTY1bXRKRWtYOGNWLXVUZXMxdHR2ZUNFaFVwQ1",
     "sources": []
   },
   {
@@ -1000,6 +1213,34 @@
     "sources": []
   },
   {
+    "id": "vf_corp-2025-11-26-008",
+    "date": "2025-11-26",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Global revenue of the VF Corporation by region 2025 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnRTcllwckVudjBrSnY5WFJKTk5jazhMUVJPVHQzeFZmUE11eHg5clhiSlJIU1l3MjJsRkpmRFJOU3hrR3NUWVJJQjhUV0lidlRYelQ4ZU13TVVoZkhUYWVsby1mVmxCRWZxTmJZa0",
+    "sources": []
+  },
+  {
+    "id": "vf_corp-2025-11-26-011",
+    "date": "2025-11-26",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Revenue of VF Corporation from 2005 to 2025 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEtiNVV1dFl2Sjgyc1oyUWR1RjN6Ukdta3pNLVJWQVEyYWo2aUd3RUJrUFh6cEF5bFcxRHIwYlNwQXozZG1DU3FDVFlRZjJFdWhVbWRURnNrSGttWm04M3dMbWxLanYyMUhPamZtcj",
+    "sources": []
+  },
+  {
     "id": "lenzing-2025-11-06-013",
     "date": "2025-11-06",
     "companies": [
@@ -1051,6 +1292,18 @@
     "impact": "positive",
     "title": "adidas AG (ADDDF) Q3 2025 Earnings Call Highlights: Record Revenue and Strategic Growth Initiatives - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1fZ1lkOHc0bHlLc2pOR2hFdXBmSU16SWU3aXRicldsc3hfSVBMNkNTR1o3VDlnS01kUURDWGZPa2hseHpxNVJSa2R6SDd4VVA4ckJkSy1UUU1zNGsySEdXTW91aWtCNnZPV2w3Rm5JWH",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-30-009",
+    "date": "2025-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Jim Cramer Calls V.F. Corporation’s Guidance “Shockingly Dismal” - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1vZVpQOHFXc1FuUDA1UlJVRkV2UThaZ0FaWkxTSmhucFRHQ0VJWlZ6emZtX1E1TUdtRzQ5TkVrRnZlYjNEYzBhcE4wVUIxd09TcXVXZ2lBQkxBOVE1MEFja1k1V0YzVlNYSEFtZEUtQT",
     "sources": []
   },
   {
@@ -1160,6 +1413,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2023-07-11-004",
+    "date": "2023-07-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Revenue up for textile, garment firms - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBUR0VYWWRmelNtRXZlOF9LbjBOYW1DamlvSHpXRDRxWnZ3ODhFa2JXSzRuQUlCZjlyUlNsRGxJVEEwZHF1WFBlMEFFd2xRUFhiREJRemZERjZSSUhYOWxJZjhqcllDd0VOd0x3eTg1d3",
+    "sources": []
+  },
+  {
     "id": "unknown-2023-06-22-005",
     "date": "2023-06-22",
     "companies": [],
@@ -1224,6 +1489,20 @@
     "impact": "neutral",
     "title": "Nike and Lululemon Supplier Pivots Away From Vietnam After Exiting China - The Business of Fashion",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXNtRHBzQjcxNURaSVBLYVZMRGZiY1pOcGVtRnJDRHgxTjEzS2cwYlloNHhFOU9GZ0xYbmdJMHloempqNVZsZzJrTVJURXgtVzlUXzY0QkQ1MVl1eDJMcjdtY2tYVlRsYjdWMnVDVU",
+    "sources": []
+  },
+  {
+    "id": "nike-2019-07-14-003",
+    "date": "2019-07-14",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Nike Supplier Pivots Away From Vietnam After Exiting China - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUFRpbUdTVzZDdWdhaGZQcm1VNlZreWcwdHlYUURzZlExa0hndXVlRko3T2t1c05lZXNkZ1o1YnY0TVVEYVZ6MTlFMEs1VUZuZG1jeTBYX2Fnb2hHNmVvQ1lDclJxVnA1eGVFMEI0WF",
     "sources": []
   },
   {
