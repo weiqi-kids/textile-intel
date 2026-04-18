@@ -1,5 +1,54 @@
 [
   {
+    "id": "unknown-2026-04-18-004",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "sustainable_textile",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Dubai Chambers, Texmas discuss sustainable textile sector growth",
+    "summary": "Dubai Chambers recently discussed with the Textile Merchants Group (Texmas) ways to strengthen the textile sector’s readiness to adapt to global developments and enhance its capacity for sustainable g",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-18-005",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "South India notices mixed trend in cotton yarn, prices up in Tiruppur",
+    "summary": "South India’s cotton yarn market showed mixed trends, with prices in Tiruppur rising by ₹2–3/kg (~$0.02–$0.04/kg) due to higher cotton costs, while Mumbai remains steady amid weak demand. \nMills face ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-18-006",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Top Vietnamese, Chinese leaders hold talks on advancing cooperation",
+    "summary": "China and Vietnam are accelerating efforts to navigate bilateral trade towards a more balanced and sustainable course. \nPresident Xi Jinping recently held talks with visiting Vietnamese President To L",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-18-007",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Italy’s OVS’ FY25 sales rise 7% to $2.06 bn; beats market",
+    "summary": "OVS has posted record FY25 sales of €1,745.9 million (~$2.06 billion), up 7 per cent YoY, driven by like-for-like growth and Goldenpoint consolidation. \nAdjusted gross margin rose 8.8 per cent, while ",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-17-008",
     "date": "2026-04-17",
     "companies": [],
@@ -45,6 +94,20 @@
     "impact": "neutral",
     "title": "India’s T&A exports fall 14% in March, FY26 down 2.21%",
     "summary": "India’s textile and apparel exports fell sharply in March 2026, declining 14.02 per cent year on year (YoY) to $2.91 billion amid geopolitical disruptions. \nApparels dropped 18.99 per cent and textile",
+    "sources": []
+  },
+  {
+    "id": "adidas-2026-04-17-003",
+    "date": "2026-04-17",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Adidas AG ADR (ADDYY) Live Share Price, Invest From India - INDmoney",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNZUY1cHN6WlB3UERZZnpMOHpnRTRpOS1kMEs4eW8xMlVPblV0Z1BsSnEtSFRzQVRNVnhucUp4MUdxckhkYWpKM3ZZUy1jSXhRMWtrdHRaUTlZcUhfLVE4TlM4Um9BMDNLQ0hQZXVCdk",
     "sources": []
   },
   {
@@ -1608,6 +1671,20 @@
     "sources": []
   },
   {
+    "id": "eclat-2022-09-07-001",
+    "date": "2022-09-07",
+    "companies": [
+      "eclat"
+    ],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Eclat Textile to increase its monthly apparel output in Vietnam in 2020 - Apparel Resources",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQckxXM3YxZHdwZkoxSmpSdmlZOUU0anBOLU90WTgwaFo4Y0QxRjVXWWFldUR4WlFobG1hMlpLRTF2Z0ljZ2tEWUtBVFI5MUpQMUtFc0ZKSlNNSmw3M1drTWFDOTR4dGhxMmtfc3Rzbl",
+    "sources": []
+  },
+  {
     "id": "unknown-2022-05-11-028",
     "date": "2022-05-11",
     "companies": [],
@@ -1645,6 +1722,20 @@
     "impact": "positive",
     "title": "Eclat posts record revenue - Taipei Times",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE93dlJYdWFxbXk5OXE4MkVUS1UwaTBsQVRWY0gzQU1XalQwZ1pWaU1MQlU3VFRicjdkRkNtZndxVDVUeG9zY0FwQmcwQ1ZWVlB1ZHRLbk1Gb2JhdGUwSmFQOEhKRWdfYm1qUzlaclhqc2",
+    "sources": []
+  },
+  {
+    "id": "makalot-2019-07-23-002",
+    "date": "2019-07-23",
+    "companies": [
+      "makalot"
+    ],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Makalot expects to maintain Vietnam output despite blaze at two factories - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBmNDI1cE1TRU4xSXRFZUFpdzRaUTY2VnFIcXE4OFNjYkhKWl91S0FLcXVJanQ0eDBFaG5UbU4xNnlwVDN6cWZKUGxqM0l0TEdvbV9IekFmSnlaQXdEcXBBeVRfd3JDbjdrc19CeVdrOD",
     "sources": []
   },
   {

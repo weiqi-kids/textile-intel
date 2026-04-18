@@ -1,92 +1,92 @@
 {
   "toray": {
-    "earliest": "2024-04-26",
+    "earliest": "2024-01-29",
     "latest": "2026-04-17",
-    "count": 482
+    "count": 543
   },
   "lenzing": {
-    "earliest": "2024-04-29",
+    "earliest": "2024-01-30",
     "latest": "2026-04-17",
-    "count": 499
+    "count": 561
   },
   "far_eastern": {
-    "earliest": "2024-04-29",
+    "earliest": "2024-01-30",
     "latest": "2026-04-17",
-    "count": 476
+    "count": 530
   },
   "formosa_taffeta": {
-    "earliest": "2024-04-29",
+    "earliest": "2024-01-30",
     "latest": "2026-04-17",
-    "count": 476
+    "count": 530
   },
   "lealea": {
-    "earliest": "2024-04-29",
+    "earliest": "2024-01-30",
     "latest": "2026-04-17",
-    "count": 476
+    "count": 530
   },
   "shenzhou": {
-    "earliest": "2024-04-29",
+    "earliest": "2024-01-30",
     "latest": "2026-04-17",
-    "count": 483
+    "count": 542
   },
   "eclat": {
-    "earliest": "2024-04-29",
+    "earliest": "2024-01-30",
     "latest": "2026-04-17",
-    "count": 476
+    "count": 530
   },
   "makalot": {
-    "earliest": "2024-04-29",
+    "earliest": "2024-01-30",
     "latest": "2026-04-17",
-    "count": 476
+    "count": 530
   },
   "nike": {
-    "earliest": "2024-04-26",
-    "latest": "2026-04-16",
-    "count": 494
+    "earliest": "2024-01-29",
+    "latest": "2026-04-17",
+    "count": 557
   },
   "adidas": {
-    "earliest": "2024-04-29",
+    "earliest": "2024-01-30",
     "latest": "2026-04-17",
-    "count": 499
+    "count": 561
   },
   "inditex": {
-    "earliest": "2024-04-29",
+    "earliest": "2024-01-30",
     "latest": "2026-04-17",
-    "count": 503
+    "count": 565
   },
   "hm": {
-    "earliest": "2024-04-29",
+    "earliest": "2024-01-30",
     "latest": "2026-04-17",
-    "count": 491
+    "count": 553
   },
   "lululemon": {
-    "earliest": "2024-04-26",
-    "latest": "2026-04-16",
-    "count": 494
+    "earliest": "2024-01-29",
+    "latest": "2026-04-17",
+    "count": 557
   },
   "vf_corp": {
-    "earliest": "2024-04-26",
-    "latest": "2026-04-16",
-    "count": 494
+    "earliest": "2024-01-29",
+    "latest": "2026-04-17",
+    "count": 557
   },
   "fast_retailing": {
-    "earliest": "2024-04-26",
+    "earliest": "2024-01-29",
     "latest": "2026-04-17",
-    "count": 482
+    "count": 543
   },
   "pvh": {
-    "earliest": "2024-04-26",
-    "latest": "2026-04-16",
-    "count": 494
+    "earliest": "2024-01-29",
+    "latest": "2026-04-17",
+    "count": 557
   },
   "tapestry": {
-    "earliest": "2024-04-26",
-    "latest": "2026-04-16",
-    "count": 494
+    "earliest": "2024-01-29",
+    "latest": "2026-04-17",
+    "count": 557
   },
   "etf_xrt": {
-    "earliest": "2024-04-26",
-    "latest": "2026-04-16",
-    "count": 494
+    "earliest": "2024-01-29",
+    "latest": "2026-04-17",
+    "count": 557
   }
 }
