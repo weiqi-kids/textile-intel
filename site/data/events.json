@@ -1,5 +1,29 @@
 [
   {
+    "id": "unknown-2026-04-19-003",
+    "date": "2026-04-19",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Indian reforms strengthen DGFT norms committees’ functioning: Ministry",
+    "summary": "The Indian Ministry of Commerce & Industry has undertaken a series of targeted reforms to strengthen the functioning of norms committees under the Directorate General of Foreign Trade, it recently sai",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-19-004",
+    "date": "2026-04-19",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Tiruppur gains from FTA: Zero UK, EU duty to boost exports",
+    "summary": "FTAs with the UK and EU are set to improve India’s cost competitiveness by removing duty barriers. \nTiruppur is emerging as a key beneficiary, with buyers shifting orders from Bangladesh and China. \nO",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-18-004",
     "date": "2026-04-18",
     "companies": [],
@@ -46,6 +70,18 @@
     "impact": "positive",
     "title": "Italy’s OVS’ FY25 sales rise 7% to $2.06 bn; beats market",
     "summary": "OVS has posted record FY25 sales of €1,745.9 million (~$2.06 billion), up 7 per cent YoY, driven by like-for-like growth and Goldenpoint consolidation. \nAdjusted gross margin rose 8.8 per cent, while ",
+    "sources": []
+  },
+  {
+    "id": "nike-2026-04-18-005",
+    "date": "2026-04-18",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "S&P Global resets Nike’s stock forecast - thestreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQZl94Q3N3c0stcFhhb2NrOWpkRTFvcmdBWFh1ZEFydzFweTJKaXBwV1dyMFRienV4dWc4Z01nRDZKamdGRmxqWWZ2RlhhaV93UGdTeXhpZGhHU2Z6OTktV21OZFlyY1JqUmpITkF6TX",
     "sources": []
   },
   {
@@ -869,6 +905,20 @@
     "sources": []
   },
   {
+    "id": "shenzhou-2026-03-30-002",
+    "date": "2026-03-30",
+    "companies": [
+      "shenzhou"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "HSBC Research Lowers TP for SHENZHOU INTERNATIONAL (02313.HK) to HKD78, Expects Delayed Profit Margin Recovery - AASTOCKS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPYkFnNmZGX1F5YW1rSjFYRkRMZ1QyeW4tU3IwUG5vbUF1Y3NHNWhwQzhmQ0VrWC1xS1E5dGhaOUNxN1FuT2lpM3ZBdVNDS21YVXljWGVsTHpUOFFKc0VEQkNkYjBpRnVtRllTMm1sZj",
+    "sources": []
+  },
+  {
     "id": "nike-2026-03-29-020",
     "date": "2026-03-29",
     "companies": [
@@ -1564,6 +1614,20 @@
     "impact": "positive",
     "title": "adidas reports strong third quarter results and increases its full-year outlook - adidas Group",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMnZiZnJjRFJMUHhId0hSb1VwQ083YzJPSFhRMWMtUVd0Z2hvOHh0M1BJUmxlNlpjSElRbWdNSXloLVRZRUJ4ZTZkd2dDaTVqbTdleE9QdVVycTVaU3MxSl9ma1dJUVU1MGlsX3p4aE",
+    "sources": []
+  },
+  {
+    "id": "lenzing-2025-10-15-001",
+    "date": "2025-10-15",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "Lenzing Reaffirms Platinum Status in the EcoVadis ESG Rating - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWQ3THdOYjcyQ01TYmdrOWVSaWhneENUdWpqT3FFTDliSnFaZVhnbFMybnkySVBjcXBUdXBuY0haNHkxSE94bS12SjFiVUo3QmFuNzJrdU1fLVl6UmhJdWFrRWcyQk92NmdMaEdmRT",
     "sources": []
   },
   {

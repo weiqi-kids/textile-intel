@@ -1,0 +1,93 @@
+{
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T08:42:23.798340Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Indian reforms strengthen DGFT norms committees’ functioning: Ministry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tiruppur gains from FTA: Zero UK, EU duty to boost exports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為供應鏈轉移相關動態：「Indian reforms strengthen DGFT norms committees’ function...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Indian reforms strengthen DGFT norms committees’ functioning: Ministry（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "Tiruppur gains from FTA: Zero UK, EU duty to boost exports（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
