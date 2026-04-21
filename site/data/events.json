@@ -1,5 +1,55 @@
 [
   {
+    "id": "vf_corp-2026-04-21-003",
+    "date": "2026-04-21",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "VF Corporation enters partnership with Nedap to unlock end-to-end inventory visibility across its global store estate - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPWlpZbHB3MHlmV0hrLUtnSzByaVdzMElETEtGRXNqTnBCQVgxd2haUmJTX1JscHNra3hDZ29GZzhad1lSRlRWSk9BQ1NrWHRUeFVmVXdhdTcxbWJwVDY3VmVEZjkwYi13NktXU1JzNU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-005",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "negative",
+    "title": "ICE cotton rises on bullish tone, backed by strong crude oil",
+    "summary": "ICE cotton extended gains, with July 2026 closing above 80 cents per pound for the first time since March 2024, supported by strong speculative buying and rising crude oil prices.\nDespite lower tradin",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-006",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Argentina key gateway for Vietnamese goods to enter S America: Envoy",
+    "summary": "Vietnam will continue to serve as a bridge for Argentina to access the vast ASEAN and Asia-Pacific markets, according to Ngo Minh Nguyet, the former’s ambassador to the latter. \nArgentina remains a st",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-009",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings To Watch: Churchill Downs (CHDN) Reports Q1 Results Tomorrow - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3FCSk9FNm1zX25RbFVkeDVxQVJ6bmRkUUZ0RHBpMDVtRlhGME03NVhjRXRMUTZReXJPRkFVQUtla2ZKSzlEUm5BdFZqdWNsYlNCc1llUlRIR0JkZ3JvYTZYVVdsZFZqUzVyYnItQU",
+    "sources": []
+  },
+  {
     "id": "lululemon-2026-04-20-007",
     "date": "2026-04-20",
     "companies": [
@@ -107,6 +157,44 @@
     "impact": "neutral",
     "title": "Forestar Group (FOR) Reports Q1: Everything You Need To Know Ahead Of Earnings - TradingView",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb1VvVkp1Rll6Q1Nsb0J4Y2ZNeWhmWlZlUDNTbkhKUU1tcGhLTFg4eFJTSnRaNGxPME9QR0R3eHhHa205azRZZDdpV0NQVUdPcndmTFVWR2NYTUZXZEo0SUk0MkxOXzlRNkVoSTMzMU",
+    "sources": []
+  },
+  {
+    "id": "pvh-2026-04-20-004",
+    "date": "2026-04-20",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "This Insider Has Just Sold Shares In PVH - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVE0yYXcydGVsdTc3Q3pzY2hfUnV5bS00VzNTdHVrNFY1M3k0ZjhiQ3RaZlVwNlFoU2w2b0pKeUxiNTI0U0phMWhWMzFJeS1DNjU0SWVNdjM1bmlnRmh4ekNvX2FHWFc5VFBraTB0R2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-007",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "BGMEA urges government action as energy crisis hits garment output",
+    "summary": "The Bangladesh Garment Manufacturers and Exporters Association has requested government intervention to address an ongoing gas and electricity crisis.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-008",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "UNI welcomes Bangladesh labour law reform boosting union rights",
+    "summary": "UNI Global Union has welcomed the Bangladesh Labour Bill which strengthens workers’ rights in line with international standards.",
     "sources": []
   },
   {
@@ -1246,6 +1334,20 @@
     "sources": []
   },
   {
+    "id": "toray-2026-03-05-001",
+    "date": "2026-03-05",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "Toray develops spherical Toraypearl PA12 powder for PBF 3D printing - 3D Printing Industry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTWZhYUszSzE0dXVfLXY5ZnpPTXduc251cGRtLTdnTWdieFAydTcxZVFoc09jcS1hYmdfYVVzd245ck9VYUJnelJjcDZHZXBhOXlTNWNMU3lrN2kzRjhjeXJrRm1nN2pfbWlkb19LTF",
+    "sources": []
+  },
+  {
     "id": "adidas-2026-03-04-037",
     "date": "2026-03-04",
     "companies": [
@@ -1848,6 +1950,18 @@
     "impact": "positive",
     "title": "Lenzing AG (WBO:LNZ) (H1 2025) Earnings Call Highlights: Strong EBITDA Growth Amid Geopolitical ... - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBsN0V4emZUZUZ4bmpBb1RMaV82U3Y2Q1dSd3o5U0dWakNYWE52X2RRZ3ZyRFdJVzczT0prTDVOb0tkU0pzSjRQdldwUGRQOTQzOTA4a0FKODktWXhUNHhic2xGYkNqVnd6ODhoQ1JwTV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-07-16-002",
+    "date": "2025-07-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan textile firms relieved by tariff cuts for Vietnam, Indonesia - Focus Taiwan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DNjV5YTFUMWhTdVF0dUxwNUIycjRxUzM1Q0NFMWNhY09tVFJqS0l0Qml4TzhXczZ4VHZEMDFLeWhnd1AyQjFQejBKa2hLS2lQak42Q05Cbw?oc=5\" target=\"_blank\">Taiwan te",
     "sources": []
   },
   {
