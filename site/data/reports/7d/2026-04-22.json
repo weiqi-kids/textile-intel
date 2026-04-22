@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-22",
+  "date_range": {
+    "start": "2026-04-16",
+    "end": "2026-04-22"
+  },
+  "generated_at": "2026-04-22T09:11:34.925307Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-04-17-008",
+      "date": "2026-04-17",
+      "title": "US fashion retailers outline four tariff impacts on sourcing, supply strategies",
+      "importance_score": 0.9
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "earnings",
+      "subject_type": "topic",
+      "this_week_sentiment": 0.27,
+      "last_week_sentiment": -0.25,
+      "delta": 0.52,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "cotton_price": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": -0.54
+    },
+    "supply_chain_shift": {
+      "this_week": 19,
+      "last_week": 5,
+      "week_over_week_change": "+280%",
+      "sentiment_this_week": 0.07
+    },
+    "sustainable_textile": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.08
+    },
+    "fast_fashion": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "earnings": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.27
+    }
+  },
+  "company_7d_summary": {
+    "lululemon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "vf_corp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 33,
+        "last": 10,
+        "change_pct": 230.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-16",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-17",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-18",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-19",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-16 ~ 2026-04-22）共 33 則事件，重點為「US fashion retailers outline four tariff impact...」。事件量較上週增加 230%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "Lululemon",
+        "reason": "棉花價格趨勢值得關注，可能影響供應鏈佈局。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

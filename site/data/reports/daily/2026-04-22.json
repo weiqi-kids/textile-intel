@@ -1,0 +1,161 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T09:11:34.872675Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-22-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Taiwan Textile Select highlights resilient futures at Techtextil 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "sustainable_textile"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-22-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ICE cotton continues rally, touches highest level in 2 years",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-22-010",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cambodia & Canada discuss strengthening economic ties",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-22-011",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh, Ethiopia discuss boosting trade, investment cooperation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為供應鏈轉移、永續紡織、棉花價格相關動態：「Taiwan Textile Select highlights resilient futures at Tec...」。主要關注主題為供應鏈轉移、永續紡織、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Taiwan Textile Select highlights resilient futures at Techtextil 2026（永續紡織）",
+        "level": "green"
+      },
+      {
+        "text": "ICE cotton continues rally, touches highest level in 2 years（棉花價格）",
+        "level": "green"
+      },
+      {
+        "text": "棉花價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
