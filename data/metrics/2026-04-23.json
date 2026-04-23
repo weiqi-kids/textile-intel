@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-23",
+  "total_events": 4,
+  "by_company": {
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.62
+    },
+    "supply_chain_shift": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    },
+    "order_visibility": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
