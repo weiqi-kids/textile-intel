@@ -1,5 +1,81 @@
 [
   {
+    "id": "unknown-2026-04-24-010",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "order_visibility",
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ICE cotton closes higher as crude oil rises amid Middle East tensions",
+    "summary": "Cotton rose as higher crude lifted polyester costs, enhancing cotton’s appeal as a substitute.\nJuly settled at 79.45 cents.\nGains were capped by weak US export sales, lower China buying, profit bookin",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-011",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "China’s CNTAC keen on investing in Cambodia’s printing, dyeing sector",
+    "summary": "The China National Textile and Apparel Council is keen on investing in Cambodia’s printing and dyeing industries, while committing to mitigating environmental pollution through advanced technology.  \n",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-012",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India expected to breach FY27 budgeted fiscal deficit target: BMI",
+    "summary": "India's fiscal deficit is likely to breach the FY27 budgeted target and hit 4.5 per cent of GDP as the government's policy response to the Middle East conflict could strain public finances, according ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-013",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "FY27 Bangladesh inflation to be above central bank target at 8.6%: BMI",
+    "summary": "Inflation in Bangladesh is likely to reach 8.6 per cent in FY27 due to higher energy prices triggered by the Iran war, according to data analytics firm BMI. \nInflation may remain above the Bangladesh ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-014",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "North India cotton yarn steady despite continued push by spinners",
+    "summary": "North India cotton yarn prices remained steady as mills continued to push rates higher, supported by strong export orders and healthy margins.\nDomestic demand stayed weak, with buyers limiting purchas",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-019",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "[Video] Inside a Seamless Luxury Stay at The Apurva Kempinski Bali With Samsung Hospitality TVs",
+    "summary": "Using Samsung Hospitality TVs and LYNK Cloud, The Apurva Kempinski Bali complements its five-star service with a seamless, personalized experience. Perched atop the cliffs of Nusa Dua, Bali, Indonesia",
+    "sources": []
+  },
+  {
     "id": "lululemon-2026-04-23-002",
     "date": "2026-04-23",
     "companies": [
@@ -49,6 +125,70 @@
     "impact": "neutral",
     "title": "Vietnam’s Hai Phong waives port infra fees for petro shipments in 2026",
     "summary": "Vietnam’s port city of Hai Phong will waive port infrastructure fees for petrol, oil and gas shipments until December 31 under a new resolution adopted by the municipal People’s Council. \nIt applies t",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-007",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "V.F. Corporation (VFC) Stock: Technical Reversal Signals | Q1 2026: Earnings Beat Estimates - Post Announcement - Xã Vĩnh Công",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOYTBhVWFZOTh2bXVrQ01IWVV3VlRnbFZaUlZkOWpTMUhhSGkyMmxGWFhsakdwREF0NklFZE1SQXJqczdpcGFBcVZZbzNDVXRweE11NnZDLUNMX1pqTUdiSEtrM0w0d0Z5VTBVVXJXOV",
+    "sources": []
+  },
+  {
+    "id": "tapestry-2026-04-23-008",
+    "date": "2026-04-23",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tapestry, Inc. to Host FY26 Third Quarter Earnings Call - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFVVX051dFVOZnVkczkwdVRlWG1kVlIzSWw5cUFOTDRZQVBUU0docTAyOE5ONDNTRjJhOFNkZUxEZWJ4clViR0pHNHpGcDhiYUcxX0pZejdLektiYTlCWXdrMXh6YjkzLUF0Zk45WE",
+    "sources": []
+  },
+  {
+    "id": "tapestry-2026-04-23-009",
+    "date": "2026-04-23",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Preview: What To Expect From Tapestry's Report - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmZzTWF4dy1hRUhDM0ZrWndJZ1lBNTBzM0JGYW51N0tqaVVvR0JsRldpcnRCR0xfeGp3TXprYkdYX0hoc3d2R2NfV0o5cVpwQUNfWDF6alNTSkJ0ZWZadnJ1UUN6dVBhTHFmU28xT0",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-015",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Asos makes “steady progress” on topline in H1 as losses narrow",
+    "summary": "Asos has maintained its guidance for FY26 after demonstrating “steady progress” on topline in H1, despite Middle East disruptions.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-016",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh, EU strike deal on trade, investment, sustainable development",
+    "summary": "The EU and Bangladesh have signed a new Partnership and Cooperation Agreement (PCA) to boost trade, investment and “sustainable development”.",
     "sources": []
   },
   {
@@ -1213,6 +1353,18 @@
     "sources": []
   },
   {
+    "id": "nike-2026-04-01-018",
+    "date": "2026-04-01",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Nike forecasts surprise sales drop as China weakness hurts turnaround efforts - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXNtOU5PN0UzeW9YVVV0Rnk4M3A2c21uSmluNkVLaWVHUVJUd0QzOW5nYzFWcTlHa19QSld0eFhIZXYySU9TS1JrOVZyeVBVMHpCeGhGTDNSOWRpMkFfRDNrTVk4bFBJRFlyTnQ5TE",
+    "sources": []
+  },
+  {
     "id": "nike-2026-03-31-015",
     "date": "2026-03-31",
     "companies": [
@@ -1504,6 +1656,20 @@
     "sources": []
   },
   {
+    "id": "inditex-2026-03-14-005",
+    "date": "2026-03-14",
+    "companies": [
+      "inditex"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "A Quick Glance At Inditex, The Spanish Fast Fashion Empire - FourWeekMBA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jeVlJY1ZYbllZaE4zSkZMdFduVjRxcmZMeGxLd3lUNW0tYTBBY3hsakhDbmFzZ1BmZzMxNU5uazRWc0hsSDNGdHNheGh4aUtlSWNOZDRkaEVnNGcxM2kyMWt3?oc=5\" target=\"_bl",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-12-040",
     "date": "2026-03-12",
     "companies": [],
@@ -1595,6 +1761,20 @@
     "impact": "neutral",
     "title": "Adidas Profit Forecast Disappoints on Tariffs, Currency Swings - Bloomberg",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEtyTm5sQkhMOWtGRU9KZm9YVXdmVDl0N1c1a3FQMDBQMjY1empJQjRhVDEzVFl5d3F4cGJDaDlLRG42VlpXYkdYUzM5TGpuUjVTbWNBdEk1ZUNjVXpXVFRablVZUW54TS0wQVItQz",
+    "sources": []
+  },
+  {
+    "id": "adidas-2026-03-04-004",
+    "date": "2026-03-04",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "EXEC: Adidas Shares Sink After Strong 2025, Hurt by Weakness in 2026 Op Profit Guidance - SGB Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOc1NaNDkwNVRmZEdiUFJjWmFZTWd5QWRESW9qOXhaUTdZeHpuY3lZZi1UUEp3YkRVZnp0UF9NR09KekM4WEhDZE9IQU9FMVpFQ1Y0bml0UkhrQUMyb3BwYm9OZkY2b1V2VnozaVk2cF",
     "sources": []
   },
   {
@@ -2041,6 +2221,19 @@
     "sources": []
   },
   {
+    "id": "unknown-2025-11-26-006",
+    "date": "2025-11-26",
+    "companies": [],
+    "topics": [
+      "fast_fashion",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "European fast fashion brands ranked by worldwide revenue 2019 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdFZNNGlkRHpvdFF0bkJzSU5WYWQ5aV9OVy16SThITGIwaFFSN1duRGFmSkFDRDFRaDJjNG9LRHBURWU0MkJvbV85LXN3bzA1SGVmRlBSb2lfekhmUW05NWJYR3A3VU1CZ2FqckVkdj",
+    "sources": []
+  },
+  {
     "id": "lenzing-2025-11-06-013",
     "date": "2025-11-06",
     "companies": [
@@ -2161,6 +2354,35 @@
     "sources": []
   },
   {
+    "id": "shenzhou-2025-09-01-001",
+    "date": "2025-09-01",
+    "companies": [
+      "shenzhou"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "Shenzhou International Group Holdings (SZHIF) Receives a Buy from J.P. Morgan - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLUNtTFBta3hCNVVIdGprZW5ZamY5TFVkVng2dmw3ZE1QVHlWaEdBdURPVFpncnNmWDNTR0xyVFZxbFNqNWRxSmN2Mmt6SFVSLWtnT1hPMDRNQ1U0TjkwejJxQTBKX0UwY1dTcWpqZk",
+    "sources": []
+  },
+  {
+    "id": "fast_retailing-2025-08-27-003",
+    "date": "2025-08-27",
+    "companies": [
+      "fast_retailing",
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chinese producer for Nike, Uniqlo warns on tariffs despite higher profit - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGw3RVJ2am9QZGJKNGRCNHFUNUEwbkoyRVozMU1mYmxwWXpnNWlVTHE5bEZFYWdPQnEyMlFmRnhfVk9YRHZtQ3ZMY0pMUTAtX0ozUE41YWFEZTJvcWhhekJKNUlDVFJYSS1qNDJYcm",
+    "sources": []
+  },
+  {
     "id": "lenzing-2025-08-08-012",
     "date": "2025-08-08",
     "companies": [
@@ -2184,6 +2406,18 @@
     "impact": "neutral",
     "title": "Taiwan textile firms relieved by tariff cuts for Vietnam, Indonesia - Focus Taiwan",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DNjV5YTFUMWhTdVF0dUxwNUIycjRxUzM1Q0NFMWNhY09tVFJqS0l0Qml4TzhXczZ4VHZEMDFLeWhnd1AyQjFQejBKa2hLS2lQak42Q05Cbw?oc=5\" target=\"_blank\">Taiwan te",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-07-02-017",
+    "date": "2025-07-02",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Sportswear Stocks Rise as Trump Touts Vietnam Trade Deal - Front Office Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOVzJfWEtLMXZfWVhscFZxclVIVHc4OVNhR0x6RXJaTU1oMjcwejdKLUpYYUlOMVQyQi1LSDFJalVoM2EzaHkyMkd6THVpeFQ4SFFvV0dqcWktX1dRR0NtOEx5UEtmVFdLRjNGVXA4Nk",
     "sources": []
   },
   {
@@ -2213,6 +2447,18 @@
     "impact": "neutral",
     "title": "Makalot outlook conservative on tariffs - Taipei Times",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB5enZMMGJUN3pkRnVXeTBVSlJ3UlQ3UVZNSXdlWjJIZmJ1RnpZZVZsS3JpeEo2SVB3MjNqMzhrSDdHVDNfTVdCTUd6Z2lheHA1OF9BOE5PY0k5a1NWOS1kenFjZGFLdkFpQzcxUFpvV1",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-05-22-002",
+    "date": "2025-05-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Avery Dennison opens Vietnam JV facility - Knitting Industry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5JaEtqcHNvV0Jhd25kYzl3ejl4TzdIbWtlOEppeDd0RVZ2N1VZN3J0TDV6a1pnMkRjVk01bF9LV2ZsMEl1LTF0aXdsQWNzaTNHbVJldTRmRTUydUd1Y0lBemVJWllxeEpYR2tUSThaRT",
     "sources": []
   },
   {

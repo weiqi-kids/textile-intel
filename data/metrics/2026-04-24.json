@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-24",
+  "total_events": 6,
+  "by_company": {},
+  "by_topic": {
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": -0.16
+    },
+    "order_visibility": {
+      "count": 1,
+      "sentiment_avg": 0.17
+    },
+    "supply_chain_shift": {
+      "count": 6,
+      "sentiment_avg": 0.03
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
