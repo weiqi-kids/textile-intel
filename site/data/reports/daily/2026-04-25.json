@@ -1,0 +1,133 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T08:41:24.417288Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australia supports Vietnam’s $57 mn wool processing expansion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cambodia, Vietnam urged to upgrade border checkpoints into global ones",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-25-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India’s economy resilient despite West Asia tensions: RBI Bulletin",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-25-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South India cotton yarn steadies; WB elections trigger labour shortage",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 2
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為供應鏈轉移相關動態：「Australia supports Vietnam’s $57 mn wool processing expan...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Australia supports Vietnam’s $57 mn wool processing expansion（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "Cambodia, Vietnam urged to upgrade border checkpoints into global ones（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
