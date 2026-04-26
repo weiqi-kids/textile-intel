@@ -1,11 +1,20 @@
 {
   "date": "2026-04-26",
-  "total_events": 3,
-  "by_company": {},
+  "total_events": 6,
+  "by_company": {
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adidas": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "by_topic": {
     "supply_chain_shift": {
-      "count": 3,
-      "sentiment_avg": 0.17
+      "count": 4,
+      "sentiment_avg": -0.12
     }
   },
   "baselines_used": {

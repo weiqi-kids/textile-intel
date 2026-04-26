@@ -1,11 +1,11 @@
 {
-  "total_raw": 394,
-  "dup_title": 109,
+  "total_raw": 405,
+  "dup_title": 104,
   "no_date": 0,
-  "too_old": 207,
-  "gate1_fail": 33,
-  "gate2_fail": 40,
-  "passed": 5,
+  "too_old": 230,
+  "gate1_fail": 32,
+  "gate2_fail": 33,
+  "passed": 6,
   "gate2_samples": [
     "Toray Industries (OTCMKTS:TRYIY) Shares Gap Down - Time to Sell? - MarketBeat",
     "Lenzing : Resolutions on the authorization to acquire and to sell own shares 2026 (hv 2026 resolutio",
