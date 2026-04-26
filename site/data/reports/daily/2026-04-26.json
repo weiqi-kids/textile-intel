@@ -1,0 +1,113 @@
+{
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T03:21:27.254500Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Finalise Bangladesh’s textile-RMG circular economy strategy: Experts",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/finalise-bangladesh-s-textile-rmg-circular-economy-strategy-experts-309927-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Conference reaffirms Bac Ninh province’s role as FDI leader in Vietnam",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/conference-reaffirms-bac-ninh-province-s-role-as-fdi-leader-in-vietnam-309924-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BKMEA concerned over load shedding, rising energy costs in Bangladesh",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bkmea-concerned-over-load-shedding-rising-energy-costs-in-bangladesh-309925-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為供應鏈轉移相關動態：「Finalise Bangladesh’s textile-RMG circular economy strate...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Finalise Bangladesh’s textile-RMG circular economy strategy: Experts（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "Conference reaffirms Bac Ninh province’s role as FDI leader in Vietnam（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
