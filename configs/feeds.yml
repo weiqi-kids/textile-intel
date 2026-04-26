@@ -1,39 +1,33 @@
-# Textile industry news feeds
-
 feeds:
-# --- Industry Media ---
 - id: google_news_textile
   name: Google News - Textile & Apparel
   url: https://news.google.com/rss/search?q=textile+apparel+fashion+supply+chain&hl=en
   description: Google News aggregation for textile and apparel industry
-
 - id: fibre2fashion_textile
   name: Fibre2Fashion Textile News
   url: https://feeds.feedburner.com/fibre2fashion/textile-news
   description: Top textiles news headlines from Fibre2Fashion
-
 - id: fibre2fashion_apparel
   name: Fibre2Fashion Apparel News
   url: https://feeds.feedburner.com/fibre2fashion/apparelnews
   description: Top apparel news headlines from Fibre2Fashion
-
 - id: just_style
   name: Just Style
   url: https://www.just-style.com/feed
   description: Apparel and textile industry news, analysis and interviews
-
 - id: google_news_sportswear
   name: Google News - Sportswear Brands
   url: https://news.google.com/rss/search?q=Nike+Adidas+Lululemon+sportswear+apparel&hl=en
   description: Google News aggregation for major sportswear brands
-
-# --- Company Feeds ---
 - id: nike_news
   name: Nike News
   url: https://news.google.com/rss/search?q=%22Nike+Inc%22+OR+%22NIKE%22+earnings+OR+revenue+OR+announcement&hl=en
   description: Google News for Nike corporate announcements
-
 - id: samsung_newsroom
   name: Samsung Global Newsroom
   url: https://news.samsung.com/global/feed
   description: Samsung Electronics official newsroom (brand customer reference)
+- id: textile_world
+  name: Textile World
+  url: https://www.textileworld.com/feed/
+  description: Textile World RSS feed

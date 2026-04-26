@@ -1,5 +1,3 @@
-# 紡織供應鏈情報追蹤 - 公司清單
-
 companies:
 - id: toray
   name: Toray Industries
@@ -18,6 +16,7 @@ companies:
   - makalot
   - nike
   - adidas
+  fetch_mode: http
 - id: lenzing
   name: Lenzing AG
   aliases:
@@ -35,6 +34,7 @@ companies:
   - makalot
   - inditex
   - hm
+  fetch_mode: http
 - id: far_eastern
   name: 遠東新世紀
   aliases:
@@ -53,6 +53,7 @@ companies:
   - makalot
   - nike
   - adidas
+  fetch_mode: http
 - id: formosa_taffeta
   name: 南紡
   aliases:
@@ -69,6 +70,7 @@ companies:
   - eclat
   - makalot
   - nike
+  fetch_mode: http
 - id: lealea
   name: 力麗集團
   aliases:
@@ -84,6 +86,7 @@ companies:
   downstream:
   - eclat
   - makalot
+  fetch_mode: http
 - id: shenzhou
   name: 申洲國際
   aliases:
@@ -101,6 +104,7 @@ companies:
   - adidas
   - lululemon
   - fast_retailing
+  fetch_mode: http
 - id: eclat
   name: 儒鴻企業
   aliases:
@@ -123,6 +127,7 @@ companies:
   - adidas
   - lululemon
   - vf_corp
+  fetch_mode: http
 - id: makalot
   name: 聚陽實業
   aliases:
@@ -147,6 +152,7 @@ companies:
   - inditex
   - hm
   - vf_corp
+  fetch_mode: http
 - id: nike
   name: Nike
   aliases:
@@ -165,6 +171,7 @@ companies:
   - shenzhou
   - toray
   - far_eastern
+  fetch_mode: http
 - id: adidas
   name: Adidas AG
   aliases:
@@ -182,6 +189,7 @@ companies:
   - makalot
   - shenzhou
   - toray
+  fetch_mode: http
 - id: inditex
   name: Inditex
   aliases:
@@ -197,6 +205,7 @@ companies:
   upstream:
   - makalot
   - lenzing
+  fetch_mode: http
 - id: hm
   name: H&M
   aliases:
@@ -212,6 +221,7 @@ companies:
   upstream:
   - makalot
   - lenzing
+  fetch_mode: http
 - id: lululemon
   name: Lululemon Athletica
   aliases:
@@ -227,6 +237,7 @@ companies:
   upstream:
   - eclat
   - shenzhou
+  fetch_mode: http
 - id: vf_corp
   name: VF Corporation
   aliases:
@@ -242,6 +253,7 @@ companies:
   upstream:
   - eclat
   - makalot
+  fetch_mode: http
 - id: fast_retailing
   name: 迅銷集團
   aliases:
@@ -258,6 +270,7 @@ companies:
   upstream:
   - shenzhou
   - toray
+  fetch_mode: http
 - id: pvh
   name: PVH Corp
   aliases:
@@ -274,6 +287,7 @@ companies:
   upstream:
   - eclat
   - makalot
+  fetch_mode: http
 - id: tapestry
   name: Tapestry
   aliases:
@@ -288,6 +302,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Tapestry"&hl=en&gl=US&ceid=US:en
   upstream:
   - eclat
+  fetch_mode: http
 etfs:
 - id: xrt
   name: SPDR S&P Retail ETF
