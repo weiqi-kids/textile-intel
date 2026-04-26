@@ -4,7 +4,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T08:49:54.968646Z",
+  "generated_at": "2026-04-26T14:11:00.282333Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,7 +18,7 @@
       "type": "emerging_relation",
       "company_a": "lululemon",
       "company_b": "nike",
-      "co_mention_count": 7,
+      "co_mention_count": 9,
       "rank": 2
     }
   ],

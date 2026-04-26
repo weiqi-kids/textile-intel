@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:49:54.907282Z",
+  "generated_at": "2026-04-26T14:11:00.220301Z",
   "top_events": [
     {
       "rank": 1,
@@ -144,14 +144,14 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 405,
-    "dup_title": 104,
-    "too_old": 230,
-    "gate1_blocked": 32,
-    "gate2_blocked": 33,
-    "passed": 6,
-    "pass_rate": "2.0%",
-    "gate2_block_rate": "11.0%",
+    "total_raw": 809,
+    "dup_title": 208,
+    "too_old": 461,
+    "gate1_blocked": 58,
+    "gate2_blocked": 68,
+    "passed": 14,
+    "pass_rate": "2.3%",
+    "gate2_block_rate": "11.3%",
     "gate2_samples": [
       "Toray Industries (OTCMKTS:TRYIY) Shares Gap Down - Time to Sell? - MarketBeat",
       "Lenzing : Resolutions on the authorization to acquire and to sell own shares 2026 (hv 2026 resolutio",
