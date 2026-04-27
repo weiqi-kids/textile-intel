@@ -1,0 +1,137 @@
+{
+  "date": "2026-04-27",
+  "date_range": {
+    "start": "2026-04-21",
+    "end": "2026-04-27"
+  },
+  "generated_at": "2026-04-27T01:40:59.922193Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-04-23-004",
+      "date": "2026-04-23",
+      "title": "ICE cotton rally reverses sharply on profit booking at higher levels",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "lululemon",
+      "company_b": "nike",
+      "co_mention_count": 9,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "fast_fashion": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "cotton_price": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": -0.41
+    },
+    "supply_chain_shift": {
+      "this_week": 19,
+      "last_week": 21,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": -0.01
+    },
+    "earnings": {
+      "this_week": 4,
+      "last_week": 10,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": -0.27
+    },
+    "sustainable_textile": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "order_visibility": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.29
+    }
+  },
+  "company_7d_summary": {
+    "vf_corp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "lululemon": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 1
+    },
+    "adidas": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 28,
+        "last": 35,
+        "change_pct": -20.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-21",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 28 則事件，重點為「ICE cotton rally reverses sharply on profit boo...」。Lululemon情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Lululemon",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

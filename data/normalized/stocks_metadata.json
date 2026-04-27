@@ -1,92 +1,92 @@
 {
   "toray": {
-    "earliest": "2021-08-19",
-    "latest": "2026-04-24",
-    "count": 1146
+    "earliest": "2021-05-21",
+    "latest": "2026-04-27",
+    "count": 1208
   },
   "lenzing": {
-    "earliest": "2021-08-17",
+    "earliest": "2021-05-19",
     "latest": "2026-04-24",
-    "count": 1191
+    "count": 1254
   },
   "far_eastern": {
-    "earliest": "2021-08-18",
-    "latest": "2026-04-24",
-    "count": 1134
+    "earliest": "2021-05-20",
+    "latest": "2026-04-27",
+    "count": 1198
   },
   "formosa_taffeta": {
-    "earliest": "2021-08-18",
-    "latest": "2026-04-24",
-    "count": 1134
+    "earliest": "2021-05-20",
+    "latest": "2026-04-27",
+    "count": 1198
   },
   "lealea": {
-    "earliest": "2021-08-18",
-    "latest": "2026-04-24",
-    "count": 1134
+    "earliest": "2021-05-20",
+    "latest": "2026-04-27",
+    "count": 1198
   },
   "shenzhou": {
-    "earliest": "2021-08-17",
-    "latest": "2026-04-24",
-    "count": 1150
+    "earliest": "2021-05-20",
+    "latest": "2026-04-27",
+    "count": 1212
   },
   "eclat": {
-    "earliest": "2021-08-18",
-    "latest": "2026-04-24",
-    "count": 1134
+    "earliest": "2021-05-20",
+    "latest": "2026-04-27",
+    "count": 1198
   },
   "makalot": {
-    "earliest": "2021-08-18",
-    "latest": "2026-04-24",
-    "count": 1134
+    "earliest": "2021-05-20",
+    "latest": "2026-04-27",
+    "count": 1198
   },
   "nike": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "adidas": {
-    "earliest": "2021-08-17",
+    "earliest": "2021-05-19",
     "latest": "2026-04-24",
-    "count": 1195
+    "count": 1258
   },
   "inditex": {
-    "earliest": "2021-08-17",
+    "earliest": "2021-05-19",
     "latest": "2026-04-24",
-    "count": 1199
+    "count": 1263
   },
   "hm": {
-    "earliest": "2021-08-17",
+    "earliest": "2021-05-19",
     "latest": "2026-04-24",
-    "count": 1179
+    "count": 1242
   },
   "lululemon": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "vf_corp": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "fast_retailing": {
-    "earliest": "2021-08-19",
-    "latest": "2026-04-24",
-    "count": 1146
+    "earliest": "2021-05-21",
+    "latest": "2026-04-27",
+    "count": 1208
   },
   "pvh": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "tapestry": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   },
   "etf_xrt": {
-    "earliest": "2021-08-16",
+    "earliest": "2021-05-18",
     "latest": "2026-04-24",
-    "count": 1178
+    "count": 1240
   }
 }
