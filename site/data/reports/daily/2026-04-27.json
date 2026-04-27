@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:37:40.416308Z",
+  "generated_at": "2026-04-27T10:05:52.042714Z",
   "top_events": [
     {
       "rank": 1,
@@ -41,46 +41,106 @@
         "score": -0.5
       },
       "source_url": "https://www.fibre2fashion.com/news/textile-news/adverse-impact-of-iran-war-may-hit-india-largely-in-q1-fy27-icra-309920-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India’s polyester raw materials rise on firm feedstock trends",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-polyester-raw-materials-rise-on-firm-feedstock-trends-309931-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India-New Zealand FTA to boost textile exports: CITI",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-new-zealand-fta-to-boost-textile-exports-citi-309930-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India, New Zealand to sign FTA today",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-new-zealand-to-sign-fta-today-309929-newsdetails.htm"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "supply_chain_shift": {
-      "today": 2,
+      "today": 6,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.25,
+      "sentiment_today": -0.19,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 2,
+    "total_events": 6,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 1,
-      "negative": 1
+      "neutral": 4,
+      "negative": 2
     },
     "top_companies": [],
     "top_topics": [
       {
         "id": "supply_chain_shift",
-        "count": 2
+        "count": 6
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 812,
-    "dup_title": 205,
-    "too_old": 479,
-    "gate1_blocked": 51,
-    "gate2_blocked": 66,
-    "passed": 11,
+    "total_raw": 1219,
+    "dup_title": 307,
+    "too_old": 717,
+    "gate1_blocked": 78,
+    "gate2_blocked": 101,
+    "passed": 16,
     "pass_rate": "1.8%",
-    "gate2_block_rate": "10.9%",
+    "gate2_block_rate": "11.1%",
     "gate2_samples": [
       "Toray Industries (OTCMKTS:TRYIY) Shares Gap Down - Time to Sell? - MarketBeat",
       "Lenzing : Resolutions on the authorization to acquire and to sell own shares 2026 (hv 2026 resolutio",
@@ -91,7 +151,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 2 則事件，焦點為供應鏈轉移相關動態：「Vietnam’s economy maintains strong momentum amid uncertai...」。整體情緒偏負面，需留意潛在風險。",
+    "summary": "今日共 6 則事件，焦點為供應鏈轉移相關動態：「Vietnam’s economy maintains strong momentum amid uncertai...」。整體情緒偏負面，需留意潛在風險。",
     "signals": [
       {
         "text": "Vietnam’s economy maintains strong momentum amid uncertainties: AMRO（供應鏈轉移）",
@@ -102,7 +162,7 @@
         "level": "green"
       },
       {
-        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
         "level": "yellow"
       }
     ]
