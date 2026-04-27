@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T01:40:59.922193Z",
+  "generated_at": "2026-04-27T03:37:40.481502Z",
   "highlights": [
     {
       "rank": 1,
@@ -37,10 +37,10 @@
       "sentiment_this_week": -0.41
     },
     "supply_chain_shift": {
-      "this_week": 19,
+      "this_week": 21,
       "last_week": 21,
-      "week_over_week_change": "-10%",
-      "sentiment_this_week": -0.01
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.04
     },
     "earnings": {
       "this_week": 4,
@@ -81,51 +81,51 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 28,
-        "last": 35,
-        "change_pct": -20.0
+        "this": 103,
+        "last": 58,
+        "change_pct": 77.6
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-21",
-      "event_count": 4,
+      "event_count": 12,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-22",
-      "event_count": 4,
+      "event_count": 14,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-23",
-      "event_count": 4,
+      "event_count": 30,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-24",
-      "event_count": 6,
+      "event_count": 26,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-25",
-      "event_count": 4,
+      "event_count": 11,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-26",
-      "event_count": 6,
+      "event_count": 8,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-27",
-      "event_count": 0,
+      "event_count": 2,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 28 則事件，重點為「ICE cotton rally reverses sharply on profit boo...」。Lululemon情緒偏負面，建議留意相關風險。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 103 則事件，重點為「ICE cotton rally reverses sharply on profit boo...」。事件量較上週增加 78%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "Lululemon",

@@ -1,29 +1,86 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:40:59.854864Z",
-  "top_events": [],
+  "generated_at": "2026-04-27T03:37:40.416308Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vietnam’s economy maintains strong momentum amid uncertainties: AMRO",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-economy-maintains-strong-momentum-amid-uncertainties-amro-309917-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adverse impact of Iran war may hit India largely in Q1 FY27: ICRA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/adverse-impact-of-iran-war-may-hit-india-largely-in-q1-fy27-icra-309920-newsdetails.htm"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 2,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
-      "negative": 0
+      "neutral": 1,
+      "negative": 1
     },
     "top_companies": [],
-    "top_topics": []
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 406,
-    "dup_title": 103,
-    "too_old": 239,
-    "gate1_blocked": 25,
-    "gate2_blocked": 31,
-    "passed": 8,
-    "pass_rate": "2.6%",
-    "gate2_block_rate": "10.2%",
+    "total_raw": 812,
+    "dup_title": 205,
+    "too_old": 479,
+    "gate1_blocked": 51,
+    "gate2_blocked": 66,
+    "passed": 11,
+    "pass_rate": "1.8%",
+    "gate2_block_rate": "10.9%",
     "gate2_samples": [
       "Toray Industries (OTCMKTS:TRYIY) Shares Gap Down - Time to Sell? - MarketBeat",
       "Lenzing : Resolutions on the authorization to acquire and to sell own shares 2026 (hv 2026 resolutio",
@@ -34,15 +91,19 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-27 無紡織產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 2 則事件，焦點為供應鏈轉移相關動態：「Vietnam’s economy maintains strong momentum amid uncertai...」。整體情緒偏負面，需留意潛在風險。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "Vietnam’s economy maintains strong momentum amid uncertainties: AMRO（供應鏈轉移）",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "Adverse impact of Iran war may hit India largely in Q1 FY27: ICRA（供應鏈轉移）",
         "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
       }
     ]
   },

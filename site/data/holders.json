@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T01:40:59.379422+00:00",
+  "updated_at": "2026-04-27T03:37:39.956077+00:00",
   "companies": {
     "toray": {
       "name": "Toray Industries",
@@ -10,7 +10,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 5941,
           "pct_held": 0.0,
-          "value": 6591539
+          "value": 6647979
         }
       ]
     },
@@ -90,7 +90,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 780554,
           "pct_held": 0.05,
-          "value": 37279257
+          "value": 37544646
         }
       ]
     },
@@ -373,13 +373,13 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 181386,
           "pct_held": 0.06,
-          "value": 12961843560
+          "value": 12978168300
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 1581,
           "pct_held": 0.0,
-          "value": 112978260
+          "value": 113120550
         }
       ]
     },

@@ -1,5 +1,41 @@
 [
   {
+    "id": "unknown-2026-04-27-001",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Vietnam’s economy maintains strong momentum amid uncertainties: AMRO",
+    "summary": "Vietnam’s economy has demonstrated notable resilience despite continuing global uncertainties, as per AMRO \nAfter an exceptionally strong 2025 growth performance, its growth is expected to soften to a",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-economy-maintains-strong-momentum-amid-uncertainties-amro-309917-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-002",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Adverse impact of Iran war may hit India largely in Q1 FY27: ICRA",
+    "summary": "The YoY growth in India’s economic activity, as measured by the ICRA business activity monitor, eased to a five-month low of 7.6 per cent in March this year from 10 per cent in February 2026.\nICRA peg",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/adverse-impact-of-iran-war-may-hit-india-largely-in-q1-fy27-icra-309920-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lululemon-2026-04-26-001",
     "date": "2026-04-26",
     "companies": [
@@ -1231,6 +1267,26 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWWUtWXRiSjNOdklmcXVDOTlUWjVMaFBSUXJ5LWxXMDdUUWxQVTFab2JzOFVNanMyNWpZNVY5OS1aMko4TzlxRU80WFk3aGQ4WktSdlhSSVBKdWFDUkc2bzlMcG1hZ28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-04-23-030",
+    "date": "2026-04-23",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike earnings preview: Investors look for signs of a turnaround - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNG96bzVEVV9VWXJzNEhJakJjZVdkY0J1anNVUWhkX2FOemZXc2JUYXBPU2h4X3dqVDNEbWltandQUVVQRWliV0FqMXRUaklFN1NDSHVLX3dodVJqellpeWt5bFNTNG5TSXo4Zmg2bj",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNG96bzVEVV9VWXJzNEhJakJjZVdkY0J1anNVUWhkX2FOemZXc2JUYXBPU2h4X3dqVDNEbWltandQUVVQRWliV0FqMXRUaklFN1NDSHVLX3dodVJqellpeWt5bFNTNG5TSXo4Zmg2bjFPOXdOWGVxR1kxdHgzTjQ0UzlWa0lIZm5VSTBScmtBNnM2NGI4TUVWaGNiZEo2UHc3cnFNYTZTZXVldE1Udk0yVTQwbmFGeXpNUUhObWY2cTc3NU5UZFZPUmlMY2xUSXduZWczTm9xdHd0RlJpajRLTnZiSmVZVjNhd1RXUVM5bHlLeF9YSlZTcDhiZEZrNHVsUTZGanRQbEs4TWlaUGRrWVpST19fbjl4UThwRE8xTTBXTF91Tk81MzE5b29pem5PeV81OFRfZ2RBUENnY1RJWVQyUWtnakU5cnpuems4MnN6NFphMVpxUlFuYXFCbFpMdXdyM3VLNHNNWnM?oc=5",
         "type": "rss"
       }
     ]
