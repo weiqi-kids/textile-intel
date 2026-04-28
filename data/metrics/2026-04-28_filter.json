@@ -1,0 +1,16 @@
+{
+  "total_raw": 408,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 221,
+  "gate1_fail": 34,
+  "gate2_fail": 35,
+  "passed": 15,
+  "gate2_samples": [
+    "Toray Industries (OTCMKTS:TRYIY) Shares Gap Down - Time to Sell? - MarketBeat",
+    "Lenzing : Resolutions on the authorization to acquire and to sell own shares 2026 (hv 2026 resolutio",
+    "Far Eastern New Century Expands Circular Economy Education Worldwide to Advance Sustainability Impac",
+    "Shenzhou International Group (OTCMKTS:SHZHY) Shares Gap Down - Here's What Happened - MarketBeat",
+    "DBS Maintains SHENZHOU INTERNATIONAL GROUP HLDGS(SZHIF.US) With Buy Rating, Cuts Target Price to $8."
+  ]
+}

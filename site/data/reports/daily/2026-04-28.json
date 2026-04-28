@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:06:17.550462Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 408,
+    "dup_title": 103,
+    "too_old": 221,
+    "gate1_blocked": 34,
+    "gate2_blocked": 35,
+    "passed": 15,
+    "pass_rate": "4.9%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "Toray Industries (OTCMKTS:TRYIY) Shares Gap Down - Time to Sell? - MarketBeat",
+      "Lenzing : Resolutions on the authorization to acquire and to sell own shares 2026 (hv 2026 resolutio",
+      "Far Eastern New Century Expands Circular Economy Education Worldwide to Advance Sustainability Impac",
+      "Shenzhou International Group (OTCMKTS:SHZHY) Shares Gap Down - Here's What Happened - MarketBeat",
+      "DBS Maintains SHENZHOU INTERNATIONAL GROUP HLDGS(SZHIF.US) With Buy Rating, Cuts Target Price to $8."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-04-28 無紡織產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
