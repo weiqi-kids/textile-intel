@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-29",
+  "total_events": 17,
+  "by_company": {
+    "adidas": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "tapestry": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.03
+    },
+    "supply_chain_shift": {
+      "count": 10,
+      "sentiment_avg": 0.15
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "fast_fashion": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

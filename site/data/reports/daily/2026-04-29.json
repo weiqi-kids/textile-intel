@@ -1,0 +1,243 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T09:57:33.011378Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-04-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "adidas AG (ADDYY) Reports Strong Q1 Earnings, Beats Expectations - GuruFocus",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXZKOGhxV2V1YXVDdlVGVVpCVnRPM2FFZXJxeWRDRUFzQmlMc0N1NzkwanNGOXUzcV9Da1hVWTZuZnpxbG1INUlxT2Z4X19ZREJZODJxSXVxM1c2dHJjSTRyZEo1b09QS2JwaWlwdEtKR0dRS2lpMXpDLU9MRHRrUGc5WjgwcE12bEx1NkQzemU0b0h2eGplVU9VNmg0NjVfNkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-29-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton edges up on higher crude oil, dry weather concerns",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-edges-up-on-higher-crude-oil-dry-weather-concerns-309984-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-29-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Euro area consumers expect higher inflation, slower growth ahead: ECB",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.17
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/euro-area-consumers-expect-higher-inflation-slower-growth-ahead-ecb-309967-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "adidas-2026-04-29-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Germany’s Adidas posts strong Q1 on DTC momentum, broad demand",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/germany-s-adidas-posts-strong-q1-on-dtc-momentum-broad-demand-309986-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-29-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bangladesh trade bodies seek govt policy support in budget",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-trade-bodies-seek-govt-policy-support-in-budget-309943-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 7,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "adidas",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "fast_fashion",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 82,
+    "too_old": 225,
+    "gate1_blocked": 31,
+    "gate2_blocked": 36,
+    "passed": 32,
+    "pass_rate": "9.9%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Lenzing : Resolutions on the authorization to acquire and to sell own shares 2026 (hv 2026 resolutio",
+      "Far Eastern New Century Expands Circular Economy Education Worldwide to Advance Sustainability Impac",
+      "Morgan Stanley reduced its holding in Shenzhou International by 1,809,580 shares at a price of HKD 4",
+      "Shenzhou International Group (OTCMKTS:SHZHY) Shares Gap Down - Here's What Happened - MarketBeat",
+      "Adidas AG Share Price & Chart - FOREX.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為愛迪達、Coach、Lululemon相關動態：「adidas AG (ADDYY) Reports Strong Q1 Earnings, Beats Expec...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "adidas AG (ADDYY) Reports Strong Q1 Earnings, Beats Expectations - GuruFocus（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "ICE cotton edges up on higher crude oil, dry weather concerns（棉花價格、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 10 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
