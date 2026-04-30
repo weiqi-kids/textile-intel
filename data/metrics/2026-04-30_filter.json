@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 219,
+  "gate1_fail": 30,
+  "gate2_fail": 36,
+  "passed": 29,
+  "gate2_samples": [
+    "Shenzhou International Group (OTCMKTS:SHZHY) Shares Gap Down - Here's What Happened - MarketBeat",
+    "Morgan Stanley reduced its holding in Shenzhou International by 1,809,580 shares at a price of HKD 4",
+    "Adidas’ Brand Provides an Edge in the Global Sports Apparel and Footwear Space - Morningstar",
+    "Adidas - Britannica",
+    "Adidas AG Share Price & Chart - FOREX.com"
+  ]
+}
