@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 86,
+  "no_date": 0,
+  "too_old": 221,
+  "gate1_fail": 29,
+  "gate2_fail": 42,
+  "passed": 25,
+  "gate2_samples": [
+    "Shenzhou International Group (OTCMKTS:SHZHY) Shares Gap Down - Time to Sell? - MarketBeat",
+    "Morgan Stanley reduced its holding in Shenzhou International by 1,809,580 shares at a price of HKD 4",
+    "Nike, Inc. - Britannica",
+    "Adidas - Britannica",
+    "adidas and DFL Enter Landmark \"Official Future Partner\" Agreement - Ministry of Sport"
+  ]
+}

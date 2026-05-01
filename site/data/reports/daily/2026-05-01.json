@@ -1,0 +1,219 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:26:05.501031Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "EU sentiment, jobs outlook slump on weak consumer demand in April",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.67
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/eu-sentiment-jobs-outlook-slump-on-weak-consumer-demand-in-april-310035-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Germany's Puma margins rise despite weak sales in Q1 FY26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.38
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/germany-s-puma-margins-rise-despite-weak-sales-in-q1-fy26-310034-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-01-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Canada’s Gildan's Q1 strong on HanesBrands integration, outlook steady",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/canada-s-gildan-s-q1-strong-on-hanesbrands-integration-outlook-steady-310032-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ICE cotton witnesses sharp rise on weaker dollar, strong exports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-witnesses-sharp-rise-on-weaker-dollar-strong-exports-310040-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh’s economy shows resilience with easing inflation: Govt",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-s-economy-shows-resilience-with-easing-inflation-govt-310025-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.52,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 3
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 86,
+    "too_old": 221,
+    "gate1_blocked": 29,
+    "gate2_blocked": 42,
+    "passed": 25,
+    "pass_rate": "7.9%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Shenzhou International Group (OTCMKTS:SHZHY) Shares Gap Down - Time to Sell? - MarketBeat",
+      "Morgan Stanley reduced its holding in Shenzhou International by 1,809,580 shares at a price of HKD 4",
+      "Nike, Inc. - Britannica",
+      "Adidas - Britannica",
+      "adidas and DFL Enter Landmark \"Official Future Partner\" Agreement - Ministry of Sport"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為供應鏈轉移、法說會、棉花價格相關動態：「EU sentiment, jobs outlook slump on weak consumer demand ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "EU sentiment, jobs outlook slump on weak consumer demand in April（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Germany's Puma margins rise despite weak sales in Q1 FY26（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
