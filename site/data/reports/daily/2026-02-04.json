@@ -1,0 +1,44 @@
+{
+  "date": "2026-02-04",
+  "generated_at": "2026-05-03T02:46:08.355876Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toray-2026-02-04-010",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "High-Performance Films Global Market Research and Forecast Report 2025-2030, Profiles of Major Players - SABIC, Toray Industries Inc., Covestro AG, Solvay, and DuPont - Yahoo Finance",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "toray",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

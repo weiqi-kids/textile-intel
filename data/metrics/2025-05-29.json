@@ -1,0 +1,33 @@
+{
+  "date": "2025-05-29",
+  "total_events": 2,
+  "by_company": {
+    "makalot": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "shenzhou": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "supply_chain_shift": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

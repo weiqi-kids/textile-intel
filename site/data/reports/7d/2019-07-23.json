@@ -1,0 +1,80 @@
+{
+  "date": "2019-07-23",
+  "date_range": {
+    "start": "2019-07-17",
+    "end": "2019-07-23"
+  },
+  "generated_at": "2026-05-03T02:45:58.741557Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "makalot-2019-07-23-002",
+      "date": "2019-07-23",
+      "title": "Makalot expects to maintain Vietnam output despite blaze at two factories - Taipei Times",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "supply_chain_shift": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "makalot": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 3,
+        "change_pct": -66.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2019-07-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

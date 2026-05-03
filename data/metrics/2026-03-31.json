@@ -1,0 +1,29 @@
+{
+  "date": "2026-03-31",
+  "total_events": 7,
+  "by_company": {
+    "nike": {
+      "count": 4,
+      "sentiment_avg": -0.31
+    },
+    "shenzhou": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pvh": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": -0.32
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2019-07-15",
+  "date_range": {
+    "start": "2019-07-09",
+    "end": "2019-07-15"
+  },
+  "generated_at": "2026-05-03T02:45:58.524438Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nike-2019-07-15-025",
+      "date": "2019-07-15",
+      "title": "Nike and Lululemon Supplier Pivots Away From Vietnam After Exiting China - The Business of Fashion",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "supply_chain_shift": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nike": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "lululemon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2019-07-09",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-14",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-07-15",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

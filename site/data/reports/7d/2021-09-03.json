@@ -1,0 +1,80 @@
+{
+  "date": "2021-09-03",
+  "date_range": {
+    "start": "2021-08-28",
+    "end": "2021-09-03"
+  },
+  "generated_at": "2026-05-03T02:45:59.827962Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "makalot-2021-09-03-034",
+      "date": "2021-09-03",
+      "title": "Makalot revenue drops 11.61% due to production halts - Taipei Times",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "makalot": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2021-08-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-08-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-08-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-08-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-09-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-09-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-09-03",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2025-10-30",
+  "total_events": 2,
+  "by_company": {
+    "adidas": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

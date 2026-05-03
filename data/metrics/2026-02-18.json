@@ -1,0 +1,21 @@
+{
+  "date": "2026-02-18",
+  "total_events": 1,
+  "by_company": {
+    "far_eastern": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

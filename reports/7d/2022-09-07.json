@@ -1,0 +1,80 @@
+{
+  "date": "2022-09-07",
+  "date_range": {
+    "start": "2022-09-01",
+    "end": "2022-09-07"
+  },
+  "generated_at": "2026-05-03T02:46:00.258059Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "eclat-2022-09-07-001",
+      "date": "2022-09-07",
+      "title": "Eclat Textile to increase its monthly apparel output in Vietnam in 2020 - Apparel Resources",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "supply_chain_shift": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "eclat": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2022-09-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-06",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-07",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

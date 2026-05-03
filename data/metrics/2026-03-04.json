@@ -1,0 +1,21 @@
+{
+  "date": "2026-03-04",
+  "total_events": 5,
+  "by_company": {
+    "adidas": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

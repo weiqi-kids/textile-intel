@@ -1,0 +1,138 @@
+{
+  "date": "2026-02-06",
+  "generated_at": "2026-05-03T02:46:08.588899Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-02-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What the US-India Trade Deal Could Mean for Fashion’s Supply Chains - Vogue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-02-06-035",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shein, Nike and Fashion’s Widening Sustainability Gap - The Business of Fashion",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-02-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shein, Nike and Fashion’s Widening Sustainability Gap | BoF - The Business of Fashion",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-02-06-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What the US-India Trade Deal Could Mean for Fashion’s Supply Chains - vogue.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "date": "2025-11-28",
+  "generated_at": "2026-05-03T02:46:05.326883Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "inditex-2025-11-28-041",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zara Head Marta Ortega Aims to Shed Fast Fashion Label - Bloomberg.com",
+      "companies": [
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "inditex-2025-11-28-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zara Head Marta Ortega Aims to Shed Fast Fashion Label - Bloomberg",
+      "companies": [
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fast_fashion": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "inditex",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "fast_fashion",
+        "count": 2
+      }
+    ]
+  }
+}

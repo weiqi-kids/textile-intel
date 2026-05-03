@@ -1,0 +1,102 @@
+{
+  "date": "2025-12-03",
+  "generated_at": "2026-05-03T02:46:05.597725Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "inditex-2025-12-03-045",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zara owner Inditex beats forecasts with strong start to winter - Reuters",
+      "companies": [
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "inditex-2025-12-03-047",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Inditex’s Fast Fashion Wins Luxury-Level Praise - Finimize",
+      "companies": [
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "inditex-2025-12-03-049",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Inditex beats forecasts: Zara’s relaunch boosts sales growth - nssmag.com",
+      "companies": [
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "inditex",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  }
+}

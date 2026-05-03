@@ -1,0 +1,84 @@
+{
+  "date": "2019-07-14",
+  "generated_at": "2026-05-03T02:45:58.213877Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2019-07-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nike Supplier Pivots Away From Vietnam After Exiting China - Bloomberg.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2019-07-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nike Supplier Pivots Away From Vietnam After Exiting China - Bloomberg",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      }
+    ]
+  }
+}

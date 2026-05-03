@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-23",
+  "date_range": {
+    "start": "2026-03-17",
+    "end": "2026-03-23"
+  },
+  "generated_at": "2026-05-03T02:46:12.112374Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "eclat-2026-03-18-027",
+      "date": "2026-03-18",
+      "title": "Eclat Textile Co Ltd Stock (ISIN: TW0001476004) Gains Spotlight After Strong Quarterly Results, Attr - AD HOC NEWS",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "order_visibility": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "cotton_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "supply_chain_shift": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "eclat": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "far_eastern": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 3,
+        "change_pct": 66.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-18",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

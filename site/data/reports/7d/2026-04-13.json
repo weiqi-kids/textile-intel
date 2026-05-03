@@ -1,0 +1,118 @@
+{
+  "date": "2026-04-13",
+  "date_range": {
+    "start": "2026-04-07",
+    "end": "2026-04-13"
+  },
+  "generated_at": "2026-05-03T02:46:15.738053Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nike-2026-04-09-021",
+      "date": "2026-04-09",
+      "title": "Fashion Briefing: How did Nike's embattled heritage brand Converse reach a 15-year revenue low? - glossy.co",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 8,
+      "last_week": 20,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "fast_fashion": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "sustainable_textile": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "supply_chain_shift": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nike": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "eclat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "lululemon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "toray": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "inditex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 13,
+        "last": 23,
+        "change_pct": -43.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-07",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-08",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-09",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-10",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-12",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-13",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ]
+}

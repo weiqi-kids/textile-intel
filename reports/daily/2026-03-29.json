@@ -1,0 +1,117 @@
+{
+  "date": "2026-03-29",
+  "generated_at": "2026-05-03T02:46:12.708492Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "shenzhou-2026-03-29-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Shenzhou International Grows 2025 Revenue but Profit Hit by FX Losses - TipRanks",
+      "companies": [
+        "shenzhou"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-03-29-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike’s stock is at 9-year lows ahead of earnings. It faces these questions as doubt grows over its turnaround. - MarketWatch",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "shenzhou-2026-03-29-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Shenzhou International Group: Revenue up 8.1% but net profit down 6.7% amid margin pressure and higher costs - TradingView — Track All Markets",
+      "companies": [
+        "shenzhou"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "shenzhou",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  }
+}

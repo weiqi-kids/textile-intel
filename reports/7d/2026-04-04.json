@@ -1,0 +1,116 @@
+{
+  "date": "2026-04-04",
+  "date_range": {
+    "start": "2026-03-29",
+    "end": "2026-04-04"
+  },
+  "generated_at": "2026-05-03T02:46:13.995556Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "shenzhou-2026-03-29-020",
+      "date": "2026-03-29",
+      "title": "Shenzhou International Grows 2025 Revenue but Profit Hit by FX Losses - TipRanks",
+      "importance_score": 0.9
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "nike",
+      "subject_type": "company",
+      "this_week_sentiment": -0.3,
+      "last_week_sentiment": 0.17,
+      "delta": -0.47,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 24,
+      "last_week": 4,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": -0.24
+    },
+    "fast_fashion": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "sustainable_textile": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nike": {
+      "event_count": 14,
+      "sentiment_avg": -0.3,
+      "rank": 1
+    },
+    "shenzhou": {
+      "event_count": 5,
+      "sentiment_avg": -0.4,
+      "rank": 3
+    },
+    "pvh": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 2
+    },
+    "inditex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 27,
+        "last": 5,
+        "change_pct": 440.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-29",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-30",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-31",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-01",
+      "event_count": 12,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-02",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-04",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

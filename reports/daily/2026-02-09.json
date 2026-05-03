@@ -1,0 +1,140 @@
+{
+  "date": "2026-02-09",
+  "generated_at": "2026-05-03T02:46:08.815020Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toray-2026-02-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Toray Industries: Profit fell sharply on battery separator film impairment, with mixed segment performance - TradingView — Track All Markets",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "toray-2026-02-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Toray Industries: Profit fell sharply on battery separator film impairment, with mixed segment performance - TradingView",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "hm-2026-02-09-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Fast Fashion Market Booming with Rapid Growth Through 2033 |Zara (Inditex), H&M, Uniqlo (Fast Retailing), Forever 21 - openPR.com",
+      "companies": [
+        "hm",
+        "fast_retailing",
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "toray",
+        "count": 2
+      },
+      {
+        "id": "hm",
+        "count": 1
+      },
+      {
+        "id": "fast_retailing",
+        "count": 1
+      },
+      {
+        "id": "inditex",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  }
+}

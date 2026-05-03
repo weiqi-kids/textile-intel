@@ -1,0 +1,21 @@
+{
+  "date": "2026-03-14",
+  "total_events": 1,
+  "by_company": {
+    "inditex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
