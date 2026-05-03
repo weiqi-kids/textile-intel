@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 235,
+  "gate1_fail": 25,
+  "gate2_fail": 29,
+  "passed": 14,
+  "gate2_samples": [
+    "Shenzhou International Group (OTCMKTS:SHZHY) Hits New 1-Year Low - What's Next? - MarketBeat",
+    "Morgan Stanley reduced its holding in Shenzhou International by 1,809,580 shares at a price of HKD 4",
+    "Adidas | History, Products, & Facts | Britannica Money - Britannica",
+    "Adidas’ Brand Provides an Edge in the Global Sports Apparel and Footwear Space - Morningstar",
+    "adidas and DFL Enter Landmark \"Official Future Partner\" Agreement - Ministry of Sport"
+  ]
+}

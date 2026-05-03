@@ -1,0 +1,204 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:13:41.332675Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-03-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China’s industrial profits rise 15.5% in Q1 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.33
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/china-s-industrial-profits-rise-15-5-in-q1-2026-310064-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "adidas-2026-05-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "adidas AG (ETR:ADS) Is About To Go Ex-Dividend, And It Pays A 1.9% Yield - simplywall.st",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWptSFlHdjZBclB6bnNUVG1FWVBhcHZsLThxUlF2R09NSlRfNHFoUkpQWDYtRkxZQzIzRXpubXgyM2NER3drUmlsV0NRYWV2b3F5UVpGYmg2WjVJdnhTMFMxQmdleFdfOXhxcFZtUE9KSXgtWnhaMHJ0Y2tWOE9UV2lhT1U1T29RTVg3NjM1NVdpM1RINGdmLWx5TW4yV05XbEJZbW5SSnFTUW5kMzV2QzZsd3ZPZ3haaDZpOXI4UVFEeHlWSnpYNGk4dk9nRkllTUVZ0gHYAUFVX3lxTE41aWcwdkRRaERrRmpiZEFLb3RYc3hxRnpJejFrX0l1VDF0a1paaVdBTDF5enp4SXVGWjlDODR0czFQVDlFdkowdzhlVllfUUgwNjZvaDBaTlk3STZ4NFdHbTlUWndwTjZOVnZtcnhPcy02Yi1OZzM5Y0R0X2c5dTBKSVdWRUwxSHB0Tk5hZEUyWFE4Mjk1TGVEQjlEZy1Sb1puWVctR0ZxZ3VBRjFMV0w3QkkxYVhKbTFGX3F4RlhWdVkzX2xLSl9RVm1ZVTAyckFfcXVnMzJGdg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-05-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What's Going on With Lululemon Stock? - The Motley Fool",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmpOdi1NT2lmWnVSVTNYcU1uUU1hZnZ5ZHVwcVNmQm52OFBOY3NlcE8yWnZfZjlBeE9QNl96a1JWWjFucHNNTjlMaEdNWi05UWFlRk1aZ1BfOElpbVBuVTFTZEtOcUZtOVF5Z2JVd0hDaEtnbHZ5Q05TT3Z1MHg0NS1kUW4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pvh-2026-05-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PVH Foundation launches $10 million ‘Runway Ahead’ initiative - FashionNetwork USA",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGwxLXNsamduXzBIRk5maDBNLWwzLUYwbkFpUVE4RmV6Umd1T3ljekpEa0wxZG5BY1pwdGdKclZuUDQ0UGtMZENDcmJJZkpoYnRRaW55ZmNydmpWZ0pDS3FxZ2xQRVpackU0VTZ5NG83YmdobVJZMHJpLVd4Q0QtQUVMOFduMHM2bWtoTDNDRjd2S3hVdWRmb1FJUmxXX3VBdlg2enpTZ2R6dw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India’s JPMIA to attract $790 mn in textiles & allied sectors",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-jpmia-to-attract-790-mn-in-textiles-allied-sectors--310069-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 102,
+    "too_old": 235,
+    "gate1_blocked": 25,
+    "gate2_blocked": 29,
+    "passed": 14,
+    "pass_rate": "4.6%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "Shenzhou International Group (OTCMKTS:SHZHY) Hits New 1-Year Low - What's Next? - MarketBeat",
+      "Morgan Stanley reduced its holding in Shenzhou International by 1,809,580 shares at a price of HKD 4",
+      "Adidas | History, Products, & Facts | Britannica Money - Britannica",
+      "Adidas’ Brand Provides an Edge in the Global Sports Apparel and Footwear Space - Morningstar",
+      "adidas and DFL Enter Landmark \"Official Future Partner\" Agreement - Ministry of Sport"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為愛迪達、Lululemon、PVH相關動態：「China’s industrial profits rise 15.5% in Q1 2026」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China’s industrial profits rise 15.5% in Q1 2026（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "adidas AG (ETR:ADS) Is About To Go Ex-Dividend, And It Pays A 1.9% Yield - si...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

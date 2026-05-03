@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-03",
+  "date_range": {
+    "start": "2026-04-27",
+    "end": "2026-05-03"
+  },
+  "generated_at": "2026-05-03T09:13:41.401324Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "adidas-2026-04-27-007",
+      "date": "2026-04-27",
+      "title": "Adidas falls 9% in Frankfurt trading after guidance disappoints - MSN",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "supply_chain_shift": {
+      "this_week": 30,
+      "last_week": 24,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": -0.0
+    },
+    "earnings": {
+      "this_week": 17,
+      "last_week": 8,
+      "week_over_week_change": "+112%",
+      "sentiment_this_week": -0.14
+    },
+    "cotton_price": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.2
+    },
+    "fast_fashion": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.25
+    },
+    "order_visibility": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.41
+    }
+  },
+  "company_7d_summary": {
+    "adidas": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "lululemon": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "tapestry": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "pvh": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "nike": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 135,
+        "last": 121,
+        "change_pct": 11.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-27",
+      "event_count": 18,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 17,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 45,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 21,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 12,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 14,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 8,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-27 ~ 2026-05-03）共 135 則事件，重點為「Adidas falls 9% in Frankfurt trading after guid...」。供應鏈轉移、法說會、棉花價格為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "愛迪達",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lululemon",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Coach",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
