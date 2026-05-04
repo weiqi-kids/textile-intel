@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 227,
+  "gate1_fail": 20,
+  "gate2_fail": 37,
+  "passed": 17,
+  "gate2_samples": [
+    "FENC Secures Second Consecutive Inclusion in S&P Global Dow Jones Best in Class Emerging Markets Ind",
+    "Shenzhou International Group (OTCMKTS:SHZHY) Hits New 1-Year Low - What's Next? - MarketBeat",
+    "Shenzhou International Group (OTCMKTS:SHZHY) Shares Gap Down - Time to Sell? - MarketBeat",
+    "Morgan Stanley reduced its holding in Shenzhou International by 1,809,580 shares at a price of HKD 4",
+    "Adidas | History, Products, & Facts | Britannica Money - Britannica"
+  ]
+}

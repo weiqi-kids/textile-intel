@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-04",
+  "total_events": 9,
+  "by_company": {
+    "makalot": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "supply_chain_shift": {
+      "count": 8,
+      "sentiment_avg": 0.15
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

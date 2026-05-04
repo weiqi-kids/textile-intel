@@ -1,0 +1,216 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T10:06:26.271188Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "makalot-2026-05-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Makalot Industrial says January-March net profit T$1.07 bln - marketscreener.com",
+      "companies": [
+        "makalot"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbktmemdELTNEcXhhREN5V3NMSVA2QkE3VnBITElDbk9nN0t6bUtkOWJnbkpRUGNEYWNGQ2tla1I5TjJINXhKTjZRcUVGakJxdEJsX3NOOFpfNWIzMjhBbGlnZHJRRUJ3Z0U5OF9WUFd1Ny03ZmJXRU9zSEdRR29jWm1WVDBWaXY4MWhpNmpjdHVndm95UjVxeFpxQXA2bkxXSzIydGc3THNkM3RjYXBiRlBR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-04-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s Filatex FY26 EBIT jumps 34% despite revenue dip",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-filatex-fy26-ebit-jumps-34-despite-revenue-dip-310072-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-04-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can Cambodia sustain its early 2026 export momentum?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/can-cambodia-sustain-its-early-2026-export-momentum--310062-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-04-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Global cotton trade to drop 2.7% in 2026-27: ICAC",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/global-cotton-trade-to-drop-2-7-in-2026-27-icac-310077-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India ITME Society announces Textile Horizons 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-itme-society-announces-textile-horizons-2026-310076-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "makalot",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 104,
+    "too_old": 227,
+    "gate1_blocked": 20,
+    "gate2_blocked": 37,
+    "passed": 17,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "FENC Secures Second Consecutive Inclusion in S&P Global Dow Jones Best in Class Emerging Markets Ind",
+      "Shenzhou International Group (OTCMKTS:SHZHY) Hits New 1-Year Low - What's Next? - MarketBeat",
+      "Shenzhou International Group (OTCMKTS:SHZHY) Shares Gap Down - Time to Sell? - MarketBeat",
+      "Morgan Stanley reduced its holding in Shenzhou International by 1,809,580 shares at a price of HKD 4",
+      "Adidas | History, Products, & Facts | Britannica Money - Britannica"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Makalot Industrial相關動態：「Makalot Industrial says January-March net profit T$1.07 b...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Makalot Industrial says January-March net profit T$1.07 bln - marketscreener.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "India’s Filatex FY26 EBIT jumps 34% despite revenue dip（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

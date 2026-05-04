@@ -1,5 +1,172 @@
 [
   {
+    "id": "makalot-2026-05-04-001",
+    "date": "2026-05-04",
+    "companies": [
+      "makalot"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Makalot Industrial says January-March net profit T$1.07 bln - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbktmemdELTNEcXhhREN5V3NMSVA2QkE3VnBITElDbk9nN0t6bUtkOWJnbkpRUGNEYWNGQ2tla1I5TjJINXhKTjZRcUVGakJxdEJsX3NOOFpfNWIzMjhBbGlnZHJRRUJ3Z0U5OF9WUF",
+    "sources": [
+      {
+        "name": "makalot",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbktmemdELTNEcXhhREN5V3NMSVA2QkE3VnBITElDbk9nN0t6bUtkOWJnbkpRUGNEYWNGQ2tla1I5TjJINXhKTjZRcUVGakJxdEJsX3NOOFpfNWIzMjhBbGlnZHJRRUJ3Z0U5OF9WUFd1Ny03ZmJXRU9zSEdRR29jWm1WVDBWaXY4MWhpNmpjdHVndm95UjVxeFpxQXA2bkxXSzIydGc3THNkM3RjYXBiRlBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-002",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Global cotton trade to drop 2.7% in 2026-27: ICAC",
+    "summary": "Global cotton production is forecast at 25.9 million tonnes in 2026-27, exceeding consumption of 25.2 million tonnes, ICAC mentioned in its latest monthly report. \nTrade may fall 2.7 per cent, while s",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/global-cotton-trade-to-drop-2-7-in-2026-27-icac-310077-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-003",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India ITME Society announces Textile Horizons 2026",
+    "summary": "India ITME Society will host Textile Horizons 2026 on December 5–6 in Greater Noida alongside India ITME 2026.\nThe event will address technology, efficiency and sustainability in textile manufacturing",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-itme-society-announces-textile-horizons-2026-310076-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-004",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India’s PMI rises to 54.7 in April; highest in 4 years: S&P",
+    "summary": "India’s manufacturing purchasing managers’ index (PMI) rose to 54.7 in April from 53.9, signalling modest growth but the second-slowest improvement in nearly four years.\nExports remained strong, while",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-pmi-rises-to-54-7-in-april-highest-in-4-years-s-p-310074-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-005",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Polyester raw material, viscose prices rise further in Indian market",
+    "summary": "Rising crude-led feedstock costs are driving firm price gains across the polyester chain in the Indian market.\nUpstream strength in PTA and melt is pushing fibre prices higher, despite stable MEG.\nPSF",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/polyester-raw-material-viscose-prices-rise-further-in-indian-market-310073-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-006",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "India’s Filatex FY26 EBIT jumps 34% despite revenue dip",
+    "summary": "Filatex India has reported resilient FY26 performance, with revenue down 2.15 per cent to ₹4,160.52 crore (~$438.2 million). \nEBITDA rose 34.47 per cent to ₹346.52 crore (~$36.5 million). \nPAT increas",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-filatex-fy26-ebit-jumps-34-despite-revenue-dip-310072-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-007",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Cotton yarn hits 4-year high at ₹300/kg; margins under pressure",
+    "summary": "Cotton yarn prices at a four-year high are sharply squeezing margins across India’s textile value chain, with cost pressures cascading from spinning to apparel.\nStrong export demand and tight domestic",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/cotton-yarn-hits-4-year-high-at-300-kg-margins-under-pressure-310071-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-008",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Can Cambodia sustain its early 2026 export momentum?",
+    "summary": "Cambodia’s exports rose 17.7 per cent year-on-year to $8.10 billion, with textiles and garments accounting for roughly 70 per cent of the outbound shipments, as per the media reports citing the Minist",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/can-cambodia-sustain-its-early-2026-export-momentum--310062-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-009",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Epic Group inaugurates Trimetro manufacturing campus in Odisha",
+    "summary": "Epic Group has inaugurated its $100 million Trimetro campus in Odisha, India’s first garment facility to achieve both net-zero carbon and net-zero water status. \nSpread across 40 acres, it will produc",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/epic-group-inaugurates-trimetro-manufacturing-campus-in-odisha-310070-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-05-03-001",
     "date": "2026-05-03",
     "companies": [
@@ -139,6 +306,60 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByV0NMaDA1QzBwbm1jZWNpVFVhNVFlUklWSkpYTW5LcFNCNlpDMzBhcnFvVk9rT0JvWndleHU4aHlwTGUzcEY4Y0Q1eFlqbkQxWkt1TF9VbWczUnJ1RXV4bmtVdjA0NXZLZ2dHWEt2TlU2ZDZBamxvZGlEQ3Z1VlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-05-03-009",
+    "date": "2026-05-03",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is lululemon athletica inc. (LULU) A Good Stock To Buy Now? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUGtCOUVzZE9PY3VrUlQzWDF1d1BiVlNMdFhSY1hpeDlvcUxZTHQ5T09MUjI4ZE9HanlTRFpaNlJkdFpoV3JKQ1pTdEdjVExvS0pxQlFrZ0MwRG9TcUdma2JIUlVlZ3E4WTU1Q1pBWG",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUGtCOUVzZE9PY3VrUlQzWDF1d1BiVlNMdFhSY1hpeDlvcUxZTHQ5T09MUjI4ZE9HanlTRFpaNlJkdFpoV3JKQ1pTdEdjVExvS0pxQlFrZ0MwRG9TcUdma2JIUlVlZ3E4WTU1Q1pBWGdVZ242eG1hMkExcW9mSEZabmdIMVJabTY1bEs2eVJLUUxsdTBwbEdER0lJQldmTkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-03-010",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "Hyosung TNC To Be A Principal Sponsor Of 2026 Global Fashion Summit",
+    "summary": "SOEUL, South Korea— April 30, 2026 — Hyosung TNC, a complete sustainable textile solution provider and largest manufacturer of elastane by market share, is proud to be a Principal Sponsor of 2026 Glob",
+    "sources": [
+      {
+        "name": "textile_world",
+        "url": "https://www.textileworld.com/textile-world/knitting-apparel/2026/05/hyosung-tnc-to-be-a-principal-sponsor-of-2026-global-fashion-summit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-05-03-011",
+    "date": "2026-05-03",
+    "companies": [
+      "toray"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UK Defense Textile Collaboration formed between Pincroft Dyeing & Printing and Toray Textiles Europe Ltd.",
+    "summary": "ADLINGTON, UK — April 30, 2026 — As the UK Government looks to secure a resilient domestic supply chain, Pincroft Dyeing &#38; Printing and Toray Textiles Europe Ltd have responded to the need for pri",
+    "sources": [
+      {
+        "name": "textile_world",
+        "url": "https://www.textileworld.com/textile-world/2026/05/uk-defense-textile-collaboration-formed-between-pincroft-dyeing-printing-and-toray-textiles-europe-ltd/",
         "type": "rss"
       }
     ]
@@ -402,6 +623,26 @@
     ]
   },
   {
+    "id": "lululemon-2026-05-02-015",
+    "date": "2026-05-02",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi UFJ Trust & Banking Corp Has $11.32 Million Stock Holdings in lululemon athletica inc. $LULU - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYWMyQ0h6cjVNV2JjUW1KLW1CcDdTb2EyNGpWM0l4dWsxVlpGTUNzMGRJRkRWQ0M3cFR4aFF0U19qUndKczFBbE5Ic2lhYzVGSDVwY2gwbWdQRkFISDZKb3ZOTEJjR0xQdTF2RW9TcU",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYWMyQ0h6cjVNV2JjUW1KLW1CcDdTb2EyNGpWM0l4dWsxVlpGTUNzMGRJRkRWQ0M3cFR4aFF0U19qUndKczFBbE5Ic2lhYzVGSDVwY2gwbWdQRkFISDZKb3ZOTEJjR0xQdTF2RW9TcU9fUWhCRW9aM3pZZmJkQUJFQndtcFBWUnh2VzZIN0ZRWXllWGpES0NzRXUwa1I1N0Z6NmRCUkMyV1hNakFkekRSNnIxV3pwNWtXR1EybGo1all4LUNnUTBSWVRsVWp0dTBnYVIxV1ZsTDBGa3FibElaNncydGZxY3pORTZUSmJuRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-01-001",
     "date": "2026-05-01",
     "companies": [],
@@ -615,6 +856,24 @@
       {
         "name": "tapestry",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWV4eGt4bkNoTFM1MzI1VmpOZU1fWEtBNFdqazE0UTRLY2FTRnNscnFZZHc4VWFBaVJSMlBieGFKWnJBU2pFUUNKaUVaZHRldEY4VTJ6NjVBUDdxRGRtWUdsaDJBR0VKb2hRZVVlaTNpRENycGlQRjlJNUdBYlRIQnRIR3hrZU03UlM0M1M5SjdRUGN3VjYya0NOWEM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-05-01-013",
+    "date": "2026-05-01",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VF Corporation Appoints Sun Choe as Global Brand President, Vans® - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHNZSHJCNk03eWtnRW1xZzJVbm5RLV9RdlNpSEw2SmtQSUhDYWFrdkFVU1lzMlJkRkNUWGtjdUF4THdGc2V4c1c0aHozQXRhOEpCQzB1M3J4SUNfWTA3SXpJMWlqcmdITm9GTE0wQX",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHNZSHJCNk03eWtnRW1xZzJVbm5RLV9RdlNpSEw2SmtQSUhDYWFrdkFVU1lzMlJkRkNUWGtjdUF4THdGc2V4c1c0aHozQXRhOEpCQzB1M3J4SUNfWTA3SXpJMWlqcmdITm9GTE0wQXhHSnNDMlF4SHA3eURJWVl2UmdsQWhSbThmNmhwb0ZtRmVhUGNHTFNYNVRsaDk3d3E3b2h3OA?oc=5",
         "type": "rss"
       }
     ]
@@ -1001,6 +1260,44 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd09sUWFMazRnOGMzNGNveHdLOTh4Y2xGQmg2Z2dwZ3Z3SVFQZGlVODA2c19sZ1cxcW1Tb1QyVWppU0JfRFhKY1JFajg1ZDNiSnRFNGlIaV9ubWZOWWdMbGhoS2phS2VuVEhweDhCOUFkbzNHNUV4dkV4VXBLS2tWSUszYjJwWkozcGJXaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-04-30-022",
+    "date": "2026-04-30",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "adidas AG (ADDDF) Q1 2026 Earnings Call Highlights: Strong Revenue Growth Amid Margin Pressures By GuruFocus - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRElmZWpINGNLckd6NWtqM0NMSEswT2tpaFhISWZIZ0lZRUVDWERwUFRKS016MWFFTnlyVGdzQXBiQ1hmZGY0emlrdE1zY21LcWlWbWlEckh0WkxrRXd6ODJ2VEFOR0pjNDdhWkVTVF",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRElmZWpINGNLckd6NWtqM0NMSEswT2tpaFhISWZIZ0lZRUVDWERwUFRKS016MWFFTnlyVGdzQXBiQ1hmZGY0emlrdE1zY21LcWlWbWlEckh0WkxrRXd6ODJ2VEFOR0pjNDdhWkVTVFdPWTBSakRJdTlXRXlfV2ZmREtrMTJrc0ZlbFFOSEVRX3NXUXFIVWNjZG5LY1UxRndPbnZFVFpJSXlvZ3RjdjJ6Qk5mblBDVWFyQVRTZ3NkREJBTDl4eGRFVWVvVFFsd0hSLXlrLXhYSEVhWm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-04-30-023",
+    "date": "2026-04-30",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Foundation commits $10M to fashion talent initiative - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPWTkyYkVyeE9zb3JkcGhUbTl1TC1ENXNUN1JnUzV2cXcxRFlHaVdLOW4tc1RhLVc3b05OSzN5T0Y5cG9NMHJVYWpqd0J6b0hXT0FPR181U1VTVWtXZEk0TzVtbFpDMnJ6VUtiUE1Ic1",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWTkyYkVyeE9zb3JkcGhUbTl1TC1ENXNUN1JnUzV2cXcxRFlHaVdLOW4tc1RhLVc3b05OSzN5T0Y5cG9NMHJVYWpqd0J6b0hXT0FPR181U1VTVWtXZEk0TzVtbFpDMnJ6VUtiUE1Ic19NUi1CQUJ0dW9HaUdHTDdCRnFoX1NPUHRFMTU4S1ZaME5jRmRSM0xrTDNBNER2bXRXRG5CNGZ6MEVXSGwzM1ZjQzRB?oc=5",
         "type": "rss"
       }
     ]
@@ -1831,6 +2128,24 @@
       {
         "name": "pvh",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDNiSktlMk9sZDdoNTEzSGd0aEVqdWtHbjg5d2oyNkdMejAyemlhWFdxVUl4OFBGaDBzb1lJZVhJN3F0c0cxNDBJa2xDV1dmel9mU3EyeGcwcEpmM29sd1RtYVJrWFdpSnkwXzBqTkp1UkxHUU9jLVJpV0FEcFdaUEl5cU1xeHJwQm9lR3BB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-04-29-046",
+    "date": "2026-04-29",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Press Release: PVH Corp. Declares Quarterly Cash Dividend - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQcTAxdlZWeVdvMllCaEJubGhYQ0VUQ2FPWElrRDk3YXpESjdyZF9sYkFEbGNDVmQ5TGtwMzZTMl9uODhIcjNObUhBTEpSV05QZ05ObDM1SFZaYk5YNzAxQTNZRHVfUFV2X0JrM0dVbU",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcTAxdlZWeVdvMllCaEJubGhYQ0VUQ2FPWElrRDk3YXpESjdyZF9sYkFEbGNDVmQ5TGtwMzZTMl9uODhIcjNObUhBTEpSV05QZ05ObDM1SFZaYk5YNzAxQTNZRHVfUFV2X0JrM0dVbUdwZzFRS080Mk83UDRCS2dPRVJ3T29DWWsxdHlzd0xIazQtakYyTWVuM0ljX2hldWhNcU5yU2pucHRBZmFZZTFRN2FnbzQ0dGlNTGo2STBDRUJwTmprODdxUGdkTEY?oc=5",
         "type": "rss"
       }
     ]
