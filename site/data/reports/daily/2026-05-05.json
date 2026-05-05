@@ -1,0 +1,267 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T09:52:43.932699Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-05-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas AG Earnings Call Signals Confident Turnaround - TipRanks",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUmlkSjZUcy11WmI2d2ZGMF9uaGo2eXJGWEZZcF9MMW5UbzdaRTZQaTdwUWlJSDhYV3M4XzBRdmhKTUxqaUQyRzBKYnNKb3JaM2JQLWhRRHotWG56cUw4dkZZQ0Q4M2tacjJsVGQtVy1TSi1hM2F6QXNlcDlfS25PbHFTV3B4cEMxQzhta3ByM3ZHYm96NHVaZmJ0d1hZb01peFZhMll3Yw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-05-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At Tapestry (TPR) Valuation As Mixed Returns Contrast With A Rich Earnings Multiple - simplywall.st",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYlZWR0tVM3gxVXgwWlZRQ25Pb2JRVkFIVHBveVNjWnNxQ0I1Q2lERFppQUxMTFQzM09BdDhSejh0Y05tRVFCZkxxX3kxRGZ2RHA4U01CeGRTaUlIOF9yRjUzbGthS1VVM0hoSVlHejloQ1pNVHpZUEVrV01uWmQ2X0VDeldIVVNnaHpWeE5XM0JlOFhUc1pBRjVEYzRuRU9LOWZlbnZzQzVzdXBoYURfUld2ekJXZ1pnRUxLMG5XRDM5aUJSU3k1T2h0elZsd9IB0wFBVV95cUxOTWNaNUJGMGJabjU0YTd6Q29ZNkhSVlczTTBsYTZzREJwdXpsa0JsM244ZF82dC05VUFuSDZWVThFZ1prWUtBRUgzOXpoZEk0cE5JdGpFN3Z3SDRoMllkdjJEYWpFdGxwN0diMEx0UWFoNHdzbkRuNElscTdmOFB3UWJwOW5LOTBQRVNtUF93UC1aWEJ1R2ZtUWpLUlFIUUkzTFhnYy1ycFg5ak9nUUhNT05IcW1RbnM1cllHRTliWGU4RjdlTVlPV1pONWRVaDV4SERR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-05-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Climate is now in the cost sheet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "sustainable_textile",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/climate-is-now-in-the-cost-sheet-310098-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-05-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton closes lower on profit booking at higher levels",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-closes-lower-on-profit-booking-at-higher-levels-310100-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-05-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US’ Carter’s taps retail veteran Sharon Price John as new CEO",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-carter-s-taps-retail-veteran-sharon-price-john-as-new-ceo-310093-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.15,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 3
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 400,
+    "dup_title": 104,
+    "too_old": 219,
+    "gate1_blocked": 25,
+    "gate2_blocked": 31,
+    "passed": 21,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "FENC Secures Second Consecutive Inclusion in S&P Global Dow Jones Best in Class Emerging Markets Ind",
+      "Shenzhou International Group (OTCMKTS:SHZHY) Hits New 1-Year Low - What's Next? - MarketBeat",
+      "Shenzhou International Group (OTCMKTS:SHZHY) Shares Gap Down - Time to Sell? - MarketBeat",
+      "Morgan Stanley reduced its holding in Shenzhou International by 1,809,580 shares at a price of HKD 4"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Coach、愛迪達、耐吉相關動態：「Adidas AG Earnings Call Signals Confident Turnaround - Ti...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Adidas AG Earnings Call Signals Confident Turnaround - TipRanks（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "A Look At Tapestry (TPR) Valuation As Mixed Returns Contrast With A Rich Earn...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
