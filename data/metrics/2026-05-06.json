@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "total_events": 10,
+  "total_events": 12,
   "by_company": {
     "lululemon": {
       "count": 2,
@@ -21,8 +21,8 @@
       "sentiment_avg": 0.5
     },
     "supply_chain_shift": {
-      "count": 5,
-      "sentiment_avg": 0.1
+      "count": 7,
+      "sentiment_avg": 0.0
     }
   },
   "baselines_used": {

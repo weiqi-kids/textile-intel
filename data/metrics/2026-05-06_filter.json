@@ -1,11 +1,11 @@
 {
-  "total_raw": 402,
-  "dup_title": 107,
+  "total_raw": 803,
+  "dup_title": 231,
   "no_date": 0,
-  "too_old": 221,
-  "gate1_fail": 23,
-  "gate2_fail": 32,
-  "passed": 19,
+  "too_old": 437,
+  "gate1_fail": 46,
+  "gate2_fail": 66,
+  "passed": 23,
   "gate2_samples": [
     "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
     "FENC Secures Second Consecutive Inclusion in S&P Global Dow Jones Best in Class Emerging Markets Ind",

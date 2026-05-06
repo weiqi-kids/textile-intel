@@ -184,6 +184,42 @@
     ]
   },
   {
+    "id": "unknown-2026-05-06-011",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India updates rules to clear FDI proposals within 12 weeks",
+    "summary": "India has revised its FDI approval process, extending the decision timeline to 12 weeks from 10 weeks earlier under a new DPIIT framework. \nInvestments from neighbouring countries will require Ministr",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-updates-rules-to-clear-fdi-proposals-within-12-weeks-310125-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-012",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Indian court stays rollback of QCOs for FDY, POY yarns",
+    "summary": "The Gujarat High Court has stayed the withdrawal of Quality Control Orders (QCOs) for FDY and POY, granting interim relief to Sumeet Industries Limited. \nThe court directed that the QCOs will remain i",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/indian-court-stays-rollback-of-qcos-for-fdy-poy-yarns-310128-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-05-05-001",
     "date": "2026-05-05",
     "companies": [
@@ -2051,6 +2087,26 @@
     ]
   },
   {
+    "id": "adidas-2026-04-30-025",
+    "date": "2026-04-30",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Adidas Earnings: Strong 2026 Start Provides Confidence in Long-Range Plan; Shares Attractive - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM1FZeFZhS2YzVmVpQUYzM3loYks2dEJsYWtBaklNUUlyTnVUY3Y1ZUE3MEthVXVpdWlvVmp2dFR4dDhveUpyb3VrX0x6WW5IZGdGYkkyRG9aTXlucVlXNDlyM250eEFxb2hNTlZCVj",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM1FZeFZhS2YzVmVpQUYzM3loYks2dEJsYWtBaklNUUlyTnVUY3Y1ZUE3MEthVXVpdWlvVmp2dFR4dDhveUpyb3VrX0x6WW5IZGdGYkkyRG9aTXlucVlXNDlyM250eEFxb2hNTlZCVjk3QzdyNWZQd3ktdDcxU0pYZXZhN1g2XzBBY3NvMzJpbmZEZXcwTWg5TWdCZ2g1RjdVdExRdXhpeE42TW9BVTh3Ulg3cEQ2RFNHUnJ0SWtZOXJqZXlrVm9DZHkxRW14d2ljcmo2YnBFdjUtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-04-29-001",
     "date": "2026-04-29",
     "companies": [
@@ -2894,6 +2950,26 @@
       {
         "name": "pvh",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcTAxdlZWeVdvMllCaEJubGhYQ0VUQ2FPWElrRDk3YXpESjdyZF9sYkFEbGNDVmQ5TGtwMzZTMl9uODhIcjNObUhBTEpSV05QZ05ObDM1SFZaYk5YNzAxQTNZRHVfUFV2X0JrM0dVbUdwZzFRS080Mk83UDRCS2dPRVJ3T29DWWsxdHlzd0xIazQtakYyTWVuM0ljX2hldWhNcU5yU2pucHRBZmFZZTFRN2FnbzQ0dGlNTGo2STBDRUJwTmprODdxUGdkTEY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-04-29-047",
+    "date": "2026-04-29",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "VF Corporation Announces Fourth Quarter Fiscal 2026 Earnings and Conference Call Date - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcmsyVWd4X2hxT05aZUM3emJCOEVLM2g4N3ptdXA3NzZYWmRIU1JGWFI3NGxLSHBlNktoU2hueEx6VEVma3d2Qm84Qi1KQnh0WXNYdEJOMHRuT3FKUHRxQlpNUVFCZExGTGpudXc2OT",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcmsyVWd4X2hxT05aZUM3emJCOEVLM2g4N3ptdXA3NzZYWmRIU1JGWFI3NGxLSHBlNktoU2hueEx6VEVma3d2Qm84Qi1KQnh0WXNYdEJOMHRuT3FKUHRxQlpNUVFCZExGTGpudXc2OTZObnhZTkdqRFZ6NmFCLURjZmVnbzlyODg2bldLbWhmWl9PcXE1YkxROVZHTzlPekdlcnRBbGhQNUxqVlAzbGpkN2FlVVl5Tnd2ZlZ6dWxxYzd0Y1NFV0twSGxlZjZyWDM1STVjZw?oc=5",
         "type": "rss"
       }
     ]

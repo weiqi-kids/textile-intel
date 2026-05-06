@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T08:11:13.923120Z",
+  "generated_at": "2026-05-06T10:08:59.869897Z",
   "top_events": [
     {
       "rank": 1,
@@ -133,23 +133,23 @@
       "sentiment_7d_avg": null
     },
     "supply_chain_shift": {
-      "today": 5,
+      "today": 7,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.1,
+      "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 10,
+    "total_events": 12,
     "sentiment_distribution": {
       "positive": 3,
-      "neutral": 6,
-      "negative": 1
+      "neutral": 7,
+      "negative": 2
     },
     "top_companies": [
       {
@@ -164,7 +164,7 @@
     "top_topics": [
       {
         "id": "supply_chain_shift",
-        "count": 5
+        "count": 7
       },
       {
         "id": "earnings",
@@ -177,14 +177,14 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 402,
-    "dup_title": 107,
-    "too_old": 221,
-    "gate1_blocked": 23,
-    "gate2_blocked": 32,
-    "passed": 19,
-    "pass_rate": "6.4%",
-    "gate2_block_rate": "10.8%",
+    "total_raw": 803,
+    "dup_title": 231,
+    "too_old": 437,
+    "gate1_blocked": 46,
+    "gate2_blocked": 66,
+    "passed": 23,
+    "pass_rate": "4.0%",
+    "gate2_block_rate": "11.5%",
     "gate2_samples": [
       "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
       "FENC Secures Second Consecutive Inclusion in S&P Global Dow Jones Best in Class Emerging Markets Ind",
@@ -195,7 +195,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 10 則事件，焦點為Lululemon、Coach相關動態：「Tapestry (TPR) Reports Earnings Tomorrow: What To Expect ...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 12 則事件，焦點為Lululemon、Coach相關動態：「Tapestry (TPR) Reports Earnings Tomorrow: What To Expect ...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Tapestry (TPR) Reports Earnings Tomorrow: What To Expect - StockStory（法說會）",
