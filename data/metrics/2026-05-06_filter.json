@@ -1,0 +1,16 @@
+{
+  "total_raw": 402,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 221,
+  "gate1_fail": 23,
+  "gate2_fail": 32,
+  "passed": 19,
+  "gate2_samples": [
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+    "FENC Secures Second Consecutive Inclusion in S&P Global Dow Jones Best in Class Emerging Markets Ind",
+    "Shenzhou International Group (OTCMKTS:SHZHY) Hits New 1-Year Low - What's Next? - MarketBeat",
+    "Shenzhou International Group (OTCMKTS:SHZHY) Shares Gap Down - Time to Sell? - MarketBeat",
+    "Morgan Stanley reduced its holding in Shenzhou International by 1,809,580 shares at a price of HKD 4"
+  ]
+}

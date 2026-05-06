@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T08:11:13.923120Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tapestry-2026-05-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tapestry (TPR) Reports Earnings Tomorrow: What To Expect - StockStory",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVnR1UGdZZWhkZlNXYWV3bEpxVjRkelg5VUhoSVhheUpUY2FkUnhGSzFBNWRidWNkM1l5OXYtajZhT3pTYXZkemdobGJwY1pDWHhRR2dsZHVmN3JJUlVhd1VPcDZ2UUdLZXVrcVFyRTB1aTcxNUpfQnNuWDQ5UWZZbzBpYW9uLWV1V3hzMFN2OXNuM2hLOHFHM1MwelVUZTVpYlJwNWFhb29oQm5vRXQtMg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-06-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Moody's raises Vietnam's outlook to ‘positive’ from ‘stable’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/moody-s-raises-vietnam-s-outlook-to-positive-from-stable--310109-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-05-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trade Barriers Have Been a Huge Negative for Lululemon Stock Investors - The Globe and Mail",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX1lXVkp6VVdWOVcxOWxUZ1U2TFdhb2VVNkJINGdfSXZ3SHh2a0Fja1ROVm9UQlo1UHZ1Y0pqX25odEJkaERBM3dfRU41MUxDLUVMakJlWDBpYTgtdlpJNGg3ZWJSNm9xYjNEbE90N3VvYTdWb3dPVHk3X1ZVd1M2NkN2UjRKclhmYjJOZXJQNTlQU1hWSFNyM28yLUdNMzNtQ0RtRjdOeHNCUnRrb3pnNmlBU2Z6ODQyUVgzYnVoVFdtT0NQX0oxU2lxOHRjeG5ER2xkREF5cTRjQWhvVVRfaS0tRnVXU2ttbEdJ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-05-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Did Lululemon just make a $2 billion mistake? - MSN",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSmE0V3RISXd3NHowY0xQV0FzZmZMemVCZFRpVFRzUG1IaTlRTkJkVFdVdG9rVlM0cHU2YnRTREVDb3NhTE1IZ3JuV3pXVUVqNjBRX3h4UGxNd29HOUk1c2E1WU5GMFN3MXZaU2xwMWhiNGFYblRWLTUxeU41OEh4MUJOSVBzMk9PMGxtUGdJa29iNTJQU3FEZlp6S2I4dw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-05-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stitches in time: the artist chronicling the DRC’s blood-soaked history in tapestry - The Guardian",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEd4RjA2QmN6M2oxMzZzUFRnUWpyNl9neURlTHVXLTRxYWNRUEZaVlFrelR0NjFRU2oxWDcyX1JPdUdkeWJEZmlNTnVPQTVXbHBMOUdkN0Fld0FBcU1hc1kyck00clhqREY2NXN6MWFpQ0ZGbkUtWHg5N2YzcVg1NTE0dmRFYXBISDhhM190Si1IZDgyczdQSFRBSXJSeTItWjVFMEJNUnhwa050LTlYa3lTeDJIWmlBRlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 402,
+    "dup_title": 107,
+    "too_old": 221,
+    "gate1_blocked": 23,
+    "gate2_blocked": 32,
+    "passed": 19,
+    "pass_rate": "6.4%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "FENC Secures Second Consecutive Inclusion in S&P Global Dow Jones Best in Class Emerging Markets Ind",
+      "Shenzhou International Group (OTCMKTS:SHZHY) Hits New 1-Year Low - What's Next? - MarketBeat",
+      "Shenzhou International Group (OTCMKTS:SHZHY) Shares Gap Down - Time to Sell? - MarketBeat",
+      "Morgan Stanley reduced its holding in Shenzhou International by 1,809,580 shares at a price of HKD 4"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Lululemon、Coach相關動態：「Tapestry (TPR) Reports Earnings Tomorrow: What To Expect ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tapestry (TPR) Reports Earnings Tomorrow: What To Expect - StockStory（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Moody's raises Vietnam's outlook to ‘positive’ from ‘stable’（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

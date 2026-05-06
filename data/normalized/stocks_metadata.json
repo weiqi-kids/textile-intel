@@ -1,92 +1,92 @@
 {
   "toray": {
-    "earliest": "2018-12-07",
+    "earliest": "2018-09-10",
     "latest": "2026-05-01",
-    "count": 1803
+    "count": 1867
   },
   "lenzing": {
-    "earliest": "2018-12-05",
-    "latest": "2026-05-05",
-    "count": 1870
+    "earliest": "2018-09-06",
+    "latest": "2026-05-06",
+    "count": 1935
   },
   "far_eastern": {
-    "earliest": "2018-12-06",
-    "latest": "2026-05-05",
-    "count": 1792
-  },
-  "formosa_taffeta": {
-    "earliest": "2018-12-06",
-    "latest": "2026-05-05",
-    "count": 1792
-  },
-  "lealea": {
-    "earliest": "2018-12-06",
-    "latest": "2026-05-05",
-    "count": 1792
-  },
-  "shenzhou": {
-    "earliest": "2018-12-06",
-    "latest": "2026-05-05",
-    "count": 1819
-  },
-  "eclat": {
-    "earliest": "2018-12-06",
-    "latest": "2026-05-05",
-    "count": 1792
-  },
-  "makalot": {
-    "earliest": "2018-12-06",
-    "latest": "2026-05-05",
-    "count": 1792
-  },
-  "nike": {
-    "earliest": "2018-12-07",
-    "latest": "2026-05-04",
-    "count": 1860
-  },
-  "adidas": {
-    "earliest": "2018-12-05",
-    "latest": "2026-05-05",
-    "count": 1879
-  },
-  "inditex": {
-    "earliest": "2018-12-05",
-    "latest": "2026-05-05",
-    "count": 1894
-  },
-  "hm": {
-    "earliest": "2018-12-05",
-    "latest": "2026-05-05",
+    "earliest": "2018-09-07",
+    "latest": "2026-05-06",
     "count": 1855
   },
+  "formosa_taffeta": {
+    "earliest": "2018-09-07",
+    "latest": "2026-05-06",
+    "count": 1855
+  },
+  "lealea": {
+    "earliest": "2018-09-07",
+    "latest": "2026-05-06",
+    "count": 1855
+  },
+  "shenzhou": {
+    "earliest": "2018-09-07",
+    "latest": "2026-05-06",
+    "count": 1881
+  },
+  "eclat": {
+    "earliest": "2018-09-07",
+    "latest": "2026-05-06",
+    "count": 1855
+  },
+  "makalot": {
+    "earliest": "2018-09-07",
+    "latest": "2026-05-06",
+    "count": 1855
+  },
+  "nike": {
+    "earliest": "2018-09-10",
+    "latest": "2026-05-05",
+    "count": 1923
+  },
+  "adidas": {
+    "earliest": "2018-09-06",
+    "latest": "2026-05-06",
+    "count": 1943
+  },
+  "inditex": {
+    "earliest": "2018-09-06",
+    "latest": "2026-05-06",
+    "count": 1958
+  },
+  "hm": {
+    "earliest": "2018-09-06",
+    "latest": "2026-05-06",
+    "count": 1920
+  },
   "lululemon": {
-    "earliest": "2018-12-07",
-    "latest": "2026-05-04",
-    "count": 1860
+    "earliest": "2018-09-10",
+    "latest": "2026-05-05",
+    "count": 1923
   },
   "vf_corp": {
-    "earliest": "2018-12-07",
-    "latest": "2026-05-04",
-    "count": 1860
+    "earliest": "2018-09-10",
+    "latest": "2026-05-05",
+    "count": 1923
   },
   "fast_retailing": {
-    "earliest": "2018-12-07",
+    "earliest": "2018-09-10",
     "latest": "2026-05-01",
-    "count": 1803
+    "count": 1867
   },
   "pvh": {
-    "earliest": "2018-12-07",
-    "latest": "2026-05-04",
-    "count": 1860
+    "earliest": "2018-09-10",
+    "latest": "2026-05-05",
+    "count": 1923
   },
   "tapestry": {
-    "earliest": "2018-12-07",
-    "latest": "2026-05-04",
-    "count": 1860
+    "earliest": "2018-09-10",
+    "latest": "2026-05-05",
+    "count": 1923
   },
   "etf_xrt": {
-    "earliest": "2018-12-07",
-    "latest": "2026-05-04",
-    "count": 1860
+    "earliest": "2018-09-10",
+    "latest": "2026-05-05",
+    "count": 1923
   }
 }
