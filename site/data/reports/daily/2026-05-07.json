@@ -1,0 +1,222 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T10:14:36.753707Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lenzing-2026-05-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lenzing returns to profit - Knitting Industry",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81YmJ5OG92el9fUjVfLWdITktmejA1WnBwR1dIMmFZejY3d1phb25oLTh1RUpIOW5LbDM2aXNUZmMxNllWekhGby1RZ3premNWX1c0cURKUUVuX0pkdFpDT3ZVV1MzeVVQa1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lenzing-2026-05-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lenzing swings to profit amid fibre market volatility - Knitting Trade Journal",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFd2SHk1TEZWajhRdmhPbmwtTVJuMF9iSWtIRXJRVlhBUmJhQnEybkk0YjNLRFFvcy1zT0hVSldRNW9VYlJGVUlFSExubVQzamNQUXNDTE8wOGgzVHJvVkVFNUhRcVBSX3gyc1kwVHFTemdZaktsQV9rNERTb0tTd0tpeTl6RzFoY3UyNEtYaVZwQW1nWXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lenzing-2026-05-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Austria’s Lenzing returns to profit in Q1 2026 amid market volatility",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/austria-s-lenzing-returns-to-profit-in-q1-2026-amid-market-volatility-310152-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-07-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Brazil cotton hits multi-month high amid firm global prices",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/brazil-cotton-hits-multi-month-high-amid-firm-global-prices--310132-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-05-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Athletica Inc. (LULU) On Edge Amid Next CEO Squabbles - Insider Monkey",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ0pjQ3VlcktNMHJ4OElzUnU1eHpIOF9uaWVxOWtRRGoxZU11d29kYmtFOVZkendDYXRYYkhvRDlBdF9maWJKbGREV29HTkJKZEFkai1HODQ5V3FudDRfdjRpMWR1Rk8xTjBSd1F2QVp2OFQ1a3U5TnZqYWtnQkt5RG03dUlvaTFwc1JUMlRVSUFaUC1qMjJ0UGczQ1hGU0dvNGNleE5yd9IBrwFBVV95cUxPRW9RdENPaWhPalRDekRSWUZXT2Q3eHJCX09sRE5JQ0ZzMHJpaXlpWncteS1kT0ptTExRQUNxczBMbllvREJsTHNLNU81TEh5QjQ2cmV3QVJpbUlja1QtZDJzNGxJOEdtaVBpZC1SaTItVld4RFd3V3YyX1otNFM2QlVjY2hNM1FpRjRmM2d1MkcweEdRSmNfX2VaVDBGWWltMmV0eC1FeDFDX1NNOE1Z?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.16,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lenzing",
+        "count": 3
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 401,
+    "dup_title": 96,
+    "too_old": 214,
+    "gate1_blocked": 32,
+    "gate2_blocked": 38,
+    "passed": 21,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "12.5%",
+    "gate2_samples": [
+      "Lenzing AG: Release of a Financial report - marketscreener.com",
+      "Lenzing delivers positive net result in Q1 2026 and significantly increases free cash flow - markets",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "Lenzing : Investoren-Präsentation Ergebnis 01-03/2026 (nur Englisch) - marketscreener.com",
+      "FENC Secures Second Consecutive Inclusion in S&P Global Dow Jones Best in Class Emerging Markets Ind"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Lenzing、Lululemon相關動態：「Lenzing returns to profit - Knitting Industry」。主要關注主題為法說會、供應鏈轉移、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lenzing returns to profit - Knitting Industry（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lenzing swings to profit amid fibre market volatility - Knitting Trade Journal（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

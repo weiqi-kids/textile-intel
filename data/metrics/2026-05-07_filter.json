@@ -1,0 +1,16 @@
+{
+  "total_raw": 401,
+  "dup_title": 96,
+  "no_date": 0,
+  "too_old": 214,
+  "gate1_fail": 32,
+  "gate2_fail": 38,
+  "passed": 21,
+  "gate2_samples": [
+    "Lenzing AG: Release of a Financial report - marketscreener.com",
+    "Lenzing delivers positive net result in Q1 2026 and significantly increases free cash flow - markets",
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+    "Lenzing : Investoren-Präsentation Ergebnis 01-03/2026 (nur Englisch) - marketscreener.com",
+    "FENC Secures Second Consecutive Inclusion in S&P Global Dow Jones Best in Class Emerging Markets Ind"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-07",
+  "total_events": 9,
+  "by_company": {
+    "lenzing": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": 0.16
+    },
+    "supply_chain_shift": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
