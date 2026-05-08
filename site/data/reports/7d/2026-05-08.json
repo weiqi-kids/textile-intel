@@ -1,0 +1,168 @@
+{
+  "date": "2026-05-08",
+  "date_range": {
+    "start": "2026-05-02",
+    "end": "2026-05-08"
+  },
+  "generated_at": "2026-05-08T09:04:44.380952Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "adidas-2026-05-02-002",
+      "date": "2026-05-02",
+      "title": "adidas AG Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next - simplywall.st",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 24,
+      "last_week": 12,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.0
+    },
+    "supply_chain_shift": {
+      "this_week": 35,
+      "last_week": 30,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.03
+    },
+    "cotton_price": {
+      "this_week": 9,
+      "last_week": 4,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": -0.04
+    },
+    "fast_fashion": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.12
+    },
+    "sustainable_textile": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "order_visibility": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": -0.42
+    }
+  },
+  "company_7d_summary": {
+    "adidas": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "lululemon": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "tapestry": {
+      "event_count": 11,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "pvh": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nike": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "makalot": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "lenzing": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 4
+    },
+    "inditex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 132,
+        "last": 142,
+        "change_pct": -7.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-02",
+      "event_count": 15,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 13,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 16,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 23,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 23,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 27,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 15,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-02 ~ 2026-05-08）共 132 則事件，重點為「adidas AG Just Beat Earnings Expectations: Here...」。供應鏈轉移、法說會、棉花價格為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "愛迪達",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lululemon",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Coach",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
