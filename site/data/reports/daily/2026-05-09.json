@@ -1,0 +1,226 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:07:55.719233Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-09-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s Arvind Fashions reports strong FY26 growth across channels",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion",
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-s-arvind-fashions-reports-strong-fy26-growth-across-channels-310191-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "adidas-2026-05-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas AG stock (DE000A1EWWW0): Q1 2026 beats fuel optimism on growth path - AD HOC NEWS",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaDNzM20zV0JWOUNhYVdJV0tJMG9kajlOV0gzNU04RjAzbUdzM2xRM3hxQ2pLcXlObk1PZEtkX0pZUmtBQ2Q3SFRIWE5pZS01dTl3QlR2VnBsOHdIOEVsci1ndlV2Ri1PRi03NXJreGpMWUdOX1A5V1hhYURPR09FV3ZEeGg4dm0zaV93V0QyaUpfajZmSlhaTkVtc2o3TDlsbFJCY0JkalZZT1VLaGF5THVNR3ZQeU81UmZCTi1nSkl6a3d5Uk5JTDRR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-05-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Analysts Offer Insights on Consumer Cyclical Companies: Tapestry (TPR) and Fox Factory Holding (FOXF) - The Globe and Mail",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQTZLTW1pdFdRRmNmQzJzZmx4R0dWczU4bzEzSEhVRzFvWTNPUDNBZG0zNE91Ti1QVUl1NVp1bFp4eW1nYzhEVHNJNUpWMXVBbnYxdE5BUlpXa2lHbFAyTjUxcm1teHNDVFo1YmtyQVdOM21JZzVrbHJQeGtINHdiOWlnSzE0VFNEN0lnaEEtRldpZW12SkcwbWt0bDY1TE5lLTR6RlFKY2NNVjFhZ3hMLWdsYnNydVhraDZ2VFRKbWJvNmR0RjRPX19OXzlJdFlhSi1OaVJ5NVppa3E0NEpIVUxQTGVzSnVIT2lIQTdxS0NSWW42Qk5ONHVCWGxValRyOTljWnRvSFVyY1VqcjVz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chattogram collision exposes Bangladesh’s RMG chokepoint",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/chattogram-collision-exposes-bangladesh-s-rmg-chokepoint-310192-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EU hopeful of India FTA’s smooth ratification; may be enforced in 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/eu-hopeful-of-india-fta-s-smooth-ratification-may-be-enforced-in-2027-310202-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 402,
+    "dup_title": 108,
+    "too_old": 215,
+    "gate1_blocked": 24,
+    "gate2_blocked": 37,
+    "passed": 18,
+    "pass_rate": "6.1%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Number of shareholders of Toray Industries, Inc. – MUN:TOR1 - TradingView",
+      "Lenzing gets back in the black - MSN",
+      "Lenzing AG: Release of a Financial report - marketscreener.com",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "Lenzing delivers positive net result in Q1 2026 and significantly increases free cash flow - markets"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為愛迪達、Coach相關動態：「India’s Arvind Fashions reports strong FY26 growth across...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "India’s Arvind Fashions reports strong FY26 growth across channels（快時尚趨勢、供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Adidas AG stock (DE000A1EWWW0): Q1 2026 beats fuel optimism on growth path - ...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

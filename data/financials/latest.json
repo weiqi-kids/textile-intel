@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T09:04:41.464544Z",
+  "updated_at": "2026-05-09T09:07:52.587025Z",
   "quarter": "2025-09-30, 2025-10-31, 2025-11-30",
   "companies": [
     {
@@ -119,14 +119,14 @@
       "name": "蘭精",
       "ticker": "LNZ.VI",
       "currency": "EUR",
-      "ar": 245318000,
-      "ar_prev": 258200000,
-      "ar_qoq": "-5%",
-      "inventory": 529550000,
-      "inv_prev": 592800000,
-      "inv_qoq": "-11%",
+      "ar": 255300000,
+      "ar_prev": 245318000,
+      "ar_qoq": "+4%",
+      "inventory": 484100000,
+      "inv_prev": 529550000,
+      "inv_qoq": "-9%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "lululemon",

@@ -1,5 +1,152 @@
 [
   {
+    "id": "adidas-2026-05-09-001",
+    "date": "2026-05-09",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Adidas AG stock (DE000A1EWWW0): Q1 2026 beats fuel optimism on growth path - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOaDNzM20zV0JWOUNhYVdJV0tJMG9kajlOV0gzNU04RjAzbUdzM2xRM3hxQ2pLcXlObk1PZEtkX0pZUmtBQ2Q3SFRIWE5pZS01dTl3QlR2VnBsOHdIOEVsci1ndlV2Ri1PRi03NXJreG",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaDNzM20zV0JWOUNhYVdJV0tJMG9kajlOV0gzNU04RjAzbUdzM2xRM3hxQ2pLcXlObk1PZEtkX0pZUmtBQ2Q3SFRIWE5pZS01dTl3QlR2VnBsOHdIOEVsci1ndlV2Ri1PRi03NXJreGpMWUdOX1A5V1hhYURPR09FV3ZEeGg4dm0zaV93V0QyaUpfajZmSlhaTkVtc2o3TDlsbFJCY0JkalZZT1VLaGF5THVNR3ZQeU81UmZCTi1nSkl6a3d5Uk5JTDRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-09-002",
+    "date": "2026-05-09",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Tapestry (TPR) and Fox Factory Holding (FOXF) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPQTZLTW1pdFdRRmNmQzJzZmx4R0dWczU4bzEzSEhVRzFvWTNPUDNBZG0zNE91Ti1QVUl1NVp1bFp4eW1nYzhEVHNJNUpWMXVBbnYxdE5BUlpXa2lHbFAyTjUxcm1teHNDVFo1YmtyQV",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQTZLTW1pdFdRRmNmQzJzZmx4R0dWczU4bzEzSEhVRzFvWTNPUDNBZG0zNE91Ti1QVUl1NVp1bFp4eW1nYzhEVHNJNUpWMXVBbnYxdE5BUlpXa2lHbFAyTjUxcm1teHNDVFo1YmtyQVdOM21JZzVrbHJQeGtINHdiOWlnSzE0VFNEN0lnaEEtRldpZW12SkcwbWt0bDY1TE5lLTR6RlFKY2NNVjFhZ3hMLWdsYnNydVhraDZ2VFRKbWJvNmR0RjRPX19OXzlJdFlhSi1OaVJ5NVppa3E0NEpIVUxQTGVzSnVIT2lIQTdxS0NSWW42Qk5ONHVCWGxValRyOTljWnRvSFVyY1VqcjVz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-003",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Chattogram collision exposes Bangladesh’s RMG chokepoint",
+    "summary": "Bangladesh’s RMG chokepoint just cracked: a May 1 collision at Chattogram, handling 98 per cent of containerised exim, stranded 2,800 import TEUs and froze export loadings. \nIt hits a sector already s",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/chattogram-collision-exposes-bangladesh-s-rmg-chokepoint-310192-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-004",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "EU hopeful of India FTA’s smooth ratification; may be enforced in 2027",
+    "summary": "The EU is hopeful of a smooth ratification process of its FTA with India in its Parliament, given the broad-based political support for it, EU ambassador to India Herve Delphin recently said. \nThe pac",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/eu-hopeful-of-india-fta-s-smooth-ratification-may-be-enforced-in-2027-310202-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-005",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India’s Odisha signs $5.115-bn worth of investment proposals",
+    "summary": "India’s eastern state of Odisha has received investment commitments worth around $5.115 billion during a three-day investors’ outreach, including roadshows and business-to-government meetings in major",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-odisha-signs-5-115-bn-worth-of-investment-proposals-310198-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-006",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "South India cotton yarn sees sharp rise despite slow local demand",
+    "summary": "India’s cotton yarn market witnessed another sharp rise this week, supported by strong export demand, higher cotton prices, and aggressive mill pricing despite sluggish domestic buying.\nYarn prices in",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/south-india-cotton-yarn-sees-sharp-rise-despite-slow-local-demand-310200-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-007",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "UK–India textile machinery corridor launched in Mumbai",
+    "summary": "The British Textile Machinery Association and India ITME Society have launched the UK–India Textile Machinery Coalition (UKITMC) to strengthen bilateral collaboration in textile machinery, technology ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/uk-india-textile-machinery-corridor-launched-in-mumbai-310190-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-09-008",
+    "date": "2026-05-09",
+    "companies": [],
+    "topics": [
+      "fast_fashion",
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "India’s Arvind Fashions reports strong FY26 growth across channels",
+    "summary": "Arvind Fashions Limited has reported strong FY26 growth, with revenue rising 14 per cent to ₹5,266 crore (~$557.31 million) and EBITDA increasing 17 per cent, supported by retail expansion, robust DTC",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/india-s-arvind-fashions-reports-strong-fy26-growth-across-channels-310191-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-05-08-001",
     "date": "2026-05-08",
     "companies": [
@@ -274,6 +421,134 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/india-s-raymond-lifestyle-s-fy26-income-tops-743-mn-for-1st-time-310159-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-05-08-016",
+    "date": "2026-05-08",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas AG stock (DE000A1EWWW0): Dividend date in focus for investors - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWM0WV9vMmZZVW9ja0dCSlZWbjF3RDN2M0pjUHYyRWZhX3N2Vk1ieGphcWphYjVxenpIUFptMm5GZWd0RmlaRS1sNVdCNjl3YW9WRjBfUG9jblZEcHlVeUFSUnJNdVFyNktGLXJrVW",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWM0WV9vMmZZVW9ja0dCSlZWbjF3RDN2M0pjUHYyRWZhX3N2Vk1ieGphcWphYjVxenpIUFptMm5GZWd0RmlaRS1sNVdCNjl3YW9WRjBfUG9jblZEcHlVeUFSUnJNdVFyNktGLXJrVWZta1ZuakNMUS11Rk1Sa1BCT2FoamhNYTFrMHZxZ015SW82OTUwTGVUVE1LWXZkVmdhNnktNlZBNUcxRHdKMUlDMVE2MVpLbV8tVm56SUI0dndTQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "inditex-2026-05-08-017",
+    "date": "2026-05-08",
+    "companies": [
+      "inditex"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Inditex S.A. stock: Fashion giant eyes growth amid cautious outlook - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2FJQ28teGp4MjJuN3NUSG9aMVZjNW96MHVKS05pZ1RGdlVqX2p5NnBMQlB6N0I0TVVDbmpQbmE5NDFZOXhHWlRjbDRkYlhaT25YYWVSQkd3U00yYWIyQkNEZDJDU3VTYnZLVDY3Sk",
+    "sources": [
+      {
+        "name": "inditex",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2FJQ28teGp4MjJuN3NUSG9aMVZjNW96MHVKS05pZ1RGdlVqX2p5NnBMQlB6N0I0TVVDbmpQbmE5NDFZOXhHWlRjbDRkYlhaT25YYWVSQkd3U00yYWIyQkNEZDJDU3VTYnZLVDY3SkwwZEZydV83RGZ1TnQzbGFmR3J6XzNPc3plSXRMc09UcFI5M3VRRlhaLTdGTVFrVlRPLTY0eDYySnEtZ2NzS3BMblFkQnI1TmZGdW9NZXEtZE5fUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-05-08-018",
+    "date": "2026-05-08",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon Athletica Stock (CA5500211090): Analyst Consensus Holds at Neutral Amid Price Pullback - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOTRUMEN6UENFNHVzYVZvLWU0WkU0Qk5jRFVURzlVa1c5SEE0MnhNTDMwcGU0SEU0OTlYRVlBeXBPOHBYQjV1MGhfM1d2UmJ0T0VWcThBZnM4eDZsYmFVbXhHa00xZGliWUFFQmJoWm",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOTRUMEN6UENFNHVzYVZvLWU0WkU0Qk5jRFVURzlVa1c5SEE0MnhNTDMwcGU0SEU0OTlYRVlBeXBPOHBYQjV1MGhfM1d2UmJ0T0VWcThBZnM4eDZsYmFVbXhHa00xZGliWUFFQmJoWmJ2MktUVWFMVGs5TEhPV1E1LWFuS3J0cGdtSDBnbExZSFk5ellCX29ic0tUdmFub0lCaUh1M29jOTRxVWdKaDlLdWFzTFhJcG91YU52UWFsTDRqdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-08-019",
+    "date": "2026-05-08",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Studio Session: The Tapestry Band - KGNU",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5PSWtHOWlkandOSEdPRy00dVY0WFVVQU9oUzV1OXBOMFVwcENCdDhUeXhLXzV4bGo4WmRGNmNGNnNqUm5BU25QSjJUbHRZQ29zb0lKU0hYcVVlb0hGdDBxYm03M1cwcmtCWVA2WUh6WQ",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PSWtHOWlkandOSEdPRy00dVY0WFVVQU9oUzV1OXBOMFVwcENCdDhUeXhLXzV4bGo4WmRGNmNGNnNqUm5BU25QSjJUbHRZQ29zb0lKU0hYcVVlb0hGdDBxYm03M1cwcmtCWVA2WUh6WQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-08-020",
+    "date": "2026-05-08",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UBS lifts Tapestry to Buy, sees 43% upside on Coach momentum and AI edge - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOdnB0RGl6MDVuQmdQSURQRHo1d3NXdjVPeGxBUWNiZk8zd0lnU3VLRVJEdERJaE9aMlo2RDk3Qm1iSTYzbFRBb0QzYk4xRjlQVkE0SzNPbFU1YjNBVWNodC1ibHphYWw0S2NnRW9xc0",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdnB0RGl6MDVuQmdQSURQRHo1d3NXdjVPeGxBUWNiZk8zd0lnU3VLRVJEdERJaE9aMlo2RDk3Qm1iSTYzbFRBb0QzYk4xRjlQVkE0SzNPbFU1YjNBVWNodC1ibHphYWw0S2NnRW9xc0VXdDdnSUE3ZlMwd24zOVh6bmdYNUZTTm13cS0zQTM1OUhIcVNCeTBtamgxYmpEQ2I3cWlZMDM2UUNaWUVoaEdma1RTd2k1d3lDSTBXcDh6NU83MEZLREE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-08-021",
+    "date": "2026-05-08",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tapestry declares $0.40 dividend - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkc2ZXNGcVd4cENlczV0eFdTTU9uUTFWM0tuekhzMy1vUVpkWkJOSk1wcjE2Wkk3Zk9GUEJHLUszSEtkOWFTdUdtTXFNWklONjVfQWE1TVVKd0RZZEY5MTBJbXY2dHF6R2gxQ0FDNl",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdkc2ZXNGcVd4cENlczV0eFdTTU9uUTFWM0tuekhzMy1vUVpkWkJOSk1wcjE2Wkk3Zk9GUEJHLUszSEtkOWFTdUdtTXFNWklONjVfQWE1TVVKd0RZZEY5MTBJbXY2dHF6R2gxQ0FDNlRmRlpsajYyeW4tMi1ZSjRMYmdLQ25mSklpSFhXYnJlbkUxVjIwSmNJWkx6OW1hUy0yZnJLNkg4cWF5QkV1SEE3Sg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-022",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "British Textile Machinery Association (BTMA) Is Launching The UK-India Textile Machinery Coalition",
+    "summary": "MANCHESTER, UK — May 1, 2026 — As one of a number of new initiatives launched this year, the British Textile Machinery Association (BTMA) is launching the UK-India Textile Machinery Coalition. The UK-",
+    "sources": [
+      {
+        "name": "textile_world",
+        "url": "https://www.textileworld.com/textile-world/2026/05/british-textile-machinery-association-btma-is-launching-the-uk-india-textile-machinery-coalition/",
         "type": "rss"
       }
     ]
@@ -780,6 +1055,64 @@
       {
         "name": "textile_world",
         "url": "https://www.textileworld.com/textile-world/nonwovens-technical-textiles/2026/05/arvind-advanced-materials-enters-usa-the-largest-technical-textile-market-through-acquisition-of-dalco-gft/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenzing-2026-05-07-028",
+    "date": "2026-05-07",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lenzing returns to profitability in Q1 2026 after three negative quarters - fashionunited.uk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPeTZLV2FxdG5qa3dNUm9sOWlKbW5CZnEyQWNxVXo0NWY4dnlGM3cxZzhkd29LRUtHZHd2WGZLdDgycWxCMGhqN1Bnc180MDRueFVUcTM3ZDhuMHNFM0dwVmUwNUFXLVI4Y1pyMkFYST",
+    "sources": [
+      {
+        "name": "lenzing",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeTZLV2FxdG5qa3dNUm9sOWlKbW5CZnEyQWNxVXo0NWY4dnlGM3cxZzhkd29LRUtHZHd2WGZLdDgycWxCMGhqN1Bnc180MDRueFVUcTM3ZDhuMHNFM0dwVmUwNUFXLVI4Y1pyMkFYSTdmZ05YcTdMRm1zbDBBNVRVcUs1S1lnQWZ3dzBNTkpTazhCSThSUXpvZ1hXUDl2VThQYi1LV0RpeVQ1R2lSazBUVmdaUVgxY25rUVk4cmdpa1lBS3No?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-05-07-029",
+    "date": "2026-05-07",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas Logo - Jomo Kenyatta University of Agriculture and Technology",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9Xd1RLRzRLSFVJSURFbEZVX3RGelZ5bVk5RGNFSjd6bG1IWWRzWG8td3l3NmE4c0xrVWNEajlXQXQ4b3VPZERYakN0cW12V3ZxekpYTlZyTFFCa004ZmRXTURLWVhWX0VjY3N0cHFFMF",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Xd1RLRzRLSFVJSURFbEZVX3RGelZ5bVk5RGNFSjd6bG1IWWRzWG8td3l3NmE4c0xrVWNEajlXQXQ4b3VPZERYakN0cW12V3ZxekpYTlZyTFFCa004ZmRXTURLWVhWX0VjY3N0cHFFMFN6cWtNdXlySV96bTgzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-07-030",
+    "date": "2026-05-07",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tapestry, Inc. Reports Fiscal 2026 Third Quarter Results and Raises Full Year Outlook - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxObjlLX0JBU1J3M05pbFkyM1luWHRzUUlOaFdmaXhqcEU0ekdkeHN4LWpqbFJFbFoxa3MtbllFSTduSXF6dVpPSTEyckpOdEJKM3puVFdqdlBXMHMxUHZmMDF6Ukk0LUpCQ2RHbzNIdE",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObjlLX0JBU1J3M05pbFkyM1luWHRzUUlOaFdmaXhqcEU0ekdkeHN4LWpqbFJFbFoxa3MtbllFSTduSXF6dVpPSTEyckpOdEJKM3puVFdqdlBXMHMxUHZmMDF6Ukk0LUpCQ2RHbzNIdEpfLW5WVm5valBIbWFTcW04ZUJlVWNfREpKLVgwOElWWk9ScTJURUhwZExkSzQwT1VfR2xqeGhkUkZlYzEyQm43VTlWTjl4Ukk3NnVzcFJjVXpYSzI1OWVRWDkwMnRQUGZuUHdwYmJYeEE?oc=5",
         "type": "rss"
       }
     ]

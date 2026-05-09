@@ -1,0 +1,16 @@
+{
+  "total_raw": 402,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 24,
+  "gate2_fail": 37,
+  "passed": 18,
+  "gate2_samples": [
+    "Number of shareholders of Toray Industries, Inc. – MUN:TOR1 - TradingView",
+    "Lenzing gets back in the black - MSN",
+    "Lenzing AG: Release of a Financial report - marketscreener.com",
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+    "Lenzing delivers positive net result in Q1 2026 and significantly increases free cash flow - markets"
+  ]
+}
