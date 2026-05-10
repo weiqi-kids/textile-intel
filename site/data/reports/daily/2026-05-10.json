@@ -1,0 +1,158 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:22:35.922946Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-10-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Vietnam’s textile & garment exports inch up to $11.9 bn in Jan-April",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-textile-garment-exports-inch-up-to-11-9-bn-in-jan-april-310193-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "pvh-2026-05-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Principal Financial Group Inc. Boosts Holdings in PVH Corp. $PVH - MarketBeat",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHNyMURqNnF3bDllTFJDRVZjRlR4S3JiRFZyR2EyRlY5eUNXWHhTQTZFbTVQUmd5eVl2b0lIcjBDZnBucGVBR0ZWUTZaTXNvalowanhQMmV0SFFPa1dPLTNsRWJJSjVZVGJJeHhZQXc1NC1aYVlMSDM5Mm1OVkJPUHVIZ0Rla3lSc2plS2ZSaDVDV2ZoT2o3ZVBoTEVtd3N3TFgzUmtDWkN5cHFZa3hnTmRzR0RWUmtyQmpMWGdsMA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh’s economy grows faster in Apr: PMI data",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-s-economy-grows-faster-in-apr-pmi-data-310207-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BGMEA-IVY Decarb MoU to push decarbonisation in Bangladesh RMG sector",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bgmea-ivy-decarb-mou-to-push-decarbonisation-in-bangladesh-rmg-sector-310211-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 109,
+    "too_old": 212,
+    "gate1_blocked": 25,
+    "gate2_blocked": 39,
+    "passed": 18,
+    "pass_rate": "6.1%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Lenzing Gets Back in the Black - WWD",
+      "Lenzing AG: Release of a Financial report - TradingView",
+      "Lenzing AG: Release of a Financial report - marketscreener.com",
+      "Lenzing delivers positive net result in Q1 2026 and significantly increases free cash flow - Trading",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為PVH相關動態：「Vietnam’s textile & garment exports inch up to $11.9 bn i...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vietnam’s textile & garment exports inch up to $11.9 bn in Jan-April（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "Principal Financial Group Inc. Boosts Holdings in PVH Corp. $PVH - MarketBeat",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

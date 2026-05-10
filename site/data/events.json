@@ -1,5 +1,77 @@
 [
   {
+    "id": "pvh-2026-05-10-001",
+    "date": "2026-05-10",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Principal Financial Group Inc. Boosts Holdings in PVH Corp. $PVH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHNyMURqNnF3bDllTFJDRVZjRlR4S3JiRFZyR2EyRlY5eUNXWHhTQTZFbTVQUmd5eVl2b0lIcjBDZnBucGVBR0ZWUTZaTXNvalowanhQMmV0SFFPa1dPLTNsRWJJSjVZVGJJeHhZQX",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHNyMURqNnF3bDllTFJDRVZjRlR4S3JiRFZyR2EyRlY5eUNXWHhTQTZFbTVQUmd5eVl2b0lIcjBDZnBucGVBR0ZWUTZaTXNvalowanhQMmV0SFFPa1dPLTNsRWJJSjVZVGJJeHhZQXc1NC1aYVlMSDM5Mm1OVkJPUHVIZ0Rla3lSc2plS2ZSaDVDV2ZoT2o3ZVBoTEVtd3N3TFgzUmtDWkN5cHFZa3hnTmRzR0RWUmtyQmpMWGdsMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-10-002",
+    "date": "2026-05-10",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Bangladesh’s economy grows faster in Apr: PMI data",
+    "summary": "Economic activities in Bangladesh grew at a faster pace in April, backed primarily by stronger performance in agriculture and a manufacturing rebound. \nThe latest PMI rose by 1.1 points month on month",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-s-economy-grows-faster-in-apr-pmi-data-310207-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-10-003",
+    "date": "2026-05-10",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Vietnam’s textile & garment exports inch up to $11.9 bn in Jan-April",
+    "summary": "Vietnam’s textile and garment exports rose modestly by 1.3 per cent YoY to $11.93 billion in January-April 2026, while yarn exports also posted gains in value and volume.\nFabric imports remained large",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-textile-garment-exports-inch-up-to-11-9-bn-in-jan-april-310193-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-10-004",
+    "date": "2026-05-10",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "BGMEA-IVY Decarb MoU to push decarbonisation in Bangladesh RMG sector",
+    "summary": "BGMEA and Spain-headquartered IVY Decarb Marketplace SL have signed an MoU to strengthen collaboration on industrial decarbonisation, productivity improvement and sustainable machinery transition in B",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/bgmea-ivy-decarb-mou-to-push-decarbonisation-in-bangladesh-rmg-sector-310211-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-05-09-001",
     "date": "2026-05-09",
     "companies": [
@@ -142,6 +214,141 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/india-s-arvind-fashions-reports-strong-fy26-growth-across-channels-310191-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "far_eastern-2026-05-09-009",
+    "date": "2026-05-09",
+    "companies": [
+      "far_eastern"
+    ],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "Far Eastern New Century stock (TW0001402000): ESG leader with long dividend streak in focus for US i - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPMzYxNGdDZk96eVAwVVRocG52dGJYSzF2dERHeDJQTnU2OC1hTk9xOUR1R1dpSVJvY2lGdHhkX1h2djNQX2hjaFdJT1FYd0ZHMEpHN1ZLbm9PcWk1MWh3VjcxbF9hOFFZTFdnbGtsTF",
+    "sources": [
+      {
+        "name": "far_eastern",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMzYxNGdDZk96eVAwVVRocG52dGJYSzF2dERHeDJQTnU2OC1hTk9xOUR1R1dpSVJvY2lGdHhkX1h2djNQX2hjaFdJT1FYd0ZHMEpHN1ZLbm9PcWk1MWh3VjcxbF9hOFFZTFdnbGtsTFJlZmhoX2V3YkFPZldVaGlZRGZIS2oxeUJHT09sQW9YZGwzT2dMMDhsak1CTEhQcG01cTM2SVlCcWxWT3U2bmRmRG1ZQlg0b19MWWRHLURKVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-05-09-010",
+    "date": "2026-05-09",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "fast_fashion",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Adidas AG stock (DE000A1EWWW0): Q1 2026 revenue up 14% on strong DTC growth and Adizero innovation - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVBDOFFpT3VDLVBtMTBMNkZ0LU1abEsyQVpuS0Y0dnVabG1uRFhxQW5kZ1l1ZlcwZWxzWFMtNEprMW01QkZ3OF80VVhEd3F3VXFxRnh3UmF6S2paQ1Z2WHk1QVhuTGFmaVFYNHA0QW",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVBDOFFpT3VDLVBtMTBMNkZ0LU1abEsyQVpuS0Y0dnVabG1uRFhxQW5kZ1l1ZlcwZWxzWFMtNEprMW01QkZ3OF80VVhEd3F3VXFxRnh3UmF6S2paQ1Z2WHk1QVhuTGFmaVFYNHA0QWtzZ1FUVU9FQi0yOXMtcFRJdEMyZVRSSzN5TEozWVIxTHNhcFlWOUVBd2RxZUVwSzJRTkhVSlNWbGsyMWNXWFVSZ1hNR0RoNjhPTy1xYlFsUVI4YmlVV2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-05-09-011",
+    "date": "2026-05-09",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas Brand - Jomo Kenyatta University of Agriculture and Technology",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1EaWYyMFJSREpvXzhkQk8yS2RBUmJuYURHbV9HdmkzeXBpOEZuZXlna01XeWlEQnM5NWFHTmc1MnRIU3JPOEo1MVQzOXFFYkhlTzh0b3FIc0t0RWhwLWtPaEtMcVF4SXV1bFE0ZGtiQk",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EaWYyMFJSREpvXzhkQk8yS2RBUmJuYURHbV9HdmkzeXBpOEZuZXlna01XeWlEQnM5NWFHTmc1MnRIU3JPOEo1MVQzOXFFYkhlTzh0b3FIc0t0RWhwLWtPaEtMcVF4SXV1bFE0ZGtiQk1LRnFsTV9FUi1oVTVrZlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-05-09-012",
+    "date": "2026-05-09",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lululemon Athletica stock (CA5500211090): Shares near 52-week low after mixed quarter and guidance c - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0tiZUJFUmdvTnRWazVDTFl1OFZvTFdBbld1dUlCSFlTQ2VxeXF0RS12ZXdzWHdEQjRuYkZiRGc1c1JFRGZTN3FycU9nZXNEc1BxUGh3QkRIUnlJaEI2d3ZlUXo0RXFoQVRHMndxeW",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0tiZUJFUmdvTnRWazVDTFl1OFZvTFdBbld1dUlCSFlTQ2VxeXF0RS12ZXdzWHdEQjRuYkZiRGc1c1JFRGZTN3FycU9nZXNEc1BxUGh3QkRIUnlJaEI2d3ZlUXo0RXFoQVRHMndxeWo1bnJhbmMteTJyRTZBM1I2ZG5oa3FfOS1TczlaalZHUWhuSC1pWGc4VW1fOGtEZUU5SExSSlZWMU1YYnU3a0VuTUdkS2FhV0tIMC1ZeU9uejRseU5UdVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-05-09-013",
+    "date": "2026-05-09",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon Athletica Inc (FRA:33L1) Stock Forecast, Price Targets and Analysts Predictions - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE96QnVMX1ZIUjBaeEpwU1p3NWtBN2dsaUI0R3NFd3h2U3NiM0dXYXk5VWJkekU2WlFPZGF5djBYUW1ka290RkFYSTJ5N25vUVYwZG9WTHp0YmZlUUNuTmc?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96QnVMX1ZIUjBaeEpwU1p3NWtBN2dsaUI0R3NFd3h2U3NiM0dXYXk5VWJkekU2WlFPZGF5djBYUW1ka290RkFYSTJ5N25vUVYwZG9WTHp0YmZlUUNuTmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-09-014",
+    "date": "2026-05-09",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is Tapestry’s (TPR) Coach‑Led Strength And Buybacks Quietly Redefining Its Long‑Term Playbook? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVZVM2hocWczQkxVazQtbHZNM3dCM0hlUmt3V196a1JRR2EwanJVaEw5OWE3d3FaS3pQMEM0X3NGUmNmc2RRZmFhRHNZbUYwS3BSN29XNnFkcGF6NE9MOEViajdfWFVQMlU4d2VpSE",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVZVM2hocWczQkxVazQtbHZNM3dCM0hlUmt3V196a1JRR2EwanJVaEw5OWE3d3FaS3pQMEM0X3NGUmNmc2RRZmFhRHNZbUYwS3BSN29XNnFkcGF6NE9MOEViajdfWFVQMlU4d2VpSExsOTNPcFZlaXVJQ3c0WnRLckp4Ym1YTDNPNDM0TndJVWlReUNNNm83ZVhJanVfZlg0eU1NSUlRcmpkSlY3TTVIZlZLWGhKQ0E3YmFtVDVzZk9KNTZyalR6TE1QeDVVUdIB0wFBVV95cUxNVUpRS2FzSmZEaE54alpPcThPYnVrSjItMmpWMUVRenItcFJfenJNdEs2ZUdxTjJuSmtrNDlCMHpYdEpock9qdkl2ZXoyZW5ZQzlleFVVYmlLMUVXY3EwczB3THdicDVfTkVTQTRLa0lTdnVNT2t3YkU3S3czSzdveEd0ZHRPZWNSek1EZTF5TTRUTlZxbzFFRDdKVC1lc1FZM0hsc1VzMmNJRjY2TE4wUHQxWlhOOU5QX3hpcUFOdGw1YzZkX2lXQnA1RHhHS3AwenlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-05-09-015",
+    "date": "2026-05-09",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nike Inc. stock (US6541061031): Shares under pressure after earnings miss and analyst downgrade - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlZSS3o4WXRDZzZfTVZjUHdYQnFYSUZxQW1xRHFXM3p2RWUtUGtjd2lxRE9GVnAxaE80RDd5ZDZHRzN5UHBIQk5YNXpQSkdYLW5DWmFZYm9WYW5JMGNWcWwtMU0yeHRycWlEZlJYUT",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlZSS3o4WXRDZzZfTVZjUHdYQnFYSUZxQW1xRHFXM3p2RWUtUGtjd2lxRE9GVnAxaE80RDd5ZDZHRzN5UHBIQk5YNXpQSkdYLW5DWmFZYm9WYW5JMGNWcWwtMU0yeHRycWlEZlJYUTRhaFNBT1RVbzYwYnNEeFFDMW5aeU9TTFlPdXljS2ZtUUVIVjU0UGRCdGl6SE84NWtmQlVleE9LaHg1d0k3aHZvQmdNOFpKSktsczJUS2hRTklFS2RHZU9j?oc=5",
         "type": "rss"
       }
     ]
@@ -1118,6 +1325,105 @@
     ]
   },
   {
+    "id": "toray-2026-05-07-031",
+    "date": "2026-05-07",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toray Subsidiary Suido Kiko Posts Sharp Profit Surge With Limited Group Impact - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOejd6aTNFdkxDVjgzcEJLNTl2YkZLV1ZaaEtic2F5cnd6X1gtRlBXWjg0MWJtb0NFQjFBSEs3bGRHSGtDSHJqVzdsUzFvdEdNZWVwZkdzTUtINEM2T0M4U0VBXzhwSE9MczBzN3ZuS1",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOejd6aTNFdkxDVjgzcEJLNTl2YkZLV1ZaaEtic2F5cnd6X1gtRlBXWjg0MWJtb0NFQjFBSEs3bGRHSGtDSHJqVzdsUzFvdEdNZWVwZkdzTUtINEM2T0M4U0VBXzhwSE9MczBzN3ZuS1hXaG9SU1JHQkw2MTY0b3JSZ1JBR1VkNXQ3aGVKajNIaUFmODdCb1IwZEFBREpTRmRERkF1MUZ2cWNabG9yeEtWUHpQd1RZSWZOUWdBQnB5M09tLTdVWi1YZ05R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-07-032",
+    "date": "2026-05-07",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tapestry: Fiscal Q3 Earnings Snapshot - KTVB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQbWxPWC1VU1JBUXcwTnBqcmhNb2d6aGpSWEZGMVF1QmZwS20wWjIxNG11SmFLRzFSbGF2akh6bmhsWGR6enJCWXp5MHN6SndHb1JSSjBNUnV6Vy1nUHZCZDljTGhYT3M3ZVJQU0tHbl",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbWxPWC1VU1JBUXcwTnBqcmhNb2d6aGpSWEZGMVF1QmZwS20wWjIxNG11SmFLRzFSbGF2akh6bmhsWGR6enJCWXp5MHN6SndHb1JSSjBNUnV6Vy1nUHZCZDljTGhYT3M3ZVJQU0tHblllSnVGTVc4cjFVNEtZTTBaVl9sUXVZVXVuZmNZTW43UDRvemhWdDA3bnA5TzMwcTg0ZjF1dU9zWVY4di15R1dTX3NJTjRFVDNRWkdlSnVtUmxYRzZ3dnM1Q1JWTHR3Rzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-07-033",
+    "date": "2026-05-07",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tapestry (NYSE:TPR) Reports Strong Q1 CY2026 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTlpKM0N3cGl5M2RCMVgwcVJ4dThuY2dHUGJ2UmllaGE0c2JhZ0FlZ2lkRnFVTjFTNXM3QXBFcTFOWHpmNEkxaFBXbzR3X19aUzBGUjl6WXhJM2dUT0l2RmdmQndBanVLTW1iLXVZdW",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTlpKM0N3cGl5M2RCMVgwcVJ4dThuY2dHUGJ2UmllaGE0c2JhZ0FlZ2lkRnFVTjFTNXM3QXBFcTFOWHpmNEkxaFBXbzR3X19aUzBGUjl6WXhJM2dUT0l2RmdmQndBanVLTW1iLXVZdWxONkQ2ejlqeTA2M0ZYZFVYM043dUxFQjVlN1prMnJQMjQ0RGZVaVZabnlTMElTZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-07-034",
+    "date": "2026-05-07",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tapestry lifts full-year outlook as Coach sales soar - Chain Store Age",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3dpVTZyaWt6X21EbkFPRU1hQzJtZFdvV2g1eElWamdySHhHWE5Gb2hhaEhIU0lNd0tma1ZMdHlEYXpOZzdKeE15OTF1YWRhYWpVdkxsTjdmVnMzQi0zb1hERnduZXN2X2x5S2ZPNG",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3dpVTZyaWt6X21EbkFPRU1hQzJtZFdvV2g1eElWamdySHhHWE5Gb2hhaEhIU0lNd0tma1ZMdHlEYXpOZzdKeE15OTF1YWRhYWpVdkxsTjdmVnMzQi0zb1hERnduZXN2X2x5S2ZPNGVUUkRFZzVFOWFMT0g0dEwtMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-05-07-035",
+    "date": "2026-05-07",
+    "companies": [
+      "nike",
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Apparel revenue Nike, Adidas & Puma worldwide 2025 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0ybjJTU2k4MFZqSWVJZnlQSWtvNVNXRVFBd2RidFhIbGhVdG55ZFNNaUUtUXVqeVdQVjRORXUtYVRKbm84dXhjb0xmckU3VWFmLUVqcGpYeVZ0VFhfZE5fTWpOblRDem9XeXdVOEJybX",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0ybjJTU2k4MFZqSWVJZnlQSWtvNVNXRVFBd2RidFhIbGhVdG55ZFNNaUUtUXVqeVdQVjRORXUtYVRKbm84dXhjb0xmckU3VWFmLUVqcGpYeVZ0VFhfZE5fTWpOblRDem9XeXdVOEJybXhnZDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lululemon-2026-05-06-001",
     "date": "2026-05-06",
     "companies": [
@@ -1535,6 +1841,26 @@
       {
         "name": "pvh",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWkQ1QVNQQXNqYjREVmtRMTg3eS1SNGlKRkF2MGtxUjhuczJoVHNLUkJRYkZ1VUQ2ZWVDajROUVlZWEFZeUh6YmdKMFplMjJVdFE0dy1TLU81LWVmdHpnNkdEM3JFaUtuaF9OUUZqeWMtOW1LcDRYTkwtbkVqVHlmV0hDZFNPY0d2M25MU2NKRk9sMkIyRlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenzing-2026-05-06-024",
+    "date": "2026-05-06",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lenzing Aktiengesellschaft Reports Earnings Results for the First Quarter Ended March 31, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUjNWLURpOGlYM01iZGlaTTRoZHNRdU9lN0d5QldjUEVPQ0R4ZENyWkw4dFNzcGcwN2Nqb1NWMEtxclpVTGUyNkc5STNkUjU5QkV3d05PQUt5Q0JacU9iamdUb2xadU1DSnpvZHluen",
+    "sources": [
+      {
+        "name": "lenzing",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUjNWLURpOGlYM01iZGlaTTRoZHNRdU9lN0d5QldjUEVPQ0R4ZENyWkw4dFNzcGcwN2Nqb1NWMEtxclpVTGUyNkc5STNkUjU5QkV3d05PQUt5Q0JacU9iamdUb2xadU1DSnpvZHluenVEMW4zcEJGNFNwamFaSktWcE91RUFzbFRpV1VmWm9nT1oxZjE3NzhTWk5HWEZlQ1dzSWthUDh2WEU5NC02RFBzOGhTX2F5WmVRX0E3UVdVMkY3SW1lQWlMUE01VGJ3N2hQOGtER3JNajFiZGlwc1hr?oc=5",
         "type": "rss"
       }
     ]
@@ -1967,6 +2293,24 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeF9DMVlqNndkMnotSHo2dEd3ZmM3RUlmLTZQTmdyb0Q1bURwTkhzTG5MUXhJOGxaSjJQdnM1ZWIzWG53MmlOMzNQZ0xWYnFLcW5FV2dXa2xrOWFwUXZvNjhRZG0zRTBmYlZUX0s4cFVXN3ljaDE4d0dhVHpldHRoNGV6SVp0QzBpZkNKOGI2UVNZSElPdHdJaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hm-2026-05-05-024",
+    "date": "2026-05-05",
+    "companies": [
+      "hm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Information from the 2026 AGM of H & M Hennes & Mauritz AB",
+    "summary": "<p>Press release On Tuesday 5 May H &#38; M Hennes &#38; Mauritz AB held its annual general meeting chaired by lawyer Andreas Steen. The AGM approved the board&#8217;s proposal that a dividend of SEK ",
+    "sources": [
+      {
+        "name": "hm",
+        "url": "https://hmgroup.com/news/information-from-the-2026-agm-of-h-m-hennes-mauritz-ab/",
         "type": "rss"
       }
     ]
