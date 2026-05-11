@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 211,
+  "gate1_fail": 24,
+  "gate2_fail": 36,
+  "passed": 17,
+  "gate2_samples": [
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+    "Lenzing Gets Back in the Black - WWD",
+    "Lenzing AG: Release of a Financial report - TradingView",
+    "Lenzing AG: Release of a Financial report - marketscreener.com",
+    "Lenzing delivers positive net result in Q1 2026 and significantly increases free cash flow - Trading"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T10:53:25.743432Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-05-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon Athletica stock (CA5500211090): Earnings beat but guidance disappoints as shares slide - AD HOC NEWS",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUENvR3RVMUpFNzlkbHlZT01HSXM3V1FFQWhCMVVWZ1pmX0VFVEEzVnIycld5MzhiUXA5XzBINUg3cmpscHdUekdsOWdyWU9ZNTR2UHVwTmgxbjQ2UEFoY2szR29PZGd5eXNTdjBZMXl4WnJ5VWsydmY3RFF0U3RlNElRSHE3OEZFSlB0U0RIV3E3b1lrSVFYUTd0OXlvLWtrQlBKd2JCUmVVU3BLZVNYYXJhUXliREhVdVIzTWhVLThKQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-11-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US’ Kontoor Brands' posts strong Q1, plans Lee divestiture",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-kontoor-brands-posts-strong-q1-plans-lee-divestiture-310221-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kenyan team explores Bangladesh SEZ, port development for cooperation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/kenyan-team-explores-bangladesh-sez-port-development-for-cooperation-310218-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh needs logistics upgradation to turn competitive: Think tank",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-needs-logistics-upgradation-to-turn-competitive-think-tank-310219-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Maharashtra, Karnataka, Delhi, Haryana, TN host 85% of EU firms",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/maharashtra-karnataka-delhi-haryana-tn-host-85-of-eu-firms-310222-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 116,
+    "too_old": 211,
+    "gate1_blocked": 24,
+    "gate2_blocked": 36,
+    "passed": 17,
+    "pass_rate": "5.9%",
+    "gate2_block_rate": "12.5%",
+    "gate2_samples": [
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "Lenzing Gets Back in the Black - WWD",
+      "Lenzing AG: Release of a Financial report - TradingView",
+      "Lenzing AG: Release of a Financial report - marketscreener.com",
+      "Lenzing delivers positive net result in Q1 2026 and significantly increases free cash flow - Trading"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Lululemon、耐吉相關動態：「Lululemon Athletica stock (CA5500211090): Earnings beat b...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lululemon Athletica stock (CA5500211090): Earnings beat but guidance disappoi...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "US’ Kontoor Brands' posts strong Q1, plans Lee divestiture（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
