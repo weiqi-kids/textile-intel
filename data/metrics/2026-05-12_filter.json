@@ -1,0 +1,16 @@
+{
+  "total_raw": 402,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 205,
+  "gate1_fail": 24,
+  "gate2_fail": 39,
+  "passed": 29,
+  "gate2_samples": [
+    "Lenzing Gets Back in the Black - WWD",
+    "Lenzing AG: Release of a Financial report - TradingView",
+    "Lenzing AG: Release of a Financial report - marketscreener.com",
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+    "Lenzing delivers positive net result in Q1 2026 and significantly increases free cash flow - Trading"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:23:54.860473Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tapestry-2026-05-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Evaluating Tapestry (TPR) After Earnings Beat Higher Guidance And Expanded Buybacks - Yahoo Finance",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLVBpVkMwNzNsOUI3MHB5UnBVWW51SGtuRTE0akhvV3BMaVZPajRhSDFyYjAtQXdBMWRWd2RUTU8wamU4bGszU0hSWUU3UlRaTzRqTk44N0tua3ViWEwyUzdQVC13akYteVVuc3l2T3FsZHA3cm92R3FnZE9uYmdUN3RCVlBMakV5N3NPajdDSTdNS2FUSk4tU3JXYldkaWZSblRWOQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-12-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s RSWM swings to FY26 profit; EBITDA more than doubles",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-rswm-swings-to-fy26-profit-ebitda-more-than-doubles-310250-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-12-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s KKCL posts strong FY26 growth under Vision 2028",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-s-kkcl-posts-strong-fy26-growth-under-vision-2028-310228-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-05-12-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Could NIKE Lead S&P 500 Retail Momentum After Earnings Beat? - Kalkine Media",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYURkdExMX05zWnRHV21TdlZkaUV0OURWVHVubmRhRFdyWDRtV29DVXRlTElOUkh0YVUxRlZhclZaTGw0ZDBZak05eEtsV2NTcm5LTktWY3J1UUl2bG41M3lKbW5LNzVlQXNleEROYTJxUGJQZ2ZsUkg0b3JZT3BsSjBaWXNNaERNQ3VfUVZrdm1PMUpWODYzTFNxSzJwWnNuQkxrZA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-12-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bangladesh RMG sector to adopt blockchain-based transparency & DPP",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-rmg-sector-to-adopt-blockchain-based-transparency-dpp-310229-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 402,
+    "dup_title": 105,
+    "too_old": 205,
+    "gate1_blocked": 24,
+    "gate2_blocked": 39,
+    "passed": 29,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Lenzing Gets Back in the Black - WWD",
+      "Lenzing AG: Release of a Financial report - TradingView",
+      "Lenzing AG: Release of a Financial report - marketscreener.com",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "Lenzing delivers positive net result in Q1 2026 and significantly increases free cash flow - Trading"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Lululemon、Coach、耐吉相關動態：「Evaluating Tapestry (TPR) After Earnings Beat Higher Guid...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Evaluating Tapestry (TPR) After Earnings Beat Higher Guidance And Expanded Bu...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "India’s RSWM swings to FY26 profit; EBITDA more than doubles（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 10 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

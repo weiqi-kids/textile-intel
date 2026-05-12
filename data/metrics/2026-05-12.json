@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-12",
+  "total_events": 15,
+  "by_company": {
+    "lululemon": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "nike": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "supply_chain_shift": {
+      "count": 10,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
