@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-13",
+  "total_events": 14,
+  "by_company": {
+    "toray": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "far_eastern": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pvh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hm": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "nike": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": -0.21
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "order_visibility": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "supply_chain_shift": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": -0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

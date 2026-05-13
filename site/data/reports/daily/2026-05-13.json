@@ -1,0 +1,269 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:13:16.749695Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hm-2026-05-13-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "GFS 2026: Kering, H&M on putting sustainability back on the CFO agenda",
+      "companies": [
+        "hm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/gfs-2026-kering-h-m-on-putting-sustainability-back-on-the-cfo-agenda-310276-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "toray-2026-05-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Toray Industries: Revenue up, operating income down on impairment; FY2027 outlook strong with profit growth - TradingView",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPU3l4clJ5SW1BM3lJeGpoSzY1VTZUVmNhc2xPeURiQzl5bXRIcFB5X3llenBKa0RrMG5CNFI2QnQ3ZFVfeVNrRnRuWWd3REdPU21nZkZHX0t5R2pwcUNaVng1c3B2TlFJMnAtc0t2OTNOckk0MTJCRjBzMktZX2NxdnBKRFFQSGNYbnhHcHpaWGFPX0lkMkE4SGxoV3BNUkR2SC1qWGMyV0VrM2M2WlROY1pvTVo2Uks3WjNQTG9yYWhRR3ZrMTF2Z0pMUjB6Wnc2eGlvdU90clRDZ2VwRnFkcmVmcWNmcWIyRDNCWlpid0FnWkQ1QTlDd2tMWFllbWh3Z0QtdnpYWVZEZ083cU9YNWFYY294UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "far_eastern-2026-05-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Far Eastern New Century Says Jan-Mar Net Profit T$3.09 Bln - TradingView",
+      "companies": [
+        "far_eastern"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDZnckxJb2pwV2p3Z1pvYmhzMXd2S0tpOVo5R3FuaWhrTGtfN1F5bWV5akRVc3Q0NEVkajdHZDd4YjFnQXJWYVFLX3pERTMzYzZVRVdxMTN4UzJlLUt2X3F5LXhjOW5pUmVwc19qanVEV3d4QlNWSlBPUm54amdUMl9OUjgyWDdQOUJNcnI0b3pHVF9zb2Y1bDlLZkRFb0plb21uN1ZIdG84Q2FjaXNxOWxIdHZSRU05anlacG5TYmFLRWlkc3Rn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-05-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon Athletica Pops 5%: Board Shakeup and Earnings Beat Lift the Stock in a Falling Market - AOL.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOEpDSTRIX0tZdWRIQ1JFcjRmdXpOeTgyNmxNSXdWazZWeUVidm9ROFphbFdQZTZpQVI4b25tdzRSa3RGajhpd0cyaTY1V09relNSVllNWTNMeV9TeVZZVTh5b0FqRmpuOURsVTdQaU85ckVFVDZBdmYyd2QxRVdNZHhB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-13-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton retreats from multi-month highs on dollar pressure",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-retreats-from-multi-month-highs-on-dollar-pressure-310277-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.21,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "toray",
+        "count": 2
+      },
+      {
+        "id": "far_eastern",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "hm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 112,
+    "too_old": 192,
+    "gate1_blocked": 23,
+    "gate2_blocked": 49,
+    "passed": 27,
+    "pass_rate": "9.3%",
+    "gate2_block_rate": "16.8%",
+    "gate2_samples": [
+      "Toray Industries FY Net Y79.52B Vs Net Y77.91B - Moomoo",
+      "Toray Industries (ADR)(TRYIY) Stock Options Chain | Quotes & News - Moomoo",
+      "Lenzing Gets Back in the Black - WWD",
+      "Lenzing gets back in the black - MSN",
+      "Lenzing AG: Release of a Financial report - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為東麗、Far Eastern New Century、Lululemon相關動態：「GFS 2026: Kering, H&M on putting sustainability back on t...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "GFS 2026: Kering, H&M on putting sustainability back on the CFO agenda（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Toray Industries: Revenue up, operating income down on impairment; FY2027 out...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

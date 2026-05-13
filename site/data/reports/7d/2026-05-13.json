@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-13",
+  "date_range": {
+    "start": "2026-05-07",
+    "end": "2026-05-13"
+  },
+  "generated_at": "2026-05-13T10:13:16.815262Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nike-2026-05-07-035",
+      "date": "2026-05-07",
+      "title": "Apparel revenue Nike, Adidas & Puma worldwide 2025 - Statista",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 23,
+      "last_week": 22,
+      "week_over_week_change": "+5%",
+      "sentiment_this_week": -0.0
+    },
+    "cotton_price": {
+      "this_week": 5,
+      "last_week": 9,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": -0.1
+    },
+    "supply_chain_shift": {
+      "this_week": 37,
+      "last_week": 34,
+      "week_over_week_change": "+9%",
+      "sentiment_this_week": 0.16
+    },
+    "order_visibility": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -0.42
+    },
+    "fast_fashion": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.04
+    }
+  },
+  "company_7d_summary": {
+    "lenzing": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 3
+    },
+    "lululemon": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "adidas": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "tapestry": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 2
+    },
+    "inditex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hm": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 7
+    },
+    "pvh": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "nike": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "toray": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "far_eastern": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 149,
+        "last": 131,
+        "change_pct": 13.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-07",
+      "event_count": 37,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 26,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 17,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 22,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 26,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 14,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-07 ~ 2026-05-13）共 149 則事件，重點為「Apparel revenue Nike, Adidas & Puma worldwide 2...」。H&M、東麗情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "H&M",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "東麗",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Lenzing",
+        "reason": "本週出現 3 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

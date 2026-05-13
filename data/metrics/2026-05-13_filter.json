@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 112,
+  "no_date": 0,
+  "too_old": 192,
+  "gate1_fail": 23,
+  "gate2_fail": 49,
+  "passed": 27,
+  "gate2_samples": [
+    "Toray Industries FY Net Y79.52B Vs Net Y77.91B - Moomoo",
+    "Toray Industries (ADR)(TRYIY) Stock Options Chain | Quotes & News - Moomoo",
+    "Lenzing Gets Back in the Black - WWD",
+    "Lenzing gets back in the black - MSN",
+    "Lenzing AG: Release of a Financial report - TradingView"
+  ]
+}
