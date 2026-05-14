@@ -1,0 +1,177 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:05:51.601822Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "inditex-2026-05-14-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Zara dethrones Nike and crowns itself the world's most valuable fashion brand - Diari ARA",
+      "companies": [
+        "inditex",
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeGkxUnJKY1pCWnhBWXdGWEZhS1JiLVdjZzRTTEhpMEs0dUhTRnp3bEhBN011TlYydHUxYzFvMEJvRzVtTE5OY01ibzd0cGFXX2Q2bFVVZWVHU2JVR2tnRjBoYXFGamtra09xcF9KcEt4MDZvWVlEU3JCRnRZWWFrVkVnTWxYTklLZVFNWExJMFVUTVIycGFfRC1YMHhQUmdRS21MX1k0YmdTV1NRY044Z0l6dXhycVNOSVlF0gHAAUFVX3lxTE1ySWd1V0szdloybXhVMWp2ai1vMzAzdjhINXF1WGd6aGhhUjdfaXl0Um15bjNoVlk0ZlBqMnNETjlaWnhCY1p0YnQ0Z2phUG9MZnhaLUhGR2s3RmxqVE15LXJPN3B5LTZLS3dXZnN3alJ0TXpIS0I2WEpTbnJUQzNZazBiYVZ4ZDNWdGtaYjZoaDJkWk9EOXV5eDUxbWRpdXVVeGh0SldhS1dkNVR4bDJ4MlBwQ3JINnA5d1NkSVduRA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India’s textile reset is here. The winners will be built, not picked.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.17
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-textile-reset-is-here-the-winners-will-be-built-not-picked--310302-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ICE cotton futures close higher on dry weather concerns in US",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-futures-close-higher-on-dry-weather-concerns-in-us-310304-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vietnam’s index of industrial production up 9.9% YoY in April 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-index-of-industrial-production-up-9-9-yoy-in-april-2026-310283-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.16,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "inditex",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 402,
+    "dup_title": 104,
+    "too_old": 209,
+    "gate1_blocked": 25,
+    "gate2_blocked": 51,
+    "passed": 13,
+    "pass_rate": "4.4%",
+    "gate2_block_rate": "17.1%",
+    "gate2_samples": [
+      "Toray Industries (ADR)(TRYIY) Stock Options Chain | Quotes & News - Moomoo",
+      "Lenzing Gets Back in the Black - WWD",
+      "Lenzing gets back in the black - MSN",
+      "Lenzing AG: Release of a Financial report - TradingView",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Zara、耐吉相關動態：「Zara dethrones Nike and crowns itself the world's most va...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Zara dethrones Nike and crowns itself the world's most valuable fashion brand...",
+        "level": "yellow"
+      },
+      {
+        "text": "India’s textile reset is here. The winners will be built, not picked.（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

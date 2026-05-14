@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-14",
+  "total_events": 4,
+  "by_company": {
+    "inditex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 2,
+      "sentiment_avg": 0.16
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

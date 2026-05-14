@@ -1,5 +1,78 @@
 [
   {
+    "id": "inditex-2026-05-14-001",
+    "date": "2026-05-14",
+    "companies": [
+      "inditex",
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Zara dethrones Nike and crowns itself the world's most valuable fashion brand - Diari ARA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeGkxUnJKY1pCWnhBWXdGWEZhS1JiLVdjZzRTTEhpMEs0dUhTRnp3bEhBN011TlYydHUxYzFvMEJvRzVtTE5OY01ibzd0cGFXX2Q2bFVVZWVHU2JVR2tnRjBoYXFGamtra09xcF9KcE",
+    "sources": [
+      {
+        "name": "nike",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeGkxUnJKY1pCWnhBWXdGWEZhS1JiLVdjZzRTTEhpMEs0dUhTRnp3bEhBN011TlYydHUxYzFvMEJvRzVtTE5OY01ibzd0cGFXX2Q2bFVVZWVHU2JVR2tnRjBoYXFGamtra09xcF9KcEt4MDZvWVlEU3JCRnRZWWFrVkVnTWxYTklLZVFNWExJMFVUTVIycGFfRC1YMHhQUmdRS21MX1k0YmdTV1NRY044Z0l6dXhycVNOSVlF0gHAAUFVX3lxTE1ySWd1V0szdloybXhVMWp2ai1vMzAzdjhINXF1WGd6aGhhUjdfaXl0Um15bjNoVlk0ZlBqMnNETjlaWnhCY1p0YnQ0Z2phUG9MZnhaLUhGR2s3RmxqVE15LXJPN3B5LTZLS3dXZnN3alJ0TXpIS0I2WEpTbnJUQzNZazBiYVZ4ZDNWdGtaYjZoaDJkWk9EOXV5eDUxbWRpdXVVeGh0SldhS1dkNVR4bDJ4MlBwQ3JINnA5d1NkSVduRA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-002",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India’s textile reset is here. The winners will be built, not picked.",
+    "summary": "India’s textile sector is entering an execution-led phase, with Warangal PM MITRA Park, UKITMC and CETA aligning capacity, technology and market access. \nDuty-free UK access can improve competitivenes",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-textile-reset-is-here-the-winners-will-be-built-not-picked--310302-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-003",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "neutral",
+    "title": "ICE cotton futures close higher on dry weather concerns in US",
+    "summary": "ICE cotton futures closed higher on persistent dry weather concerns in key US growing regions, especially Texas, which supported speculative buying.\nStrong crude oil prices and expectations of improve",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-futures-close-higher-on-dry-weather-concerns-in-us-310304-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-004",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Vietnam’s index of industrial production up 9.9% YoY in April 2026",
+    "summary": "Vietnam’s index of industrial production (IIP) rose by 3 per cent month on month and 9.9 per cent YoY in April, indicating strong growth momentum.\nIn January-April, the IIP rose by 9.2 per cent YoY, s",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-index-of-industrial-production-up-9-9-yoy-in-april-2026-310283-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "toray-2026-05-13-001",
     "date": "2026-05-13",
     "companies": [
@@ -258,6 +331,154 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbVBmWWlFczNZV3J0cWFvZzRiNmRoWmx3bzJnMzBSc1hINWk2S3ZJbDZHbEJWaEREWFRYVWNzOXpZUVdBM1RiTDljWDZCS25GNGwzQl9qcDk0a0JUeFpaeW5WWTZXX3JkOFJIbldqZEpRNHI3OGdZa3JZVTRycV9wLW5B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-05-13-015",
+    "date": "2026-05-13",
+    "companies": [
+      "toray"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toray Industries FY Net Y79.52B Vs Net Y77.91B - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUlUNHVCZ3FYNFJMNmZVNWE3Wi1kZkx3RE1ROHhEUURJVFo1NEs3bnM1X3ppaFlYa2FlZUhYQl83RTFWUjZWZVlMQ1ZuTHJWamkybVdUdkZoVURabXR5dTB2dlFQbTlQbS04WFJSeG",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUlUNHVCZ3FYNFJMNmZVNWE3Wi1kZkx3RE1ROHhEUURJVFo1NEs3bnM1X3ppaFlYa2FlZUhYQl83RTFWUjZWZVlMQ1ZuTHJWamkybVdUdkZoVURabXR5dTB2dlFQbTlQbS04WFJSeGlqT0lzU3pjdXZXSTI0NkxGZmU1b3pwTkZjNzlSdDg0SGVrZVhCUjJ2akhMc1RuLV9LVnIzbEkxaFFSNEtxaXBzSzhYWGlpMEVlSE43Q2hvVmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "far_eastern-2026-05-13-016",
+    "date": "2026-05-13",
+    "companies": [
+      "far_eastern"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Far Eastern New Century says Jan-Mar net profit T$3.09 bln - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmh6dk1JRTZ4WUFrQ0JKV2dZZlJVSnhlT1JteDlEZ1NQTWV1YVZUNXlRTFpCSWFYN3RMSmx4dERvUHhTWENPMlVlZnNxUjVTV0otSHZnRGZYV0RRZDgwQ2hkaG9yU0YwWHRKY3NDdU",
+    "sources": [
+      {
+        "name": "far_eastern",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmh6dk1JRTZ4WUFrQ0JKV2dZZlJVSnhlT1JteDlEZ1NQTWV1YVZUNXlRTFpCSWFYN3RMSmx4dERvUHhTWENPMlVlZnNxUjVTV0otSHZnRGZYV0RRZDgwQ2hkaG9yU0YwWHRKY3NDdUtMQVUxLUhXU0QzM0k5LVBIN1k3YnMwN0JJVEpsUWtPdVJLUnhWdU1RNkpNM25Rb0kzTUJRRVBJYWtVYWhZelNhbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-05-13-017",
+    "date": "2026-05-13",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "adidas AG: NNS Investments (Cyprus) Limited, Closure of existing short puts and opening of new short puts with longer maturity (roll) (closure in separate announcement); Opening: 87.000 Units, Strike EUR 169.97, Maturity 3. November 2026, Unit-Price EUR - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirARBVV95cUxNSEpRR2VKeS14S1p2a2xjWXVyMmpWUGlOWXpuUUFlMVMtbzlHZ3h6NlAzbFdaN3czT3Rqbl9aanFNdnMtLXdNR1AyQWx1YTRxV0RHZHBIOFV4SGpKV2pjSENHZDZwc3FIdEI5aUZaZ0",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxNSEpRR2VKeS14S1p2a2xjWXVyMmpWUGlOWXpuUUFlMVMtbzlHZ3h6NlAzbFdaN3czT3Rqbl9aanFNdnMtLXdNR1AyQWx1YTRxV0RHZHBIOFV4SGpKV2pjSENHZDZwc3FIdEI5aUZaZ0J6NUJ1Vl9IR3oyTC1kMUxVTjl1bm1KUkZxM3o2T0RQYnJSalBKTjR6WEtzTEIzMGpPVUFQdEJRdE1KUzRBbDhVZ2NyM212NzdIVmNTMEJWVVFoNGpSbTdoTmZhVl9rYmZzV3pubWxrcGh0TkFKWnRLN3F4RVZ6SlZOd0RjZ1E1OWJITXFUQUVPdU1wdGc0SzcxTHpMdlg5LUQwaTFLbEtFQ1NGam9LQ2pld0drRVRjaHNMbWV6U0pvSkZONXRucnFRdllOLUduVkh5NzhmeG42c0lHdkxCdVlIakpfSHFRUEM0WmkxTEZBWGE3QTIxb1g4SUFyaVB0cERIVGhmRGpKQ0J4YWYzMGVNeUh6NzhlajRwYVVNRGZGdW93RTN2b1d5dlNnNC02Y3ZQUzlTbDRDNXR1Tk5RX2lPbHlxUGJtdkRiNDBwd3gtUXpfdTNPRXphOGpLZG5XUUtPTTVMcHV1NG5PSVREQmVUNjZISFdoOTJfR0JpX1ZiYlVVSEppV1BZWGJlU0h1alo1c1lBOE9PdF9LUTVVaFhwU21FQU8xeElCSGlNSmlCRm9wb3k2OFZ4eUpfc0RIUWJNNFpP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-05-13-018",
+    "date": "2026-05-13",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Here is what to know beyond why Lululemon Athletica Inc. (LULU) is a trending stock - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPV0gtcWhIcjU1UlR0R0ZSSmZHSkNhZGtiblNfZGZjQWc0NVB0YlZmcVpCU2RseHc5R0V4RWZ1a2U5SjVoTXAxWUJ1NTg4emFHUHpKUW5MMnpncUhveWJDZzNSbTR5RlN4WW1LaENZaT",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV0gtcWhIcjU1UlR0R0ZSSmZHSkNhZGtiblNfZGZjQWc0NVB0YlZmcVpCU2RseHc5R0V4RWZ1a2U5SjVoTXAxWUJ1NTg4emFHUHpKUW5MMnpncUhveWJDZzNSbTR5RlN4WW1LaENZaTEtbHQ3TTZBeFZMZXA0cHFqOXlJRUlEWkZWdXR6WkQydWpIV1NHSVo4M2dWbFQ1eVh4Q25nbU5GR09ybjhwcEZXTEpOcVZuTnVLcjl6alhwZmF5TmxnNzZJMUVaRm0ybWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-05-13-019",
+    "date": "2026-05-13",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon’s Incoming CEO Says She’s Being Underestimated - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVZrQnh0bXlzUTlHcXc1eWczSDVwbWtHNWVRNHgzOWpnWmlhNHFpODR0TnVmMmZmd2d2NWpIN3lCdlctYi1pRXhGOWc2ZENqcDBWbnlqbjl6bnZoTUVVSjZMSzdGVW5WQmd4OFJoM2",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVZrQnh0bXlzUTlHcXc1eWczSDVwbWtHNWVRNHgzOWpnWmlhNHFpODR0TnVmMmZmd2d2NWpIN3lCdlctYi1pRXhGOWc2ZENqcDBWbnlqbjl6bnZoTUVVSjZMSzdGVW5WQmd4OFJoM2dEdjYyUy1JMXVhRnV3enZFanVSSy1nblF2MTVjekMzT2ZGTUQ5R3NRZ05XcEFxSWRuMFpuNl9fajBKUFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-05-13-020",
+    "date": "2026-05-13",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Watch Lululemon's Incoming CEO Aims to Get Brand Back on Track - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVlvVG43Vk9xM0hNRzN2YmFQWVI3WkJ0NWxmYVg4TWVYTVNrX2RXcEZLMDV2UTB6QldwWFVDUTV5TzZENFd5TGY3TFdsY21xTzNrV2RQMWRIZ3dyQ1JKMFhiV0gxcGxSeXlfUE5yWE",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVlvVG43Vk9xM0hNRzN2YmFQWVI3WkJ0NWxmYVg4TWVYTVNrX2RXcEZLMDV2UTB6QldwWFVDUTV5TzZENFd5TGY3TFdsY21xTzNrV2RQMWRIZ3dyQ1JKMFhiV0gxcGxSeXlfUE5yWEYwTW5sTFQ4MlIzeExIMU9vWVBuT21FMmlMelJiWUFGc18waGdrclFmWG9UQnVWQkc2T1JwdHVzUmZfMDQ3a3Y4WQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-13-021",
+    "date": "2026-05-13",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tapestry raises full-year outlook - World Footwear",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2lnLUxEQnYzUDg5Znp4ck1yNnQyc25tTXZITW00Rkdzd000NWcxS2d6aHBUS3JTMjNLSWs3elNReTk3bGVFdGY1cmJMQW5vemY0VkNHakNzb3paMlIyQS10M29qQkZZSXRuLUhqcD",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2lnLUxEQnYzUDg5Znp4ck1yNnQyc25tTXZITW00Rkdzd000NWcxS2d6aHBUS3JTMjNLSWs3elNReTk3bGVFdGY1cmJMQW5vemY0VkNHakNzb3paMlIyQS10M29qQkZZSXRuLUhqcDRpZnljem1BT1ZjemhKYXBVLUQwdTY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-13-022",
+    "date": "2026-05-13",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Work, 1975 by Lee Shinja, Cotton, wool, end linen thread; tapestry, 208 x 71.1 cm (4) - Ocula",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmktNE1GM1RZR0txdEVwWVJvYVU2WnlwSEFOenhTZlVkeEl2RjhLY2xpRHlHZ0pfQ0drQ2tkNTNtZm5UbDVWaW5VVU1ocGVlTzZ2dXVpUV9vMFJmV2ZLRndPM0lJeVI0bXQ3Q0pCV3",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmktNE1GM1RZR0txdEVwWVJvYVU2WnlwSEFOenhTZlVkeEl2RjhLY2xpRHlHZ0pfQ0drQ2tkNTNtZm5UbDVWaW5VVU1ocGVlTzZ2dXVpUV9vMFJmV2ZLRndPM0lJeVI0bXQ3Q0pCV3pMRS02YWlzVU5OZVJNMlVKOEZEcko?oc=5",
         "type": "rss"
       }
     ]
@@ -1147,6 +1368,24 @@
       {
         "name": "textile_world",
         "url": "https://www.textileworld.com/textile-world/2026/05/acimit-textile-machinery-orders-index-q1-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-11-023",
+    "date": "2026-05-11",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tapestry Awarded U.S. Patent for Innovative AI Platform: Mira - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPam1Qak8yTU5OTVNOeTdjUGlzUHBiazN0U1BJTFR5LTFMVnhjM2lfb2FzQ3YxX1dLNUFIS3V3UXk5WG4wTmZQZXpwbm10OXRTRm1fTzR4LUxGQlozMGdGRk9IUXBLWXlwQmZDaFpkY3",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPam1Qak8yTU5OTVNOeTdjUGlzUHBiazN0U1BJTFR5LTFMVnhjM2lfb2FzQ3YxX1dLNUFIS3V3UXk5WG4wTmZQZXpwbm10OXRTRm1fTzR4LUxGQlozMGdGRk9IUXBLWXlwQmZDaFpkY3BkWXB4RmtVQkVZT0s4UjRaeGd4UDBHX3JoZTZPa2Y4RkNQRUxtNkRqNjZIS2MtY0dVLURIUGdiVkk?oc=5",
         "type": "rss"
       }
     ]

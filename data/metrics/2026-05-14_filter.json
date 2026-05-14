@@ -1,0 +1,16 @@
+{
+  "total_raw": 402,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 209,
+  "gate1_fail": 25,
+  "gate2_fail": 51,
+  "passed": 13,
+  "gate2_samples": [
+    "Toray Industries (ADR)(TRYIY) Stock Options Chain | Quotes & News - Moomoo",
+    "Lenzing Gets Back in the Black - WWD",
+    "Lenzing gets back in the black - MSN",
+    "Lenzing AG: Release of a Financial report - TradingView",
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion"
+  ]
+}
