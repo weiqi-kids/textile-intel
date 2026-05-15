@@ -1,0 +1,231 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:13:00.163079Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton falls sharply on profit booking, weak US exports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-falls-sharply-on-profit-booking-weak-us-exports-310334-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-15-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US' Wolverine Worldwide Q1 EPS rises 60% on brand momentum",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-wolverine-worldwide-q1-eps-rises-60-on-brand-momentum-310337-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-15-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s Pearl Global’s FY26 revenue crosses $521 mn milestone",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-s-pearl-global-s-fy26-revenue-crosses-521-mn-milestone-310332-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-05-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank Julius Baer & Co. Ltd Zurich Increases Position in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYWdnTFVEVWxjSnNGTnpKQUpKUVJGWTlzYW1sUFNrdXI5cnBNNjV5SDhhSlVfYlNRNjZZWFF2VmRDMjNmWkwtQkJSenJvaEFmNlpFTVNvZzhpdVlESWhzekk3SEFXSkVtbG9FdHdrVmlwVHdTUGt1TjhybThnRHBZb2xYaEJGSDg1Vjl5dkNkdjB0TERhZ3paMzRHcUZ6X2x5OXc3QVhmMmRBS0Iyd3Ftb0JyQ1FXd0xxdlFsd25tMEx1TG5Uc0NaSWpoUThiak9HXzZUeEhDWEFUZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-05-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tapestry’s Mira AI Patent Puts Focus On Margins And Valuation - simplywall.st",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWS11cE1fWEJyalBqNVBKQ0E4eWR2UGhldHNfQXpqWGpVMlJ3ai1zVzlSRnktYi15ZW92TmowdUJJYUd4a19WZVdPOHNwUk16ZkFjamRBbFJwalFNMTI4dmdnckRONWxPTkVaTGJvcGthcGkyZDlHQzRCU1dUZUZzZ2dVSEZpNkJuaHFEX1VYanhZNzJkMlEyZlRfSWdtUUxqdW1STEJnRHZsdjdSLWhqcWpHbGJpc3gwbVZGVDkyVThkMDltS3pFYU9tWkpJZ9IB0wFBVV95cUxPNHctRWxLQjJJOXk2LXY5ZjBTdk8wYzBpSkc2OXZNNE5KaEZTTVhMU0hlLWo1R1VCWlJybnRrdHhjeGNMM2ZQZ0NLdzI4V3FjUmZkVVluY1JOSDl4RUx2UWl4TGFFMGFCcEc5RUFvaXpjWEJTTmtVZUV0RjB4QVBrN3RTM1pEa1U2ZkY0TjUwckctMTk5VE9uRkItZm15cVBoQ2lkOVJzOW5WTFZFY1hkOFN6T1VfVGY4RmZ0Rmp1d3A4WTRCRlpIRWVkTk53NkxMX2c4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 4,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 402,
+    "dup_title": 94,
+    "too_old": 212,
+    "gate1_blocked": 25,
+    "gate2_blocked": 40,
+    "passed": 31,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Toray Industries (ADR)(TRYIY) Stock Options Chain | Quotes & News - Moomoo",
+      "Lenzing gets back in the black - MSN",
+      "Lenzing Gets Back in the Black - WWD",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "Shenzhou International Group Holdings Stock Rallies 2.7% in Hong Kong - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Coach、Lululemon相關動態：「ICE cotton falls sharply on profit booking, weak US exports」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ICE cotton falls sharply on profit booking, weak US exports（棉花價格、訂單能見度、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "US' Wolverine Worldwide Q1 EPS rises 60% on brand momentum（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
