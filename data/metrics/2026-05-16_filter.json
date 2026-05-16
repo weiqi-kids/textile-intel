@@ -1,0 +1,16 @@
+{
+  "total_raw": 402,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 206,
+  "gate1_fail": 23,
+  "gate2_fail": 42,
+  "passed": 24,
+  "gate2_samples": [
+    "Toray Industries Sees FY Net Y90.00B - Moomoo",
+    "Toray Industries (ADR)(TRYIY) Stock Options Chain | Quotes & News - Moomoo",
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+    "Lenzing gets back in the black - MSN",
+    "Shenzhou International Group Holdings Stock Rallies 2.7% in Hong Kong - Moomoo"
+  ]
+}

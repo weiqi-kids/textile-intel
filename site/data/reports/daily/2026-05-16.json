@@ -1,0 +1,248 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:21:21.391114Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-16-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Japan’s Asics posts record Q1 earnings on broad regional growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/japan-s-asics-posts-record-q1-earnings-on-broad-regional-growth-310355-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "eclat-2026-05-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eclat Textile Co Ltd stock (TW0001476004): earnings momentum and global sportswear demand in focus - AD HOC NEWS",
+      "companies": [
+        "eclat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzZ3Q3k0enR6Slhpclhxd2x0cVFUeUM3dE9DNDljVnZnVkN1VTVaaE5vd1oxWHYycTVzcVB6YXgzR1lTTTZDaGRUcTZJNk4xT2stWnlxRl9sZ3JzNHN0RWZpMW52endzNG9aYlBIekg3RlFYSURyY3l2cEdSdFM3aG9LR050WUZobWRSc2FmRzhULXM5NlpyMEZHaXV5RHFSUlJldGpxWk1DTVZOOF9UUUpmXy1neHp6WkhjUElJcUlMZGY4cVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bangladesh net FDI inflows up 39.36% in 2025",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-net-fdi-inflows-up-39-36-in-2025-310350-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-16-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Canada Goose eyes FY27 growth on pricing, product depth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/canada-goose-eyes-fy27-growth-on-pricing-product-depth-310349-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-16-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Polyester yarn prices ease as PTA weakens on limited demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/polyester-yarn-prices-ease-as-pta-weakens-on-limited-demand-310358-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.31,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.62,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "eclat",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 402,
+    "dup_title": 107,
+    "too_old": 206,
+    "gate1_blocked": 23,
+    "gate2_blocked": 42,
+    "passed": 24,
+    "pass_rate": "8.1%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Toray Industries Sees FY Net Y90.00B - Moomoo",
+      "Toray Industries (ADR)(TRYIY) Stock Options Chain | Quotes & News - Moomoo",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "Lenzing gets back in the black - MSN",
+      "Shenzhou International Group Holdings Stock Rallies 2.7% in Hong Kong - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Eclat Textile相關動態：「Japan’s Asics posts record Q1 earnings on broad regional ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Japan’s Asics posts record Q1 earnings on broad regional growth（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Eclat Textile Co Ltd stock (TW0001476004): earnings momentum and global sport...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
