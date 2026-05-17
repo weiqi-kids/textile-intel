@@ -1,0 +1,104 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:28:18.153609Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sustained reforms key to navigating uncertainty in Vietnam: World Bank",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/sustained-reforms-key-to-navigating-uncertainty-in-vietnam-world-bank-310364-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 121,
+    "too_old": 211,
+    "gate1_blocked": 26,
+    "gate2_blocked": 40,
+    "passed": 5,
+    "pass_rate": "1.8%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "Shenzhou International Group Holdings Stock Rallies 2.7% in Hong Kong - Moomoo",
+      "Eclat Textile stock (TW0001476004): Recent share price dynamics and business update - AD HOC NEWS",
+      "Makalot Industrial Co Ltd stock (TW0001477002): Apparel manufacturer in focus after latest business ",
+      "Makalot Industrial stock (TW0001477002): Supply-chain focus after latest company updates - AD HOC NE"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為供應鏈轉移、法說會相關動態：「Sustained reforms key to navigating uncertainty in Vietna...」。主要關注主題為供應鏈轉移、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sustained reforms key to navigating uncertainty in Vietnam: World Bank（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

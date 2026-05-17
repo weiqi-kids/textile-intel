@@ -1,0 +1,168 @@
+{
+  "date": "2026-05-17",
+  "date_range": {
+    "start": "2026-05-11",
+    "end": "2026-05-17"
+  },
+  "generated_at": "2026-05-17T09:28:18.286866Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hm-2026-05-13-007",
+      "date": "2026-05-13",
+      "title": "GFS 2026: Kering, H&M on putting sustainability back on the CFO agenda",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 21,
+      "last_week": 20,
+      "week_over_week_change": "+5%",
+      "sentiment_this_week": 0.08
+    },
+    "supply_chain_shift": {
+      "this_week": 37,
+      "last_week": 36,
+      "week_over_week_change": "+3%",
+      "sentiment_this_week": 0.08
+    },
+    "fast_fashion": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.04
+    },
+    "cotton_price": {
+      "this_week": 5,
+      "last_week": 9,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": -0.45
+    },
+    "order_visibility": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "sustainable_textile": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "lululemon": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "nike": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "tapestry": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "toray": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 4
+    },
+    "far_eastern": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "pvh": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hm": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 7
+    },
+    "inditex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "eclat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 135,
+        "last": 151,
+        "change_pct": -10.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-11",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 27,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 26,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 22,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 22,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 13,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-11 ~ 2026-05-17）共 135 則事件，重點為「GFS 2026: Kering, H&M on putting sustainability...」。東麗、H&M情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "東麗",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "H&M",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Lululemon",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

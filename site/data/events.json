@@ -1,5 +1,24 @@
 [
   {
+    "id": "unknown-2026-05-17-001",
+    "date": "2026-05-17",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sustained reforms key to navigating uncertainty in Vietnam: World Bank",
+    "summary": "Vietnam’s economy has demonstrated notable resilience in an uncertain global environment, according to the World Bank. \nWhile headwinds are expected to temper the pace of expansion, it projects growth",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/sustained-reforms-key-to-navigating-uncertainty-in-vietnam-world-bank-310364-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "eclat-2026-05-16-001",
     "date": "2026-05-16",
     "companies": [
@@ -182,6 +201,64 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/canada-goose-eyes-fy27-growth-on-pricing-product-depth-310349-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eclat-2026-05-16-011",
+    "date": "2026-05-16",
+    "companies": [
+      "eclat"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Eclat Textile Co Ltd stock (TW0001476004): earnings momentum and global athleisure demand in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQLU13SWpqSVA4VHNqTnZ3VElpVWJBUzg1WVFSTDhVTEFQb0FOS0JLZnJYRnBaVUwybkZWR3lweEZwS0EyQ2NKTnJsWWsyS3JzR1BwTFZtc3V1TGdPR1lUVWNoYWRwcXQtNUxLNVBrWV",
+    "sources": [
+      {
+        "name": "eclat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLU13SWpqSVA4VHNqTnZ3VElpVWJBUzg1WVFSTDhVTEFQb0FOS0JLZnJYRnBaVUwybkZWR3lweEZwS0EyQ2NKTnJsWWsyS3JzR1BwTFZtc3V1TGdPR1lUVWNoYWRwcXQtNUxLNVBrWVdNRWd1TC1DZWtKcGdWMnA3aE5zdDJYdURWZE1JMFBzZ3o4YktUMDVHaVZoZEZKdF9VRmFMZzJIaFY1RXhLR1FobThmei01anl5MzlIMnZrNnRfdkw5Nnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-05-16-012",
+    "date": "2026-05-16",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Adidas AG stock (DE000A1EWWW0): Q1 2026 earnings jump and Frankfurt shares react - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHRfZlUzLWJDYno5UWRXUTFrUFo3R3hSZzVwVW84N1g2SE5GUWxOaTZsVjB6cUFvcFIwVFc3OGxrMlA5cmU0a0Y5QlVHc2g5RlExNERsZlZpR241WTZYMzJ1cEdseDljY3B0OV9UYm",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHRfZlUzLWJDYno5UWRXUTFrUFo3R3hSZzVwVW84N1g2SE5GUWxOaTZsVjB6cUFvcFIwVFc3OGxrMlA5cmU0a0Y5QlVHc2g5RlExNERsZlZpR241WTZYMzJ1cEdseDljY3B0OV9UYmZNQW5LcWJuRTA2SWJtRkxXOGd3SkhPTGhpbnFGTEc1LWE1cnRqNWFNbVNJajVVb0xjTm5EQzRlZnZrclFvNDFjdVE4WUVxampVaG5ON0t0c01zQXB3SHhYemtn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-05-16-013",
+    "date": "2026-05-16",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "lululemon athletica inc. Trade Ideas — BOATS:LULU - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9PYUdPUzhfeXFHSm9aRnNkVkhVeG9QNkdXRm53aUVCX1UyZ29RR01weFg0LWtCc2d6bjVGQjJhWU95OUhnYm5CVHktNGFaQzdnbUZ4RFRqSEIxbjRFVXViNGRTdF90Njcxb3JaSA?oc=",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PYUdPUzhfeXFHSm9aRnNkVkhVeG9QNkdXRm53aUVCX1UyZ29RR01weFg0LWtCc2d6bjVGQjJhWU95OUhnYm5CVHktNGFaQzdnbUZ4RFRqSEIxbjRFVXViNGRTdF90Njcxb3JaSA?oc=5",
         "type": "rss"
       }
     ]
@@ -577,6 +654,26 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdUhSNURENFI2RXhWcVc5Zm44bVpfb3hKYzFxeWpITFBlUWl6WEdsLUdCb0MwMDJ6R29fRUNQeXF6amU1ang3OVAxSGREcTFjRVAyNmptaVRsTnptaEU5bFNGRTFFc0ZJUkhVY2t5dHJucG9OdWNaUGVXMXFRMTF5S0RPZFdkSnFqbFI2ZGZsUjUzcXhack5wbnFKUGwxRkxxZXlxZmRWeGphZWZRb2tLeW1mNG5mcVM2NE5xcGlvOG50Z3d5OTBaSkZLRkx2enZpd3ZhWjFJbDdaY2RiTFp2UWVHSkhqX2pFY3ZlUlNGbGE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-15-022",
+    "date": "2026-05-15",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tapestry Is Quietly Becoming a One-Brand Company, Coach Just Grew 31% Making Up Two-Thirds of the Revenue, kate spade Down 10%, - RETAILBOSS | Substack",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE05UldMNHBjbmNwSTcxVEdNcHRDcExfWFAwSWVqVXNoclRUZVAwdjB4X0RicmpyREROZFFlUldIejF3X3piM2lBc3Rwem9EWEVXVHNsOUVtbmVkcENZUmV6ZWZCODFXbEp4U2RaaXdUcV",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05UldMNHBjbmNwSTcxVEdNcHRDcExfWFAwSWVqVXNoclRUZVAwdjB4X0RicmpyREROZFFlUldIejF3X3piM2lBc3Rwem9EWEVXVHNsOUVtbmVkcENZUmV6ZWZCODFXbEp4U2RaaXdUcVFNWmRjbncw?oc=5",
         "type": "rss"
       }
     ]
