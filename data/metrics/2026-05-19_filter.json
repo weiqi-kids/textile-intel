@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 210,
+  "gate1_fail": 31,
+  "gate2_fail": 39,
+  "passed": 24,
+  "gate2_samples": [
+    "Lenzing AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide dis",
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+    "Shenzhou International Group Holdings Stock Rallies 2.7% in Hong Kong - Moomoo",
+    "Eclat Textile stock (TW0001476004): Recent share price dynamics and business update - AD HOC NEWS",
+    "Makalot Industrial Co Ltd stock (TW0001477002): Apparel manufacturer in focus after latest business "
+  ]
+}

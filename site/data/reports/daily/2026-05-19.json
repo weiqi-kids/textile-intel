@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T10:54:01.521995Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eclat-2026-05-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eclat Textile Co Ltd stock (TW0001476004): sportswear supplier in focus after recent earnings - AD HOC NEWS",
+      "companies": [
+        "eclat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSFFJX2QyMVhGZHJPMGw3bVZvOTVZdzFsY0FxUFlfSjAxaHliZERpcTVvN1hyTzdMYkVzYU9SR0x4aV9LSlh2Vjk1b0ZvbVQ0RW5kVUlQaVZOSUxlV0YyalhVSnpiOUJhckNTVl90b1N2RmY5azQ1S3VSM25VNmpBYlY5NWdFWVVmQmFuZjVpM21VeVZMektHWHFIYXA1SmNhUG54X1FlOUpHaTVWSHRhSXZCa21fMkZCb2R6U1hzQjE1M0lnZFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-19-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ICE cotton rebounds sharply on hopes of improving US-China ties",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-rebounds-sharply-on-hopes-of-improving-us-china-ties-310397-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "eclat-2026-05-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Eclat Textile Co Ltd stock (TW0001476004): recent results and sportswear demand in focus - AD HOC NEWS",
+      "companies": [
+        "eclat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXZSenQxV3RoZ1Bxb3pfQUpLODJBNnNCWlBURFlPNnRKZVV3R2VPc2ZBTDJCT3d3UnBTamJOcHZUdjFxRnJyRnM0dFJMTldvTlBJVXAyaDAweEVTejd2WFhmeXFkcHppYXlFeGc1Qy1rbVptN3ZVWUY3NlNvMzFoUGxhaG1vekNUNzRJN2VyTVJCd2NjUXpiQVJJbktHbEgtM0dlbHM5d1RPNTlUQ0lobTVYc0h1TjZzYmZraVMzWHFuTFBKRjBj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-05-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Rejects Founder Chip Wilson's Board Nominations Amid CEO Transition | 2026 - News and Statistics - IndexBox",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmVoSWdjVnhiMUF1OTdzWHpYWlp3aVppWnE1b3M3VDNUc1h5WER5RUt4bWtZdzZEeXdWeUExeHBtcW0xMDY4MG15cHJHbEVUM1dnWmtGQXZnbWJrRlBPVnE3Yi1ZQmRSbE5Xc05LMnhqWEZ3X0JDanMyVkd3RG9aLW5IS0NBcjJhd2J0b2g2MWM0NEF0bDVKam9OMU5xNFJsX0JKaHhkY2x5b3FP?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-05-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon negotiations with founder collapse amid escalating demands - The San Joaquin Valley Sun",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckJlbDNHQVhXOUtaaXNhNnc5dThLNnN6Z0dsUGt1WXA2eWN2SFAzZWJTTjhSZHM1N1RPZHVKZnZ0SmVwRUViSGRmMEhLZ2dDcWJGTlItR3dJYk1nRmZGV2NYYmRQaHB1SmI3YWtCZVctdVR5Z29INmlaaGg5QWJ5bEFGWXREM3lSMTNXWVZxVmt5UDhiUzN3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.39,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.71,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 3
+      },
+      {
+        "id": "eclat",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 100,
+    "too_old": 210,
+    "gate1_blocked": 31,
+    "gate2_blocked": 39,
+    "passed": 24,
+    "pass_rate": "7.9%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "Lenzing AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide dis",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "Shenzhou International Group Holdings Stock Rallies 2.7% in Hong Kong - Moomoo",
+      "Eclat Textile stock (TW0001476004): Recent share price dynamics and business update - AD HOC NEWS",
+      "Makalot Industrial Co Ltd stock (TW0001477002): Apparel manufacturer in focus after latest business "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Coach、Eclat Textile、Lululemon相關動態：「Eclat Textile Co Ltd stock (TW0001476004): sportswear sup...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Eclat Textile Co Ltd stock (TW0001476004): sportswear supplier in focus after...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "ICE cotton rebounds sharply on hopes of improving US-China ties（棉花價格）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

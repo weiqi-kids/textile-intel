@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-19",
+  "total_events": 11,
+  "by_company": {
+    "eclat": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "supply_chain_shift": {
+      "count": 3,
+      "sentiment_avg": -0.39
+    },
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": -0.71
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
