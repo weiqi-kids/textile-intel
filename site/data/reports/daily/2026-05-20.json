@@ -1,0 +1,250 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T10:42:20.711429Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vf_corp-2026-05-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corporation Returns to Revenue Growth for the Full Year in FY'26 With Expanded Margins and Reduced Debt",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "adidas-2026-05-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas AG Earnings Call Signals Profitable Rebound - TipRanks",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRnViclpPY3lpT2d6M1JRUFJhS0QxSkQwc0Vid2l2ZWcxNHZFNmxvSlg1YUIxNmZjYjZiQTFxT1YzZTJKcFEyZkVtRmplQVk0T2dOSjNHTlczM2RZbTh4THFRcmdnZGNVUlNkNTRLNjlNUHhRcWFsQmVGOTFwWGloV25wMm1yWXBGZGZycjFxaHFGeW9BelZMd1J4RVBKcmVxTmd6Ng?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vf_corp-2026-05-20-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corporation Returns to Revenue Growth for the Full Year in FY'26 With Expanded Margins and Reduced Debt - The Joplin Globe",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQSm42YUpTZDM3MEZab0JOa2Z3WGFRUzl1TGRSdGdweFoyaXNzaE1GSk8tZVlWRmo0RVFVN1RzSldqdldHcjZIcEdMbUJJcTBqX3k4UTBIbFdlRWNEQmtCT1R2b054RWphb1M5M1MwM215cS1CMVBPa0RfOElfbGZzajBqMUR0U2g1VHNrUEpuQU5OR0Z0ZXRHMUVIU0RzLWZLTWFUM3g3RUx0RUJjMWhURE9JUUh1WFl2TzNsR0JrQ0c5dW9TeXVaM3ZyTG9ZNDE1NGxLaDBPUWViQUxoTnNwLU5Qa1pVZ2dfdVZ0bUw5czZDeVFKQmZSNE1rTE1mSUdtTGd4Znh2NkppMHVCTUl3NTNrQlVTR2lIZ1ZJ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-20-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "V.F. Corporation (VFC) lifts FY 2026 margins, cuts leverage and reinstates FY 2027 guidance - Stock Titan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJ5eE9CX3lWbFFURUhIMnQ5Smg0Umx2T1VPVURrZ3NUelFZUmFGcEtMRG5oNVMzeV91VWVCWEotN3NWX2w3WEo3Vk9Bamkya2Z6c09fSGpPSGF5ZzdJdUZQYmlRNk9rdGpIQmw3dGtyVW5UUVBFdUJxQW41LUlQaUdCTmlUVW1RSGdyYUlWdlJNa2VXeGx4SWpGMUY?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-20-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Finland’s Amer Sports raises 2026 guidance after strong Q1 growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/finland-s-amer-sports-raises-2026-guidance-after-strong-q1-growth-310415-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vf_corp",
+        "count": 3
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "inditex",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 91,
+    "too_old": 201,
+    "gate1_blocked": 31,
+    "gate2_blocked": 47,
+    "passed": 35,
+    "pass_rate": "11.1%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Toray takes $173M hit on EV battery separator business - Plastics News",
+      "Lenzing AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide dis",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "Shenzhou International Group Holdings Stock Rallies 2.7% in Hong Kong - Moomoo",
+      "Makalot Industrial Co Ltd stock (TW0001477002): textile manufacturer in focus after recent monthly r"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為VF、愛迪達、Zara相關動態：「VF Corporation Returns to Revenue Growth for the Full Yea...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "VF Corporation Returns to Revenue Growth for the Full Year in FY'26 With Expa...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Adidas AG Earnings Call Signals Profitable Rebound - TipRanks（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

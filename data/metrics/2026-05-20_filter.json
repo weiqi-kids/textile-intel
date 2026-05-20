@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 201,
+  "gate1_fail": 31,
+  "gate2_fail": 47,
+  "passed": 35,
+  "gate2_samples": [
+    "Toray takes $173M hit on EV battery separator business - Plastics News",
+    "Lenzing AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide dis",
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+    "Shenzhou International Group Holdings Stock Rallies 2.7% in Hong Kong - Moomoo",
+    "Makalot Industrial Co Ltd stock (TW0001477002): textile manufacturer in focus after recent monthly r"
+  ]
+}
