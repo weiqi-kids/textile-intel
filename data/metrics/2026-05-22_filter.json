@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 194,
+  "gate1_fail": 36,
+  "gate2_fail": 42,
+  "passed": 25,
+  "gate2_samples": [
+    "Toray takes $173M hit on EV battery separator business - Plastics News",
+    "Lenzing AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide dis",
+    "Eclat Textile Co Ltd stock (TW0001476004): Nomura lifts target after Q1 update - AD HOC NEWS",
+    "Makalot Industrial Co Ltd stock (TW0001477002): textile manufacturer in focus after recent monthly r",
+    "Makalot Industrial Co Ltd stock (TW0001477002): Apparel manufacturer in focus after latest business "
+  ]
+}
