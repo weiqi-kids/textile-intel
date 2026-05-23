@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T09:44:12.471616Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-05-23-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NIKE, Inc. stock (US6541061031): Q3 earnings and future growth drivers in focus - AD HOC NEWS",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGVVRkNaQ1RRMlJlRzNPY241NVFlcWl6c01XanhqamFTNTJ3clJwMlduUU1nYWNXa0RQTFVlTWxTbXpOZWIxNWQ0eDhlbEkwLXlYdlBVU2hkbHJOeVl0cHpoaVZtZmpVN2ItQVIxTFFEV3h5SDNlQXdaLWpwZHVJOTI1bDFXbUQxdmpPRzlZUnpfQWo2R0lqSG9kbDh0emRMUVI0Y3pDR0F5VU9lZE9JenpxeUpwOUUtZmFhWVlMT1UwdmRfNVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-23-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "PET prices decline after April peak amid weak polyester operating rate",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/pet-prices-decline-after-april-peak-amid-weak-polyester-operating-rate-310497-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-05-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ralph Lauren Vs. Tapestry: Which One Is A Better Investment? - Seeking Alpha",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3NKNi1aRV84Y09LUEpMa3NIWjFWR3laamsxWXo5bjlIcUk2VFhWako3cm00UzJ4bzgtZGZxNHYyWm1XMzl5NV9Ga0tpVkI0MGZFQXpZakNMX2xSbU50MHBQNTJyNFQ5bjFKN044Sm1lNWJlUS1oa0cwZjNiUmxrVE13TGxxa2lUMlA4WFpxVHlqZ2tSY3lRSHlqRUZGNkk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tapestry-2026-05-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Dundee Tapestry has found a new permanent home at the McManus - Dundee Culture",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTS1feV9GbEhIVUk1T0Q1ZzZ5T3RBVTZ3azFVX3RmbUJBRnpRSGFlSFNrOGd3c004R1JKZ2ZXT1JvX3lVbkUzbGN3bE5yMHBCSmkzMUdhdS12SERlSEdLMS05aVZRUkFKU043NFdjWnJtaENHWk5pRHlmQ1E0bmN3elVCZnlPaXIxX2ZvVGthY2Q0T0V2WWNCUmFmT183Wl9IRnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South India cotton yarn sees bearish tone, prices remain unchanged",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/south-india-cotton-yarn-sees-bearish-tone-prices-remain-unchanged-310502-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 119,
+    "too_old": 195,
+    "gate1_blocked": 32,
+    "gate2_blocked": 43,
+    "passed": 15,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "Toray takes $173M hit on EV battery separator business - Plastics News",
+      "Lenzing AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide dis",
+      "Eclat Textile Co Ltd stock (TW0001476004): Nomura lifts target after Q1 update - AD HOC NEWS",
+      "Makalot Industrial Co Ltd stock (TW0001477002): textile manufacturer in focus after recent monthly r",
+      "Makalot Industrial Co Ltd stock (TW0001477002): Apparel manufacturer in focus after latest business "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Coach、耐吉相關動態：「NIKE, Inc. stock (US6541061031): Q3 earnings and future g...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "NIKE, Inc. stock (US6541061031): Q3 earnings and future growth drivers in foc...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "PET prices decline after April peak amid weak polyester operating rate（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "棉花價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

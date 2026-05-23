@@ -1,5 +1,116 @@
 [
   {
+    "id": "tapestry-2026-05-23-001",
+    "date": "2026-05-23",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ralph Lauren Vs. Tapestry: Which One Is A Better Investment? - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3NKNi1aRV84Y09LUEpMa3NIWjFWR3laamsxWXo5bjlIcUk2VFhWako3cm00UzJ4bzgtZGZxNHYyWm1XMzl5NV9Ga0tpVkI0MGZFQXpZakNMX2xSbU50MHBQNTJyNFQ5bjFKN044Sm",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3NKNi1aRV84Y09LUEpMa3NIWjFWR3laamsxWXo5bjlIcUk2VFhWako3cm00UzJ4bzgtZGZxNHYyWm1XMzl5NV9Ga0tpVkI0MGZFQXpZakNMX2xSbU50MHBQNTJyNFQ5bjFKN044Sm1lNWJlUS1oa0cwZjNiUmxrVE13TGxxa2lUMlA4WFpxVHlqZ2tSY3lRSHlqRUZGNkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-23-002",
+    "date": "2026-05-23",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Dundee Tapestry has found a new permanent home at the McManus - Dundee Culture",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTS1feV9GbEhIVUk1T0Q1ZzZ5T3RBVTZ3azFVX3RmbUJBRnpRSGFlSFNrOGd3c004R1JKZ2ZXT1JvX3lVbkUzbGN3bE5yMHBCSmkzMUdhdS12SERlSEdLMS05aVZRUkFKU043NFdjWn",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTS1feV9GbEhIVUk1T0Q1ZzZ5T3RBVTZ3azFVX3RmbUJBRnpRSGFlSFNrOGd3c004R1JKZ2ZXT1JvX3lVbkUzbGN3bE5yMHBCSmkzMUdhdS12SERlSEdLMS05aVZRUkFKU043NFdjWnJtaENHWk5pRHlmQ1E0bmN3elVCZnlPaXIxX2ZvVGthY2Q0T0V2WWNCUmFmT183Wl9IRnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-003",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "South India cotton yarn sees bearish tone, prices remain unchanged",
+    "summary": "South India’s cotton yarn market turned bearish after recent sharp gains as weak downstream demand, labour shortages and falling cotton prices dampened buying sentiment.\nYarn prices in Tiruppur and Mu",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/south-india-cotton-yarn-sees-bearish-tone-prices-remain-unchanged-310502-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-004",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "PET prices decline after April peak amid weak polyester operating rate",
+    "summary": "Indian PET resin prices fell nearly 8 per cent from the April peak as weak polyester operating rates, cautious buying and sufficient domestic supply softened the market.\nLimited PTA imports kept feeds",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/pet-prices-decline-after-april-peak-amid-weak-polyester-operating-rate-310497-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-005",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Argentina’s apparel imports rise 68% in Q1; China retains edge",
+    "summary": "Argentina’s apparel imports surged 68 per cent year on year to $238.84 million in Q1 2026, reflecting stronger domestic demand and faster sourcing activity. \nChina retained its lead, accounting for 56",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/argentina-s-apparel-imports-rise-68-in-q1-china-retains-edge-310462-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-05-23-006",
+    "date": "2026-05-23",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "NIKE, Inc. stock (US6541061031): Q3 earnings and future growth drivers in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGVVRkNaQ1RRMlJlRzNPY241NVFlcWl6c01XanhqamFTNTJ3clJwMlduUU1nYWNXa0RQTFVlTWxTbXpOZWIxNWQ0eDhlbEkwLXlYdlBVU2hkbHJOeVl0cHpoaVZtZmpVN2ItQVIxTF",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGVVRkNaQ1RRMlJlRzNPY241NVFlcWl6c01XanhqamFTNTJ3clJwMlduUU1nYWNXa0RQTFVlTWxTbXpOZWIxNWQ0eDhlbEkwLXlYdlBVU2hkbHJOeVl0cHpoaVZtZmpVN2ItQVIxTFFEV3h5SDNlQXdaLWpwZHVJOTI1bDFXbUQxdmpPRzlZUnpfQWo2R0lqSG9kbDh0emRMUVI0Y3pDR0F5VU9lZE9JenpxeUpwOUUtZmFhWVlMT1UwdmRfNVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-05-22-001",
     "date": "2026-05-22",
     "companies": [
@@ -194,6 +305,136 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/india-s-page-industries-fy26-pat-grows-4-8-to-76-4-mn-310474-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-05-22-012",
+    "date": "2026-05-22",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike Previews Crazy 7-Brand Collaboration Collection for 2026 World Cup - Footy Headlines",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRzM3U3ZvV1RTd1BvLXBOamk2bmxhYkFGSG1GYVZGczlkNExQWkFkRHpjdjhfemxiYmd6R2dCOFRka3RsLUN3dWtiNlBja0Nid3Jvc3h6NFJpQjdaN3c3aGhQYlU4NnBKb2dPaUM3Q0",
+    "sources": [
+      {
+        "name": "nike",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRzM3U3ZvV1RTd1BvLXBOamk2bmxhYkFGSG1GYVZGczlkNExQWkFkRHpjdjhfemxiYmd6R2dCOFRka3RsLUN3dWtiNlBja0Nid3Jvc3h6NFJpQjdaN3c3aGhQYlU4NnBKb2dPaUM3Q0pGQ2JJcmttWWtnMmxfdnVaa0RIZ082QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "inditex-2026-05-22-013",
+    "date": "2026-05-22",
+    "companies": [
+      "inditex"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Inditex S.A. stock (ES0148396007): Zara owner posts solid 2024 results and hikes dividend - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWHU3dGxOYVhkenVleUhhU0VfazNfYkV3RzhyMjB2NUo1NHVjQ1BsU1BGVGJLZmlMYTVfNkc0VjVMZGFOTExXbFZZT19qVFVvcXk5QlhOTjE0bHBUanlOZUZkaGZRRmNsZmRndEc1MT",
+    "sources": [
+      {
+        "name": "inditex",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWHU3dGxOYVhkenVleUhhU0VfazNfYkV3RzhyMjB2NUo1NHVjQ1BsU1BGVGJLZmlMYTVfNkc0VjVMZGFOTExXbFZZT19qVFVvcXk5QlhOTjE0bHBUanlOZUZkaGZRRmNsZmRndEc1MTloVEJKMkV1bzVBV2xLZ19McEozVUs5aHV5Z1g4NmZzM3BsTzZ2UHVpRnVXX2V4QUMtc3ZJMHdtNVBoMnBwYWJETjlLeXdaOFFqak82Y2dpc0lXVFpEc3dBTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-05-22-014",
+    "date": "2026-05-22",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lululemon (LULU): Buy, Sell, or Hold Post Q4 Earnings? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGsxSXczMGlkMTJ0RXBVbFVoaU9lcDE4N0tCeHhPN1NZaHNkWWlyV3IzRXZ0VTljemdYSGVHZ2U3VmdzQ3ItR3lFTmNkRklhOVhlT0wtMzFKOEJFcTZOalBmQkQ3ZlMwT3REQmxQZF",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGsxSXczMGlkMTJ0RXBVbFVoaU9lcDE4N0tCeHhPN1NZaHNkWWlyV3IzRXZ0VTljemdYSGVHZ2U3VmdzQ3ItR3lFTmNkRklhOVhlT0wtMzFKOEJFcTZOalBmQkQ3ZlMwT3REQmxQZFNQYXJQRVdUOU5YemQtaWFMUHNleTlVQVlWa3d5UU00UlhjNFo0TlJ3bQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-05-22-015",
+    "date": "2026-05-22",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "VF Corp reports improved performance in fiscal 2026 - World Footwear",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWUlENEcxSmNLd3FPSk8taDdzMnRWcWx5V0ZmSU9IU2gzaVV4YWduZ05paGh5SHJ0ZnN0UXRxNkhqQWxuUGphMFpyTGYzUXFzcENNYnU4N3U5SWx6LWk3Sjd6ZDJvYzVXaEtuU0dsUk",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWUlENEcxSmNLd3FPSk8taDdzMnRWcWx5V0ZmSU9IU2gzaVV4YWduZ05paGh5SHJ0ZnN0UXRxNkhqQWxuUGphMFpyTGYzUXFzcENNYnU4N3U5SWx6LWk3Sjd6ZDJvYzVXaEtuU0dsUk5CRTBYbHU3YXQ3aG9QbGhuSDB1ZzFPLXFkZUtiMjdHLW5xNlhjanBGOW9jaDNPZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-05-22-016",
+    "date": "2026-05-22",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Shuffle Board: PVH Revamps Leadership, Banana Republic Lands CEO - WWD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ29WeWVRNkJzQ1hYbEIzS1l1S1FTUTc4RFlyT0F5WjZLczl4Q1dhLTZDUHhBdExWMVYtaTEyc09rd290X0VUQm9IVnFSUkowUFhMQUp6bnFNMGpCRUJvYjhIcU9NZmlndlZzOHpnaE",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ29WeWVRNkJzQ1hYbEIzS1l1S1FTUTc4RFlyT0F5WjZLczl4Q1dhLTZDUHhBdExWMVYtaTEyc09rd290X0VUQm9IVnFSUkowUFhMQUp6bnFNMGpCRUJvYjhIcU9NZmlndlZzOHpnaElpZHpIbklRYkowMjRjVFN4N0JYNGdxdWVjZnJpMjhudzctNXZsVjRZRnBHTEFBTHlqNTZuMkNFVl9JbzVNR2c5TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-05-22-017",
+    "date": "2026-05-22",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Bayeux Tapestry is coming to the UK – and this is how you can see it - HistoryExtra",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQTU40SjVYbzdTaFRTS0tjcUp1OHUxWFNobk5VVDU2VlBsLU1WTWhIZ0F0ZDBqRzFjUF9KV3UyUGRBS2REY3RRMWRPVDgzM3oxcW9oY3JHMFN2STNoOV9mRlFJbk9rTUotVnFlYXJpbn",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTU40SjVYbzdTaFRTS0tjcUp1OHUxWFNobk5VVDU2VlBsLU1WTWhIZ0F0ZDBqRzFjUF9KV3UyUGRBS2REY3RRMWRPVDgzM3oxcW9oY3JHMFN2STNoOV9mRlFJbk9rTUotVnFlYXJpbnB3TmpkTHhOQzgyWkFCNmItLWw4RldfelpTTS1EOXNUdnFXVVd5cEphVEdPaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-05-22-018",
+    "date": "2026-05-22",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Walmart, Nike, Nvidia, and more set to report earnings Monday - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNOTFSVjVmeldYb3JrcFE0am1XN3ozR0ZqYU14NGl0ejlXSjN1WFp3OEZOdVVHb1I4d0MwR19kT0xjaE5YM1VHclZXX3dna25ZZVJIcnB5XzhTX1Fqa2g0TzJDSkc2ZlZObG5IQjRzNX",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOTFSVjVmeldYb3JrcFE0am1XN3ozR0ZqYU14NGl0ejlXSjN1WFp3OEZOdVVHb1I4d0MwR19kT0xjaE5YM1VHclZXX3dna25ZZVJIcnB5XzhTX1Fqa2g0TzJDSkc2ZlZObG5IQjRzNXBYYWplaVNGOGcwVm9KOVlfQWZpNTBRQ3hGeFlHaHcydVU2OHF6ZlE2NjloM1dRM0VEMmJTT0JxSW1Zb2ZNbWhVSXROUzhtV0ZtZk04UQ?oc=5",
         "type": "rss"
       }
     ]
@@ -668,6 +909,26 @@
       {
         "name": "textile_world",
         "url": "https://www.textileworld.com/textile-world/fiber-world/2026/05/panda-biotech-and-culturewell-hemp-establish-indias-first-integrated-hemp-fiber-to-yarn-supply-chain/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-05-21-026",
+    "date": "2026-05-21",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "lululemon athletica inc. Announces First Quarter Fiscal 2026 Earnings Conference Call - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0RzSHFVcFdRZTFVMm5NeWZNNnBPWk1qWm5jN3pMSFBfTTNTOFhRbzl2TjVMd25tUVFpQktzd0NoWFVwNkpPdFRZamJTN1VOX2hLQXdEMFZXTlNaWFZzb0RXYXBteTVzMDZHTzI4Sk",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0RzSHFVcFdRZTFVMm5NeWZNNnBPWk1qWm5jN3pMSFBfTTNTOFhRbzl2TjVMd25tUVFpQktzd0NoWFVwNkpPdFRZamJTN1VOX2hLQXdEMFZXTlNaWFZzb0RXYXBteTVzMDZHTzI4SkdSd0p6S3IzSEJIWXF2eU5XUC1tQnczWkRQNnVMX3VFOWk2bkpaZW5DRmhDemVwQzNaY0MzS0owYw?oc=5",
         "type": "rss"
       }
     ]
@@ -1324,6 +1585,24 @@
       {
         "name": "vf_corp",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcU1wWERwd1MySmswaTk0SzBBYVpzbzk0MkRIX3lkVmllR192bmNYdmliWHBLemFiSXJhekt2TnRWdENKazRrWkhVWWZIM2U3cXhObnpsSmNBSVExRHpwQ1hFckJoVnJLOEJPQVY0anYwTWktZGIxTzlseXB0OEVtay1MR1U1YWxpQ0RHRVBHZTUwMmY2b3B0NTNYbld1bmZRVWJCeVdLak9idGpfX1pHblY1eWt4bzhBdDJOMEg4Ykc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-05-20-036",
+    "date": "2026-05-20",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Revamps Leadership as Americas CEO Donald Kohler Steps Down - WWD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFFsZEYwS0M2Y09rdmh1OFRDQmhXSUZfeXR1b0V4STV6TlpjLVRuSThFczJnMHEwb2xQQmtfb0JmQVdiaFl5RlZPclpJWlQ0d05QSEJOREFTUl84clVOaDlxNVF5LVAyVFVjMVVBVE",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFFsZEYwS0M2Y09rdmh1OFRDQmhXSUZfeXR1b0V4STV6TlpjLVRuSThFczJnMHEwb2xQQmtfb0JmQVdiaFl5RlZPclpJWlQ0d05QSEJOREFTUl84clVOaDlxNVF5LVAyVFVjMVVBVEloamdsSU9PVy1wdDQ5VGtmTTU0eVdIVWxfVU1CRmpsN0hiOWk4SVEzQ01MSS1yZWx1Mm5nLXpHeTM?oc=5",
         "type": "rss"
       }
     ]
