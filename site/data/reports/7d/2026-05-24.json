@@ -1,0 +1,172 @@
+{
+  "date": "2026-05-24",
+  "date_range": {
+    "start": "2026-05-18",
+    "end": "2026-05-24"
+  },
+  "generated_at": "2026-05-24T09:48:02.728620Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "toray-2026-05-18-001",
+      "date": "2026-05-18",
+      "title": "Global Haptic Feedback Yarns for Interactive Textiles Market Outlook 2026-2036: AAC Technologies, Toray Industries & Sony Corporation Drive Next-Gen Wearable Innovation - Morningstar",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 26,
+      "last_week": 21,
+      "week_over_week_change": "+24%",
+      "sentiment_this_week": 0.17
+    },
+    "sustainable_textile": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "fast_fashion": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "supply_chain_shift": {
+      "this_week": 28,
+      "last_week": 37,
+      "week_over_week_change": "-24%",
+      "sentiment_this_week": 0.01
+    },
+    "cotton_price": {
+      "this_week": 8,
+      "last_week": 5,
+      "week_over_week_change": "+60%",
+      "sentiment_this_week": -0.43
+    }
+  },
+  "company_7d_summary": {
+    "toray": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "adidas": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "vf_corp": {
+      "event_count": 7,
+      "sentiment_avg": 0.36,
+      "rank": 2
+    },
+    "pvh": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "tapestry": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "nike": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "eclat": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "lululemon": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 3
+    },
+    "inditex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "far_eastern": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "makalot": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 158,
+        "last": 144,
+        "change_pct": 9.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-18",
+      "event_count": 38,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 27,
+      "sentiment_avg": -0.09
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 36,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 26,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 7,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 5,
+      "sentiment_avg": 0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-18 ~ 2026-05-24）共 158 則事件，重點為「Global Haptic Feedback Yarns for Interactive Te...」。VF表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "愛迪達",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "VF",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Coach",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 205,
+  "gate1_fail": 30,
+  "gate2_fail": 33,
+  "passed": 8,
+  "gate2_samples": [
+    "Lenzing AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide dis",
+    "Eclat Textile Co Ltd stock (TW0001476004): Nomura lifts target after Q1 update - AD HOC NEWS",
+    "Makalot Industrial Co Ltd stock (TW0001477002): textile manufacturer in focus after recent monthly r",
+    "China's hottest brands are coming for Starbucks, Nike, and your wallet - Business Insider",
+    "adidas - statistics & facts - Statista"
+  ]
+}
