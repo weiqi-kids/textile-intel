@@ -1,0 +1,227 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:43:03.502593Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-05-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas AG stock (DE000A1EWWW0): focus on 2025 outlook after strong first quarter - AD HOC NEWS",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTVRDcmM2Q0FCOHpJcU1aNi1WTkpMVnl0aE1yUnlDdldPVUppeFhtTWpNWkhaSE9SN3NyTGdlMFRLdVpvczlxVl80eEs3eGdCTnhJeklXZ1B3TXo1T01TSzhIeGtQVVphNXNacHdzRVBjTkdyVmItTUVpZE5HaDFXU3ZVak54YXJEU3I3OUhrczJTaFhYSTlQWFBEc241bVRqMDh0TmlnWVN6ZlVQQUhFMDgxNTktVU1aQmZrVUV2bUtfMENjWGFz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AATCC encourages professionals to attend ATA Outlook 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/aatcc-encourages-professionals-to-attend-ata-outlook-2026-310522-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-25-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Financial conditions, oil prices concerns for India: RBI Bulletin",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/financial-conditions-oil-prices-concerns-for-india-rbi-bulletin-310517-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-25-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US’ Deckers sees continued growth momentum for HOKA and UGG in FY26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.62
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-deckers-sees-continued-growth-momentum-for-hoka-and-ugg-in-fy26-310521-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "inditex-2026-05-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Inditex S.A. stock (ES0148396007): Zara owner lifts dividend after solid full-year results - AD HOC NEWS",
+      "companies": [
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkdubFlWeDVaZXN3X1A3SFcySUhxODJMSy0zWE1jYkpzakdvVmxHdUNxUzZHNGNwd3YzbXlhRXA3cGlHVzFQQ3ZIaWlmTEt4R3BoYkZKU0JlcmU3bkVhdVVYN3A1VWlyY2ktaEpReFR1dWVrenh5eG1vMF9abGZsMEY4MC1DZGxCZVV1Z1JjMHdvcHYxMGozbFVqSVpOQ1dnak1sdFA4X0I0N3QyakczQnUzTUpvWWNMajEzUzllSHJGQU5nZ3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "inditex",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 111,
+    "too_old": 209,
+    "gate1_blocked": 31,
+    "gate2_blocked": 41,
+    "passed": 12,
+    "pass_rate": "4.1%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "Lenzing AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide dis",
+      "Eclat Textile Co Ltd stock (TW0001476004): Nomura lifts target after Q1 update - AD HOC NEWS",
+      "Makalot Industrial Co Ltd stock (TW0001477002): textile manufacturer in focus after recent monthly r",
+      "China's hottest brands are coming for Starbucks, Nike, and your wallet - Business Insider",
+      "Adidas AG Share Price & Chart | FOREX.com Europe - FOREX.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為愛迪達、Zara、Lululemon相關動態：「Adidas AG stock (DE000A1EWWW0): focus on 2025 outlook aft...」。主要關注主題為法說會、供應鏈轉移、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Adidas AG stock (DE000A1EWWW0): focus on 2025 outlook after strong first quar...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "AATCC encourages professionals to attend ATA Outlook 2026（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

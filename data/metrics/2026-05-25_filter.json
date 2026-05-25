@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 209,
+  "gate1_fail": 31,
+  "gate2_fail": 41,
+  "passed": 12,
+  "gate2_samples": [
+    "Lenzing AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide dis",
+    "Eclat Textile Co Ltd stock (TW0001476004): Nomura lifts target after Q1 update - AD HOC NEWS",
+    "Makalot Industrial Co Ltd stock (TW0001477002): textile manufacturer in focus after recent monthly r",
+    "China's hottest brands are coming for Starbucks, Nike, and your wallet - Business Insider",
+    "Adidas AG Share Price & Chart | FOREX.com Europe - FOREX.com"
+  ]
+}

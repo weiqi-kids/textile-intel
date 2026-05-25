@@ -1,0 +1,161 @@
+{
+  "date": "2026-05-25",
+  "date_range": {
+    "start": "2026-05-19",
+    "end": "2026-05-25"
+  },
+  "generated_at": "2026-05-25T11:43:03.631576Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "eclat-2026-05-19-002",
+      "date": "2026-05-19",
+      "title": "Eclat Textile Co Ltd stock (TW0001476004): sportswear supplier in focus after recent earnings - AD HOC NEWS",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 20,
+      "last_week": 29,
+      "week_over_week_change": "-31%",
+      "sentiment_this_week": 0.18
+    },
+    "supply_chain_shift": {
+      "this_week": 23,
+      "last_week": 39,
+      "week_over_week_change": "-41%",
+      "sentiment_this_week": -0.06
+    },
+    "cotton_price": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.39
+    },
+    "fast_fashion": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "eclat": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "lululemon": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "tapestry": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "vf_corp": {
+      "event_count": 6,
+      "sentiment_avg": 0.42,
+      "rank": 3
+    },
+    "adidas": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "inditex": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "pvh": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nike": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "far_eastern": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "makalot": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 132,
+        "last": 158,
+        "change_pct": -16.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-19",
+      "event_count": 27,
+      "sentiment_avg": -0.09
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 37,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 26,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 7,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 10,
+      "sentiment_avg": -0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-19 ~ 2026-05-25）共 132 則事件，重點為「Eclat Textile Co Ltd stock (TW0001476004): spor...」。VF表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Lululemon",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Coach",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "VF",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
