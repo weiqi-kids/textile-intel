@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-27",
+  "date_range": {
+    "start": "2026-05-21",
+    "end": "2026-05-27"
+  },
+  "generated_at": "2026-05-27T11:29:21.750885Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-05-26-008",
+      "date": "2026-05-26",
+      "title": "From Wheat Straw To Wardrobes: New Report Highlights Fiber Breakthrough In The Fashion Industry",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 15,
+      "last_week": 24,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.14
+    },
+    "supply_chain_shift": {
+      "this_week": 22,
+      "last_week": 32,
+      "week_over_week_change": "-31%",
+      "sentiment_this_week": 0.0
+    },
+    "cotton_price": {
+      "this_week": 5,
+      "last_week": 9,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": -0.34
+    }
+  },
+  "company_7d_summary": {
+    "far_eastern": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "makalot": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "adidas": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "lululemon": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "vf_corp": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 4
+    },
+    "nike": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "tapestry": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "inditex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 90,
+        "last": 165,
+        "change_pct": -45.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-21",
+      "event_count": 26,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 7,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 12,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-05-26",
+      "event_count": 8,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 11,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-21 ~ 2026-05-27）共 90 則事件，重點為「From Wheat Straw To Wardrobes: New Report Highl...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "愛迪達",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lululemon",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "VF",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
