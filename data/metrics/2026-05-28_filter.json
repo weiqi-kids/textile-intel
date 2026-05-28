@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 97,
+  "no_date": 0,
+  "too_old": 217,
+  "gate1_fail": 30,
+  "gate2_fail": 26,
+  "passed": 34,
+  "gate2_samples": [
+    "Working capital per share of Toray Industries, Inc. – SWB:TOR1 - TradingView",
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+    "Shenzhou International Group Holdings Stock Slides 2.0% in Hong Kong - Moomoo",
+    "Eclat Textile Co Ltd stock (TW0001476004): Nomura lifts target after Q1 update - AD HOC NEWS",
+    "Nike’s World Cup Campaign Is Loaded With Global Icons, Fashion Powerhouses & Cultural Heavyweights -"
+  ]
+}

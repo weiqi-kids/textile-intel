@@ -1,0 +1,230 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:28:55.180136Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-05-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas AG stock (DE000A1EWWW0): Q1 earnings beat supports turnaround story - AD HOC NEWS",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTXA5ZEF2QnFQaTRENnJjSjhwY2RoY0Z3N1lhMHlLdnpiREgyS0dCazdranItcmNHeWRFQWNxUTBkR2dBVHA4X2UxQ3FoOHZnWHBEdEV2bGt4WDRUQmt1NW40cFZNRmRyVVpuUUFqbm5DaHlNRjZTSUlxMlMtaTFkY1hVTmRmUXRIaFN1NDNFcDF0TVNkRndXN3VUcUlVdndLemNFMFBoUTlCakxUWVBDRTAwRWFrVUdORFc2UFQ3T0h5Rk5pZlZ2U2Rn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-05-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "lululemon athletica (LULU) to Release Quarterly Earnings on Thursday - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWlFQdW5wcm9fS2hmdFN6SVZLMjRIQ1l5MlphSXhXbldFYmxHdEg5RExnVHVYRjh4VEIxby1sdXJvcTdkSnBxdzRyazhidE1tS2o4bW5PekdDTEZvSExzd0Q5UGZmMFFBdFNqanowSXJ4RURDbDAzazM1cXAySW1hRlFacXU2dUVsaWVqMWxrbWo3OFJTcVlac0dIN1YyTWF2eEIyRjhMbkxVNGhnSENlbkpWb1ZvVGNLZEN5cg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-28-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sri Lanka gets $695 mn IMF tranche as economic risks rise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/sri-lanka-gets-695-mn-imf-tranche-as-economic-risks-rise-310601-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-28-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Italian economy projected to continue to grow at modest pace: IMF",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/italian-economy-projected-to-continue-to-grow-at-modest-pace-imf-310593-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-28-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eurozone financial stability vulnerabilities elevated: ECB",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/eurozone-financial-stability-vulnerabilities-elevated-ecb-310586-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.21,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 5
+      },
+      {
+        "id": "tapestry",
+        "count": 3
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 97,
+    "too_old": 217,
+    "gate1_blocked": 30,
+    "gate2_blocked": 26,
+    "passed": 34,
+    "pass_rate": "11.1%",
+    "gate2_block_rate": "8.5%",
+    "gate2_samples": [
+      "Working capital per share of Toray Industries, Inc. – SWB:TOR1 - TradingView",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "Shenzhou International Group Holdings Stock Slides 2.0% in Hong Kong - Moomoo",
+      "Eclat Textile Co Ltd stock (TW0001476004): Nomura lifts target after Q1 update - AD HOC NEWS",
+      "Nike’s World Cup Campaign Is Loaded With Global Icons, Fashion Powerhouses & Cultural Heavyweights -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Lululemon、Coach、愛迪達相關動態：「Adidas AG stock (DE000A1EWWW0): Q1 earnings beat supports...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Adidas AG stock (DE000A1EWWW0): Q1 earnings beat supports turnaround story - ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "lululemon athletica (LULU) to Release Quarterly Earnings on Thursday - Market...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
