@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 207,
+  "gate1_fail": 38,
+  "gate2_fail": 31,
+  "passed": 20,
+  "gate2_samples": [
+    "Toray Industries Inc - To Transfer Shares Of Soda Aromatic Co., Ltd - TradingView",
+    "Toray partners on 100% bio-based nylon 66 - Ecotextile News",
+    "Working capital per share of Toray Industries, Inc. – SWB:TOR1 - TradingView",
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+    "Press Release for the 2026 FENC General Shareholders’ Meeting - feg.com.tw"
+  ]
+}

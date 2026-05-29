@@ -1,0 +1,258 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:19:40.639291Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-29-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "ICE cotton snaps losing streak, supported by weaker dollar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-snaps-losing-streak-supported-by-weaker-dollar-310634-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "eclat-2026-05-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eclat Textile Co Ltd stock (TW0001476004): Taiwan sportswear supplier steady ahead of next earnings - AD HOC NEWS",
+      "companies": [
+        "eclat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRkdfLWgyWGJncllJbXk1WFdlNzREQTM2RmNSbl9XLWxTbVJONzZHRExaTUU1am9FSVZZX3NGcl9VUTFVUmRDcFZicFB3b3ozQmpqUzIwQkl0QVNPY2JhdVdhaGpNQWpmTmpyMFVab1NsODFyZEdoQXhscGxzdEoyeU5wOHlWS3IxS0VpNktHcHdwaC16bFcwYTlfTlllcjNQZTJ0bU1YRDlmdVNjY3lSOFZzc2VVUDl5X0k1SmlYQ0JUNTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lenzing-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lenzing appoints Georg Kasperkovitz as CEO - FashionNetwork - The World's Fashion Business News",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdndGZjg2Wlp1SHZIMGdTcGdFMEx3UFNucnFKbFcydjNKdDFiRTVINS1YeE5xMm4wZDVzWmxwTl9hU1lVQmhFeFZXMFFSZmN1MU9uRDdTMTg1aE1jaGpsMXE2clgxWlZLeVFLZGRBY2tnS0lPbDBpOVR4Sl9pS3VyNjBrb0lTSENFR3BYVkZQYlBxU2R4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lenzing-2026-05-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lenzing appoints Georg Kasperkovitz as CEO - Fashion United",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVJocnFxclJHQTNkcnY2cEhDdEtpdmtpU21KMWZpbnpOYzN2R2UtUzB3aktOVkFVbzd3TmZxeDF5WVRPQ19ZVEhzMktsZFAyUldyUWNraGllMmJzcEtRajIxaHA4REcyWEI3dEJnMkRNRU1BODlyVnJCSnU3S29JME1yeXREMkQ1NzhTT2pxd285dUZrZGZCOQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adidas-2026-05-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas AG stock (DE000A1EWWW0): Bank of America upgrade supports ongoing share price recovery - AD HOC NEWS",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWJScl9JYUdIdUdfWmtwSUNjVUNWVUdzOVZ4VUlMSGE5RXExWUtrOWd6VXNqV0FqNnpHR1c5Tk9VZ2pTYlo5NDh6ZzhGY2xaeG1WRW9VUXFyak9lLTNIOGRjMVJHQnUtVlU3Snl6NF84U2U0eWhHbi1UdDdUOUNNRWRnSDNCeGZBTVY4T3N1MXdFV3ZaVlh1WU45MWJ2U29DQ1BrM1VUQy11TXRwRkQ4RXh0X0xrei1TSVE5NTZ4ZzJNQnpfQWc0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lenzing",
+        "count": 2
+      },
+      {
+        "id": "eclat",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 108,
+    "too_old": 207,
+    "gate1_blocked": 38,
+    "gate2_blocked": 31,
+    "passed": 20,
+    "pass_rate": "6.8%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Toray Industries Inc - To Transfer Shares Of Soda Aromatic Co., Ltd - TradingView",
+      "Toray partners on 100% bio-based nylon 66 - Ecotextile News",
+      "Working capital per share of Toray Industries, Inc. – SWB:TOR1 - TradingView",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion",
+      "Press Release for the 2026 FENC General Shareholders’ Meeting - feg.com.tw"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Lenzing、Eclat Textile、愛迪達相關動態：「ICE cotton snaps losing streak, supported by weaker dollar」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ICE cotton snaps losing streak, supported by weaker dollar（棉花價格、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Eclat Textile Co Ltd stock (TW0001476004): Taiwan sportswear supplier steady ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
