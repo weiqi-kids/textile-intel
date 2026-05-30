@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 33,
+  "gate2_fail": 27,
+  "passed": 18,
+  "gate2_samples": [
+    "Toray Industries Inc - To Transfer Shares Of Soda Aromatic Co., Ltd - TradingView",
+    "Toray: Soda Aromatic Makes, Sells Flavors, Fragrances, Related Products - Moomoo",
+    "Toray partners on 100% bio-based nylon 66 - Ecotextile News",
+    "Working capital per share of Toray Industries, Inc. – SWB:TOR1 - TradingView",
+    "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion"
+  ]
+}

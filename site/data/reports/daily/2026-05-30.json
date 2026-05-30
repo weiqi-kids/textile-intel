@@ -1,0 +1,191 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T09:51:33.289952Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s cotton price floor is reshaping apparel sourcing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/china-s-cotton-price-floor-is-reshaping-apparel-sourcing-310640-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India, Uzbekistan sign key WTO market access protocol",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-uzbekistan-sign-key-wto-market-access-protocol-310659-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South India cotton yarn market stays bearish despite stable prices",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/south-india-cotton-yarn-market-stays-bearish-despite-stable-prices-310655-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "lenzing-2026-05-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Austria’s Lenzing AG names Georg Kasperkovitz as CEO",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/austria-s-lenzing-ag-names-georg-kasperkovitz-as-ceo--310646-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Canada-India trade, investment forum to foster commercial alliances",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/canada-india-trade-investment-forum-to-foster-commercial-alliances-310647-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lenzing",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 110,
+    "too_old": 215,
+    "gate1_blocked": 33,
+    "gate2_blocked": 27,
+    "passed": 18,
+    "pass_rate": "6.1%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Toray Industries Inc - To Transfer Shares Of Soda Aromatic Co., Ltd - TradingView",
+      "Toray: Soda Aromatic Makes, Sells Flavors, Fragrances, Related Products - Moomoo",
+      "Toray partners on 100% bio-based nylon 66 - Ecotextile News",
+      "Working capital per share of Toray Industries, Inc. – SWB:TOR1 - TradingView",
+      "Responsibility is in Our Essence: Lenzing™ Ecovero™ Strengthens its Brand Identity - Fibre2Fashion"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Lenzing相關動態：「China’s cotton price floor is reshaping apparel sourcing」。主要關注主題為供應鏈轉移、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "China’s cotton price floor is reshaping apparel sourcing（棉花價格）",
+        "level": "green"
+      },
+      {
+        "text": "India, Uzbekistan sign key WTO market access protocol（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
