@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 218,
+  "gate1_fail": 33,
+  "gate2_fail": 23,
+  "passed": 7,
+  "gate2_samples": [
+    "Toray Industries Inc - To Transfer Shares Of Soda Aromatic Co., Ltd - TradingView",
+    "Toray: Soda Aromatic Makes, Sells Flavors, Fragrances, Related Products - Moomoo",
+    "Toray partners on 100% bio-based nylon 66 - Ecotextile News",
+    "Working capital per share of Toray Industries, Inc. – SWB:TOR1 - TradingView",
+    "Press Release for the 2026 FENC General Shareholders’ Meeting - feg.com.tw"
+  ]
+}

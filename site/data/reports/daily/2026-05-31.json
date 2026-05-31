@@ -1,0 +1,197 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:07:57.689172Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-31-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s FY27 growth resilient at 6.9% despite risks from Iran war: RBI",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-fy27-growth-resilient-at-6-9-despite-risks-from-iran-war-rbi-310662-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-05-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How lululemon’s Board Truce With Founder Chip Wilson Will Impact lululemon athletica (LULU) Investors - Yahoo Finance",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXc4UUNqZXJuWlpVaE9BdTRsQ3NLY1d5c1pESHFVVGF3ZXRXRlNjUUZlRVJvZG9xbVRMekZGQTlyeDlpM01uRlI4RVdwNEtIRzE4MVZ6UjdhbUlkdW85cTgzeFZScW95WkZVd3VLcVBtOXFNZTBRSy01bHpHS0dxUU12T1FITmdBNVp1RFNEVTZXQWFQLU9CYWV0MnhMUHlu?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-05-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Prospera Financial Services Inc Cuts Stake in Tapestry, Inc. $TPR - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdThITTNlTXptN3M1SDNMNjFwaGRaTFI2YXptQWwtb3hiSUEtNjlPMWpWTkpoY2pqSTlZNEMyMVBrRkhoMmxWa3lkc2NhVm51ZmppVDdtbE5iYXphckdacFROTUxrU3VuX0ZadWx4TDBwZjlyakxQX3NsSWFpX21SYmJ4ZkJwSklmZWpveERPZ2dPaHdoUTNJY3dYSld1Y3BfbUI1Z1FJcGx4QS1zQ3NhZFBpZC1QbFQ3c0Q3M2JBMHY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India exempts customs duties on cotton imports from Jun 1 to Oct 31",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-exempts-customs-duties-on-cotton-imports-from-jun-1-to-oct-31-310663-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-31-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Evolving sourcing dynamics and the Vietnam-Bangladesh rivalry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/evolving-sourcing-dynamics-and-the-vietnam-bangladesh-rivalry-310658-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 123,
+    "too_old": 218,
+    "gate1_blocked": 33,
+    "gate2_blocked": 23,
+    "passed": 7,
+    "pass_rate": "2.5%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Toray Industries Inc - To Transfer Shares Of Soda Aromatic Co., Ltd - TradingView",
+      "Toray: Soda Aromatic Makes, Sells Flavors, Fragrances, Related Products - Moomoo",
+      "Toray partners on 100% bio-based nylon 66 - Ecotextile News",
+      "Working capital per share of Toray Industries, Inc. – SWB:TOR1 - TradingView",
+      "Press Release for the 2026 FENC General Shareholders’ Meeting - feg.com.tw"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Lululemon、Coach相關動態：「India’s FY27 growth resilient at 6.9% despite risks from ...」。主要關注主題為供應鏈轉移、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "India’s FY27 growth resilient at 6.9% despite risks from Iran war: RBI（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "How lululemon’s Board Truce With Founder Chip Wilson Will Impact lululemon at...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
