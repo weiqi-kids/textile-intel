@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 213,
+  "gate1_fail": 32,
+  "gate2_fail": 32,
+  "passed": 22,
+  "gate2_samples": [
+    "Toray Industries Inc - To Transfer Shares Of Soda Aromatic Co., Ltd - TradingView",
+    "Toray: Soda Aromatic Makes, Sells Flavors, Fragrances, Related Products - Moomoo",
+    "Toray partners on 100% bio-based nylon 66 - Ecotextile News",
+    "Toray Industries Hits Day High with Strong 5.21% Intraday Surge - Markets Mojo",
+    "Working capital per share of Toray Industries, Inc. – SWB:TOR1 - TradingView"
+  ]
+}

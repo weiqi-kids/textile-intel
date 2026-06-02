@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T11:57:56.310423Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pvh-2026-06-02-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PVH Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVaXVONWE5Vm96dGpCb0JOeWdlWmUxQkFvSFpuNEw4aXBuSVR1ZTFZQ3V1eG9FRHktQjlCdGExM2d4akZucHl4eTBKUE9ldVliTWF1NVRRNEQ0UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pvh-2026-06-02-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PVH Q1'26 Earnings: EPS estimate is 1.82 USD - TradingView",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzV2X09KcEFuanNRM2t3eTJjRy13VndGaG1WaHJycUhiRWZHRHVIV0xzM041V3VmanRQMW81QV9iX2E2eTFyODZXU29kU2p4TzZ6S1k0SXpuUVNkLS1GMm4zQTJMcFJlbFVkbmJXcVFVb0dTNVJzY0xURkh4WnYyRkdlQXhkYmhzS2RkWVpibUNjNzBvS2FVTy1rLWhGWTd4emtVdVlleW0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "toray-2026-06-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toray to Divest Its Stake in Soda Aromatic Through Share Transfer to Samyang - ChemAnalyst",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk1OYWZGckNCank5N1FHS3VMUGoxbDUzRDl4YzFRYm03SkFURkMtV1FjVWtRSk5VOEdQN3ZpV3hfb0stcFRZOGVkSUI0dHdLTW1uQzdacDQtLVJIZWhFU0xBaG1fdmdiR1VaSEwzUWJVaVFYOE56RVllZU1oeWY3aXZxS09rODY1NkNLSTMtWmt4UjRkYlpfaUYtZ3pTZVRCc3p6S2tobWthenBWZEM2ZFltTmxGdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "far_eastern-2026-06-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Far Eastern New Century stock (TW0001402000): shares trade steady as markets watch textile decarboni - AD HOC NEWS",
+      "companies": [
+        "far_eastern"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeDM1Yk4zXzVHR2h5LUM3Mk5tQUF1eEZaNXF1c0ZWWVdSMFlsZjRqV3Y5Vm5MT3VyMDMxRWhmS3BZSHpTU1AzUEJCeDhVTlVtbHhMb2RvWHdRZEFNWHlIX1c1NUVMS2xiRGNJd29HYm9DTndmZFNmVDBmdEdzTE15OEpwa3Y0cmM5Q1FXSVpfbUVPRFNqT0lvOXJmNk12dFAtVF8wY000OGVPNUxBMXYzTFFnaWNnR1hsYjdickhvUFlkUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-06-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Norges Bank Buys Shares of 1,744,852 lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQW1oYklOSTYwTmc5SWJ2YS1CLVUtZkplUzRTSDRCUWFFenR3NjlGWnYzMkFERmEwOGdxd2o2dnNVMXQwZGdkQ1EyaUhiNkJka1VOSkROTm1KdXNPODEwUDg2SnVBRGR0VWlKWWZKRmFZTlpma0ZreHpHaFJDQXlXWmE2MTIxVnBaNnllYVhxZU5IWDBWLTJiYlpPNVM0R0d0TmprODgtei1MUGlZQXEwek9mZXJhYXZWNE03SGV5NFFVUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 3
+      },
+      {
+        "id": "pvh",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "far_eastern",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 104,
+    "too_old": 213,
+    "gate1_blocked": 32,
+    "gate2_blocked": 32,
+    "passed": 22,
+    "pass_rate": "7.4%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Toray Industries Inc - To Transfer Shares Of Soda Aromatic Co., Ltd - TradingView",
+      "Toray: Soda Aromatic Makes, Sells Flavors, Fragrances, Related Products - Moomoo",
+      "Toray partners on 100% bio-based nylon 66 - Ecotextile News",
+      "Toray Industries Hits Day High with Strong 5.21% Intraday Surge - Markets Mojo",
+      "Working capital per share of Toray Industries, Inc. – SWB:TOR1 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Lululemon、PVH、Coach相關動態：「PVH Financials: Revenue Breakdown, Margins & Competitor C...」。主要關注主題為供應鏈轉移、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "PVH Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellec...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "PVH Q1'26 Earnings: EPS estimate is 1.82 USD - TradingView（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
