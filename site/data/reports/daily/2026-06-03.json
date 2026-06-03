@@ -1,0 +1,255 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:30:26.113394Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-06-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon Earnings: What To Look For From LULU - Yahoo Finance",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVREUm1xUUlOUmMwTlhwS1BWNG0zeVU4NHg4VWE0VnVmc1NrYWhucDdYM2pDWmViYXE0WkRsSHhyeTdtSFNHdzM0ei1iaHBtX0FKVl9KTXQ3b1ZWVk5WSlZ4NWNIVWlaVXZSbFdJXzdtcWNqVkdxTGJZNGJpLU9GNkJLTmhtV2RuU2x4YW1sRFNRMm5VZlpIQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pvh-2026-06-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PVH Corp Q1 2027 earnings preview - MSN",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOU1NWd0ctMm1pX1l4TnJRSHhVNHh2TGlPeWRGMGxYTW1NUWRzLXV3YXZ6bm13b21JR3l5emE3UVREelRpZ0kybGh6VGdsU1BUajl5b3NEcHFNRnZNakxwck5jbjk4YVdMcDNNQzZVZndCSjZ4LTRIUnc4TGdobk56Rkp3dGd0NWhzaC1VNzBta2tCbnNRNnZidnNiMmthdGFlS3p0QWl2UzYyRTQ5bnUzNF9KckRhY3pjZjRxQVdHV1FnZ3M5UGZuOE5qV2d5SC0tc0VVUEFqdm91MFFSVFE2dUFDSzB5MDBlNTlGWENvcGg1NHBubTRzcDNHZVhEYTNlbkRtTHNLSm4zQTdiMEJyNUlUbFFXTko4MzhaQ0o2OEViZnNQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-06-03-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Great Tapestry centre's annual visitor figures lowest on record - BBC",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YRjJUNWMyampITGNKdlh5MG9vVjVnUE5OV25qeGpvUEk5WDN4bXVzY2pheUtMNHJMeWR5Z2hjV0FHWDBIc0E0Y2swajRRUjdaclhJNHdJSEJuQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lenzing-2026-06-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Valmet to upgrade Lenzing production site - PULPAPERnews.com",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLU1NOXdnaGFWanp4MnctT2hZMDRBTmh0c3lRM18zbl9CMG9EV1U0VnRyRjQ0bEtORjVFYlJCWkJDNmc3SVhwRE1jd1V2bFJYeW1KRUlGdlkxSU1NQkt3YWRVUHRlWGlzUjlyc3hwNjR4SHBjalFoSEZvQVpRMHVJcEo2U3c5OXVYVmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-06-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Untitled Nashville Hotel at Bankers Alley, Tapestry Collection by Hilton Debuts in Music City - Travelling for Business",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmxreHNvSUJ6ai1rOHJsV2Q4bXdMa2c4Mnl4UWlHTFJPenBMN01BQVFFZkluZVF0dGFwU21fTXp3aTNubUdpNGt1OW8xQU83SDZudVNZZnV0alN0RGdtRHJwUTkxU1BZdGFnOGMzTlp1M0JkYmZ5X2tpZ052dkNMZnZkbEZfNnRCUlJnNm9vMVhEblhzNEI0bUJ2VkNNSWZzUVRLRHhWOE9xTU56UnV1a2stVU9JTXBFNUZaTjNHQ0dhUDNlZ29ZanFGSmNCZHNNTDAzMDdJQ2xDR05DTVk0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.13,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 107,
+    "too_old": 204,
+    "gate1_blocked": 22,
+    "gate2_blocked": 37,
+    "passed": 22,
+    "pass_rate": "7.7%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Toray introduces ultrafiltration membrane designed to reduce biofouling in wastewater reuse - Dairy ",
+      "Toray and PTTGC Develop Bio-Based Adipic Acid for 100% Bio Nylon 66 | 2026 - News and Statistics - I",
+      "Toray Industries Inc - To Transfer Shares Of Soda Aromatic Co., Ltd - TradingView",
+      "Toray: Soda Aromatic Makes, Sells Flavors, Fragrances, Related Products - Moomoo",
+      "Toray partners on 100% bio-based nylon 66 - Ecotextile News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Coach、Lenzing、Lululemon相關動態：「Lululemon Earnings: What To Look For From LULU - Yahoo Fi...」。主要關注主題為供應鏈轉移、法說會、快時尚趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lululemon Earnings: What To Look For From LULU - Yahoo Finance（快時尚趨勢、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "PVH Corp Q1 2027 earnings preview - MSN（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

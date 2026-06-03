@@ -1,0 +1,49 @@
+{
+  "date": "2026-06-03",
+  "total_events": 10,
+  "by_company": {
+    "lenzing": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pvh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "supply_chain_shift": {
+      "count": 5,
+      "sentiment_avg": -0.13
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.17
+    },
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
