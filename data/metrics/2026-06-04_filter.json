@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 184,
+  "gate1_fail": 38,
+  "gate2_fail": 44,
+  "passed": 38,
+  "gate2_samples": [
+    "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+    "Toray introduces ultrafiltration membrane designed to reduce biofouling in wastewater reuse - Dairy ",
+    "Toray and PTTGC Turn Cassava Waste into 100% Bio-Based Nylon 66 Breakthrough - ChemAnalyst",
+    "Toray and PTTGC Develop Bio-Based Adipic Acid for 100% Bio Nylon 66 | 2026 - News and Statistics - I",
+    "Toray Industries Inc - To Transfer Shares Of Soda Aromatic Co., Ltd - TradingView"
+  ]
+}
