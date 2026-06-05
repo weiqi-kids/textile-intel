@@ -1,0 +1,237 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:18:37.116242Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-06-05-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Correction: Lululemon Athletica Fiscal Q1 Earnings Decline, Revenue Rises; Trims 2026 Outlook - Moomoo",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWpqYi1xbGdQZ2w3VHVkRFVrWWx4dmFBbXQ4STV5Z1VGMWtXOFpwU1hfMTYtOXpyNktBQTNJVU5IbFlXekk4b2hIdGtGUnVibmM1NzdFQ1NUc0xzUUJvZXhnVkViMmxTd1RTSC1ka3lrSWpOQlJ0ZXhNZlJ4R251dVJNWWE4eGxLaDdacHVtTTgxM2MzdjJpcEdUNHJaSUVKMElaT3hnMzdmOVZoS0tySWZrblBLYmxRY2Nr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-06-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Lululemon Athletica a Buy After Its Latest Earnings Report? - The Motley Fool",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORC1Va2NaX19icDlkLTZCbks1RTVKOWhuRzVMVVpFT1A3dlY1ZFRRTzFoeXp1alJxcENHczlkZ1pwdG1JZV9vcGg5UFBnaXM5bV9YazMzd05oam1NQVVPMU1GLU1jVGdtSFJZVXU4UlZQTEFWYkZpNjhOOTRpckc3cTNVM3ZOZE1MZkI0QlYwVGZXVFRia3BDVA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-06-05-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon Athletica slumps 14% after earnings amid weak North America sales 📉 - XTB.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTJjWmF3bUZodmV0WGtmdy1kem8yNjRwWGJRcm1fYnNyZUY3OHFJY3M3UlliVlpkNHVvRlBHY2d4RF9WT1NCanR4elNFajVSMTVZcE5YU3cteXh3TjdvVnJ5dHlBSEppZS1GQ3RiT1M1dFRFaW50RFY4OGgzdEZRUVVIbVhnT3UtZ3VPNHNlU28xQXRRSUFtZ3FHN3VjYmlZYlZxcmpyUXNNUjZaREs1SG81UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-06-05-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon Athletica Inc (LULU) Q1 2026 Earnings Call Highlights: - GuruFocus",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZkxIczAwbE1sQXd0VGxEWUVMWGtlZ3VHXzJOTmJ1MldQLWxWQjhud0psT09TdEVTREhiLXlaYmRyNEtOUzJYcnBULXZhM1FIbEFUQXpWdUg2OUpWek9nMjhYaTBwRDR4RWhmWFJhTVpKU1JhMGY4cFdwLThJdy1vdjRHenFnYURac0tDSTB6alJVa1ZOX25PZnQ1MXA2VXl4TlYzMHl6NzZHZDJGWFhjOFZxQ19ZUHRPSmdXNmxvb3QwV2dya3VDOTNnRHVZRDY5a2cwUlNEaG1QRVZzaEdkWVlVZXNjby1B?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pvh-2026-06-05-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PVH Q1 Deep Dive: Middle East Conflict Pressures EMEA Outlook Despite E-Commerce Growth - Yahoo Finance",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNai1mUUphS0g5X0pmcFZDc2dWUFYzWTA0eDVmcWJ6SnA0d2Z4OTVwc1d4NlZ1ekpONzZ3TVVPYVpwSWNuUnFMWEZtdmgzc3ZsNVNuTHV3c2JqU2t2QmlpRlo0ZDJIYmk2My1vZE5xcGNrMlpGRDhKRWMwRi1aZXFUWEtXdHFGc1MzV3NKTURjeXVMdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 16,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 9
+      },
+      {
+        "id": "pvh",
+        "count": 4
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "cotton_price",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 98,
+    "too_old": 184,
+    "gate1_blocked": 38,
+    "gate2_blocked": 37,
+    "passed": 47,
+    "pass_rate": "15.4%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Toray introduces ultrafiltration membrane designed to reduce biofouling in wastewater reuse - Dairy ",
+      "Toray and PTTGC Develop Bio-Based Adipic Acid for 100% Bio Nylon 66 | 2026 - News and Statistics - I",
+      "Toray and PTTGC Turn Cassava Waste into 100% Bio-Based Nylon 66 Breakthrough - ChemAnalyst",
+      "Toray Industries Inc - To Transfer Shares Of Soda Aromatic Co., Ltd - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為Lululemon、PVH、Lenzing相關動態：「Correction: Lululemon Athletica Fiscal Q1 Earnings Declin...」。主要關注主題為法說會、供應鏈轉移、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Correction: Lululemon Athletica Fiscal Q1 Earnings Decline, Revenue Rises; Tr...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Is Lululemon Athletica a Buy After Its Latest Earnings Report? - The Motley Fool（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
