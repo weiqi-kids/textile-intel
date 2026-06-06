@@ -1,0 +1,228 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T09:53:05.188130Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-06-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "US’ Torrid Q1 FY26 sales fall 7.6% despite guidance beat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-torrid-q1-fy26-sales-fall-7-6-despite-guidance-beat-310828-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-06-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Key facts: Lululemon Cuts FY26 Outlook; CEO Change; Board Adds - TradingView",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkQ1ZDhzM1JxYng4VGZMSzdvOVhZY29HU0JGckV5UEU2MGR4M2NyTEhFM2V0VUtQV2lMOUowUHA3T3BoeHdna0tsUnZudXVncWhzdTZkOG5CWC13NVY3Z2NKWHo1cDMxMTR4S1V2TE5pSTFZUFVyUGNxcC1nTmVBT25HQzJJdjZDbkdMUTZRQXVFWmctVF9TLURFTVRaQW1LYkhqc1NRckZrbjNyN1hyQzExN005Zm9tS181UDFR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pvh-2026-06-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PVH SWOT Analysis: Strong Revenue Growth Amidst Challenges Revea - GuruFocus",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDBmZ1ZCaTU2ZmduaW9hQjVwMllETm51SW5hb0N4Z3ZKcFVqN1dMMTh4NG1SeEpZci0zM013a3p0UUFjd0dGWGNvYlVUZDlBTXU4allCYkJUdHZZVEx4MlgtUW1PVjctZzBVdjVuTFRfS09OSVo0cnc1eDBTWDRBZDJNOUN2d2NyZm9ONXR0cXAwSV9sZVV5RkY1clRfd1pQUmxEVmRmbHNadTk5SjE2V0RNOWxvREhDS3hj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-06-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India meets FY26 fiscal deficit target; ICRA flags FY27 risks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-meets-fy26-fiscal-deficit-target-icra-flags-fy27-risks-310826-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-06-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bangladesh garment exports slip to $35.3 bn in July-May",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-garment-exports-slip-to-35-3-bn-in-july-may-310773-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.26,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 396,
+    "dup_title": 108,
+    "too_old": 188,
+    "gate1_blocked": 28,
+    "gate2_blocked": 41,
+    "passed": 31,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Toray introduces ultrafiltration membrane designed to reduce biofouling in wastewater reuse - Dairy ",
+      "Toray and PTTGC Turn Cassava Waste into 100% Bio-Based Nylon 66 Breakthrough - ChemAnalyst",
+      "Next-generation Valmet DNAe DCS to strengthen gas boiler operations at Lenzing in Austria - Process ",
+      "Far Eastern New Century Corporation Financial Disclosures & Filings - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Lululemon、PVH、Coach相關動態：「US’ Torrid Q1 FY26 sales fall 7.6% despite guidance beat」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "US’ Torrid Q1 FY26 sales fall 7.6% despite guidance beat（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Key facts: Lululemon Cuts FY26 Outlook; CEO Change; Board Adds - TradingView（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
