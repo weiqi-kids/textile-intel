@@ -1,0 +1,209 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:21:09.943889Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Bangladesh RMG exporters feel April data needs July reality check",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/why-bangladesh-rmg-exporters-feel-april-data-needs-july-reality-check-310827-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-06-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Goldman Sachs Group Inc. Grows Stock Holdings in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTi05dU15elVxbzVxaTNCT0NpdjB5VXBMX2l4QWttbjVGSWROZ0pLSVhKVGJYRTJkYzRyendRbUt4UEJJcHI3UC05YnZqSmFPZVo1YUhBemZENXBwMGwydTR5dVhiaHpfTkxIS21GSzlUcmdldWdTcDFLMTBTUXpsZHNjeXVtSWhhMVJuQnVHX3lHM1hMVlRCSDJnLWp5ZGZ0NDZWYUxETzJSUnhBell4bFQ2RUxvVUQtM2FSSlh4a2xYaWUtZkZQRHN2M3FHdjRKeVZz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-06-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of New York Mellon Corp Grows Stock Position in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDYzV1dFazNjRHUzTjBwRjduMFpJT2JKeEp5X0hvb21Jc2YycjF3N3g0S0FSdzJNSlNyN3R3TGpGNGVnc1dTenpxUmJDcV8wWVU5bFlLdXlvSWJxUXE4UzJ5Z2ZEdXYzbVl0UkdTa2xHZThFQ3ppRFdCWmN5NlR3VS14RE5ua3BONjdTYTNEMGpGcngzTTJVZ0hxZVNJTzI3WnlmMGtHVmtXcERqQ1RzY0N1YWQ1cjZYT3hicGktYUtmeHAxekRGMGpycXVpdTF5OHlweDRVYVgzZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dhaka, Ankara discuss FTA plans, more Turkish investment in Bangladesh",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/dhaka-ankara-discuss-fta-plans-more-turkish-investment-in-bangladesh-310830-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India, US in course to execute 1st tranche of trade pact by mid-July",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-us-in-course-to-execute-1st-tranche-of-trade-pact-by-mid-july-310829-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 127,
+    "too_old": 196,
+    "gate1_blocked": 26,
+    "gate2_blocked": 41,
+    "passed": 15,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "14.7%",
+    "gate2_samples": [
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Toray introduces ultrafiltration membrane designed to reduce biofouling in wastewater reuse - Dairy ",
+      "Toray and PTTGC Turn Cassava Waste into 100% Bio-Based Nylon 66 Breakthrough - ChemAnalyst",
+      "Toray and PTTGC Develop Bio-Based Adipic Acid for 100% Bio Nylon 66 | 2026 - News and Statistics - I",
+      "Next-generation Valmet DNAe DCS to strengthen gas boiler operations at Lenzing in Austria - Process "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Lululemon相關動態：「Why Bangladesh RMG exporters feel April data needs July r...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why Bangladesh RMG exporters feel April data needs July reality check（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Goldman Sachs Group Inc. Grows Stock Holdings in lululemon athletica inc. $LU...（快時尚趨勢）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

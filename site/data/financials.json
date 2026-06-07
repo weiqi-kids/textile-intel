@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T09:53:01.357708Z",
+  "updated_at": "2026-06-07T10:21:06.328973Z",
   "quarter": "2025-09-30, 2025-10-31, 2025-11-30",
   "companies": [
     {
@@ -160,17 +160,17 @@
       "name": "露露檸檬",
       "ticker": "LULU",
       "currency": "USD",
-      "ar": 190657000,
-      "ar_prev": 250304000,
-      "ar_qoq": "-24%",
+      "ar": 164973000,
+      "ar_prev": 190657000,
+      "ar_qoq": "-13%",
       "ar_period": "QoQ",
-      "inventory": 1700753000,
-      "inv_prev": 1997844000,
-      "inv_qoq": "-15%",
+      "inventory": 1687088000,
+      "inv_prev": 1700753000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-01-31"
+      "alert": false,
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "makalot",
