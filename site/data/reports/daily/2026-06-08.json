@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:22:08.630137Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-06-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Lululemon Athletica a Buy After Its Latest Earnings Report? - AOL.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVjdRcmJ3dEpJbVFLb3hwU0RUamFwelN4UmhtUVI4LV9ZZEd1dWh2TjVwWk9JNnpWaU1FSEtPN1FGVVg2b1RIOFZCZHFTTkFsdVNRWXA2UG1XSEJkNk5td1FzdmI2RWd6T3lLTHhLVmRMUV9DWDFDcEw2SGQ0OFExWnZlSHBnU29zM1dj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LULU Q1 Earnings Call Highlights Growth Plans Amid Slower Demand - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRTFxUXlqa0RBcXhBQzN3Mm5IeWVURU42VlA4RkFTazE1clkxODZvZV9kQ0xVYzhCVmpHVzY4c01KM3k0aGxQd1Ffd0VMRUIwS0JEc0lLZ3BiYi1WUmM5X0haTTdOZ1NoQmNob0t6bkRSS3NpbEdDSWNBLWE0ZlVrZ3VJSVNra2RrbVdLMlhGZm1fbHE4Q2FCQ1VWSDRXd29GOEh1N1RuOHl6ZFZiNWpTR2RadGtKM3BzOEZqRw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-08-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Australia to see cotton crop contract to 3 mn bales in 2026-27",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/australia-to-see-cotton-crop-contract-to-3-mn-bales-in-2026-27-310835-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-08-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Oil crisis hits world growth outlook as Fitch revises down forecasts",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/oil-crisis-hits-world-growth-outlook-as-fitch-revises-down-forecasts-310834-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "toray-2026-06-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toray India Increases PPS Capacity; Global Expansion Wave Hits the Race - ChemNet",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42M0ROek5Lc1NQbmx2MElXbzAwTW1kbEVoR2tGSzJMRjdYN0xUWWJHZkZuNHNiMDEwdngzeDBocGtkbVZiTGdPWC03eWU0dEFy?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 3
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "hm",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 113,
+    "too_old": 197,
+    "gate1_blocked": 25,
+    "gate2_blocked": 48,
+    "passed": 24,
+    "pass_rate": "8.2%",
+    "gate2_block_rate": "16.3%",
+    "gate2_samples": [
+      "Toray Industries (TRYIF) Receives a Hold from Nomura - The Globe and Mail",
+      "Toray introduces ultrafiltration membrane designed to reduce biofouling in wastewater reuse - Dairy ",
+      "Toray and PTTGC Turn Cassava Waste into 100% Bio-Based Nylon 66 Breakthrough - ChemAnalyst",
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Toray and PTTGC Develop Bio-Based Adipic Acid for 100% Bio Nylon 66 | 2026 - News and Statistics - I"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Lululemon、Coach、東麗相關動態：「Is Lululemon Athletica a Buy After Its Latest Earnings Re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is Lululemon Athletica a Buy After Its Latest Earnings Report? - AOL.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "LULU Q1 Earnings Call Highlights Growth Plans Amid Slower Demand - TradingView（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

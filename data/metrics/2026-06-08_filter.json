@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 197,
+  "gate1_fail": 25,
+  "gate2_fail": 48,
+  "passed": 24,
+  "gate2_samples": [
+    "Toray Industries (TRYIF) Receives a Hold from Nomura - The Globe and Mail",
+    "Toray introduces ultrafiltration membrane designed to reduce biofouling in wastewater reuse - Dairy ",
+    "Toray and PTTGC Turn Cassava Waste into 100% Bio-Based Nylon 66 Breakthrough - ChemAnalyst",
+    "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+    "Toray and PTTGC Develop Bio-Based Adipic Acid for 100% Bio Nylon 66 | 2026 - News and Statistics - I"
+  ]
+}
