@@ -1,0 +1,216 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T10:52:40.674223Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s cotton sowing trails last year, Gujarat boosts outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-cotton-sowing-trails-last-year-gujarat-boosts-outlook-310873-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-09-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton futures show mixed trend after hitting two-month lows",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-futures-show-mixed-trend-after-hitting-two-month-lows-310867-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "pvh-2026-06-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Analysts Conflicted on These Consumer Cyclical Names: PVH (PVH) and Kontoor Brands (KTB) - The Globe and Mail",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSTRLSGpqM1Fna2JOLWFLNXBpbzFxYVNXY0Y4Rk9SQk1LVkVSZjNQTERBT3lUVEZfeVFWaVc3Sk1NVEtnY1BhaTNyXzZOM2RUUGlaWnB2YjVLQThvNnNySnJUeUZCcVlmU05MemFNRDJfaFVxTmhDTWtzZjlodzBKa2UzVWtaZko0WDFpY0lVOFQwU0NES09Ld2ZxQ3QyYzEtTzV6NVVBWFU3czVQenE5dW4tUU9oSWdJa01ZOGJjeFlTNW1jVElUVXJKSnlpZFREdDhNN29Id2tETUJDY2pZSGFkaENtNzdXUDI0ekowYjhiVnBoVllV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tapestry-2026-06-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Brandywine Global Investment Management LLC Invests $18.17 Million in Tapestry, Inc. $TPR - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdjFrcjZLaWhxaUZ1Zy1GZkZpb24ybE8wUUF2WFROUngwMkpoRkJzcXZ0TGhmSDZSWlFWYzdXaDJfTkhybm1wRU1yeVFKTk5mRFNJSVJaSEFmbDhCaUhFVlRndl9DMVZWNkVOVF8yTTFVY1VEQlY3OWw0MTdjb0ZXWGNBbUhiaVdndGpPMXhvZzlYbFM2R19QUkNpaHJPZDFjVTdDd2xDVVc1MWV5Q3dROHZhRU15R2VZMzMzQjhvdEhzNWZKc0dLcHZ6MTZhSnpkSWgyYUxxeFI3NC1iRVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-06-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Indian Bohemian Elephant Mandala Tapestry - Blue Cotton Wall Hanging, Bedspread (85\" X 55\") - Santo André BIZ",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUVNXeWZlOGtuVDBEZU1NMkxUSllPRG9GTU02dkVESUUwakF1SkFiRXd0azBwemxPNE9Qdll6c3dHS2wwSk82Z3lrdkhqVWR6eks2cjJJZm9heVFKQWVMc1BtdGwwb2FEZ0luTVh0TXNEQXFXVkoxMF9TM3JEb0pvTE05em9qVHUyd3RtLVNEc0RZUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 120,
+    "too_old": 201,
+    "gate1_blocked": 27,
+    "gate2_blocked": 39,
+    "passed": 17,
+    "pass_rate": "6.0%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Toray Industries (TRYIF) Receives a Hold from Nomura - The Globe and Mail",
+      "Toray introduces ultrafiltration membrane designed to reduce biofouling in wastewater reuse - Dairy ",
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Toray and PTTGC Turn Cassava Waste into 100% Bio-Based Nylon 66 Breakthrough - ChemAnalyst"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Coach、PVH相關動態：「India’s cotton sowing trails last year, Gujarat boosts ou...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "India’s cotton sowing trails last year, Gujarat boosts outlook（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "ICE cotton futures show mixed trend after hitting two-month lows（棉花價格、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

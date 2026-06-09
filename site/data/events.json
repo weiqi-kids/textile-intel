@@ -1,5 +1,171 @@
 [
   {
+    "id": "pvh-2026-06-09-001",
+    "date": "2026-06-09",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Analysts Conflicted on These Consumer Cyclical Names: PVH (PVH) and Kontoor Brands (KTB) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSTRLSGpqM1Fna2JOLWFLNXBpbzFxYVNXY0Y4Rk9SQk1LVkVSZjNQTERBT3lUVEZfeVFWaVc3Sk1NVEtnY1BhaTNyXzZOM2RUUGlaWnB2YjVLQThvNnNySnJUeUZCcVlmU05MemFNRD",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSTRLSGpqM1Fna2JOLWFLNXBpbzFxYVNXY0Y4Rk9SQk1LVkVSZjNQTERBT3lUVEZfeVFWaVc3Sk1NVEtnY1BhaTNyXzZOM2RUUGlaWnB2YjVLQThvNnNySnJUeUZCcVlmU05MemFNRDJfaFVxTmhDTWtzZjlodzBKa2UzVWtaZko0WDFpY0lVOFQwU0NES09Ld2ZxQ3QyYzEtTzV6NVVBWFU3czVQenE5dW4tUU9oSWdJa01ZOGJjeFlTNW1jVElUVXJKSnlpZFREdDhNN29Id2tETUJDY2pZSGFkaENtNzdXUDI0ekowYjhiVnBoVllV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-06-09-002",
+    "date": "2026-06-09",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Brandywine Global Investment Management LLC Invests $18.17 Million in Tapestry, Inc. $TPR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdjFrcjZLaWhxaUZ1Zy1GZkZpb24ybE8wUUF2WFROUngwMkpoRkJzcXZ0TGhmSDZSWlFWYzdXaDJfTkhybm1wRU1yeVFKTk5mRFNJSVJaSEFmbDhCaUhFVlRndl9DMVZWNkVOVF8yTT",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdjFrcjZLaWhxaUZ1Zy1GZkZpb24ybE8wUUF2WFROUngwMkpoRkJzcXZ0TGhmSDZSWlFWYzdXaDJfTkhybm1wRU1yeVFKTk5mRFNJSVJaSEFmbDhCaUhFVlRndl9DMVZWNkVOVF8yTTFVY1VEQlY3OWw0MTdjb0ZXWGNBbUhiaVdndGpPMXhvZzlYbFM2R19QUkNpaHJPZDFjVTdDd2xDVVc1MWV5Q3dROHZhRU15R2VZMzMzQjhvdEhzNWZKc0dLcHZ6MTZhSnpkSWgyYUxxeFI3NC1iRVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-06-09-003",
+    "date": "2026-06-09",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Indian Bohemian Elephant Mandala Tapestry - Blue Cotton Wall Hanging, Bedspread (85\" X 55\") - Santo André BIZ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUVNXeWZlOGtuVDBEZU1NMkxUSllPRG9GTU02dkVESUUwakF1SkFiRXd0azBwemxPNE9Qdll6c3dHS2wwSk82Z3lrdkhqVWR6eks2cjJJZm9heVFKQWVMc1BtdGwwb2FEZ0luTVh0TX",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUVNXeWZlOGtuVDBEZU1NMkxUSllPRG9GTU02dkVESUUwakF1SkFiRXd0azBwemxPNE9Qdll6c3dHS2wwSk82Z3lrdkhqVWR6eks2cjJJZm9heVFKQWVMc1BtdGwwb2FEZ0luTVh0TXNEQXFXVkoxMF9TM3JEb0pvTE05em9qVHUyd3RtLVNEc0RZUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-004",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "India’s cotton sowing trails last year, Gujarat boosts outlook",
+    "summary": "India’s cotton sowing remains below last year’s level, with acreage at 7.51 lakh hectares versus 9.72 lakh hectares a year ago.\nNorth India is expected to see lower cotton area as farmers shift to alt",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-cotton-sowing-trails-last-year-gujarat-boosts-outlook-310873-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-005",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh–Türkiye textile talks: $876 mn trade corridor fuels FTA",
+    "summary": "Bangladesh–Türkiye trade talks offer an opportunity to combine Bangladesh’s apparel scale with Türkiye’s strengths in fibre, yarn and finishing. \nWhile apparel dominates bilateral trade, resilient yar",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-t-rkiye-textile-talks-876-mn-trade-corridor-fuels-fta-310868-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-006",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Asian PTA prices rise as polyester demand boosts buying",
+    "summary": "Asian PTA prices rose across China, South Korea, India and Southeast Asia, supported by stronger polyester demand and inventory replenishment. \nDTY filament yarn markets showed mixed trends, with expo",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/asian-pta-prices-rise-as-polyester-demand-boosts-buying-310866-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-007",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ICE cotton futures show mixed trend after hitting two-month lows",
+    "summary": "ICE cotton futures remained under pressure as rising certified stocks and speculative liquidation weighed on sentiment.\nJuly futures slipped to 73.30 cents/lb, while December posted slight gains.\nTrad",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-futures-show-mixed-trend-after-hitting-two-month-lows-310867-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-008",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India launches portal to operationalise Bharat Audyogik Vikas Yojana",
+    "summary": "Indian Minister of Commerce and Industry Piyush Goyal yesterday launched a portal to operationalise the Bharat Audyogik Vikas Yojana (BHAVYA), which aims at developing 100 industrial parks to promote ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-launches-portal-to-operationalise-bharat-audyogik-vikas-yojana-310865-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-009",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Chinese, Cambodian customs ink AEO pact to streamline trade procedures",
+    "summary": "The customs authorities of China and Cambodia recently signed an authorised economic operator agreement to facilitate trade by simplifying customs procedures, accelerate customs clearance for highly c",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/chinese-cambodian-customs-ink-aeo-pact-to-streamline-trade-procedures-310859-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "toray-2026-06-08-001",
     "date": "2026-06-08",
     "companies": [
@@ -278,6 +444,116 @@
     ]
   },
   {
+    "id": "toray-2026-06-08-016",
+    "date": "2026-06-08",
+    "companies": [
+      "toray"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Goldwin Partners with Neste, Idemitsu and Toray to Launch Renewable Nylon Supply Chain - ChemAnalyst",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3NGRFpGRktseGt1TkRGRTdzcjN1N3d5WHJPNVFYUjd6UUg1cS12bnBjXy0yV0JFaVFndzR1WEFXXzZ5RS04Y1lJWDdaNXg0TzFHZFBoSUZnSEFNWG5jSXNKUkh5SC1QM2tIYXBZa1",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3NGRFpGRktseGt1TkRGRTdzcjN1N3d5WHJPNVFYUjd6UUg1cS12bnBjXy0yV0JFaVFndzR1WEFXXzZ5RS04Y1lJWDdaNXg0TzFHZFBoSUZnSEFNWG5jSXNKUkh5SC1QM2tIYXBZa1BrM0NmX21ScXROQU9aX1pPc2Mtdmo5Q1JOVmRCaWxFckhvUmlJa0E0WEdZYV9fdlBnQVVwWjRueVk0YmVjYzNUQVZIZEdPdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-06-08-017",
+    "date": "2026-06-08",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "lululemon athletica (NASDAQ:LULU) Given New $127.00 Price Target at Deutsche Bank Aktiengesellschaft - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc0NlblhOZTcyTURWU280Q3dHTHBpUGpuVTZXY25MRDJWUnJ0Z1Q0OWRvQ2ZZY1RfazlhR045Y2FZMFZUUVliWDV5bjZ4VXdKc0dIQ2Ywd3BUWTFjdG5pb0JoV3pnUHktR1BOZ0tGSm",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc0NlblhOZTcyTURWU280Q3dHTHBpUGpuVTZXY25MRDJWUnJ0Z1Q0OWRvQ2ZZY1RfazlhR045Y2FZMFZUUVliWDV5bjZ4VXdKc0dIQ2Ywd3BUWTFjdG5pb0JoV3pnUHktR1BOZ0tGSmMzVE8xeHZLVDRyajFpQmdrNkp0VVR5ZGtibkd5WE84TDBoLXo5VTdGTDJaVWhrR2xIak53ekZnX2oyTVRpQXVUTGRhT1JITGUtck02MF9uakF2dzZZamJrOVI4elBuVjRUR2U4WFByVTBjZGw1M0hBdm9Mcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-06-08-018",
+    "date": "2026-06-08",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon Shares Dropped After the Company Cut Its Annual Forecast. Is the Stock a Buy Amid the Selloff? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcDBqYXBsZWZpeVE3aWEzYVJpOUF2Z3FQS3pNc2cwS2p5WkhwQzNBaHBZcmVZR2NmcXdwZWQ1ZG12NDdRMGZDZ2Y4VnhZMjNiMkRFZ1N3azNRUUZ5RmZ0TjJOZFJjM3FkMXB5UjdtZX",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcDBqYXBsZWZpeVE3aWEzYVJpOUF2Z3FQS3pNc2cwS2p5WkhwQzNBaHBZcmVZR2NmcXdwZWQ1ZG12NDdRMGZDZ2Y4VnhZMjNiMkRFZ1N3azNRUUZ5RmZ0TjJOZFJjM3FkMXB5UjdtZXFSVGlycExJWm0za2Ewd3JqTnNjU0tGdFBxQ3ZFUWRZM2ZTXzY0ckh2d212Y2tLbFpBQ2QxYU5LWmVGSFBCbXNBanZXYmIwcDZ4a3RfTlBOSmVweHd3QjBCUUh2dzhoVEk4Y1ZaeU80VzJRcXNZU2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-06-08-019",
+    "date": "2026-06-08",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "VF Corporation stock (US9255241033): Turnaround plan meets weak demand in outdoor apparel - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNllsSWpVdEppLTVDY1Z5SThFU3ZkVXo4TGtPMzRPWjMzUXlKWGVUakQ4RzBLRHdCUVY4MmgzaU1HZEJlSGI5eHpZVWRsMlNGZ05LZjN2OXZIcXZ5Nm1Ma2E3MEZLMFZmVnN5cmREZ3",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNllsSWpVdEppLTVDY1Z5SThFU3ZkVXo4TGtPMzRPWjMzUXlKWGVUakQ4RzBLRHdCUVY4MmgzaU1HZEJlSGI5eHpZVWRsMlNGZ05LZjN2OXZIcXZ5Nm1Ma2E3MEZLMFZmVnN5cmREZ3RDcWhWcXA3UXRJMUxCQUVpRWJoQVp6WXRxRDVKajhOZGQ3MWE3a2hMWkpIOGN1STFFWkQzYk9zWmp6bV9FOWlhQkpIRnlYUHF3dDJfSk45ZFNjc2YyQjk5Mg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-06-08-020",
+    "date": "2026-06-08",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Calvin Klein Parent PVH Sinks Over 16% In 5 Days After Slashing Revenue Guidance: CEO Says Brand Is Balan - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNTkdueEFZb05zbHdRQXZLczM3VzRvMVMyRFYxcE9CNU9XTTJpb2xDcTRjVElVWmJnWTdabVhXNVB3Slpwd2VkdHNDa0lrZU16dUVNVG5rY2Q5dEZXMk1HY1U3a3BjMkJfdS1XandRcE",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNTkdueEFZb05zbHdRQXZLczM3VzRvMVMyRFYxcE9CNU9XTTJpb2xDcTRjVElVWmJnWTdabVhXNVB3Slpwd2VkdHNDa0lrZU16dUVNVG5rY2Q5dEZXMk1HY1U3a3BjMkJfdS1XandRcEl4RUlqZl83SXJRMEE4RzNKXzRxSUhSNmI4VUxoOVJ0UDRPbzROUktOa0hDZWlKcERvMWNpbnhMdzBYcWJVWUZHS3VZUXIxaWJDYi1ra09CTlZ0U3lUNzBaNFRuWVRNclhTaDI5ZnhrZmFhOUh1RzR5eEp0TnFkSTRCWW9HYXlEWmZ5QWJYc0hzdHVBSG5Xa0ZuUVB0QUVxYnhtbUxHQ0I3RXk4X0EyN1VFRnoyQ1Fn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-06-08-021",
+    "date": "2026-06-08",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lakeville’s Tapestry Coffee brewing second location - Bring Me The News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVmhrX00wUFU1Q2o5QkU1VjV2N1NsazVQOTFkRnJFQlJnNlFrUlJfZ2lOMVdrTXUxbTg5dkZZSjNBb2tCemg1M2NCNkl2S2NvaG5kZlFIS3JaMkVoaFE1YnlpV3dpNDJ6dHZqVWVmNi",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmhrX00wUFU1Q2o5QkU1VjV2N1NsazVQOTFkRnJFQlJnNlFrUlJfZ2lOMVdrTXUxbTg5dkZZSjNBb2tCemg1M2NCNkl2S2NvaG5kZlFIS3JaMkVoaFE1YnlpV3dpNDJ6dHZqVWVmNi03eXJzdnVqbWp5SW1LZnYwZnQ2MEhqR2N0eXdSYWI2WjVtTmNmZkpNNU9tNlUzQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lululemon-2026-06-07-001",
     "date": "2026-06-07",
     "companies": [
@@ -420,6 +696,26 @@
       {
         "name": "tapestry",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS0E2Wmx1WE0zaUxTcVVjSHY4UTlyMW5iaVNGMUljMmVrNklaaFljZTRIcU1DWVFSUTNwMDYtMzJBSXRjUlhCTkdxWExvY2lkdjVrbDMyWHk3SzJaUFFvd21oN3Nsc3VMaXZnUnBuVkU2djh5eUgtYl9EMVphTkh4WWdUMzJKaDZSMXp6Uk1vVjVGbkY4Vm1wX05HQUJYSW5Hejhtdi1teVB5VmhEN3pkQ1FVNlBIaFJMR0Y1cC1fV3ZET0VTQkItdEwzTnZiY0lTNWpN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-06-07-009",
+    "date": "2026-06-07",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lululemon Guidance Cut And Brand Reset Test Investor Patience And Valuation - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmtwY2FTS3ROdWs5N3dacU8xZlFQQ2ZjZTBqb3lISF9zTVZnTGNGME1mT0NWX2Vnank4RGJtSDR2ZEktbDhVRWIxYmtmT2t6VnFnRTNLeVZzbHhtOU5GQk9FeUtqaDFqOU9Xb1ZJUV",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmtwY2FTS3ROdWs5N3dacU8xZlFQQ2ZjZTBqb3lISF9zTVZnTGNGME1mT0NWX2Vnank4RGJtSDR2ZEktbDhVRWIxYmtmT2t6VnFnRTNLeVZzbHhtOU5GQk9FeUtqaDFqOU9Xb1ZJUVVwOWI0N09HaXlKcHdDQzNqWGZFNXVKdmVLb2pvVE5EY2tlUjZpdXVNbWVYWU1TX2lK?oc=5",
         "type": "rss"
       }
     ]
@@ -1490,6 +1786,26 @@
       {
         "name": "lululemon",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcE1kLWhZTllWQldCMl93VnBfY0xWWThHdVNJWVkwM0pRam1KQ08xSUNYcE1rd19sUGRUeFYzakpBU1dwaldEQXVuZW41RlFNalBMTUhSeDRzTWNXOFk1c2ZUS1ZwRGd6NDVsdHZmRkdhdng3ZWx5UlZsc1dxTXNWSEo5VE9QYm43cEpfM0UtVEt3VmloZGRNREN3R3VhdkJ6V2lleVItQ2hKcHkyd1N6Qw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-06-05-043",
+    "date": "2026-06-05",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Lululemon Athletica a Buy After Its Latest Earnings Report? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFBNVEZjSUY5LXpmRjE3cHR6M1huYjhYQTBwMTI4YU96SkZoTDYwbTMwUjNJNFZ0dWYxeHlhRnZfS2k5VDBaanJaMGNyTE96cWRvLWpmREhXX0k0dXRlSE04MFp5cmprZER6ZjVRQW",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFBNVEZjSUY5LXpmRjE3cHR6M1huYjhYQTBwMTI4YU96SkZoTDYwbTMwUjNJNFZ0dWYxeHlhRnZfS2k5VDBaanJaMGNyTE96cWRvLWpmREhXX0k0dXRlSE04MFp5cmprZER6ZjVRQWdtUU1sY1FhUGZCdzNNVUlkT2lWaEJyWFFQbmszX0VXNnl3Y2RXTXdRTURlTFdCakdreW1pRlM3UQ?oc=5",
         "type": "rss"
       }
     ]
