@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T10:52:37.231373Z",
-  "quarter": "2025-09-30, 2025-10-31, 2025-11-30",
+  "updated_at": "2026-06-10T11:31:40.661658Z",
+  "quarter": "2025-09-30, 2025-10-31, 2025-12-31",
   "companies": [
     {
       "id": "adidas",
@@ -92,17 +92,17 @@
       "name": "H&M",
       "ticker": "HM-B.ST",
       "currency": "SEK",
-      "ar": 6411000000,
-      "ar_prev": 16374000000,
-      "ar_qoq": "-61%",
+      "ar": 14561000000,
+      "ar_prev": 6411000000,
+      "ar_qoq": "+127%",
       "ar_period": "QoQ",
-      "inventory": 35427000000,
-      "inv_prev": 37938000000,
-      "inv_qoq": "-7%",
+      "inventory": 34608000000,
+      "inv_prev": 35427000000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-11-30"
+      "quarter_date": "2026-02-28"
     },
     {
       "id": "inditex",

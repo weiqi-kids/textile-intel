@@ -1,0 +1,208 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:31:44.807870Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pvh-2026-06-10-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "PVH Corp. Just Recorded A 5.6% EPS Beat: Here's What Analysts Are Forecasting Next - simplywall.st",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdG05TEpSR2Zubk5GUnlRLThIcDNJYTBEVlVhWWtrTU1FVENmZm1TVWROc1NqTjl5ZlNITTdocHBVbzVDZTFNak9XMmNaaENBQ0U1NWtWbEFidUhTUWhjSFBLWVhUZVllczdyVk1Xa29xS2RCVUc4dFFETmx0YjljWDZHMjdrNUQxVVpoZ0RzdVpGakdpWlowTFYyYjk2WFprX3FqYWNiS1lKTUhQYXUzOUlkMDY0Q0lXS3djWkhZdmZhNXNTUUN30gHMAUFVX3lxTE1FQWdiQzA5RFdMZVpHLVhoNGkybHJ0TXlHWEo1WDNIaFVfY29JUmdkalBkUTVsNk0yUjBhaWhmN1hELWowa1BaaFRwNmRhbV9QQjFNQ3JOX3pYRm8yTjZWbGpRQVdDUmg1UG56Y0RHSDZnd2g3SnAxaVYxZms3OG5iZkJoLThiWnJNcTN3Z3hndEdncWtaVGV3Skx4MnQwS0JnMkQyVzNOYjFKR25hc0VzeVN1NE5FNzRwdTFfSWlCYk5TYnU0eTgxZ1dDMw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-10-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "100% polyester yarn under pressure as crude and feedstock prices fall",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/100-polyester-yarn-under-pressure-as-crude-and-feedstock-prices-fall-310891-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "toray-2026-06-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toray India Strengthens PPS Business with Capacity Expansion - Chemical Industry Digest",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGUtV0Rla1pXOG1sZHZCRmJsRFg0Ti1udWZSdWhZSElXTlV2T1VTQ1l5MS1udmkxdF95VnBJcmhGZi1IMDdEZmZub1lUcDhqYUpyUlM1aWtOOTNETGFQYnhJb2tVU0lJMldiVmJ3OWE2VUdGNW5CWXo3ZEMwZTBPY2FJWlFWX2xqeEpULVFmOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "far_eastern-2026-06-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FENC Wins Top Global Award in Talent Development ATD Excellence in Practice Award - feg.com.tw",
+      "companies": [
+        "far_eastern"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NdVBYZ2JFTFU4S3FPbWNzUTVvbXhjVXhHWm5LVjZlaldWaWJpRTBPVGdCMWMyN1BSVVMxdzZZa1E0WXVsdUV4aGhIUHRkRVZCa2c3NTFyWk5waTBpdjhWa1RZYk9BekE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adidas-2026-06-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas Target Raised to EUR210 From EUR170 by RBC - Moomoo",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU04tTHFQZGtyRnZHRHpobEsyY0tRa3laYTF6NzJCUXZtVVFDUUpiRjZIVl84T2c5QjlpaGZEUzhSRGpnUHVjNXp3MGRCc0w5ekR2NDdZajV3bkFvSzVJTF9PTk1rblI0eFZJTXdaQV9vVG83LVByLV9fd0RaSEcta1QtNnQzeWhIZGx4aXJ2bklROE1PM0lJbjZSVkl4Z3hTVEtOMDhfZzd1MklpcTBJV25TQzAwMjlHQUtrZjFqZm5IZDZq?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.42,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "far_eastern",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 109,
+    "too_old": 200,
+    "gate1_blocked": 28,
+    "gate2_blocked": 42,
+    "passed": 24,
+    "pass_rate": "8.2%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Toray Industries (TRYIF) Receives a Hold from Nomura - The Globe and Mail",
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Next-generation Valmet DNAe DCS to strengthen gas boiler operations at Lenzing in Austria - Process ",
+      "Lenzing to upgrade 1K6 gas boiler control system at Austrian site - lesprom.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為東麗、Far Eastern New Century、愛迪達相關動態：「PVH Corp. Just Recorded A 5.6% EPS Beat: Here's What Anal...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "PVH Corp. Just Recorded A 5.6% EPS Beat: Here's What Analysts Are Forecasting...",
+        "level": "green"
+      },
+      {
+        "text": "100% polyester yarn under pressure as crude and feedstock prices fall（棉花價格）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

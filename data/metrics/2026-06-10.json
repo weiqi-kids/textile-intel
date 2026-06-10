@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-10",
+  "total_events": 9,
+  "by_company": {
+    "toray": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "far_eastern": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adidas": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pvh": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "cotton_price": {
+      "count": 3,
+      "sentiment_avg": -0.42
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

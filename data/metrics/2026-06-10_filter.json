@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 200,
+  "gate1_fail": 28,
+  "gate2_fail": 42,
+  "passed": 24,
+  "gate2_samples": [
+    "Toray Industries (TRYIF) Receives a Hold from Nomura - The Globe and Mail",
+    "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+    "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+    "Next-generation Valmet DNAe DCS to strengthen gas boiler operations at Lenzing in Austria - Process ",
+    "Lenzing to upgrade 1K6 gas boiler control system at Austrian site - lesprom.com"
+  ]
+}

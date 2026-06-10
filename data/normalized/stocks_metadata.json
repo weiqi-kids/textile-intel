@@ -1,92 +1,92 @@
 {
   "toray": {
-    "earliest": "2010-05-13",
-    "latest": "2026-06-09",
-    "count": 3952
+    "earliest": "2010-02-12",
+    "latest": "2026-06-10",
+    "count": 4012
   },
   "lenzing": {
-    "earliest": "2010-05-07",
-    "latest": "2026-06-09",
-    "count": 4029
+    "earliest": "2010-02-08",
+    "latest": "2026-06-10",
+    "count": 4092
   },
   "far_eastern": {
-    "earliest": "2010-05-14",
-    "latest": "2026-06-09",
-    "count": 3929
+    "earliest": "2010-02-22",
+    "latest": "2026-06-10",
+    "count": 3988
   },
   "formosa_taffeta": {
-    "earliest": "2010-05-14",
-    "latest": "2026-06-09",
-    "count": 3929
+    "earliest": "2010-02-22",
+    "latest": "2026-06-10",
+    "count": 3988
   },
   "lealea": {
-    "earliest": "2010-05-14",
-    "latest": "2026-06-09",
-    "count": 3929
+    "earliest": "2010-02-22",
+    "latest": "2026-06-10",
+    "count": 3988
   },
   "shenzhou": {
-    "earliest": "2010-05-13",
-    "latest": "2026-06-09",
-    "count": 3959
+    "earliest": "2010-02-12",
+    "latest": "2026-06-10",
+    "count": 4019
   },
   "eclat": {
-    "earliest": "2010-05-14",
-    "latest": "2026-06-09",
-    "count": 3929
+    "earliest": "2010-02-22",
+    "latest": "2026-06-10",
+    "count": 3988
   },
   "makalot": {
-    "earliest": "2010-05-14",
-    "latest": "2026-06-09",
-    "count": 3929
+    "earliest": "2010-02-22",
+    "latest": "2026-06-10",
+    "count": 3988
   },
   "nike": {
-    "earliest": "2010-05-10",
-    "latest": "2026-06-08",
-    "count": 4045
+    "earliest": "2010-02-09",
+    "latest": "2026-06-09",
+    "count": 4108
   },
   "adidas": {
-    "earliest": "2010-05-06",
-    "latest": "2026-06-09",
-    "count": 4088
+    "earliest": "2010-02-05",
+    "latest": "2026-06-10",
+    "count": 4151
   },
   "inditex": {
-    "earliest": "2010-05-06",
-    "latest": "2026-06-09",
-    "count": 4117
+    "earliest": "2010-02-05",
+    "latest": "2026-06-10",
+    "count": 4180
   },
   "hm": {
-    "earliest": "2010-05-06",
-    "latest": "2026-06-09",
-    "count": 4043
+    "earliest": "2010-02-05",
+    "latest": "2026-06-10",
+    "count": 4106
   },
   "lululemon": {
-    "earliest": "2010-05-10",
-    "latest": "2026-06-08",
-    "count": 4045
+    "earliest": "2010-02-09",
+    "latest": "2026-06-09",
+    "count": 4108
   },
   "vf_corp": {
-    "earliest": "2010-05-10",
-    "latest": "2026-06-08",
-    "count": 4045
+    "earliest": "2010-02-09",
+    "latest": "2026-06-09",
+    "count": 4108
   },
   "fast_retailing": {
-    "earliest": "2010-05-13",
-    "latest": "2026-06-09",
-    "count": 3952
+    "earliest": "2010-02-12",
+    "latest": "2026-06-10",
+    "count": 4012
   },
   "pvh": {
-    "earliest": "2010-05-10",
-    "latest": "2026-06-08",
-    "count": 4045
+    "earliest": "2010-02-09",
+    "latest": "2026-06-09",
+    "count": 4108
   },
   "tapestry": {
-    "earliest": "2010-05-10",
-    "latest": "2026-06-08",
-    "count": 4045
+    "earliest": "2010-02-09",
+    "latest": "2026-06-09",
+    "count": 4108
   },
   "etf_xrt": {
-    "earliest": "2010-05-10",
-    "latest": "2026-06-08",
-    "count": 4045
+    "earliest": "2010-02-09",
+    "latest": "2026-06-09",
+    "count": 4108
   }
 }
