@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T11:31:40.661658Z",
-  "quarter": "2025-09-30, 2025-10-31, 2025-12-31",
+  "updated_at": "2026-06-11T12:03:34.314473Z",
+  "quarter": "2025-09-30, 2025-12-31, 2026-02-28",
   "companies": [
     {
       "id": "adidas",
@@ -109,17 +109,17 @@
       "name": "印地紡",
       "ticker": "ITX.MC",
       "currency": "EUR",
-      "ar": 1180000000,
-      "ar_prev": 1241000000,
-      "ar_qoq": "-5%",
+      "ar": 1066000000,
+      "ar_prev": 1180000000,
+      "ar_qoq": "-10%",
       "ar_period": "QoQ",
-      "inventory": 4499000000,
-      "inv_prev": 3466000000,
-      "inv_qoq": "+30%",
+      "inventory": 3812000000,
+      "inv_prev": 4499000000,
+      "inv_qoq": "-15%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-10-31"
+      "alert": false,
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "lealea",
@@ -211,17 +211,17 @@
       "name": "PVH Corp",
       "ticker": "PVH",
       "currency": "USD",
-      "ar": 994600000,
-      "ar_prev": 1098200000,
-      "ar_qoq": "-9%",
+      "ar": 896800000,
+      "ar_prev": 994600000,
+      "ar_qoq": "-10%",
       "ar_period": "QoQ",
-      "inventory": 1583500000,
-      "inv_prev": 1664000000,
+      "inventory": 1510200000,
+      "inv_prev": 1583500000,
       "inv_qoq": "-5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-01-31"
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "shenzhou",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 204,
+  "gate1_fail": 28,
+  "gate2_fail": 45,
+  "passed": 15,
+  "gate2_samples": [
+    "Toray Industries (TRYIF) Receives a Hold from Nomura - The Globe and Mail",
+    "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+    "Far Eastern New Century Corporation Financial Disclosures & Filings - TradingView",
+    "Shenzhou International Group Holdings Stock Slips 1.3% in Hong Kong - Moomoo",
+    "UBS Keeps Their Hold Rating on Shenzhou International Group Holdings (SZHIF) - The Globe and Mail"
+  ]
+}
