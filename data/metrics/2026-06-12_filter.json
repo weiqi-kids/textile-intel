@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 25,
+  "gate2_fail": 41,
+  "passed": 15,
+  "gate2_samples": [
+    "Toray Industries (TRYIF) Receives a Hold from Nomura - The Globe and Mail",
+    "Far Eastern New Century Corporation Financial Disclosures & Filings - TradingView",
+    "Shenzhou International Group Holdings Stock Slips 1.3% in Hong Kong - Moomoo",
+    "The 11 coolest 2026 FIFA World Cup collabs with Nike, Drake, Slawn, and more - The Fader",
+    "Nike leads list of most-followed brands on social media - businessplus.ie"
+  ]
+}

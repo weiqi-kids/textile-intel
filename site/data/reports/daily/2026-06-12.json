@@ -1,0 +1,211 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:34:37.922856Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "World cotton supply-demand outlook may tighten next year: WASDE",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/world-cotton-supply-demand-outlook-may-tighten-next-year-wasde-310956-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-12-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US' Oxford Industries' Q1 sales slip 0.4% amid tariffs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.33
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-oxford-industries-q1-sales-slip-0-4-amid-tariffs-310943-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-12-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Turkiye's Mavi reports Q1 profit of $11.95 mn, sales dip 2%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.33
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/turkiye-s-mavi-reports-q1-profit-of-11-95-mn-sales-dip-2--310929-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-06-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bear of the Day: lululemon athletica inc. (LULU) - Zacks Investment Research",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1pINzFWWmtJbWV0V0lOYm1kVFRWQmd6RTFyS0FTWG5jOEY4WjdlWnloVGhoSVNfOGl6alhJSmZOQXIyX2lQSG5WeHhmUmNyc3NlLUM4MTJRM1FLSXh1TEVmYTBZQVJaUFBpRmNnQWZIY09GQ005X2Q0RVR6WndMOS1QNGFWZ1p1UGdUa3h3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South India cotton yarn continues to see sluggish demand, prices down",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/south-india-cotton-yarn-continues-to-see-sluggish-demand-prices-down-310963-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.22,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 108,
+    "too_old": 215,
+    "gate1_blocked": 25,
+    "gate2_blocked": 41,
+    "passed": 15,
+    "pass_rate": "5.1%",
+    "gate2_block_rate": "13.9%",
+    "gate2_samples": [
+      "Toray Industries (TRYIF) Receives a Hold from Nomura - The Globe and Mail",
+      "Far Eastern New Century Corporation Financial Disclosures & Filings - TradingView",
+      "Shenzhou International Group Holdings Stock Slips 1.3% in Hong Kong - Moomoo",
+      "The 11 coolest 2026 FIFA World Cup collabs with Nike, Drake, Slawn, and more - The Fader",
+      "Nike leads list of most-followed brands on social media - businessplus.ie"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Lululemon相關動態：「World cotton supply-demand outlook may tighten next year:...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "World cotton supply-demand outlook may tighten next year: WASDE（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "US' Oxford Industries' Q1 sales slip 0.4% amid tariffs（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

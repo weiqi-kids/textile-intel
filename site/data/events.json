@@ -1,5 +1,186 @@
 [
   {
+    "id": "lululemon-2026-06-12-001",
+    "date": "2026-06-12",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bear of the Day: lululemon athletica inc. (LULU) - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1pINzFWWmtJbWV0V0lOYm1kVFRWQmd6RTFyS0FTWG5jOEY4WjdlWnloVGhoSVNfOGl6alhJSmZOQXIyX2lQSG5WeHhmUmNyc3NlLUM4MTJRM1FLSXh1TEVmYTBZQVJaUFBpRmNnQW",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1pINzFWWmtJbWV0V0lOYm1kVFRWQmd6RTFyS0FTWG5jOEY4WjdlWnloVGhoSVNfOGl6alhJSmZOQXIyX2lQSG5WeHhmUmNyc3NlLUM4MTJRM1FLSXh1TEVmYTBZQVJaUFBpRmNnQWZIY09GQ005X2Q0RVR6WndMOS1QNGFWZ1p1UGdUa3h3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-002",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "South India cotton yarn continues to see sluggish demand, prices down",
+    "summary": "South India’s cotton yarn market remained under pressure as weak demand, labour shortages and slower downstream activity weighed on prices.\nMumbai yarn prices fell by ₹5–7 per kg, while Tiruppur remai",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/south-india-cotton-yarn-continues-to-see-sluggish-demand-prices-down-310963-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-003",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "World cotton supply-demand outlook may tighten next year: WASDE",
+    "summary": "USDA’s June WASDE report points to a tighter global cotton balance in 2026–27, with lower beginning and ending stocks and slightly higher consumption.\nWorld production is forecast to remain stable at ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/world-cotton-supply-demand-outlook-may-tighten-next-year-wasde-310956-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-004",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Strong export demand boosts US cotton sales and shipments",
+    "summary": "US cotton export demand strengthened in the week ended June 4, with Upland sales rising 12 per cent to 207,000 RB and shipments increasing 12 per cent to 300,100 RB.\nVietnam, Pakistan and India led bu",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/strong-export-demand-boosts-us-cotton-sales-and-shipments-310950-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-005",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "positive",
+    "title": "ICE cotton bounces back on short covering, positive US reports",
+    "summary": "ICE cotton futures rebounded on technical short covering, strong US export sales and a supportive USDA WASDE report showing lower global ending stocks.\nJuly futures settled at 72.49 cents/lb and Decem",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-bounces-back-on-short-covering-positive-us-reports-310946-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-006",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh-Japan EPA opens $3 bn apparel export door with RMG push",
+    "summary": "Bangladesh aims to raise apparel exports to Japan from about $1.3-1.4 billion to $3 billion, requiring monthly shipments to roughly double. \nThe 2026 EPA secures duty-free access and flexible rules of",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-japan-epa-opens-3-bn-apparel-export-door-with-rmg-push-310945-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-007",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "US' Oxford Industries' Q1 sales slip 0.4% amid tariffs",
+    "summary": "Oxford Industries has reported Q1 net sales of $391 million, broadly flat YoY, while adjusted EPS declined to $1.39 due to $11 million in additional tariff costs. \nTommy Bahama delivered growth, but L",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/us-oxford-industries-q1-sales-slip-0-4-amid-tariffs-310943-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-008",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Cambodia garment exports maintain growth despite May slowdown",
+    "summary": "Cambodia’s apparel exports rose 5.6 per cent YoY to $4.45 billion in January-May 2026, accounting for 31.7 per cent of total exports.\nGrowth was driven by both knitted and woven garments, although May",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/cambodia-garment-exports-maintain-growth-despite-may-slowdown-310906-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-009",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Bangladesh exporters concerned over US tariff move under Section 301",
+    "summary": "The United States Trade Representative (USTR) has proposed 10–12.5 per cent tariffs on 60 countries, including Bangladesh, over forced-labour concerns after Section 301 findings. \nExporters warn total",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-exporters-concerned-over-us-tariff-move-under-section-301-310938-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-010",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Turkiye's Mavi reports Q1 profit of $11.95 mn, sales dip 2%",
+    "summary": "Turkiye’s Mavi has reported Q1 2026 revenue of TL 12.7 billion (~$279.4 million) and net profit of TL 543 million (~$11.95 million), despite a 2 per cent decline in sales amid weaker consumer demand. ",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/turkiye-s-mavi-reports-q1-profit-of-11-95-mn-sales-dip-2--310929-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lululemon-2026-06-11-001",
     "date": "2026-06-11",
     "companies": [
@@ -140,6 +321,82 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/humana-apparels-boosts-capacity-15-with-coats-digital-solution-310902-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-06-11-009",
+    "date": "2026-06-11",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "EXEC: Adidas AG Earns RBC Stock Upgrade on Market Share Recovery - SGB Media Online",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPTWc5dnBvWVBXQnc4SmRSUlRIbWktUHU3UXh1Z284U0taSkJ1SHE0WTlPYVpwREcxUVplNFBMTmpZcE1vVlFNRXZJNnpPMEtRbERORTJaQ0Y3QWRhbUY2SHJjOXNFS2tfYko0bURyYk",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTWc5dnBvWVBXQnc4SmRSUlRIbWktUHU3UXh1Z284U0taSkJ1SHE0WTlPYVpwREcxUVplNFBMTmpZcE1vVlFNRXZJNnpPMEtRbERORTJaQ0Y3QWRhbUY2SHJjOXNFS2tfYko0bURyYk9MXzBsVHltQzJuZTZlV1F3WEpIbmh0NHI3ZFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-06-11-010",
+    "date": "2026-06-11",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Lululemon Athletica (NASDAQ: LULU) Stock Price Drops 40% As Weak Guidance And Falling Margins Raise Turnaround Questions - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUVNsYXF0dHBlc3dYTnlSYWsxRG9UaVIwQ1IyeTZ2YlBCX2hNNm0tYzlTVkU3dTgzZ1dSaDc3SFdXaTdQX01rYzc1dkhXaDkyZnNxVDdiai1hTGpaa2doM0xvWjVXVl9tT3djUldldW",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUVNsYXF0dHBlc3dYTnlSYWsxRG9UaVIwQ1IyeTZ2YlBCX2hNNm0tYzlTVkU3dTgzZ1dSaDc3SFdXaTdQX01rYzc1dkhXaDkyZnNxVDdiai1hTGpaa2doM0xvWjVXVl9tT3djUldldWxLdjdabG5rV3RfVFZ5Wk9Gd2t3OFJEUkR2N0FBRzRTeEVvaUdNR29KRTFtRWY4aEZxTV9oYlB1S09OMXo5bVBlNXl2aW9vdm1DVTRGbkxVZ3hpTktab2FWaTlISVlybEd5cnVjV2xTeW5BZG4yNHZDZXZzT1pOQlZxanZLTVp0QlpuRGZ4cmRQQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-06-11-011",
+    "date": "2026-06-11",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is lululemon athletica inc. (LULU) A Good Stock To Buy Now? - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXNDdTk1ZlNpVGJXT0EyMkxvamdCQ0tpYmNiQ1VoeGZfMUpCTG51bWZIaVhYajV2TWJnTXFPMEdRbzBhbTFCeGx1VU80dllwV3BRSFlrTVlsd3diQnNGWnQ4a2xPemNKMEYtbWpJSV",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXNDdTk1ZlNpVGJXT0EyMkxvamdCQ0tpYmNiQ1VoeGZfMUpCTG51bWZIaVhYajV2TWJnTXFPMEdRbzBhbTFCeGx1VU80dllwV3BRSFlrTVlsd3diQnNGWnQ4a2xPemNKMEYtbWpJSVFZM1Z2aFI2TzZoZkk4cEtnQ1ZXQXRGc2FkWEwwYkdZaDhvdXBjdTF3cm94elo1NENkeGdNN0FpS2pJRDTSAasBQVVfeXFMTTVzQ3U5NWZTaVRiV09BMjJMb2pnQkNLaWJjYkNVaHhmXzFKQkxudW1mSGlYWGo1dk1iZ01xTzBHUW8wYW0xQnhsdVVPNHZZcFdwUUhZa01ZbHd3YkJzRlp0OGtsT3pjSjBGLW1qSUlRWTNWdmhSNk82aGZJOHBLZ0NWV0F0RnNhZFhMMGJHWWg4b3VwY3Uxd3JveHpaNTRDZHhnTTdBaUtqSUQ0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-11-012",
+    "date": "2026-06-11",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike: 29 Times Earnings And Negative Guidance (NYSE:NKE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnFrQ3hTQ0g2MXhjcW8xRnlOenpLNjExS0tOTWVobmdzNGZrYkdDU1c2M1U1LWRWRUJoaDh6Tjlpc2F6U0d2bXdtSFBDQ2s4NFN2MXg2WWtxZl9jNmtPMDBGbUhPZDI4WWJWUFhfQz",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnFrQ3hTQ0g2MXhjcW8xRnlOenpLNjExS0tOTWVobmdzNGZrYkdDU1c2M1U1LWRWRUJoaDh6Tjlpc2F6U0d2bXdtSFBDQ2s4NFN2MXg2WWtxZl9jNmtPMDBGbUhPZDI4WWJWUFhfQzBVNnlmdUNwTXgyZFJlb1U3VnRYb1h2WVhQS3hKQWRn?oc=5",
         "type": "rss"
       }
     ]
@@ -2489,6 +2746,24 @@
       {
         "name": "lululemon",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFBNVEZjSUY5LXpmRjE3cHR6M1huYjhYQTBwMTI4YU96SkZoTDYwbTMwUjNJNFZ0dWYxeHlhRnZfS2k5VDBaanJaMGNyTE96cWRvLWpmREhXX0k0dXRlSE04MFp5cmprZER6ZjVRQWdtUU1sY1FhUGZCdzNNVUlkT2lWaEJyWFFQbmszX0VXNnl3Y2RXTXdRTURlTFdCakdreW1pRlM3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-044",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan shares higher at close of trade; Taiwan Weighted up 1.98% - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWWRQdG5rbFBpMEZPSnRqUWZnSGgyTVdEWnp5bHFNZEthcnlNckQ3X0YtYkVjMVlhRmEzZE9oVlczRHNRX0xtaTJocVJPSEtWMnUyU2w0Rk1hQWVzTDFQaE51TXpLTG9oSGY1enplY0",
+    "sources": [
+      {
+        "name": "lealea",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWWRQdG5rbFBpMEZPSnRqUWZnSGgyTVdEWnp5bHFNZEthcnlNckQ3X0YtYkVjMVlhRmEzZE9oVlczRHNRX0xtaTJocVJPSEtWMnUyU2w0Rk1hQWVzTDFQaE51TXpLTG9oSGY1enplY0FValJ2dUdJU01wWVdmTkJYN05TYm5Kdnc4YU5qVkVGb1JPaHVLUFIySnJtQU1Dd19BMkM0NDJxelhUU0tud0RSOVdfeS1JX0ZX?oc=5",
         "type": "rss"
       }
     ]
