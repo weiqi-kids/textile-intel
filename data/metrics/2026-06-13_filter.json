@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 219,
+  "gate1_fail": 24,
+  "gate2_fail": 44,
+  "passed": 14,
+  "gate2_samples": [
+    "Far Eastern New Century Corporation Financial Disclosures & Filings - TradingView",
+    "Shenzhou International Group Holdings Stock Slips 1.3% in Hong Kong - Moomoo",
+    "Inside Nike’s bet on soccer kits as fashion language - Andscape",
+    "This Week in Brand Collaborations: Coachtopia x Depop, Jacquemus x Nike, UNIQLO x F. RISSO and More ",
+    "Nike emerges as Instagram's biggest brand - Africa Business Communities"
+  ]
+}

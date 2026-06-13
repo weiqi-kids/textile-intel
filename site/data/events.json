@@ -1,5 +1,96 @@
 [
   {
+    "id": "tapestry-2026-06-13-001",
+    "date": "2026-06-13",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Castleark Management LLC Makes New $18.15 Million Investment in Tapestry, Inc. $TPR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZy1rN1JDY0daYWk4OWd4RUZ2a2pPLUFENG5iOFdpNWFFWWRGWXVuaUlhcWpydU01OFlWdENhcnVVYl8tMUxiNHZReVp0N3hKeGdQeUdzdnBFMU1XV1ZXT1lBSVZXZmJNcmROWnZabz",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZy1rN1JDY0daYWk4OWd4RUZ2a2pPLUFENG5iOFdpNWFFWWRGWXVuaUlhcWpydU01OFlWdENhcnVVYl8tMUxiNHZReVp0N3hKeGdQeUdzdnBFMU1XV1ZXT1lBSVZXZmJNcmROWnZabzFmRkVUQl9lZWlORTVXMWhkSUZuRFFCd1VlRkRJVG85M18zUTVVT3laM3h6RWdaOEpOUU1oS3BQRmMxb2hxSEpqalNweW84TndNeU5tMzFlXzEtc1p2M29sdFpkTElmeWhCNHBWY2Zn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-002",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Supply chain concerns cloud India’s holiday season export outlook",
+    "summary": "As holiday-season shipments get underway, Indian apparel and home textile exporters are navigating choppy waters. \nThe West Asia crisis has reportedly disrupted key trade routes and driven up freight ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/supply-chain-concerns-cloud-india-s-holiday-season-export-outlook-310960-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-003",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India’s Odisha to set up textile cluster on defunct spinning mill site",
+    "summary": "India’s Odisha state has decided to set up a modern textile industry cluster in the premises of Shree Sarala Weavers Cooperative Spinning Mill at Tirtol in Jagatsinghpur district. \nThe mill has been c",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-odisha-to-set-up-textile-cluster-on-defunct-spinning-mill-site-310959-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-004",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Indian textile industry poised to hit $350 bn by 2030: Minister",
+    "summary": "India’s domestic textile market has grown from about $63 billion in FY15 to over $168.2 billion now, reflecting robust expansion and increasing contribution to the economy, according to Minister of Te",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/indian-textile-industry-poised-to-hit-350-bn-by-2030-minister-310966-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-005",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Poland’s LPP posts strong Q1 as profit jumps 42%",
+    "summary": "Poland’s LPP has reported strong Q1 2026 results, with revenue rising 11 per cent YoY to PLN 5.5 billion (~$1.485 billion) and net profit increasing 42 per cent. \nEBITDA grew 36 per cent to PLN 1.3 bi",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/poland-s-lpp-posts-strong-q1-as-profit-jumps-42--310965-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lululemon-2026-06-12-001",
     "date": "2026-06-12",
     "companies": [
@@ -176,6 +267,138 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/turkiye-s-mavi-reports-q1-profit-of-11-95-mn-sales-dip-2--310929-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "far_eastern-2026-06-12-011",
+    "date": "2026-06-12",
+    "companies": [
+      "far_eastern"
+    ],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "Far Eastern New Century recycled PET chips: materials focus for sustainable textiles - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPdWNYT3F0YTNPSmpacXlRWFFSRURtNGV3Um5hLUh4UmlNc0F2eWY5R0RFdlI5WlhfOXEyZm9nN3Q0ZVM1Q21IS3JHdWJoNEVscUJzMVpfZ2l5aVNPSXktQVMzd1RpLUlQQnRGa2VOMH",
+    "sources": [
+      {
+        "name": "far_eastern",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdWNYT3F0YTNPSmpacXlRWFFSRURtNGV3Um5hLUh4UmlNc0F2eWY5R0RFdlI5WlhfOXEyZm9nN3Q0ZVM1Q21IS3JHdWJoNEVscUJzMVpfZ2l5aVNPSXktQVMzd1RpLUlQQnRGa2VOMHQtSWV4UlM0TmVXTktVZlVYeHJmNnh6b19ZZFhwMUVRekxFX1NGdFB4OHo3OWhtR0RsbE9jeGtLMWtlbzNRNktqVUZ3RHRDTUtRcUlnVC1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenzhou-2026-06-12-012",
+    "date": "2026-06-12",
+    "companies": [
+      "shenzhou"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Shenzhou International Group Holdings Stock Climbs 4.4% in Hong Kong - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDhyM2d3WlNFaHlPVzM4YkZxTE84TlNpd2xHRmZ2TkRZZW1oVmJHUEs5b0tVV29BUFBjWFZIa3l0eW0zVFdxYlNyNzFaLUw0QW9jd0RLQ3NvaFFkMXdSN21TdnRVeVZoS0JVdktzcj",
+    "sources": [
+      {
+        "name": "shenzhou",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDhyM2d3WlNFaHlPVzM4YkZxTE84TlNpd2xHRmZ2TkRZZW1oVmJHUEs5b0tVV29BUFBjWFZIa3l0eW0zVFdxYlNyNzFaLUw0QW9jd0RLQ3NvaFFkMXdSN21TdnRVeVZoS0JVdktzcjN2OFFxTGs3VDBadHVVRHljYjkxa1E5cjlqNjZ4NDd2RV9Hak1FdEdUWGoxWVFNVHkwdGlmUEVEVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-06-12-013",
+    "date": "2026-06-12",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Total assets of adidas AG Shs Cert Deposito Arg Repr 0.0454545455 Sh – BCBA:ADS.CI - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjd1cnYxZEdBTjRjQ05pQ1B4SjVoalpFbjN3aTBVc2tqZ05yaTVvMW1mNW54T1NyVXUzNEsxTlROWTRlUHplVGk1QTZWelA4RWRhd3FISVpvWXdoOUFCcUl5Ulc3TWY2eXpfNXpQLU",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjd1cnYxZEdBTjRjQ05pQ1B4SjVoalpFbjN3aTBVc2tqZ05yaTVvMW1mNW54T1NyVXUzNEsxTlROWTRlUHplVGk1QTZWelA4RWRhd3FISVpvWXdoOUFCcUl5Ulc3TWY2eXpfNXpQLU92MDZpTDBZdFVyXzdxUmYyWWQ3eTBDYnZMREQ0dk1GNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-06-12-014",
+    "date": "2026-06-12",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Lululemon China Renewable Push Weighs Against Valuation Concerns For Investors - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT0lyR0VNeEk5SzQ1S0wyb2JtRTN5VE5KMHo3Q1ZSMkNUR3dnaFY5TnhJV2h1REVxSnluUDc1bDNIVTR5VVB2VVVfVmNFelN6M0hyb0U5VXp2UHc0MlFtOW5uV19sYURjNkliRkhDZ0",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT0lyR0VNeEk5SzQ1S0wyb2JtRTN5VE5KMHo3Q1ZSMkNUR3dnaFY5TnhJV2h1REVxSnluUDc1bDNIVTR5VVB2VVVfVmNFelN6M0hyb0U5VXp2UHc0MlFtOW5uV19sYURjNkliRkhDZ0g5VHIxRWNrRktZcVBlV1kzRkFUajVfQkkwaUtRdnEwSC14ckhhcnZiSFE1TUktZkZDbmZoVDNWNk81S2l2S1MwMHY0TE1TTG9JMWt1NFVfamYtQXpuM3ladWdwdG53N1pfZkN6YU12dHMzc0hYem5VadIB5gFBVV95cUxNRE1FSlhzdGpjb0E0QWVVRHNkRmZFQjVVRFJROVJ6SDRsdFNmM2NzOTFNcFZoT21uWV9QNndGYUowd1NWZW1rRFhoc1JfdlFmalgxRTNwN2VqQldnWFJyd1lldl8xaXNLQ3FhdjlKMXAxZGlYQ1lMTjM2a0ltcE9RNnZWWFNVQW1SS1ZScmpNNHh0cWZwYzNxUm5CVDF0RjhRUEM4UWdTcTR6VGxnbHBLazYwMHdqRGRhUEhGWUtIaTByX1VfbElKWDBmaGwzVUhHSDJRQk11VElVSF9MNEt5MDdXTzZwUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-06-12-015",
+    "date": "2026-06-12",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "World Cup weaves a tapestry of local and global soccer fans - Waylandpost",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOazJZMnlqTVlENTJmeGpIX3dGZkU5NmFPTmt1T2h1Rms1RlZ3bEd2cktMaDVBSE84NTNjV0RpVEpydEVCRmtaMWhDc2NJQXFlX0FPVkFFQ1doRHdjM243bHFIUjd3NXdCNkEzM19ERW",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazJZMnlqTVlENTJmeGpIX3dGZkU5NmFPTmt1T2h1Rms1RlZ3bEd2cktMaDVBSE84NTNjV0RpVEpydEVCRmtaMWhDc2NJQXFlX0FPVkFFQ1doRHdjM243bHFIUjd3NXdCNkEzM19ERWE4dUxkNWhNZzJJcmJxdUttM1o5OE1TalNoVDR5UlRhckJ2UDdUYjlmVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-06-12-016",
+    "date": "2026-06-12",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "JPMorgan raises Tapestry stock price target on margin outlook - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQY01zMHN6dVQ1N3lYXzVYcTNUSVc5ZE40VlZjbjJiOVgxTFMySUxtTnlodFhfRXpVQkw1MldaVGtMdE1WbHhIY3J2cnlSOURIRXNjSjFfcV9mNXpyaERTbEw0Z2x5dTFlR0JsT2lzUU",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY01zMHN6dVQ1N3lYXzVYcTNUSVc5ZE40VlZjbjJiOVgxTFMySUxtTnlodFhfRXpVQkw1MldaVGtMdE1WbHhIY3J2cnlSOURIRXNjSjFfcV9mNXpyaERTbEw0Z2x5dTFlR0JsT2lzUU9iVHE4NXhGSUxITFBUTzZYbkVDdWVYdFdZVENJa3FzaXRYNWYzTGxFZGZjR0pfYnZYdUZyVUZrSDMzUTBjN0p1OVYwTHBIYi1mZ3BzUk5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-12-017",
+    "date": "2026-06-12",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "NIKE, Inc. Shs B Cert Deposito Arg Repr 0.083333333 Shs B Revenue Breakdown – BCBA:NKE.CI - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1Jc2R5cWY4VVNoX2FrZURGckdtZHpXOW9zSGlTYXdzNTJGN1pUYktETjV6R28wVWk3T1l3OHNJRjlJdXZBS0M3TEdGeEE2Y0xIMzRFeVZneUNHTjJjamlpdm1OUG5XUUNFdTAycTRLaj",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Jc2R5cWY4VVNoX2FrZURGckdtZHpXOW9zSGlTYXdzNTJGN1pUYktETjV6R28wVWk3T1l3OHNJRjlJdXZBS0M3TEdGeEE2Y0xIMzRFeVZneUNHTjJjamlpdm1OUG5XUUNFdTAycTRLajl4bklqRkE?oc=5",
         "type": "rss"
       }
     ]
@@ -397,6 +620,24 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnFrQ3hTQ0g2MXhjcW8xRnlOenpLNjExS0tOTWVobmdzNGZrYkdDU1c2M1U1LWRWRUJoaDh6Tjlpc2F6U0d2bXdtSFBDQ2s4NFN2MXg2WWtxZl9jNmtPMDBGbUhPZDI4WWJWUFhfQzBVNnlmdUNwTXgyZFJlb1U3VnRYb1h2WVhQS3hKQWRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-06-11-013",
+    "date": "2026-06-11",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "lululemon athletica inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRDVKWDZiUjlUTWR4d1NJckxVOTFrR1Nheno1MVdUS3FkYlZpOVVJYVhrOXJQb3JuamFUVEU1Y2U1TG5KaFpjTktVeEYwWFNjWlF3NHNHai0ySm1aQVFSWVFvajV1UVhmUk41ZFNQc1",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRDVKWDZiUjlUTWR4d1NJckxVOTFrR1Nheno1MVdUS3FkYlZpOVVJYVhrOXJQb3JuamFUVEU1Y2U1TG5KaFpjTktVeEYwWFNjWlF3NHNHai0ySm1aQVFSWVFvajV1UVhmUk41ZFNQc1piMDFxWTI4SHE5TEdlVEhuUUxhTHl3MVdOVmx1OHNOS3pxc01xM3c0b2ZYeXlZWFAtckxGMDduOHVXTTBxZGtvV1g3c1ljMm5GaGVMd3VnSTdwRFBSMkx6N3pLX3h5Sko5alhPQWFhYk51VWxmcEE4SkNJYXNSMmQ3WUl5c1ZaQlVRMHI0bnNqSkpGc09FYmJyVm9meXViMVMtTVE?oc=5",
         "type": "rss"
       }
     ]
@@ -674,6 +915,24 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOUGRtQm41MENvZVRuTmI3RWJVd05fenVpd3JoeV92a3RUQjRqYzgybjZtRkppR1ZsOTFVNDVub3M4Zk8wYWFQNkxXTmVNUDdsUHFGdlVsZ2xtTTA3YW5CWWd5TnJwSFdzYVgwTDJ1QVloWVBkYXBGX09ZTzJ2WmRNREpVYlF4RjJteWo1c0U3YmppTGxKZUR5a3ZDODVPaUoxSWtDVWRfNmViZFc5MUJsa3JSWVZNQWpvZ043d0R2VUN1dnJkSXdTNmREVkVxNWlhRjF0MFNYQWhxMXBHeHlYMFRTU0lQc05xMExnWVRMUWdMMkt2dmdhRkRWNDVxLU1oZHNNZHdsMFUtVnNjS05CdHZLZU84ZjdjRktOc2tyVTlrNEllNktBaTVERWNTMkh0RjhLT0QxQWJheTE4blVmX1JpVWZoakQ4YUJobnlEUTFtb3B2Y0tOeXNZMTB0R19rcnJLenRUQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-06-10-016",
+    "date": "2026-06-10",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Do Options Traders Know Something About PVH Corp. Stock We Don't? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0tNYm1zY21lclVmS1BxZFFLSUxXSVFEUUVQU1pYWEp0N1MxcXhNN1E0UkUyQjllTmVfZEZhaE53anE5c0JucEkzNEZPWFZScXZTRUpJdjhzLXo3OG83RlZlcnRiOGdkUm5USDNUVl",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0tNYm1zY21lclVmS1BxZFFLSUxXSVFEUUVQU1pYWEp0N1MxcXhNN1E0UkUyQjllTmVfZEZhaE53anE5c0JucEkzNEZPWFZScXZTRUpJdjhzLXo3OG83RlZlcnRiOGdkUm5USDNUVlR4dDVsU25UaWpqVzVld19ub1EtWHdDTmhWQW5GVWJuNlpMdDBPMjFXcXVNdW4za0g3N1E?oc=5",
         "type": "rss"
       }
     ]
