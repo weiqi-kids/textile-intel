@@ -1,5 +1,95 @@
 [
   {
+    "id": "lululemon-2026-06-14-001",
+    "date": "2026-06-14",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "DE Burlo Group Inc. Has $15.36 Million Stake in lululemon athletica inc. $LULU - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQSWp5MU1pVGJSdzZ2SDgxOExGMUlKZVBzdzVJVzZhcDM1NVVmazhZX0NVVnFqSU5iRkxyT1ZJSTNWMkkxOU10ajVkT2tNVWN0YXpzcjVZMmxpd3JRbnN5M2R0eWE0MWc4Q2llUTBobm",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSWp5MU1pVGJSdzZ2SDgxOExGMUlKZVBzdzVJVzZhcDM1NVVmazhZX0NVVnFqSU5iRkxyT1ZJSTNWMkkxOU10ajVkT2tNVWN0YXpzcjVZMmxpd3JRbnN5M2R0eWE0MWc4Q2llUTBobmNiSUhVMExDZHVuaFFJV29uUUY1WFdQVmVELUROd2c1dmt2bm9hMlpISi0zZ0tSTzJuTUdZYU5qRGstRUlCSzRiRFJjZEZkSE0xVlVMc09URWVvZTB3dzlYR3VxUTY0V2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-06-14-002",
+    "date": "2026-06-14",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A tapestry of belief - The Catholic Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLSWNLeUhlemZLMktEUjlpTFN1dmVRc1JyV3NueW9xLUdORWZnUVFJS0ZKb3VCZXdpOW15anRPQVRIbktqSE81OE5MSVFtVDJONjJvd0hKX1MzN0YzMlA1QWp6VEZ5R3Nr?oc=5\" tar",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLSWNLeUhlemZLMktEUjlpTFN1dmVRc1JyV3NueW9xLUdORWZnUVFJS0ZKb3VCZXdpOW15anRPQVRIbktqSE81OE5MSVFtVDJONjJvd0hKX1MzN0YzMlA1QWp6VEZ5R3Nr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-14-003",
+    "date": "2026-06-14",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Germany, Vietnam discuss co-operation in sustainable manufacturing",
+    "summary": "Germany is committed to supporting Vietnam's green transition through technology transfer, knowledge sharing and long-term business cooperation, a recent bilateral business forum was told.\nParticipant",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/germany-vietnam-discuss-co-operation-in-sustainable-manufacturing-310975-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-14-004",
+    "date": "2026-06-14",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "South Asia’s growth expected to soften to 6.3% in 2026: World Bank",
+    "summary": "Growth in South Asia is likely to soften to 6.3 per cent in 2026, mainly reflecting the adverse impact of the Iran war, the World Bank Group’s Global Economic Prospects report said.\nImproved access to",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/south-asia-s-growth-expected-to-soften-to-6-3-in-2026-world-bank-310974-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-14-005",
+    "date": "2026-06-14",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Karnataka's Kalaburagi PM MITRA park to begin phase-I groundwork",
+    "summary": "Groundwork for the first phase of the proposed PM MITRA textile park near Kalaburagi in India’s Karnataka state will commence soon, according to the state’s home, information technology, biotechnology",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/karnataka-s-kalaburagi-pm-mitra-park-to-begin-phase-i-groundwork-310973-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tapestry-2026-06-13-001",
     "date": "2026-06-13",
     "companies": [
@@ -86,6 +176,42 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/poland-s-lpp-posts-strong-q1-as-profit-jumps-42--310965-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-06-13-006",
+    "date": "2026-06-13",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Zacks Names Quanta Services (NYSE: PWR) Bull Of The Day While Lululemon (NASDAQ: LULU) Earns Bear Status - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNWtaNV9wQXhtcWlMQVlOZEZ4VENnZjJyWWI5Y2VvdE95RjVpblNlbkRRcl9VTllHcF8zVDV0TkdQdUdta3BwdnBkSGlyNnRUeGd0M2UwTDA4ZUt2ODdkX3pFQXhPX0VyYjlIbXdZcj",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNWtaNV9wQXhtcWlMQVlOZEZ4VENnZjJyWWI5Y2VvdE95RjVpblNlbkRRcl9VTllHcF8zVDV0TkdQdUdta3BwdnBkSGlyNnRUeGd0M2UwTDA4ZUt2ODdkX3pFQXhPX0VyYjlIbXdZcjUtc2FOQWplM3NSRE82cGhlc25oY1l3X09fS0FXOWJSYkJDRzNIZ01GY3lHNWZ6dUxqY1d6dDNnNWpoUk5YNWVuWkJERERLaTZoYmU5TTNFdWQzSC1yUTRzaUo0UG50a3IxZFVJVmlYNTBfQm83ZmhjTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-06-13-007",
+    "date": "2026-06-13",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Y Intercept Hong Kong Ltd Has $17.48 Million Stock Holdings in lululemon athletica inc. $LULU - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLWk1RThEQ2V4NmxIcXBnWVRTYWlVeVBqbDhLNXJqTU5Md3VjV3lVaVRLMFdWTWo5a0EyTk5MTUZIRk80ZjZHNnU5NXg4c1hBV1dJOUFqVFByVkl0U01JX2hqaFNVdmZOc3AtNV9wT1",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLWk1RThEQ2V4NmxIcXBnWVRTYWlVeVBqbDhLNXJqTU5Md3VjV3lVaVRLMFdWTWo5a0EyTk5MTUZIRk80ZjZHNnU5NXg4c1hBV1dJOUFqVFByVkl0U01JX2hqaFNVdmZOc3AtNV9wT1lwejdnRXQ0NXpwUE5PSHJzTzcyWjdBeEhNVlZLU1RCMUx5R3hkVlYtY2t5ZGlZa0gyanFzckxMWEppV1VESXJPTnVnZWRBZlZkRDI3X3lzeVdMVUNKWmN5eWxwSkRKRGN2X3BuOXZoWlBnZGJfaEVmZktZaEc?oc=5",
         "type": "rss"
       }
     ]
@@ -933,6 +1059,24 @@
       {
         "name": "pvh",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0tNYm1zY21lclVmS1BxZFFLSUxXSVFEUUVQU1pYWEp0N1MxcXhNN1E0UkUyQjllTmVfZEZhaE53anE5c0JucEkzNEZPWFZScXZTRUpJdjhzLXo3OG83RlZlcnRiOGdkUm5USDNUVlR4dDVsU25UaWpqVzVld19ub1EtWHdDTmhWQW5GVWJuNlpMdDBPMjFXcXVNdW4za0g3N1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-06-10-017",
+    "date": "2026-06-10",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Investors Have Opportunity to Join PVH Corp. Fraud Investigation with the Schall Law Firm - The Norfolk Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxPX0tEZWZudFlPajVPc0dMZmRZMHZQYU1MVXhudzFacUQyRExkLTczMDdPUFpjR3RHRlBxb1NuSWZFdmFNWDBFOU1wUXZVM0pOUVNqZTROLVJDZ3J2NEpJUE5xSmIxZHp3R3BkeUVjeG",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPX0tEZWZudFlPajVPc0dMZmRZMHZQYU1MVXhudzFacUQyRExkLTczMDdPUFpjR3RHRlBxb1NuSWZFdmFNWDBFOU1wUXZVM0pOUVNqZTROLVJDZ3J2NEpJUE5xSmIxZHp3R3BkeUVjeGYzdHZLVkFtV3FsYmxJbk1GYkcydF9aUE1pbWJxd0JOTlJldUExNmlMeG4yWFUxUEpSSmh2YXhEclJJRVVyc1RCTlZXRVptSm9idUFGemphRUt4YWlMdnRFcVQtY3JyZ1NoOG9HbWpDWGZqcHFpM1J0LWxBWkVOeVNzNVBnYmdxZ29fUDE1Y3VHY255emdVY3ZRNlM5UWFvUzN4Z0N2aFJqVkNvZG0wTXYxU0dKa2NFSk9ROFd5c1pWeTRB?oc=5",
         "type": "rss"
       }
     ]

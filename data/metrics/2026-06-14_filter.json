@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 229,
+  "gate1_fail": 23,
+  "gate2_fail": 34,
+  "passed": 8,
+  "gate2_samples": [
+    "Shenzhou International Group Holdings Stock Slips 1.3% in Hong Kong - Moomoo",
+    "Inside Nike’s bet on soccer kits as fashion language - Andscape",
+    "Nike emerges as Instagram's biggest brand - Africa Business Communities",
+    "Nike leads list of most-followed brands on social media - businessplus.ie",
+    "adidas: Upside Possible, But Careful (Rating Downgrade) - Seeking Alpha"
+  ]
+}
