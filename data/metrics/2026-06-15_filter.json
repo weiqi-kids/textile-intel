@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 223,
+  "gate1_fail": 29,
+  "gate2_fail": 37,
+  "passed": 12,
+  "gate2_samples": [
+    "Shenzhou International Group Holdings Stock Slips 1.3% in Hong Kong - Moomoo",
+    "Tradingpedia: Nike rules Instagram - marketingreport.one",
+    "Inside Nike’s bet on soccer kits as fashion language - Andscape",
+    "Nike emerges as Instagram's biggest brand - Africa Business Communities",
+    "Nike leads list of most-followed brands on social media - businessplus.ie"
+  ]
+}

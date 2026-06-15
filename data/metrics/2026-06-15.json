@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-15",
+  "total_events": 10,
+  "by_company": {
+    "nike": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "supply_chain_shift": {
+      "count": 7,
+      "sentiment_avg": -0.38
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.67
+    },
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": -0.67
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

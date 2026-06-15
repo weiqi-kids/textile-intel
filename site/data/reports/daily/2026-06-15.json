@@ -1,0 +1,241 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T13:46:22.352304Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-15-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Oil prices slide; Indian refiners' and textile stocks rise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.33
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/oil-prices-slide-indian-refiners-and-textile-stocks-rise-310999-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-06-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pop star G-Dragon teams up with Nike for South Korea World Cup 2026 collection - The Straits Times",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUEdKZWNScmFXX0lFWXlqRDVHTG1jV3g5VDVoQ1oySHBoTm9Cb3QxbGVQc1EtOHhIUFRfS0dWQ2g5TFdDTkxtWDFLQnQzaDRKQWxQZHVZMGxBOUlJSVhhY0FwZHBkd2R2emVRV3FHX2loRk1HWnY0dG1ONFk0UFExZ1U5NzllbXZnWkV0bFNmT3BsM2Z0NTRKdXFaaHRlTms5LXc3TEtKVW96aFN2UU5kMFNWVzZLcUR2ZzROSlJWcjlwaE5C?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-06-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Public Employees Retirement Association of Colorado Has $22.97 Million Stake in Tapestry, Inc. $TPR - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWXV3X2k2dzNsUTN1aG5xMzFtMVFfRC1va1BISUNfaW44NmxRY1FnVFVPc0dTc01kZjJMdjF5V0VXT095N1RQOTdMczFUWEtFU2ROTTV5YkdIbVdiVGNRWm1pTUFKUGRaS0llN3JXQy1xMmFFNUVySVJGY0duU0RRVHQ1RnVpeFNsVTBxaGllMkxIZV9KYlIzR1ZUVnJGOWpkYXA2dkhtUDBoUllKTHZ1bWM5cTNtbVlOZ3h5VWtUX1JjUHotVlZjUDJqWWw0T0kySWVmZ2pDWkZxWThfSXp4NTV3cGgxOVVWYVkw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tapestry-2026-06-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tapestry, Inc. $TPR Shares Purchased by Arrowstreet Capital Limited Partnership - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUGVFZzBYNzljbkllemVSMXNIa0hKZ1hYbGpRRENIeUx1dnBJUnQ5eG9nc0hVTm5Edk52TkJOelI1My1FUVZTVm5oMHpNRnhONDQ0MTlMM2M5RzN0bDFVeHVZcnVUc3NOX2xLVFNINFdpZmdLVzBmTjhjRjhUa0VfZm5KQzVzZTdRNmdELXpFeU9kUXM2OUxJRmE5RDRoQmZsNjRxWmUzQ081UDNNZmwteklEeHY3aWhsV1hSZ1ZMV1lVZDhRSkNoczRxbENGY0NQTFFR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "North India cotton yarn steadies, close watch on ceasefire deal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/north-india-cotton-yarn-steadies-close-watch-on-ceasefire-deal-311006-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.67,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.67,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 104,
+    "too_old": 223,
+    "gate1_blocked": 29,
+    "gate2_blocked": 37,
+    "passed": 12,
+    "pass_rate": "4.0%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Shenzhou International Group Holdings Stock Slips 1.3% in Hong Kong - Moomoo",
+      "Tradingpedia: Nike rules Instagram - marketingreport.one",
+      "Inside Nike’s bet on soccer kits as fashion language - Andscape",
+      "Nike emerges as Instagram's biggest brand - Africa Business Communities",
+      "Nike leads list of most-followed brands on social media - businessplus.ie"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Coach、耐吉相關動態：「Oil prices slide; Indian refiners' and textile stocks rise」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Oil prices slide; Indian refiners' and textile stocks rise（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pop star G-Dragon teams up with Nike for South Korea World Cup 2026 collectio...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
