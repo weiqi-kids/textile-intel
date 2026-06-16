@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:45:58.917036Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-16-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India's textile, apparel exports fall 4.4% in April-May",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-s-textile-apparel-exports-fall-4-4-in-april-may-311017-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South India's cotton yarn market steadies after prolonged decline",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/south-india-s-cotton-yarn-market-steadies-after-prolonged-decline-311032-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India’s Gujarat state unveils new industrial policy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-gujarat-state-unveils-new-industrial-policy-311027-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ICE cotton rises on weaker dollar, optimism from easing crude oil",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.38
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/-ice-cotton-rises-on-weaker-dollar-optimism-from-easing-crude-oil-311014-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese yarn glut bites Pakistan viscose; India, China hold",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/chinese-yarn-glut-bites-pakistan-viscose-india-china-hold-311012-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.32,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 4
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 400,
+    "dup_title": 99,
+    "too_old": 220,
+    "gate1_blocked": 33,
+    "gate2_blocked": 37,
+    "passed": 11,
+    "pass_rate": "3.7%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Shenzhou International Group Holdings Stock Slips 1.3% in Hong Kong - Moomoo",
+      "From athleisure to performance wear: Eclat’s Nike leggings power a quiet giant - AD HOC NEWS",
+      "Inside Nike’s bet on soccer kits as fashion language - Andscape",
+      "Tradingpedia: Nike rules Instagram - marketingreport.one",
+      "Nike emerges as Instagram's biggest brand - Africa Business Communities"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為供應鏈轉移、棉花價格相關動態：「India's textile, apparel exports fall 4.4% in April-May」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "India's textile, apparel exports fall 4.4% in April-May（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "South India's cotton yarn market steadies after prolonged decline（棉花價格、供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

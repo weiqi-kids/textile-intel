@@ -1,0 +1,20 @@
+{
+  "date": "2026-06-16",
+  "total_events": 6,
+  "by_company": {},
+  "by_topic": {
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": -0.32
+    },
+    "supply_chain_shift": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

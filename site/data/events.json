@@ -1,5 +1,114 @@
 [
   {
+    "id": "unknown-2026-06-16-001",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "South India's cotton yarn market steadies after prolonged decline",
+    "summary": "South India's cotton yarn market is showing signs of stabilising after a prolonged decline, with traders believing prices have bottomed out.\nImproved sentiment following easing geopolitical tensions a",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/south-india-s-cotton-yarn-market-steadies-after-prolonged-decline-311032-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-002",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India’s Gujarat state unveils new industrial policy",
+    "summary": "India’s Gujarat state yesterday unveiled an industrial policy to attract investments worth ₹10 trillion in the next five years.\nThe policy offers 15-50 per cent incentives across sectors and has four ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-gujarat-state-unveils-new-industrial-policy-311027-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-003",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "negative",
+    "title": "ICE cotton rises on weaker dollar, optimism from easing crude oil",
+    "summary": "ICE cotton futures rebounded as a weaker US dollar, bargain buying and technical buying supported prices after recent losses.\nJuly cotton settled at 73.43 cents per pound.\nFalling crude oil prices imp",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/-ice-cotton-rises-on-weaker-dollar-optimism-from-easing-crude-oil-311014-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-004",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Chinese yarn glut bites Pakistan viscose; India, China hold",
+    "summary": "The global viscose chain remained largely stable during the week, with Pakistan emerging as the only soft spot due to post-Eid destocking and a surge in low-cost Chinese yarn imports.\nIndia’s pricing ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/chinese-yarn-glut-bites-pakistan-viscose-india-china-hold-311012-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-005",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "India's textile, apparel exports fall 4.4% in April-May",
+    "summary": "India's textile and apparel exports fell 4.44 per cent year on year (YoY) to $5.91 billion in April-May FY27, dragged down by a 12.98 per cent decline in apparel shipments despite a 3.03 per cent rise",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/india-s-textile-apparel-exports-fall-4-4-in-april-may-311017-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-006",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India’s green manufacturing push: Solar farms to net zero",
+    "summary": "Indian apparel manufacturers are embedding sustainability into factory design, energy sourcing and production processes to meet evolving global compliance requirements.\nInvestments in renewable energy",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/india-s-green-manufacturing-push-solar-farms-to-net-zero-311010-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nike-2026-06-15-001",
     "date": "2026-06-15",
     "companies": [
@@ -180,6 +289,62 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-us-apparel-paradox-shows-higher-rank-and-weaker-momentum-310996-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-06-15-011",
+    "date": "2026-06-15",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Toray to Establish New Polyphenylene Sulfide Resin Production Plant in India - ChemAnalyst",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGZQQXRBblBBX2ZrNk9vSFd0VXdZQ3FJektpLVk1amppVG9JNHpCalQ0dS1sODMtcU5QZ1ZTU2E5RkR0LVE2N1dFbGdMWlhLR2xiYk9mdzNFUmQ0bTIyLU1GQS0wNndJUVV2MHhyNj",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGZQQXRBblBBX2ZrNk9vSFd0VXdZQ3FJektpLVk1amppVG9JNHpCalQ0dS1sODMtcU5QZ1ZTU2E5RkR0LVE2N1dFbGdMWlhLR2xiYk9mdzNFUmQ0bTIyLU1GQS0wNndJUVV2MHhyNjB2MkFpY25BdmVVXzh5UEJ4OHlmQllzRkVKZkkzMEZLZW1SYllSZE5Yd0pPSkw4bmloWWQ3YzVFNFhMZGV2Vjk4WFh2N0x4NGlZLVJRZjJHcHRoRGVY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eclat-2026-06-15-012",
+    "date": "2026-06-15",
+    "companies": [
+      "eclat"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "From performance fabrics to athleisure staple, Eclat’s eco-friendly nylon shapes global sportswear - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWVHVnRHdHBvdzl3d0tvSFQ1QUlTYkpVLXplRHd2SXVUQkZYdk1heThncWVRc2ZaZlprcUNBN2xCbHEta2VSc3k4U3otNF9HWFJfcVpTZFNhc3U5SzBIUy1IOUh3VzhSdEJVYXNSc2",
+    "sources": [
+      {
+        "name": "eclat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWVHVnRHdHBvdzl3d0tvSFQ1QUlTYkpVLXplRHd2SXVUQkZYdk1heThncWVRc2ZaZlprcUNBN2xCbHEta2VSc3k4U3otNF9HWFJfcVpTZFNhc3U5SzBIUy1IOUh3VzhSdEJVYXNSc2VXVUp4Yy1lblBtaFc0YW5qMi1nNHZKMHpydDF6Tmk4dnVHdUZhNVlZdWVfZnZQVlV3SG1uQkNPVWlXUmlfc1FzSEM4bjVTcmlZZG9uay1ENUp5QU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-15-013",
+    "date": "2026-06-15",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Pop star G-Dragon teams up with Nike on World Cup collection for South Korea - The Straits Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNUEdKZWNScmFXX0lFWXlqRDVHTG1jV3g5VDVoQ1oySHBoTm9Cb3QxbGVQc1EtOHhIUFRfS0dWQ2g5TFdDTkxtWDFLQnQzaDRKQWxQZHVZMGxBOUlJSVhhY0FwZHBkd2R2emVRV3FHX2",
+    "sources": [
+      {
+        "name": "nike",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUEdKZWNScmFXX0lFWXlqRDVHTG1jV3g5VDVoQ1oySHBoTm9Cb3QxbGVQc1EtOHhIUFRfS0dWQ2g5TFdDTkxtWDFLQnQzaDRKQWxQZHVZMGxBOUlJSVhhY0FwZHBkd2R2emVRV3FHX2loRk1HWnY0dG1ONFk0UFExZ1U5NzllbXZnWkV0bFNmT3BsM2Z0NTRKdXFaaHRlTms5LXc3TEtKVW96aFN2UU5kMFNWVzZLcUR2ZzROSlJWcjlwaE5C?oc=5",
         "type": "rss"
       }
     ]
@@ -1300,6 +1465,44 @@
       {
         "name": "vf_corp",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0liTmlocVJEYUNmSk9IVlVhVW8ycDlDeHozSFFmeGdnclh3bjNHWHluZEZMbzRuSFNjcmdOSTVvc21BR19hMzFhcjQxODgydTFnN1d6ZTRYckpIdTBDdlJLUk1kellMbVIxYWU4RS15dk50TGpyWTBSRW42UUxlOXlWWGw5RDROSzhMSGNLd1ZBSWVrdUpJQU9mSWJqYnlCd2tV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-06-10-019",
+    "date": "2026-06-10",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "RBC Capital Upgrades Adidas to Outperform, Boosts PT - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGlOYldlT3NwRVFIZ1pwRFpzTUkydWN5ajFCdzRCQWs5cWlqeWozdWhjSS1rRGRjekFnaUE0ZWljZkRpSm9jcy1qSXVPZWRTQ3ZQLUlwMTlVS0pfbU1WX21ZNC1KLUdENjVTNjBTVT",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGlOYldlT3NwRVFIZ1pwRFpzTUkydWN5ajFCdzRCQWs5cWlqeWozdWhjSS1rRGRjekFnaUE0ZWljZkRpSm9jcy1qSXVPZWRTQ3ZQLUlwMTlVS0pfbU1WX21ZNC1KLUdENjVTNjBTVTJEQkVtbWxsR2ZDTUtqWDBEQUxyMmpJWHR2dHZmd3FBYmgyaXNZaTE4Rw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-06-10-020",
+    "date": "2026-06-10",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Top 5 Analyst Questions From PVH’s Q1 Earnings Call - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxORzNwVjdRVWdDbDNITkpEZV9USkpEMU90UVl3c2c0VDJ2UjRCSG9nUW92NXIweFVUcUVmU2gwMGQ4SlZwMGJLNmwySmROcHFuUlAzdEtZeG9MckNnN3NscnBPWmlCUHYwN2w1OHh4c1",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORzNwVjdRVWdDbDNITkpEZV9USkpEMU90UVl3c2c0VDJ2UjRCSG9nUW92NXIweFVUcUVmU2gwMGQ4SlZwMGJLNmwySmROcHFuUlAzdEtZeG9MckNnN3NscnBPWmlCUHYwN2w1OHh4c1FWcEFqdVdqd3ExYS1SM2hsdnpVZmhuRklCQkoyaE4wSHNxVnBZRXRN?oc=5",
         "type": "rss"
       }
     ]
