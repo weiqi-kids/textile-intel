@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 218,
+  "gate1_fail": 36,
+  "gate2_fail": 35,
+  "passed": 13,
+  "gate2_samples": [
+    "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+    "Shenzhou International Is Stitching Sales as Margins Fray - marketscreener.com",
+    "Shenzhou International Group Holdings Stock Slips 1.3% in Hong Kong - Moomoo",
+    "From athleisure to performance wear: Eclat’s Nike leggings power a quiet giant - AD HOC NEWS",
+    "Tradingpedia: Nike rules Instagram - marketingreport.one"
+  ]
+}

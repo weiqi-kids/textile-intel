@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T12:10:19.220910Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toray-2026-06-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Goldwin, Toray, and Idemitsu Kosan Establish a Supply Chain for Nylon Fibers Using Renewable Feedstocks to Reduce the Carbon Footprint. ｜ News - Goldwin Inc.",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "sustainable_textile"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HVkptN0tHT01ZY3JObUk3QktTMGFLVVpGOEhla3RCX1FnbDFlRkNhdHNhOEREVE5oVGVPeHd2M20yVm9hQ0dYTU85ZDQyV2hxaFRRZzFTb01aY2s?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-06-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fred Alger Management LLC Makes New Investment in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeWZjU25fYXhoY3lFdEtyX2pBTnBlWEdlbnZVQkp0UWo0NHl3UlZyT0gyenVmWEhIUmo4MUQ5Qk1MWDIyRTVTbHdyblc4Z2NYOVJUVDBvV3NLRXpWUlNqQzI2MmpLMWRtandyQ1VLZVdXWGs1b2tYXzdFQTdNcENxc1JrTzNVNjlNWW1ydW4zcDVULTQ1dkVqMklYMUg5RGR2N0xIMEY0Z0syRVZnbHZfSzF1WFZuUk05eEJENHl4R0Nzd0d6YndmNzBURVVZTHpMLWZsUGNn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-06-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Could Lululemon Stock Go From Bad to Worse Amid a 6.5% Increase in Wholesale Prices? - The Motley Fool",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc0c2YXBXX3kxajlDN0dzT0FpRjZFZ3huaHZlTTRUN2VMQlZxMmEtd2lmdjN5TXFNcWtaaVFjOFdpRFZ4U1MtVWtxc1ZRa1l6Q1dWRTR1OENrelZEcDMwR1c2dV8zVHJVTTJQTXJjZkxpbDdoeHRudUNUX09JWlA4U0FjQk9wdTFLclRRejJtMzNQdG9FUUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pvh-2026-06-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bronstein, Gewirtz & Grossman, LLC Announces an Investigation Against PVH Corp. (PVH) and Encourages Investors to Learn More About the Investigation - ACCESS Newswire",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbm0zWW1fMWxUeFdHYmVMYjRCZTVrLUt6SWl4XzY0bmxGbExfU3Q1ZThFZjFZa2NNalpYbUJBMjFfMTZmdkY0WElxX3BIZGYwU1BsUllDbHRldHljY3RoMEkwYmZhMzdyTncwVXduOHk2RVFhQmlkVWs5amZxcnZMMVJ2c09Lc1pVdGlfOFV0M045R3VIdzVsbTlsT0x3QjdJak9TMGtqUG9xenhCcmhoWW45WkZ4Z1NodzdvUVpFd3RwcmNkSE5mTlJDb0gzd2hkVXA0TkUtX2c3em9WVkxSWUVwbTE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Impressive growth of Vietnam’s merchandise foreign trade in Jan-May",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/impressive-growth-of-vietnam-s-merchandise-foreign-trade-in-jan-may-311049-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "sustainable_textile": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 2
+      },
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 103,
+    "too_old": 218,
+    "gate1_blocked": 36,
+    "gate2_blocked": 35,
+    "passed": 13,
+    "pass_rate": "4.3%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Shenzhou International Is Stitching Sales as Margins Fray - marketscreener.com",
+      "Shenzhou International Group Holdings Stock Slips 1.3% in Hong Kong - Moomoo",
+      "From athleisure to performance wear: Eclat’s Nike leggings power a quiet giant - AD HOC NEWS",
+      "Tradingpedia: Nike rules Instagram - marketingreport.one"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Lululemon、東麗、PVH相關動態：「Goldwin, Toray, and Idemitsu Kosan Establish a Supply Cha...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Goldwin, Toray, and Idemitsu Kosan Establish a Supply Chain for Nylon Fibers ...（永續紡織）",
+        "level": "green"
+      },
+      {
+        "text": "Fred Alger Management LLC Makes New Investment in lululemon athletica inc. $L...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-17",
+  "total_events": 9,
+  "by_company": {
+    "toray": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "pvh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "sustainable_textile": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "supply_chain_shift": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
