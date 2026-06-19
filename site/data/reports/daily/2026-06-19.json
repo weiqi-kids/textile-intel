@@ -1,0 +1,164 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T11:58:59.805055Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-06-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look Back at Consumer Discretionary - Footwear Stocks’ Q1 Earnings: Nike (NYSE:NKE) Vs The Rest Of The Pack - StockStory",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeW02SVBISzduY1BiS0hUM2p1RmwzbFpRdUcxVjhwemxlMWd5ZzNGTjdZN1hoc2tjaW5fSDFkSXQyc0xtTWRnMWtXdXZJWHh2UUh0U01uZzdVVGlRNTAwZWVVbmlxMS1fT1hhdjdwdVl5ZVAzUW12cUdEbExISXlxS1dlYUNPcWRvNzVtbXA3S2ZhNHZDcDMzaVpzLWU1M3FfWWhhU0lUaXNuRWdZMXpQYkkyV1FpRHVHaWtfZHpSbHVxZkc0QzNqLXU4OVpOQ05XM2JPbFVlOXFzOU5senhSRGZsd0ZWSXBoMnpqUC1iVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-06-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pacer Advisors Inc. Trims Stock Holdings in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0lYWWY1MS1PWFVVNkl6QVVNMDJaVlpDb3J0RExHMWNkcDR6RkY0LTJtWElsN25qcWVKUFZvbW45ZDJHWXBKcEFxbm1xaWdCNHhxSlZDLVpCdHBGeFFuVDFjcWthaDFkdG1adnJvV0FoclZ2WW43eG5PZnVKX1kwVlNfRU5wY0FWR1FjTFZMM2lkVkhTMXRXWEx0ZXJUU1h3SWp4dy1tVjFOdHdRODZtc19RYlR6dHNFOGo5TlV4TEVWcjhjUnEwTklmSEg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-06-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lost Tudor tapestry returned home to Oxburgh Hall after 100 years - BBC",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EOUFxSVpqdlMzVUZNd0VscWlyQkg4bE1IWmxLTG4wUVlBaXVtRS1POHJVQ1ozb0MyeER2UXM1azAxMW1ZSGNZcmlBTjVNRTJQb01jeWFWdlE1QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tapestry-2026-06-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tapestry’s Joanne Crevoiserat Built ‘Brand Love’ at Coach, and a Fan Club on Wall Street - Barron's",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT012dzUwM0VCMlZjbVEwR244NmNTMTlpd3Q1ZFFTUVEyVXh3ekk2QzEySmJkcjVsaXRLVVVxR2RxZUxPN0NKOEFjVXV3Q1ZSazhxVFJpcm1MN1B6WlotbFZxVTdyUG80ZGNFTk15RHV3Y3ZMdjc1UEVaUWluRWZaalZIaktvdjNyVlBZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 105,
+    "too_old": 216,
+    "gate1_blocked": 36,
+    "gate2_blocked": 38,
+    "passed": 10,
+    "pass_rate": "3.3%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Neste, Goldwin, Idemitsu Kosan Co and Toray Industries establish… - Oils & Fats International",
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Lenzing Group Highlights Scalable, Bio-based Nonwovens Solutions at Leading Global Industry Fairs - ",
+      "Polyester that wants to be invisible in use - Far Eastern New Century’s TopDry EcoPET plays for ev -",
+      "Shenzhou International Is Stitching Sales as Margins Fray - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Coach、Lululemon、耐吉相關動態：「A Look Back at Consumer Discretionary - Footwear Stocks’ ...」。主要關注主題為法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A Look Back at Consumer Discretionary - Footwear Stocks’ Q1 Earnings: Nike (N...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pacer Advisors Inc. Trims Stock Holdings in lululemon athletica inc. $LULU - ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
