@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 216,
+  "gate1_fail": 36,
+  "gate2_fail": 33,
+  "passed": 13,
+  "gate2_samples": [
+    "Neste, Goldwin, Idemitsu Kosan Co and Toray Industries establish… - Oils & Fats International",
+    "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+    "Lenzing Group Highlights Scalable, Bio-based Nonwovens Solutions at Leading Global Industry Fairs - ",
+    "Far Eastern New Century Stock - Background and weekly sector check - AD HOC NEWS",
+    "Polyester that wants to be invisible in use - Far Eastern New Century’s TopDry EcoPET plays for ev -"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T10:26:18.489698Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-06-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Headed Into Earnings, Nike Stock Is Trading Lower Than It Was a Decade Ago. But Is the Turnaround Finally Working? - AOL.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXgySnZFZl9SR2V5Z2dUMzJRbFpqbTVlMDB0Y0JBNHc3QUlxdGRadkpvM3pOSjltNk94d2tDUjRRdm5XWl9jektiaU5FT094WFhDZ1ZJNmwwM3RPNDNrT0k4b1ByZU1IcUpuczMxM2hDZ1Z6M0h5bHRXMmtEWlBYSnhuZW4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-06-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tapestry (TPR) Stock After 72% One-Year Jump Is The Rally Running Out Of Room - Yahoo Finance",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2YtejROeGhxelNXVmN3c0hFS0VnakVrRFh3QnM0a2c0SVJPV3VQZVRacXh2a3hFemNuSGluWE9NR196d3dITjdUTDdHN1YyU0R3d0hjVDFqcERDWXJpR3FHVENWZXU4STM3UzVvaXV1ZTd5UTJrOU1TXzhPT1hGR2RSMnM0b2lxaEYtTWpXTUh5Zmll?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 107,
+    "too_old": 216,
+    "gate1_blocked": 36,
+    "gate2_blocked": 33,
+    "passed": 13,
+    "pass_rate": "4.4%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Neste, Goldwin, Idemitsu Kosan Co and Toray Industries establish… - Oils & Fats International",
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Lenzing Group Highlights Scalable, Bio-based Nonwovens Solutions at Leading Global Industry Fairs - ",
+      "Far Eastern New Century Stock - Background and weekly sector check - AD HOC NEWS",
+      "Polyester that wants to be invisible in use - Far Eastern New Century’s TopDry EcoPET plays for ev -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Coach、耐吉相關動態：「Headed Into Earnings, Nike Stock Is Trading Lower Than It...」。主要關注主題為法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Headed Into Earnings, Nike Stock Is Trading Lower Than It Was a Decade Ago. B...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tapestry (TPR) Stock After 72% One-Year Jump Is The Rally Running Out Of Room...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
