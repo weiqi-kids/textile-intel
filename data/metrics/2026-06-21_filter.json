@@ -1,0 +1,16 @@
+{
+  "total_raw": 400,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 222,
+  "gate1_fail": 38,
+  "gate2_fail": 35,
+  "passed": 7,
+  "gate2_samples": [
+    "Neste, Goldwin, Idemitsu Kosan Co and Toray Industries establish… - Oils & Fats International",
+    "Far Eastern New Century Stock - Background and weekly sector check - AD HOC NEWS",
+    "Polyester that wants to be invisible in use - Far Eastern New Century’s TopDry EcoPET plays for ev -",
+    "Shenzhou International Is Stitching Sales as Margins Fray - marketscreener.com",
+    "JPMorgan acquired an additional 1,312,200 ordinary shares of Shenzhou International (02313.HK), valu"
+  ]
+}

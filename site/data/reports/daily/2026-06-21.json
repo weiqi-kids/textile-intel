@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T10:59:32.351473Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tapestry-2026-06-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pink Floyd Dark Side Of The Moon 4x4 Ft Fabric Banner - Huge Polyester Tapestry Poster - bonepos.com",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzAyWGh4aWZBejNKaVp4akFfb0xtMV9PdXVJcDFiMWNLTTF6ZDdHQmFrNDhTSzhGMVVWZDdGQjNkdFZhZ0hDekFadDRVR3dEenpxZ2Nxb1VpQWMxdHkzMm9fUEgyU2gxMzk4UTBGRURuM19DZktDeDdBUnpqOGxqbHhGT3BlZWlZZXBGOHk3OTM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 400,
+    "dup_title": 98,
+    "too_old": 222,
+    "gate1_blocked": 38,
+    "gate2_blocked": 35,
+    "passed": 7,
+    "pass_rate": "2.3%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Neste, Goldwin, Idemitsu Kosan Co and Toray Industries establish… - Oils & Fats International",
+      "Far Eastern New Century Stock - Background and weekly sector check - AD HOC NEWS",
+      "Polyester that wants to be invisible in use - Far Eastern New Century’s TopDry EcoPET plays for ev -",
+      "Shenzhou International Is Stitching Sales as Margins Fray - marketscreener.com",
+      "JPMorgan acquired an additional 1,312,200 ordinary shares of Shenzhou International (02313.HK), valu"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Coach相關動態：「Pink Floyd Dark Side Of The Moon 4x4 Ft Fabric Banner - H...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Pink Floyd Dark Side Of The Moon 4x4 Ft Fabric Banner - Huge Polyester Tapest...",
+        "level": "green"
+      },
+      {
+        "text": "Coach為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
