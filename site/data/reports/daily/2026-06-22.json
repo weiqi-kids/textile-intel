@@ -1,0 +1,140 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:26:55.894086Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-06-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Stock - Weekly outlook ahead of late-June earnings - AD HOC NEWS",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0RES01wWHp6Q25mSVhMRDQ2cWRXV3VNNTVnbUlsekdLX01BV0tPMFpULXZsOHloeW1YVTYxU2RNV0ZIMEtjblhrNjN0cTh1cGNPQmVzd1lvc21hakxySzJwdm5tMDd0bVZpSWt1d0ZGRG9FWW1LaW1FTzhXNkdCY3YxZ1ViYWJBNHdFLUl3U1pTNnkxNldBa1c5V3FzRnItNDdVSFhYX0dlaGNOdkRxSk9B?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-06-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Audrey Gelman Restores a Family Tapestry - Tablet Magazine",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVC1jV2lzWkRYTVdhNTV0R2pjZ2dlWUNCc1dmb29KOGJkV3RXUUtlcERxS0dhYjFWNUdTaDJjT19VODFzRUVfQ2JrSV9oeUo4eXFtX09TNUlBVmExdjQ2MWRtZmpsdDdoVDlwaTluTl9VOTlJdTFmVVU1dFFJZHAyVnZjdXp0SWFaeExSZGNB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-06-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Caitlin Clark SILENCES HATERS With SHOCKING New Nike Shoe Announcement! Sao Paulo (aodUcUAjtA) - Fathom Journal",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zMFdRelRpRTE4dlZKaDZHR0haNFhwZTBOQmF4azhaeHExdi0tcVhmRE80UnpNOGVXbGtlOUtjOF8yQUZQMUMtVFpMeTBYOUpVM3dYei1lNlpGWkdVNWdnZWo0QUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 112,
+    "too_old": 219,
+    "gate1_blocked": 36,
+    "gate2_blocked": 32,
+    "passed": 5,
+    "pass_rate": "1.7%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Neste, Goldwin, Idemitsu Kosan Co and Toray Industries establish… - Oils & Fats International",
+      "Neste, Goldwin, Idemitsu and Toray partner to supply renewable nylon fiber for THE NORTH FACE brand ",
+      "Lenzing Group Highlights Scalable, Bio-based Nonwovens Solutions at Leading Global Industry Fairs - ",
+      "Far Eastern New Century Stock - Background and weekly sector check - AD HOC NEWS",
+      "Polyester that wants to be invisible in use - Far Eastern New Century’s TopDry EcoPET plays for ev -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為耐吉、Coach相關動態：「Nike Stock - Weekly outlook ahead of late-June earnings -...」。主要關注主題為法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nike Stock - Weekly outlook ahead of late-June earnings - AD HOC NEWS（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Audrey Gelman Restores a Family Tapestry - Tablet Magazine",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

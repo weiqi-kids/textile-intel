@@ -1,5 +1,61 @@
 [
   {
+    "id": "tapestry-2026-06-22-001",
+    "date": "2026-06-22",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Audrey Gelman Restores a Family Tapestry - Tablet Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVC1jV2lzWkRYTVdhNTV0R2pjZ2dlWUNCc1dmb29KOGJkV3RXUUtlcERxS0dhYjFWNUdTaDJjT19VODFzRUVfQ2JrSV9oeUo4eXFtX09TNUlBVmExdjQ2MWRtZmpsdDdoVDlwaTluTl",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVC1jV2lzWkRYTVdhNTV0R2pjZ2dlWUNCc1dmb29KOGJkV3RXUUtlcERxS0dhYjFWNUdTaDJjT19VODFzRUVfQ2JrSV9oeUo4eXFtX09TNUlBVmExdjQ2MWRtZmpsdDdoVDlwaTluTl9VOTlJdTFmVVU1dFFJZHAyVnZjdXp0SWFaeExSZGNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-22-002",
+    "date": "2026-06-22",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caitlin Clark SILENCES HATERS With SHOCKING New Nike Shoe Announcement! Sao Paulo (aodUcUAjtA) - Fathom Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zMFdRelRpRTE4dlZKaDZHR0haNFhwZTBOQmF4azhaeHExdi0tcVhmRE80UnpNOGVXbGtlOUtjOF8yQUZQMUMtVFpMeTBYOUpVM3dYei1lNlpGWkdVNWdnZWo0QUE?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zMFdRelRpRTE4dlZKaDZHR0haNFhwZTBOQmF4azhaeHExdi0tcVhmRE80UnpNOGVXbGtlOUtjOF8yQUZQMUMtVFpMeTBYOUpVM3dYei1lNlpGWkdVNWdnZWo0QUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-22-003",
+    "date": "2026-06-22",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Stock - Weekly outlook ahead of late-June earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0RES01wWHp6Q25mSVhMRDQ2cWRXV3VNNTVnbUlsekdLX01BV0tPMFpULXZsOHloeW1YVTYxU2RNV0ZIMEtjblhrNjN0cTh1cGNPQmVzd1lvc21hakxySzJwdm5tMDd0bVZpSWt1d0",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0RES01wWHp6Q25mSVhMRDQ2cWRXV3VNNTVnbUlsekdLX01BV0tPMFpULXZsOHloeW1YVTYxU2RNV0ZIMEtjblhrNjN0cTh1cGNPQmVzd1lvc21hakxySzJwdm5tMDd0bVZpSWt1d0ZGRG9FWW1LaW1FTzhXNkdCY3YxZ1ViYWJBNHdFLUl3U1pTNnkxNldBa1c5V3FzRnItNDdVSFhYX0dlaGNOdkRxSk9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tapestry-2026-06-21-001",
     "date": "2026-06-21",
     "companies": [
@@ -411,6 +467,26 @@
       {
         "name": "pvh",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMHVIRGVWei1GaEVhVjA3X2VTR2Nvbks4ZU9SbzJ6ZnNDRUs4WFZtWUR1M1F3TS1aYXdBdzYxV1JYUTQzMGhhcUotSGlIVzRvTC0zWTFRN2NqTnhBaWdXNHA1aGZzZEozamNCaU5rLVBZMkhDSF9YWW5qTUtjV2taeGpCcnp6eU85WjQ4NmwzTDJfUWNWdjJXQg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-06-19-017",
+    "date": "2026-06-19",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "PVH Stock Tracks Key Trends in DTC, AI and Apparel Margins - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWExQmRqZVllVDh0ekt3T1hNMmMwZWhUX21oYW1JZklQMlRrMFJTamJsWm5oa1BYUFQ2RjRVbTF6ZTBtbVJ4eGdEaHVMX2xaNFJBazlDdWppUTh1bUNiTHpFM093V1lTMnAxNnJvZm",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWExQmRqZVllVDh0ekt3T1hNMmMwZWhUX21oYW1JZklQMlRrMFJTamJsWm5oa1BYUFQ2RjRVbTF6ZTBtbVJ4eGdEaHVMX2xaNFJBazlDdWppUTh1bUNiTHpFM093V1lTMnAxNnJvZm5fVVpaTUlEOEpwaFBKYWhYbmgtOFRkTDVyQVlNd09vLU9jaHJKUDFv?oc=5",
         "type": "rss"
       }
     ]
@@ -1033,6 +1109,24 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaW1fc0R6WFk1M3dqZnVoTjYwdmt4OHBvZ0JYbmdkOC1xYUJGRTAwMmxSZlk1MHlGOUVIWXFjaWdWemZFR1lTTHoyLWt2QnhGc2h1dzhJSzFBenBEdC1Bai1vakJINnpZME00aEhib2NOQVFhNWwtUHhCU0o4eWtqSWNfZGNZNGJNQTV1dXJhN3Y2cVZCXzFvUWZyamtPQjVpNU8xNFMwQVBpYWM3MFQ3eW54b1pzQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-06-17-019",
+    "date": "2026-06-17",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "RBC Capital Remains a Buy on adidas AG (0OLD) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQmhySFpVZ2RiT3lzZ2xKZzJZSGRKdEpvTTlvRU5COEJzVTRzaGtfQ1BURUhiRURVaDJvZGNKamJxdDRJa3VyRm9KQlZDdW9RR19VMVZ0ei1aNGotQzN6ZVRzeUt6RU1WcGZsaG1Id2",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQmhySFpVZ2RiT3lzZ2xKZzJZSGRKdEpvTTlvRU5COEJzVTRzaGtfQ1BURUhiRURVaDJvZGNKamJxdDRJa3VyRm9KQlZDdW9RR19VMVZ0ei1aNGotQzN6ZVRzeUt6RU1WcGZsaG1Id2FueTBPb0dyWldqcWdkaXBnY1kxcDU1TDVKcTluclBfVEhwV2FaWmNSOHp5NTNycm5hTXdKc3p3RXN2RFYtZlAwX0NLcjRlZlRvNkQ5aExFeHAySmhJUzF0Xw?oc=5",
         "type": "rss"
       }
     ]
