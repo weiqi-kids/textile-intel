@@ -1,0 +1,16 @@
+{
+  "total_raw": 384,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 205,
+  "gate1_fail": 37,
+  "gate2_fail": 31,
+  "passed": 9,
+  "gate2_samples": [
+    "Lenzing Group Highlights Scalable, Bio-based Nonwovens Solutions at Leading Global Industry Fairs - ",
+    "Far Eastern New Century Stock - Background and weekly sector check - AD HOC NEWS",
+    "Polyester that wants to be invisible in use - Far Eastern New Century’s TopDry EcoPET plays for ev -",
+    "Shenzhou International Is Stitching Sales as Margins Fray - marketscreener.com",
+    "JPMorgan acquired an additional 1,312,200 ordinary shares of Shenzhou International (02313.HK), valu"
+  ]
+}

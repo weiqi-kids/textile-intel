@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T10:53:31.501792Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-06-23-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NIKE (NKE) to Post Quarterly Earnings on Tuesday - MarketBeat",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFQ1TFNuMkM1Nl9XaXRyZ0IzQ2JoTGJNZDljMDN1THFSRVBHclVKcUQzYk9Xd3JRX3hTQ0k2YURLUzBBakIwSlN1UGdoR2hxTHQtWTNJVGF6c2NEMFJrM005a19LaEFQWko0bDdDUllpQjlQeVFLODY1V0U5elhZcFFrTTVrallMVVV0djZuMzBQS0tCSWd1eG51XzZnZEw4Vmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-06-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hsbc Holdings PLC Trims Stake in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYzZNY2EzSmtGRzh4ZFZ0djdjRzUteEx6U3MwVzY4NF9jd0ttN2RadEc0aVV2c2hGal9OQy1Ma2xRNXdGVlJJZ1lMdjBlZkJoNFhvRnlfRTgyRkM5NnFrREpQSktXTU92TGFvRHNHaXp4SC00dkF1OFpyQXBUaUEtZEJyYS1ibUxCdXA3YWYyUGtONW5SUk9EWjNqSHcxVVllUkctMmdtNUFhVzdIemNJSHFtbmtnQWR2cVNCSEZ6SQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-06-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Investors May Respond To Tapestry (TPR) Launching Gen Z Co‑Created “&Coach” Storytelling Platform - simplywall.st",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnVwQ3hOZV8xZ2tBaC13LTZUQ21RQ2JEcW5YS3oxWW12VFhMdEVGdkpId3QwamJ5R0tIdUVXU2d3eHNWclRrMlNta3F6b0FQQmtIbHVlNXRVSXU2UFBGUzA0aEdrUzZSYUVIT2RJR1pEcjBzOTZvUFRFaVRaVm82OFl6TVFaR0l3RFgwbjV6WGQ2NGJfeENYUTd4R1lyZ0ZsXzFwdjZSS3FDZlphVXAyNkhtcmIteDVzb1JFdkc3b2lzVU4xSlJLaEVFUmVKZ9IB0wFBVV95cUxQV2lTTmVsblVod0MwbzR5aEVWdkdtaVZjVVg3aUh3QWYyc2RBTGtqTGFITjhBS0ttdW54ZHVXYUU4allqUm9SMTlDSi1YR095N3h2dTF6SWxRdFo2bk9TbVh1dWdjM05DcEtVdlVQUFVMbTY4ZHJ5RjNUQ05EUzM1LUJnM01FTHBPVFhOSlQxNkEyYm5YSi1nWXRSUVhTYkc5Y081S2pqS2N5ckJteHBkOEd0SE1wTWhGNVRZWjdoeUxKOXpNckZ5ME41MWF0VWhvVmp3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 384,
+    "dup_title": 102,
+    "too_old": 205,
+    "gate1_blocked": 37,
+    "gate2_blocked": 31,
+    "passed": 9,
+    "pass_rate": "3.2%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Lenzing Group Highlights Scalable, Bio-based Nonwovens Solutions at Leading Global Industry Fairs - ",
+      "Far Eastern New Century Stock - Background and weekly sector check - AD HOC NEWS",
+      "Polyester that wants to be invisible in use - Far Eastern New Century’s TopDry EcoPET plays for ev -",
+      "Shenzhou International Is Stitching Sales as Margins Fray - marketscreener.com",
+      "JPMorgan acquired an additional 1,312,200 ordinary shares of Shenzhou International (02313.HK), valu"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Lululemon、Coach、耐吉相關動態：「NIKE (NKE) to Post Quarterly Earnings on Tuesday - Market...」。主要關注主題為法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "NIKE (NKE) to Post Quarterly Earnings on Tuesday - MarketBeat（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hsbc Holdings PLC Trims Stake in lululemon athletica inc. $LULU - MarketBeat",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
