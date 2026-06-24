@@ -1,5 +1,43 @@
 [
   {
+    "id": "vf_corp-2026-06-24-001",
+    "date": "2026-06-24",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VF Corporation analyst views stay cautious, shares trade below recent highs - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNVTliSHRsSjlxb2pLVFZNc3I0WUZDYWQxMzVDRVZTekhNcGtLWmFjcFhaamQwRTZ3TGtCWnBFMjdPZlQ0alNZeDlRanBZb2RRZ1hsYndMOEh6RjhSQm95R1R6dC1ReWQxR01Od2VLZG",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVTliSHRsSjlxb2pLVFZNc3I0WUZDYWQxMzVDRVZTekhNcGtLWmFjcFhaamQwRTZ3TGtCWnBFMjdPZlQ0alNZeDlRanBZb2RRZ1hsYndMOEh6RjhSQm95R1R6dC1ReWQxR01Od2VLZGp1dlBCZVRPNFkxRENzMGFmZU50RzNKeXYtMHRyWm9HYTlXRkF2Y291MTV5X1FpSGQ3WmxoX1hyeHYtLVdld3Z2azNRS3NWUUJmR3RRS3NUYmEzRGxObWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-24-002",
+    "date": "2026-06-24",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Is Nike Inc (NKE) Positioned for Growth With Q4 Earnings Expecte - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSFhGTS1SaXEtTUlHQjU4ek11Nk0zR0VKbG5xRm5SOHkzLWtKZThFRFd2RDktUUxUeHpnbTdOWV9LYUstdWZ1djV2WXl0X2J3dWVCQnlKTmNUOTVjZ2VqaFhkOFBma2xDZDN1ZS1uQW",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSFhGTS1SaXEtTUlHQjU4ek11Nk0zR0VKbG5xRm5SOHkzLWtKZThFRFd2RDktUUxUeHpnbTdOWV9LYUstdWZ1djV2WXl0X2J3dWVCQnlKTmNUOTVjZ2VqaFhkOFBma2xDZDN1ZS1uQWhvdVF0SjNfZC13T3RDRUJFRmRnMENNa3pFVFhKX2tlRFM5RFB4emlRcENCMEdja3d4a185OVhoTms0ZHZrNm9sdVRKRkJIbmh5eXZqdVlCTTBURThGYlhGcFN1WjB4YjY3dXdkal9UTWpQQzhrQ0ZVNUZ5MTZ3b3hZb0E3OEE4XzRmUU5uMTVRcExrVGxNdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lululemon-2026-06-23-001",
     "date": "2026-06-23",
     "companies": [
@@ -51,6 +89,174 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFQ1TFNuMkM1Nl9XaXRyZ0IzQ2JoTGJNZDljMDN1THFSRVBHclVKcUQzYk9Xd3JRX3hTQ0k2YURLUzBBakIwSlN1UGdoR2hxTHQtWTNJVGF6c2NEMFJrM005a19LaEFQWko0bDdDUllpQjlQeVFLODY1V0U5elhZcFFrTTVrallMVVV0djZuMzBQS0tCSWd1eG51XzZnZEw4Vmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-06-23-004",
+    "date": "2026-06-23",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas: Buyback of Up to EUR1B Was Announced in January - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOWVZ3YlltWWg2VjVLQlA2Z1RvT2o4VFhVaWVac1AwYUlKWDlaZ0pjaGhpOUJiU01HcDNVMlg1MWszRHhzS3lwbkdJc3lfRDdpU2JFNE43eVpta2ZsOUN4WUliTjdack0xcXg5UklNN1",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWVZ3YlltWWg2VjVLQlA2Z1RvT2o4VFhVaWVac1AwYUlKWDlaZ0pjaGhpOUJiU01HcDNVMlg1MWszRHhzS3lwbkdJc3lfRDdpU2JFNE43eVpta2ZsOUN4WUliTjdack0xcXg5UklNN19yZ1BDZHZmRmwzZUVjQzBsbmJ6ZXRBR2U3bFBMZDZMQjVWZE4tMko5ZG9TNWU0NW1VTUtLdnJTQXgxcDFqWDF6dTNUbngzTmw3ZjNsbjVnZmxVTllCamZVZUs0NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-06-23-005",
+    "date": "2026-06-23",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PVH stock drops 22% after guidance cut triggers analyst downgrades - CryptoRank",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNakZ1c3lwOU5MbWxhLTE1RjZIRVpJcWVZdTdHMVlVZGZ1TEpJWlNBOE90REMzc1Q0SU1VU3E4ekdkODV4UE81UFZFd2FmMy1CSzVFM0swVk1BU0lobUJnYTFvY0FGWmRJNWRsRUlTdE",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakZ1c3lwOU5MbWxhLTE1RjZIRVpJcWVZdTdHMVlVZGZ1TEpJWlNBOE90REMzc1Q0SU1VU3E4ekdkODV4UE81UFZFd2FmMy1CSzVFM0swVk1BU0lobUJnYTFvY0FGWmRJNWRsRUlTdEdiaEZWOUkwckdHUEJMbWtfSldYX3JHR3lSOUM0cndoSlhkUnp5NFQ1TDA3ZHdPTUxGMWl0eEJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-06-23-006",
+    "date": "2026-06-23",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "“The Tapestry of Fate” by Shannon Chakraborty - Yakima Herald-Republic",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFVjVjNCSXoxNlpDVkhVbEFad1I5R1lZRUwtVHNDaGtTcXRpNEpET1lid0g5NFJWZzB1LVowQnQyXy1Hei1XY3RDWVF3VlhvWWFWTU42UnVMbDJJNmpSQXlnbkF5aXZsOHVUTnA5LV",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFVjVjNCSXoxNlpDVkhVbEFad1I5R1lZRUwtVHNDaGtTcXRpNEpET1lid0g5NFJWZzB1LVowQnQyXy1Hei1XY3RDWVF3VlhvWWFWTU42UnVMbDJJNmpSQXlnbkF5aXZsOHVUTnA5LVc3TFc3elduVFJIdjB2X2xlX09FX043Y1o3VGJoRXdCakFWcG4tdGJmUG9OUFl4X3k5WDdVZ0F5UVlfTlppWTh6aEJUX19hV3pXU3ZnTw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-06-23-007",
+    "date": "2026-06-23",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Muscarelle unveils America's Tapestry: 13 Colonies, 13 stories, 1 nation - WHRO",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDBoeXdYMEx2ZGJ0bjdHRXZscEZ0ZF91bkpLN2ZKeG9zZGpSdFlna1dRaURPN0VuR1FwVko5VS1jTTlmT0J6QzFZM3ZKZGV2S1JRaEtJQ2pWS3lKNTZnSWh4NUR4VWdLd3dkeUx3bj",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDBoeXdYMEx2ZGJ0bjdHRXZscEZ0ZF91bkpLN2ZKeG9zZGpSdFlna1dRaURPN0VuR1FwVko5VS1jTTlmT0J6QzFZM3ZKZGV2S1JRaEtJQ2pWS3lKNTZnSWh4NUR4VWdLd3dkeUx3bjNEOTNLN0pUZUJKZ1ZJdWh4VGdxZVR6TmVBbERfZlJ6RlhFU3hmU2MySlBFT25haGY0OHpjR0RZeS1OQ3ZnMlozcTVGdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-06-23-008",
+    "date": "2026-06-23",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Is Tapestry Stock Outperforming the S&P 500? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUZmQ1dvSFpDMU5GUXYtTm1BdVhsRUZRZURUNHhld3pIM2RfUkZsT1FSNGZJdWx1b2hucllzR3VyWEdlWThVaFJ6aEM5Wm5mVGVJVHZyQ2EwZUE5TjFSODJCc3NzbUN2OTRhUDM2LV",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUZmQ1dvSFpDMU5GUXYtTm1BdVhsRUZRZURUNHhld3pIM2RfUkZsT1FSNGZJdWx1b2hucllzR3VyWEdlWThVaFJ6aEM5Wm5mVGVJVHZyQ2EwZUE5TjFSODJCc3NzbUN2OTRhUDM2LVRCVnJEcWVzS3gxMWRuQkVWck9oMUlURGlzcF9sakFtNHYwc1FETkZjanFkWEY2RFhG?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-23-009",
+    "date": "2026-06-23",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NIKE, Inc. Announces Planned CFO Transition - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ3hsc1NUNVZWM3dSb2F5TzhBQjl0Q25mSWRueGJHaGV1REd2d19OanNyZDdoUXBBZjJ1Rkw0VHgwS3NjWnlSQ2dyTTVDWnI5UW16WGNrVy16aV81Y0dZamVnLVNiY1hMVFhvdmpQcE",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ3hsc1NUNVZWM3dSb2F5TzhBQjl0Q25mSWRueGJHaGV1REd2d19OanNyZDdoUXBBZjJ1Rkw0VHgwS3NjWnlSQ2dyTTVDWnI5UW16WGNrVy16aV81Y0dZamVnLVNiY1hMVFhvdmpQcERFeWpTU25FV3RVR1YwdmlvZy1oX0dMYlRiUTdpc0RCd1ZJV1U3RDdWd1c2dTF3Z3RZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-23-010",
+    "date": "2026-06-23",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How Will Nike Stock React To Its Upcoming Earnings? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXg4QWJkY0QzQ210LVYwaEZqM3B2cGU5SW15eHBxM0hDNzVIbW5wTEVJaFpUck5zcmNybWlFaE9QV0RYRG1ieGpIaVFlSHRZTHpBRkJvYlgzcFpSRkl1dkx6WkNwT1hDdnMyNWF3MH",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXg4QWJkY0QzQ210LVYwaEZqM3B2cGU5SW15eHBxM0hDNzVIbW5wTEVJaFpUck5zcmNybWlFaE9QV0RYRG1ieGpIaVFlSHRZTHpBRkJvYlgzcFpSRkl1dkx6WkNwT1hDdnMyNWF3MHhYb0YtSDlBaXhFQTdFUHlCRzhORFE3MGtlajBSYnUxNE9XXzJkVzFJdTN3dEpqNFk4b1BGdzlRTDNLOVozY3Uxci1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-23-011",
+    "date": "2026-06-23",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike names new CFO, announces tariff refund - OregonLive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM19iUFFNblVDTzNFQk9ibTNfTWpJR0I1Q0NLbU5RSHdlNlFYcGY0WTdrUFE4aHNMYmpfbnlGX2pIQVRDSDVzQ2VSX0ctSGhjdllkazlfVE5mbWZ2U1BBd0FDbDNod2FxdzZsU2diTF",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM19iUFFNblVDTzNFQk9ibTNfTWpJR0I1Q0NLbU5RSHdlNlFYcGY0WTdrUFE4aHNMYmpfbnlGX2pIQVRDSDVzQ2VSX0ctSGhjdllkazlfVE5mbWZ2U1BBd0FDbDNod2FxdzZsU2diTFJMTmdHa213dENlb2JvODVyY2NFdkctdkg2OFdJbkM1M1Z3R3JlRmV3emh3UTgtQWpieWhsWXFKSU0yZ9IBqgFBVV95cUxPM19iUFFNblVDTzNFQk9ibTNfTWpJR0I1Q0NLbU5RSHdlNlFYcGY0WTdrUFE4aHNMYmpfbnlGX2pIQVRDSDVzQ2VSX0ctSGhjdllkazlfVE5mbWZ2U1BBd0FDbDNod2FxdzZsU2diTFJMTmdHa213dENlb2JvODVyY2NFdkctdkg2OFdJbkM1M1Z3R3JlRmV3emh3UTgtQWpieWhsWXFKSU0yZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-23-012",
+    "date": "2026-06-23",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Likely To Report Lower Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxNbExodlVXRW1EaXZQVE9SMTdXM2pOb0k0eXdoNEZZTFJSMlY2MlNvamJsSDhfMVM0ZVJNUlFzVDJxcFRkMmJoMEVZaWNsd0gyNDNHQXBBWW5CMlNkR2xZbFktN3VBeFh2ZXF3QVE2Sm",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbExodlVXRW1EaXZQVE9SMTdXM2pOb0k0eXdoNEZZTFJSMlY2MlNvamJsSDhfMVM0ZVJNUlFzVDJxcFRkMmJoMEVZaWNsd0gyNDNHQXBBWW5CMlNkR2xZbFktN3VBeFh2ZXF3QVE2SmhLS0F2OXZ1a3J1cC1WdUZoVWo5NDZGWmQ0RWhRNXlpZE8zb3djeDVIVTgtLWY4V3ZBTUpST20tcXpKWU9JcEw4ZTMtNFByamtuRzBtdkJwYUNwTkc3RUxpUF92MTZtMjdXMHRvdnk5SjZEWXFuZWtZc0dFNm10d3Q1bU5Ub2ZIZ2ZEMmVpNXY5akR6Q1ZRaS1HLTZHbGNsaU1FWkI1VklCSW9aZw?oc=5",
         "type": "rss"
       }
     ]
@@ -950,6 +1156,24 @@
     ]
   },
   {
+    "id": "makalot-2026-06-18-017",
+    "date": "2026-06-18",
+    "companies": [
+      "makalot"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Makalot’s performance knit polo quietly underpins global fashion lines - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFFIQURPM0c1TURQLVRkcVpJSVpjNTliTy1WVXlKcFJ5MEN2Z2Z5ZXhOODJMVUg1eUcyTzU0YVZjUVYwYnZieFE5b3Y4b0xCQ3ZrVnpZV3IxUlhNcXFwSVlDd09jVElIdzYtUlFnWW",
+    "sources": [
+      {
+        "name": "makalot",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFFIQURPM0c1TURQLVRkcVpJSVpjNTliTy1WVXlKcFJ5MEN2Z2Z5ZXhOODJMVUg1eUcyTzU0YVZjUVYwYnZieFE5b3Y4b0xCQ3ZrVnpZV3IxUlhNcXFwSVlDd09jVElIdzYtUlFnWW51eEkzU3FfZzZSTzVoVEJOcXZBSWZZaW5ubEZOSDZ4cXFOMm9kcEFKZlZQeVBUbXAtX1czR0FjbEpVLXhzWTVhemp3R3ZaRV9EVWNqS1dEUTBmRTJXREE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "toray-2026-06-17-001",
     "date": "2026-06-17",
     "companies": [
@@ -1295,6 +1519,26 @@
       {
         "name": "adidas",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQmhySFpVZ2RiT3lzZ2xKZzJZSGRKdEpvTTlvRU5COEJzVTRzaGtfQ1BURUhiRURVaDJvZGNKamJxdDRJa3VyRm9KQlZDdW9RR19VMVZ0ei1aNGotQzN6ZVRzeUt6RU1WcGZsaG1Id2FueTBPb0dyWldqcWdkaXBnY1kxcDU1TDVKcTluclBfVEhwV2FaWmNSOHp5NTNycm5hTXdKc3p3RXN2RFYtZlAwX0NLcjRlZlRvNkQ5aExFeHAySmhJUzF0Xw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "makalot-2026-06-17-020",
+    "date": "2026-06-17",
+    "companies": [
+      "makalot"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "Why Makalot’s functional sportswear line is becoming a quiet backbone for global brands - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDc0TzRFYUF6N25mVUltbnVnTGJkVDlNRFpsRERIZ29OdWNCUGhvdUIxSTZWV0hzRHppYV9kYVY1cjhuN1djeEVrS1djMElISTBhcDB2djdtcURGUGhWVHZEa196aWdYdkVTdVZqRH",
+    "sources": [
+      {
+        "name": "makalot",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDc0TzRFYUF6N25mVUltbnVnTGJkVDlNRFpsRERIZ29OdWNCUGhvdUIxSTZWV0hzRHppYV9kYVY1cjhuN1djeEVrS1djMElISTBhcDB2djdtcURGUGhWVHZEa196aWdYdkVTdVZqRHA0NWhVcl9FSXRLUEJ4cl9wTUdUR3FDMTJKLVowWXlBRG1XeDZLblZPZi1kVEEyNzFDaFRaRHk5VFJ6TlIzbnctUlA5elpWUjhxUEdLR3Z0R090MHdDZVpr?oc=5",
         "type": "rss"
       }
     ]

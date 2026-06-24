@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T10:40:27.241762Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-06-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Nike Inc (NKE) Positioned for Growth With Q4 Earnings Expecte - GuruFocus",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSFhGTS1SaXEtTUlHQjU4ek11Nk0zR0VKbG5xRm5SOHkzLWtKZThFRFd2RDktUUxUeHpnbTdOWV9LYUstdWZ1djV2WXl0X2J3dWVCQnlKTmNUOTVjZ2VqaFhkOFBma2xDZDN1ZS1uQWhvdVF0SjNfZC13T3RDRUJFRmRnMENNa3pFVFhKX2tlRFM5RFB4emlRcENCMEdja3d4a185OVhoTms0ZHZrNm9sdVRKRkJIbmh5eXZqdVlCTTBURThGYlhGcFN1WjB4YjY3dXdkal9UTWpQQzhrQ0ZVNUZ5MTZ3b3hZb0E3OEE4XzRmUU5uMTVRcExrVGxNdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vf_corp-2026-06-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "VF Corporation analyst views stay cautious, shares trade below recent highs - Ad-hoc-news.de",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVTliSHRsSjlxb2pLVFZNc3I0WUZDYWQxMzVDRVZTekhNcGtLWmFjcFhaamQwRTZ3TGtCWnBFMjdPZlQ0alNZeDlRanBZb2RRZ1hsYndMOEh6RjhSQm95R1R6dC1ReWQxR01Od2VLZGp1dlBCZVRPNFkxRENzMGFmZU50RzNKeXYtMHRyWm9HYTlXRkF2Y291MTV5X1FpSGQ3WmxoX1hyeHYtLVdld3Z2azNRS3NWUUJmR3RRS3NUYmEzRGxObWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vf_corp",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 101,
+    "too_old": 220,
+    "gate1_blocked": 27,
+    "gate2_blocked": 33,
+    "passed": 13,
+    "pass_rate": "4.4%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Neste, Goldwin, Idemitsu Kosan Co and Toray Industries establish… - Oils & Fats International",
+      "Lenzing Group Highlights Scalable, Bio-based Nonwovens Solutions at Leading Global Industry Fairs - ",
+      "Far Eastern New Century Stock - Background and weekly sector check - Ad-hoc-news.de",
+      "Polyester that wants to be invisible in use - Far Eastern New Century’s TopDry EcoPET plays for ev -",
+      "JPMorgan acquired an additional 1,312,200 ordinary shares of Shenzhou International (02313.HK), valu"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為VF、耐吉相關動態：「Is Nike Inc (NKE) Positioned for Growth With Q4 Earnings ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is Nike Inc (NKE) Positioned for Growth With Q4 Earnings Expecte - GuruFocus（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "VF Corporation analyst views stay cautious, shares trade below recent highs -...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
