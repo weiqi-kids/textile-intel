@@ -1,0 +1,100 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:34:02.919353Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-06-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "'Big Short' Michael Burry Sees Opportunity In Beaten-Down Lululemon: 'Bad Management Is A Value Investor’s Best Friend' - Stocktwits",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRFRrR0xQUGppVzkzeFcxNGl4STV5OXFoSVF3bzhvaXpwYWxoTVpSSlVuWUc2LXlQWmZxcm0zM2wxWFJnQWJJR0NWU050TmlOU2dJYmZtQUw2SmM0RXRLMFRFSjVJdThyamhpTEFtSmZ3YTE5TmQ0Yk1rSXgxVUtqbDVTYlhrdDBPYmRhcDZzWEoydkFSZElfcmh6Uy1jSEtTckY0RkZnTEVrbzdDMG9UT0E3OFlLSWhIRmt2V01qRndkeGFvRkZJMl93ekpKdE9GVF91VExkQ3VISFMySDUtdzBaSVMxRlpEQUo3ZDFENTMtSmRCU1Exekd4WllhVGlIQVl4dlpvUWhZdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-06-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corient Private Wealth LLC Grows Stake in Tapestry, Inc. $TPR - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEdsenREdmRRcHAxZWplV1N3YldpMzYzX0NoaF9NeEhJQk5iNjNCM2s2ZHlHaHdRdEk2QnFqRVozeC1DeFFYRkVPeFl6V1VzaDdMSzJyT0dZbTZSalVEMlcxWHRZZmhBcTlTb1lmQTc4eDF3M1JpN3Yxb1hrUmhhU3Y3UnM5dzRqYmVVV0h5MWtiZjBDc0tNMmpnbWRuSlVDcnhOV2ZKeUFCaHJxLWpCaU5RX0NxYmF3WVVB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 112,
+    "too_old": 218,
+    "gate1_blocked": 35,
+    "gate2_blocked": 25,
+    "passed": 13,
+    "pass_rate": "4.5%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "Toray's European Group Showcases Automotive Sound-Absorbing Materials at German Expo - 아시아경제",
+      "Neste, Goldwin, Idemitsu Kosan Co and Toray Industries establish… - Oils & Fats International",
+      "Lenzing Group Highlights Scalable, Bio-based Nonwovens Solutions at Leading Global Industry Fairs - ",
+      "Far Eastern New Century Stock - Background and weekly sector check - Ad-hoc-news.de",
+      "Polyester that wants to be invisible in use - Far Eastern New Century’s TopDry EcoPET plays for ev -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Lululemon、Coach相關動態：「'Big Short' Michael Burry Sees Opportunity In Beaten-Down...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "'Big Short' Michael Burry Sees Opportunity In Beaten-Down Lululemon: 'Bad Man...",
+        "level": "green"
+      },
+      {
+        "text": "Corient Private Wealth LLC Grows Stake in Tapestry, Inc. $TPR - MarketBeat",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
