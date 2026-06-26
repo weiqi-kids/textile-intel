@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 221,
+  "gate1_fail": 25,
+  "gate2_fail": 31,
+  "passed": 27,
+  "gate2_samples": [
+    "Toray Industries, Inc. Actuals & Estimates (TSE:3402) - TradingView",
+    "Toray's European Group Showcases Automotive Sound-Absorbing Materials at German Expo - 아시아경제",
+    "Far Eastern New Century Stock - Background and weekly sector check - Ad-hoc-news.de",
+    "Enterprise value to EBIT forward of Shenzhou International Group Holdings Limited – LSX:A0HL4U - Tra",
+    "Swiss brand On eyes football market dominated by Adidas and Nike - FashionNetwork - The World's Fash"
+  ]
+}

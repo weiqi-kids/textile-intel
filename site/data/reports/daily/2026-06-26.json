@@ -1,0 +1,210 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:43:35.816455Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "makalot-2026-06-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enterprise value to revenue forward of Makalot Industrial Co., Ltd. – TWSE:1477 - TradingView",
+      "companies": [
+        "makalot"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVd0Nm81c05CUUcxSzdIMEFtM2k5OUFhTzNOWUJzdy1BemxzQk1COFFvUzZoOWVFUldidkxGd3RzMFd0cnB4RUx5M1Z5b09scUpsak5qcU5sZi1ucFQ3QTdkclQyck1MQTRTRkgyUXh6dFUzNVdyc2Q1MzZfVG5zYnhTSjNRNWtBODJJV09QQWxDNnltWGFVa0wtN0lIQjcwZENnVzNvR3dLUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-06-26-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Week Ahead: Nike earnings, ISM manufacturing, US jobs report - CMC Markets",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbm91NldMN2lYM1A4WUIxTG1rVmpsNkRZdWpxVlVPbXBwLVVjdERubUY5cjB4TmxjV3JtVEJUTnhPS2JtVm1jYlgxUVEzaFlQTEJTWkhEbWJzdUtvNXk0eTZQQ090RnRuZW1FRjFtWDdiajdMSWVLMVVyYTZUNmVJVXpsZ1ZZRE5CVzRiU3lsVGRtUWQ2LXpwMzQzOGQ5NWZMRnZCeUFLUzYzdWU1SWFQeXJn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-06-26-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of NIKE, Inc. Class B – GPW:NIKE - TradingView",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVZzaGNlemdSREJ5MTFpSW94T2NJVllrdm9VN2tYcGZEdzg4VkZveEIycE5EcDdUN2pBbmU0U3Q1RVJ6LWsybzFaeTlrV1RraFVwNU9ZSkI5Um11ckJrbEt1Y0J6N2E2OTlIUWxHUTh0cF9YRk1fSkM2SFlKMUxXVGM4WE5OUWZvTEFvR3lMWW8wa2Jic0tZWlJIWHhoQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-06-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Went From Darling Stock to Disaster. How to Fix It. - Barron's",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BZTVPRExIQmRkOXlkR2N6ODcxWjVMQ2N6elNJTFlPUFA2bHVBYjlySUdJRnFJQmR4ZThTTkxmM2RTU0ZwYzBIUEN0c0hxS3BzTlljYnh3b3pIdC01ZzlYQ0ZwOVI0dklo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-06-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hilton Tapestry Coming to Front Street; More Downtown News - The Ticker",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZkE1UkwwZFg4S1lKdkM5OXNnaWh1QThoeFFFYmZleDZSVTBjVnA2MlVURkstQjhoMFF5WUlHYXRHT0JtcmpFVTRFdDh5bmsyLUxISnAwZkxfbUM3UGVIVHBqMHFvTHBpeVVheWFaaUpGS2RoU2liTzlHOEIyQXR0bFlCSEtiVmxaRG16QzAzMTAzSmtjRmJxYnpn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 3
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "makalot",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 99,
+    "too_old": 221,
+    "gate1_blocked": 25,
+    "gate2_blocked": 31,
+    "passed": 27,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "Toray Industries, Inc. Actuals & Estimates (TSE:3402) - TradingView",
+      "Toray's European Group Showcases Automotive Sound-Absorbing Materials at German Expo - 아시아경제",
+      "Far Eastern New Century Stock - Background and weekly sector check - Ad-hoc-news.de",
+      "Enterprise value to EBIT forward of Shenzhou International Group Holdings Limited – LSX:A0HL4U - Tra",
+      "Swiss brand On eyes football market dominated by Adidas and Nike - FashionNetwork - The World's Fash"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為耐吉、Coach、Makalot Industrial相關動態：「Enterprise value to revenue forward of Makalot Industrial...」。主要關注主題為法說會、永續紡織，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Enterprise value to revenue forward of Makalot Industrial Co., Ltd. – TWSE:14...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "The Week Ahead: Nike earnings, ISM manufacturing, US jobs report - CMC Markets（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
