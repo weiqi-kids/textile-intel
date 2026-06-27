@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 213,
+  "gate1_fail": 21,
+  "gate2_fail": 34,
+  "passed": 21,
+  "gate2_samples": [
+    "Toray Industries, Inc. Actuals & Estimates (TSE:3402) - TradingView",
+    "Toray's European Group Showcases Automotive Sound-Absorbing Materials at German Expo - 아시아경제",
+    "Price to sales forward of Far Eastern New Century Corporation – TWSE:1402 - TradingView",
+    "Formosa Taffeta Co., Ltd. Actuals & Estimates (TWSE:1434) - TradingView",
+    "Price to sales forward of Shenzhou International Group Holdings, Ltd. – OTC:SZHIF - TradingView"
+  ]
+}
