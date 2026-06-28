@@ -1,63 +1,63 @@
 {
   "toray": {
-    "earliest": "2005-12-13",
+    "earliest": "2005-09-14",
     "latest": "2026-06-26",
-    "count": 5058
+    "count": 5122
   },
   "lenzing": {
-    "earliest": "2005-12-07",
+    "earliest": "2005-09-08",
     "latest": "2026-06-26",
-    "count": 5149
+    "count": 5213
   },
   "far_eastern": {
-    "earliest": "2005-12-23",
+    "earliest": "2005-09-26",
     "latest": "2026-06-26",
-    "count": 5025
+    "count": 5089
   },
   "formosa_taffeta": {
-    "earliest": "2005-12-23",
+    "earliest": "2005-09-26",
     "latest": "2026-06-26",
-    "count": 5025
+    "count": 5089
   },
   "lealea": {
-    "earliest": "2005-12-23",
+    "earliest": "2005-09-26",
     "latest": "2026-06-26",
-    "count": 5025
+    "count": 5089
   },
   "shenzhou": {
-    "earliest": "2005-12-13",
+    "earliest": "2005-11-24",
     "latest": "2026-06-26",
-    "count": 5060
+    "count": 5073
   },
   "eclat": {
-    "earliest": "2005-12-23",
+    "earliest": "2005-09-26",
     "latest": "2026-06-26",
-    "count": 5025
+    "count": 5089
   },
   "makalot": {
-    "earliest": "2005-12-23",
+    "earliest": "2005-09-26",
     "latest": "2026-06-26",
-    "count": 5025
+    "count": 5089
   },
   "nike": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "adidas": {
-    "earliest": "2005-12-07",
+    "earliest": "2005-09-08",
     "latest": "2026-06-26",
-    "count": 5220
+    "count": 5284
   },
   "inditex": {
-    "earliest": "2005-12-06",
+    "earliest": "2005-09-07",
     "latest": "2026-06-26",
-    "count": 5253
+    "count": 5317
   },
   "hm": {
-    "earliest": "2005-12-06",
+    "earliest": "2005-09-07",
     "latest": "2026-06-26",
-    "count": 5172
+    "count": 5236
   },
   "lululemon": {
     "earliest": "2007-07-27",
@@ -66,24 +66,24 @@
     "history_complete": true
   },
   "vf_corp": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "fast_retailing": {
-    "earliest": "2005-12-13",
+    "earliest": "2005-09-14",
     "latest": "2026-06-26",
-    "count": 5058
+    "count": 5122
   },
   "pvh": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "tapestry": {
-    "earliest": "2005-12-09",
+    "earliest": "2005-09-12",
     "latest": "2026-06-26",
-    "count": 5167
+    "count": 5230
   },
   "etf_xrt": {
     "earliest": "2006-06-22",

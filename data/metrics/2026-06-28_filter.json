@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 205,
+  "gate1_fail": 37,
+  "gate2_fail": 42,
+  "passed": 15,
+  "gate2_samples": [
+    "Enterprise value to EBITDA forward of Toray Industries, Inc. – LSX:853974 - TradingView",
+    "Toray Industries, Inc. Actuals & Estimates (TSE:3402) - TradingView",
+    "Toray's European Group Showcases Automotive Sound-Absorbing Materials at German Expo - 아시아경제",
+    "Price to sales forward of Far Eastern New Century Corporation – TWSE:1402 - TradingView",
+    "Far Eastern New Century Corporation Actuals & Estimates (TWSE:1402) - TradingView"
+  ]
+}
