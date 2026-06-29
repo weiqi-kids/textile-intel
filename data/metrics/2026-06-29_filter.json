@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 206,
+  "gate1_fail": 36,
+  "gate2_fail": 40,
+  "passed": 19,
+  "gate2_samples": [
+    "Toray Industries, Inc. Actuals & Estimates (TSE:3402) - TradingView",
+    "Toray's European Group Showcases Automotive Sound-Absorbing Materials at German Expo - 아시아경제",
+    "Enterprise value to EBIT forward of Lenzing AG – VIE:LNZ - TradingView",
+    "Price to sales forward of Far Eastern New Century Corporation – TWSE:1402 - TradingView",
+    "Far Eastern New Century Corporation Actuals & Estimates (TWSE:1402) - TradingView"
+  ]
+}
