@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 89,
+  "no_date": 0,
+  "too_old": 200,
+  "gate1_fail": 35,
+  "gate2_fail": 48,
+  "passed": 33,
+  "gate2_samples": [
+    "Enterprise value to EBITDA forward of Toray Industries, Inc. – LSX:853974 - TradingView",
+    "Toray marks the company’s centenary at Farnborough Airshow - Aerospace Manufacturing magazine",
+    "Price to sales forward of Far Eastern New Century Corporation – TWSE:1402 - TradingView",
+    "Far Eastern New Century Corporation Actuals & Estimates (TWSE:1402) - TradingView",
+    "Formosa Taffeta Co., Ltd. Actuals & Estimates (TWSE:1434) - TradingView"
+  ]
+}

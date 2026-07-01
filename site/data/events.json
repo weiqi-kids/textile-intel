@@ -1,5 +1,323 @@
 [
   {
+    "id": "tapestry-2026-07-01-001",
+    "date": "2026-07-01",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tapestry VC launches $80m fund aimed at backing repeat founders - Sifted",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8wQzVHT3o3UkgzWHVvQlRpaDlVY0NsTkFYTk1RM0FQM19RRWxsc2h6Qy0taWFqVkQ0aVNsa1Bmc3dndE9nendUZjI3ZUdkWTdlWGpqMVhDZ1A4V2JJY2JWeUZiWlo0S0hLM1RyekJkZG",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wQzVHT3o3UkgzWHVvQlRpaDlVY0NsTkFYTk1RM0FQM19RRWxsc2h6Qy0taWFqVkQ0aVNsa1Bmc3dndE9nendUZjI3ZUdkWTdlWGpqMVhDZ1A4V2JJY2JWeUZiWlo0S0hLM1RyekJkZGZrWlRJM2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-07-01-002",
+    "date": "2026-07-01",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Open AI CFO among backers of Tapestry VC’s new $80m Fund III - Silicon Republic",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFhXNTk4NXBYZTdUUTRneGJfRWtmWXRKZ0pfX2dXTm50RVdCbmVtU19oVnNqeV9CWDNvMnpZVEo5VWVzbjBabmZjVzY3RXdoVldGcHlLMElKVERTc3ZzVWJvblg1X2ptZl9EMklsOF",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFhXNTk4NXBYZTdUUTRneGJfRWtmWXRKZ0pfX2dXTm50RVdCbmVtU19oVnNqeV9CWDNvMnpZVEo5VWVzbjBabmZjVzY3RXdoVldGcHlLMElKVERTc3ZzVWJvblg1X2ptZl9EMklsOFpMQTNpZ2JnMXZmTVRLZXpWd2phVmJ0TXJNS2NKbzgzM2U2dVBRLW84dkgtelJYZVZaaDM4YWxaZWF3WnB1cEZUYzhrV0NiLVgxc2prS19vdUxzdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-07-01-003",
+    "date": "2026-07-01",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tapestry VC launches €70 million Fund III with British Business Bank as co-anchor - EU-Startups",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWJ4c0RZdzdsX3h6MGZUN3RYcm5jcmhJWjRJQjdhYXFzTjVQYVRsbEZibmxGd0FDTi14cHRYNkJkQjFSZlQtN1FiV0RDemtUNEM2T09YekV0WjVEVDA4RFp6LU9fYmkwdFhxMF84cW",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWJ4c0RZdzdsX3h6MGZUN3RYcm5jcmhJWjRJQjdhYXFzTjVQYVRsbEZibmxGd0FDTi14cHRYNkJkQjFSZlQtN1FiV0RDemtUNEM2T09YekV0WjVEVDA4RFp6LU9fYmkwdFhxMF84cWVrU0lhNXZHbnphb3pqc3V3RE5NRlpDT0Q5S2NOUzJBajNhVFYyaC0zXzk0T0p1ay1BamoxOEtkLXI0SFQ0Tmw4Tm5qSkdNa3JIRGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-004",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India’s 12% tariff reset shakes apparel pricing",
+    "summary": "India’s FTAs with the UK and potentially the EU are reshaping apparel sourcing economics by removing long-standing tariff disadvantages.\nWhile duty savings improve competitiveness, buyers are likely t",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-12-tariff-reset-shakes-apparel-pricing-311369-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-005",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India's manufacturing sentiment moderates in Q1: FICCI",
+    "summary": "FICCI’s Q1 FY 2026-27 survey shows 77 per cent of manufacturers expecting higher or unchanged production, down from 93 per cent in Q4. \nOrders also eased, but exports improved, with 74 per cent report",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-manufacturing-sentiment-moderates-in-q1-ficci-311366-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-006",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "India's polyester, yarn prices ease further in July, viscose rises",
+    "summary": "India's polyester fibre producers cut PSF and POY prices by ₹3/kg from July 1 as PTA, MEG, and polyester melt costs declined, extending June's downward trend.\nAcrylic fibre prices also fell, while VSF",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-polyester-yarn-prices-ease-further-in-july-viscose-rises-311364-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-007",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "ICE cotton recovers on technical rebound amid India’s crop concerns",
+    "summary": "ICE cotton futures closed higher on a technical rebound, supported by crop concerns in India, though gains were capped by falling crude oil prices and slightly higher US cotton acreage.\nThe December 2",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-recovers-on-technical-rebound-amid-india-s-crop-concerns-311359-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-008",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh Bank keeps repo rate unchanged at 10%",
+    "summary": "Unveiling its monetary policy for the first half (H2, July-December) of FY27, Bangladesh Bank yesterday kept the policy (repo) rate unchanged at 10 per cent to tackle inflationary pressures. \nOverall ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-bank-keeps-repo-rate-unchanged-at-10--311355-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-009",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "ACIMIT, ICE to hold textile workshops in Bangladesh",
+    "summary": "Italian textile machinery makers will hold technology and B2B workshops in Dhaka and Chittagong on July 7 and 9 to strengthen ties with Bangladesh’s textile sector.\nThe initiative reflects rising dema",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/acimit-ice-to-hold-textile-workshops-in-bangladesh-311354-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-01-010",
+    "date": "2026-07-01",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "US’ Nike reports stable FY26 revenue amid market headwinds",
+    "summary": "Nike has reported flat FY26 revenue of $46.4 billion as North American growth offset weaker demand in China and EMEA. \nWholesale sales increased, while Nike Direct and Converse declined. \nDespite lowe",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/us-nike-reports-stable-fy26-revenue-amid-market-headwinds-311367-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-011",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "UK backs Philippines' path towards CPTPP accession",
+    "summary": "CPTPP parties will begin preparatory discussions with the Philippines, Indonesia, and the UAE after a virtual commission meeting recently. \nFor apparel and textile exporters, any future Philippine acc",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/uk-backs-philippines-path-towards-cptpp-accession-311352-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-012",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "order_visibility"
+    ],
+    "impact": "neutral",
+    "title": "Turkiye’s $6.6 bn apparel exports chase new markets",
+    "summary": "Turkiye’s apparel exports show a strategic shift rather than a simple slowdown. \nWeak EU demand is being partly offset by growth in the Middle East, Eastern Europe, Africa and the Americas, but newer ",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/turkiye-s-6-6-bn-apparel-exports-chase-new-markets-311344-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-01-013",
+    "date": "2026-07-01",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Earnings Top Estimates but Stock Sinks - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5lY1ZYN0pjeHNPS1V2STkxc0luMjVoVDRCM2ktZ29RMmhpWFZpVnJiM2pLYkZjUU5pNHNEay1Hd3RBcm1COFozTjZ3LWlJMHZPV1V2RmFNNlN1Z0dFbzlKd1JJU1FWVl9yNGpodTJTU2",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lY1ZYN0pjeHNPS1V2STkxc0luMjVoVDRCM2ktZ29RMmhpWFZpVnJiM2pLYkZjUU5pNHNEay1Hd3RBcm1COFozTjZ3LWlJMHZPV1V2RmFNNlN1Z0dFbzlKd1JJU1FWVl9yNGpodTJTU25CVlU3MHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-01-014",
+    "date": "2026-07-01",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike earnings crushed Wall Street’s estimates — but here’s the catch - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFRETjkzOUxmRF9jbkFGM05GYTRzdG1TRWI5Q256SUliVmd1TW80SGlBNTkwTnktQ0RYZkNHbU1MX3VQY3EwQjcxc1VnekNUZkFpV0VVS19VNjBQaUY3RkhYVDNZeXE4NDBmZzlnTj",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFRETjkzOUxmRF9jbkFGM05GYTRzdG1TRWI5Q256SUliVmd1TW80SGlBNTkwTnktQ0RYZkNHbU1MX3VQY3EwQjcxc1VnekNUZkFpV0VVS19VNjBQaUY3RkhYVDNZeXE4NDBmZzlnTjVIWm5PQW9PMmFrTlZMTEN4VlhzUERWR2NnY0pSYm8wN3AwQm9Bbmt6dG52RG92Y0tjdGZld3JiZzhSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-01-015",
+    "date": "2026-07-01",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tariff Refunds Could Be a Boon for Nike as Company Posts Solid Q4 Beat - wwd.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPaXdJbjYzWUlmZEdyU251MkJWbWpTc21LZmswNFZFUVJEc2lWV0ZGNS1UWHFUcWcxMlN6TEo4S1hvdHlCTm5aaWhFakN2RzJyRUtqcnhmWHB4ZXowalhPYmFuQThFUXBkX3V6NXlmaW",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaXdJbjYzWUlmZEdyU251MkJWbWpTc21LZmswNFZFUVJEc2lWV0ZGNS1UWHFUcWcxMlN6TEo4S1hvdHlCTm5aaWhFakN2RzJyRUtqcnhmWHB4ZXowalhPYmFuQThFUXBkX3V6NXlmaWx1ZnNGLXZCSUlPSWlkT2hvZEZtUzZZRkk2c0NUczkwZnNlWTdBbVBsTkdiS2cxZ1hIYzY0ZkRaTUlldmE5RTRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-01-016",
+    "date": "2026-07-01",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "🚩 Nike Slides After Earnings – Shares Hit a 12-Year Low - XTB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmRfNDg5QVpzSkJwbWFFVURBLUlRUlJWOTRCZi1NbTNKRU1YZUF0VWZZOXNBaWotQ1IxMFhNY2k4ZFB0eFdmQmZPSmplMkdPRWI1QXYyei1hY0E3VTVhUVZDMTV5ZGh1OFFSc0EyUX",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmRfNDg5QVpzSkJwbWFFVURBLUlRUlJWOTRCZi1NbTNKRU1YZUF0VWZZOXNBaWotQ1IxMFhNY2k4ZFB0eFdmQmZPSmplMkdPRWI1QXYyei1hY0E3VTVhUVZDMTV5ZGh1OFFSc0EyUXpLNmE1ODNkOW9TUm1Dbl8zUGdOQ0lNZnZPRzVkNTZ0eUJMNk9UTTQxYzc2aFFJRndRWHloTDBYR3pGOGRSUGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-01-017",
+    "date": "2026-07-01",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike edges past quarterly revenue estimates despite persistent woes in China - 1470 & 100.3 WMBD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPaU9WWmZkSktuWW40aEx2d255eWNSdW81R0loUGVIWTNvZnZKSjZyZG9ER3c1eUNEMXBoYl9adWFFbzlodHcza251TlBJNEhkdWdKNUZRaDhmZlNRR0NwWEhxTGFEczBfWDJ6akE3TV",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaU9WWmZkSktuWW40aEx2d255eWNSdW81R0loUGVIWTNvZnZKSjZyZG9ER3c1eUNEMXBoYl9adWFFbzlodHcza251TlBJNEhkdWdKNUZRaDhmZlNRR0NwWEhxTGFEczBfWDJ6akE3TVN2MGJ3X09vQ3B2TDkxUXpMN0hSVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-06-30-001",
     "date": "2026-06-30",
     "companies": [
@@ -171,6 +489,255 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QM05EaDZWTG0zN241SFkxaGlTV2pJVWVNTlM4VXZLWVBmRW1pSGR6dDkxLThjNFIwS0U4TWVkeGNtU01ISGhrOFdhbmJZZHUxaDZRYjZtMWNyUUxBeHUtYjVLMjNsTW14UkRV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-06-30-010",
+    "date": "2026-06-30",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Inspired by Bayeux? How to add tapestry to your home - The Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUlCaHphS21xUFU3cHFoTllLbW1JclRTLXp0NVM2S245bWxUd3JmWUQ3anBBOFh4cU9HbWNlM1RtRjNkY3lJT0thWTlyaDNLZ18tYWdMWmFnSXUyRWoxajVJQjFLZm93RGF1ZWxaZH",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUlCaHphS21xUFU3cHFoTllLbW1JclRTLXp0NVM2S245bWxUd3JmWUQ3anBBOFh4cU9HbWNlM1RtRjNkY3lJT0thWTlyaDNLZ18tYWdMWmFnSXUyRWoxajVJQjFLZm93RGF1ZWxaZHpON2VxVHpEcUEyb2xURmtOOEctV3puQWpVUjZsbmozR2RBQWNRVXFsbVJtMmp1eVUzTjVXTjFyZ3JTRTZRTVZrQnl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-06-30-011",
+    "date": "2026-06-30",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Interview: Composer Jeff Scott on the NYC Premiere of ‘Tapestry of the Beloved Beatified’ - Blogcritics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDh4X0FrclQ4N2tOdmYxWXFEQmVoUG9lS3lNaDljZGQ3Sl9HNEtQYzFOd2I0RC1DRVZhOGt6THduQVJCMlUxNWs5WnJvbkFUbW9vZ0VWNlllanY0LTFpcUpqT2NIODZoOWUzYjJneV",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDh4X0FrclQ4N2tOdmYxWXFEQmVoUG9lS3lNaDljZGQ3Sl9HNEtQYzFOd2I0RC1DRVZhOGt6THduQVJCMlUxNWs5WnJvbkFUbW9vZ0VWNlllanY0LTFpcUpqT2NIODZoOWUzYjJneVpVd045eGJQVlRIQURtYmkydEQzSGdVVWw0a00yVHgwazZsQndORTBPTVFjTlFfRWZLcFBhd2d4Vmgybm9qeTNfbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-30-012",
+    "date": "2026-06-30",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NIKE, Inc. Reports Fiscal 2026 Fourth Quarter and Full Year Results — - About Nike",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0k4MGU4UWpyeWt6OGpYS3l3czZWem9NOElHRndyVGhVNGgtSTh3ZnlDNjVuSmZ2RHZsYkJ1MTVGUmJGeDIwWDNpTTN1cFZiT0JSZ2NQZDFiRUpLSGdac0JkbTJGMTk4VzI1U2M4cj",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0k4MGU4UWpyeWt6OGpYS3l3czZWem9NOElHRndyVGhVNGgtSTh3ZnlDNjVuSmZ2RHZsYkJ1MTVGUmJGeDIwWDNpTTN1cFZiT0JSZ2NQZDFiRUpLSGdac0JkbTJGMTk4VzI1U2M4cjMtWllfb0Q4VjFxaUZkakotUHZ1VGRKaWNkR1FjOTA4ZWEwUDdvdDlWTHFBM1N3SEEyVEpPV2NoeDdQdjI1aFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-30-013",
+    "date": "2026-06-30",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1xQWRJOWN6aWhPdk9WYklzclNNYWhqQXlraUJocHdEbEEyTkw5Rm51RGhobjZHNmlBWE51ZDI0Yl9waWNfT29kTDZNbTZkcWhfY0tObFZSTU0yUFNjWk5QUDB5XzhEVllkS1U1Qzl1d9",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xQWRJOWN6aWhPdk9WYklzclNNYWhqQXlraUJocHdEbEEyTkw5Rm51RGhobjZHNmlBWE51ZDI0Yl9waWNfT29kTDZNbTZkcWhfY0tObFZSTU0yUFNjWk5QUDB5XzhEVllkS1U1Qzl1d9IBdEFVX3lxTE5KanlrN3ptZ2g3UV9XT3BHMGxDOXIwNy13ZDczMjhNOVJsdXhVMEt6LWh6bTRHN3ZPb0FTVlVRQ1EzbUh2dkdkQlZwVWJFcTZuUmtIZFlOd1hvN3oxaE93YU0wVng1d1Bqa29GOWZvYnlCWEpG?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-30-014",
+    "date": "2026-06-30",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike’s earning numbers exceeded Wall Street’s expectations. But CEO Elliott Hill’s next test is the World Cup - Fortune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWmY5VDUyY2JISUNuVmdiWVZnekRHMzdyRmprQ0U4X0hJMEtVR192WVpvLTBZWVVjZFBZNThPSW1sVUd5LU5wd08yWUJaMlc3SERrVjBRNmIybk83UmQzZmRTLUUzMU9zZ0VFamdIOE",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmY5VDUyY2JISUNuVmdiWVZnekRHMzdyRmprQ0U4X0hJMEtVR192WVpvLTBZWVVjZFBZNThPSW1sVUd5LU5wd08yWUJaMlc3SERrVjBRNmIybk83UmQzZmRTLUUzMU9zZ0VFamdIOElPOGpVdzVTaHVZSWtCUElfVWJvQzBETGhobkhQQkkzWEt0cXQ1Q01YWG0zRTN5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-30-015",
+    "date": "2026-06-30",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "fast_fashion",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nike flags prolonged turnaround as China slump, weak outlook eclipse quarterly beat - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnNzWkdGLVk5dVdwM0ZUQ3RObWpYSkdGNnhsc1JuMFhWeXBtT1pSS3luR3UxcVNEcTVTM0tCdFRTSHlYQVNZTGFkQXIzeldDUV91djhzbFN1dWZyOWVKOHVrbGFpcy1rRkYxd3dTTz",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnNzWkdGLVk5dVdwM0ZUQ3RObWpYSkdGNnhsc1JuMFhWeXBtT1pSS3luR3UxcVNEcTVTM0tCdFRTSHlYQVNZTGFkQXIzeldDUV91djhzbFN1dWZyOWVKOHVrbGFpcy1rRkYxd3dTTzNKMjdTcFN6OFVSVk5iX3ZhU2tULVpzR1RfdVpEcXFkUFZ4ZlFYT01EY1VvNlR3dDBG?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-30-016",
+    "date": "2026-06-30",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike earnings beat by $0.08, revenue topped estimates - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHBMWG1VSzVRWGV1aUIydVk5VmFlV0JEZ0REdHV6WUdFZmpEdmNpQjFQYW9Wa3E0a1hiN0kzelRlWjlvMDJ4Nng5aF9ZQWxZQnk4bF9aQ2ZDRWlCSkVIbDBsek1DMlFHNzhLYURCSn",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHBMWG1VSzVRWGV1aUIydVk5VmFlV0JEZ0REdHV6WUdFZmpEdmNpQjFQYW9Wa3E0a1hiN0kzelRlWjlvMDJ4Nng5aF9ZQWxZQnk4bF9aQ2ZDRWlCSkVIbDBsek1DMlFHNzhLYURCSnZYbzMzcFlkZmdpRjd4UFZnUklfbEtQU2g4SFJNSGNNNS1NOGkxbkxFTmVMdjY2UGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-30-017",
+    "date": "2026-06-30",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike (NKE) Stock Falls on Q4 2026 Earnings - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQU0F6cTh4Ui1fUmhyb2ZIRDlHeXZWVDAtT0VVQnNTQ1c3N3l2WW5NR1g5azJLQjB0N2E0RHJjTnV0ek1xQlNuSHU2TERKU2dSbXpNNG1JdzlWN01pOWtqcE1KSi1xM3RzOEdqTUxzdH",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU0F6cTh4Ui1fUmhyb2ZIRDlHeXZWVDAtT0VVQnNTQ1c3N3l2WW5NR1g5azJLQjB0N2E0RHJjTnV0ek1xQlNuSHU2TERKU2dSbXpNNG1JdzlWN01pOWtqcE1KSi1xM3RzOEdqTUxzdHpUbDg2WUNWS2k1NXJLZ0tVbXltWkF5UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-018",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "NKE Stock Falls After-Hours — 12% China Sales Decline Overshadows Q4 Earnings Beat - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMDZ2a2wzc2FJcmo5eEo1QVpyTmZ6Z3BEcVhfX1dPUVcwYTlpOHhnWm1VR2NXa0V5R0x0dFd5Rm1rUWFRd3JaUER0cU5Kdi1uMUVnVUJRQWlJNjdobldvbTVaOGNabk5hMm9TOXo0aU",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMDZ2a2wzc2FJcmo5eEo1QVpyTmZ6Z3BEcVhfX1dPUVcwYTlpOHhnWm1VR2NXa0V5R0x0dFd5Rm1rUWFRd3JaUER0cU5Kdi1uMUVnVUJRQWlJNjdobldvbTVaOGNabk5hMm9TOXo0aUhuUnh6UXZqVG84UEQzdk4xcEZ3a2R1WGc3clFnR0p3SVNGNDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-30-019",
+    "date": "2026-06-30",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nike earnings helped by tariff refund but sales decline in China - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB2VEowd084Y3dkUlJ2ZlpHX0JJWDhfdTN0bm8tWVV3ZFZsZW1FYV9HNURSNVNORzJyTmp3eUdmOXBqSjFyWHZYVDBLb0doVmFaS3BmN2ltYXZJUnk4MkljQl9acUJTdWRTWHZlcm9KSz",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2VEowd084Y3dkUlJ2ZlpHX0JJWDhfdTN0bm8tWVV3ZFZsZW1FYV9HNURSNVNORzJyTmp3eUdmOXBqSjFyWHZYVDBLb0doVmFaS3BmN2ltYXZJUnk4MkljQl9acUJTdWRTWHZlcm9KSzY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-30-020",
+    "date": "2026-06-30",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike shares pop on earnings and revenue beat - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOW8tRnRuWE42ZTM1bDF6M0Vac0lSekFQbDJYNVRoTC1ZeXQzdTFsYXdTbWlSOE9MRkt5T0M5dm5MckNWbTl4bDlxRFB3bndIcm81bmlxeW8tdDZTd3liRVdwTjc1eWxrVW1RZHpILU",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOW8tRnRuWE42ZTM1bDF6M0Vac0lSekFQbDJYNVRoTC1ZeXQzdTFsYXdTbWlSOE9MRkt5T0M5dm5MckNWbTl4bDlxRFB3bndIcm81bmlxeW8tdDZTd3liRVdwTjc1eWxrVW1RZHpILUFRS0w0UF9EajMyd1Ixd0NBUERVNHBPZnhJSmpuWVVGQ3k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-30-021",
+    "date": "2026-06-30",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike earnings in focus: Will turnaround timeline extend further? - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdGF5TTJ4R1AxMW1xUkQzRlRkdDFNcHJHUDM4eVBSRHJBelA0REhXQkg2cERyUEkwdHU3dXpKSXhwcTdQVnZaQXdScW5JOVZxRTBJS2cwbVdIR2x4VVB2aE1ITjRyVm1RQnllZ2NYbk",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdGF5TTJ4R1AxMW1xUkQzRlRkdDFNcHJHUDM4eVBSRHJBelA0REhXQkg2cERyUEkwdHU3dXpKSXhwcTdQVnZaQXdScW5JOVZxRTBJS2cwbVdIR2x4VVB2aE1ITjRyVm1RQnllZ2NYbkY1OTFTRmtYcmJBQWxoTVFJQlRHa2V5aFZYVmVOYlBBVTZjUHA3cTRGSDlYTk5vTzNoSjE2VzNTaGNOekFnMjRQQXo3SGVPdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-30-022",
+    "date": "2026-06-30",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike (NKE) Q4 Earnings and Revenues Top Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGYycmV2Mm9xZ1FSMm1lejQ3ZF95TnJBMU54NlhYLWRDcnl0VmVoRUpJVVUyMVJaeXhfSDE2bnVaaFhQOVJlbFdIaFVzMy1FeHM5MFp5dTRUYTBQbV9pYzNuRXc5R1BwMldRSFMwWT",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGYycmV2Mm9xZ1FSMm1lejQ3ZF95TnJBMU54NlhYLWRDcnl0VmVoRUpJVVUyMVJaeXhfSDE2bnVaaFhQOVJlbFdIaFVzMy1FeHM5MFp5dTRUYTBQbV9pYzNuRXc5R1BwMldRSFMwWTRPb3VDQjNURXg1N2lkUUFMV1hGNGZCS3diZkNwNWpJWlVCekRnR0NHRkV3?oc=5",
         "type": "rss"
       }
     ]
@@ -599,6 +1166,66 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRERIWEh6WWFnei1SWGVZOHpOQVBwNGlHRl9zQ0ZQRnJMaExYWWNoWDNuMlNZa3VudlVJN1J2N0tMYmczV1dNaWdxWVhNSlZtdm9DRE94MW9seUpVRDFiLWZIRVRqT3k0NUpwR1Vrb3VvT3lMbE5ZVDJiZlJxcDB2NFZ4SWR5Y3VNUEI5X3J4TGdEcTZQNkVVQU5La2o5YUlkdjA3dkVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eclat-2026-06-29-023",
+    "date": "2026-06-29",
+    "companies": [
+      "eclat"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Eclat Textile Co., Ltd. – TWSE:1476 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQS25aSEFSRjY2dkd0ZDVHMTg0ZzNYcG1tWjBDaFRzMkw5UVlMZjdjdVFHTGJ0OTN2VmF2WVRqZFg1VkpsOWtiajJHMzU4YjlWODYxMXFKZTN5UXNQWlY3c2h6UzhhQUdmZ1BLV2ZOUF",
+    "sources": [
+      {
+        "name": "eclat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS25aSEFSRjY2dkd0ZDVHMTg0ZzNYcG1tWjBDaFRzMkw5UVlMZjdjdVFHTGJ0OTN2VmF2WVRqZFg1VkpsOWtiajJHMzU4YjlWODYxMXFKZTN5UXNQWlY3c2h6UzhhQUdmZ1BLV2ZOUFozSFpuMWY4R0xRRTJOMnFxbmhFQXRjMk5mTWtwNGlVcDNnREE2em95Qm5wZ0twcjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-06-29-024",
+    "date": "2026-06-29",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of PVH Corp. – NYSE:PVH - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTdCTC02NWNDQjVMcHd0Ym01VEpVRUYzMHRYSjJoTkhDZDVoNHpKRGljR1IxN0tkZzNhdUFuV2cyclRHYVRfWi1OYWZNWnhoRVE0RTU3bnRKNkE0emlVQ0NjbFZIVkd5VEEzekx5SX",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTdCTC02NWNDQjVMcHd0Ym01VEpVRUYzMHRYSjJoTkhDZDVoNHpKRGljR1IxN0tkZzNhdUFuV2cyclRHYVRfWi1OYWZNWnhoRVE0RTU3bnRKNkE0emlVQ0NjbFZIVkd5VEEzekx5SXNQeXNMSnNvR0tQY3FQN1VvM2UyM0pqcEdYdXlmeWJHRUFzMkN0S2JSVVgtRU1rbG1nT1F3cUZMX3I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-06-29-025",
+    "date": "2026-06-29",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Nike (NKE) a 'Buy' Ahead of Its Upcoming Earnings Announcement? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUljQ0tRM1Bqay0yVnI5ZDdvQzV4YklZM0tvN3NVd3hTemlTRjdwX0hqV3pmOC1sbDFyNFdsX1FGUVF0ZjRWUlhLWHJtYVB6MXctWlpJRndueUtmWUFXNmE0ZkRDMkFEN1JWc0JySF",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUljQ0tRM1Bqay0yVnI5ZDdvQzV4YklZM0tvN3NVd3hTemlTRjdwX0hqV3pmOC1sbDFyNFdsX1FGUVF0ZjRWUlhLWHJtYVB6MXctWlpJRndueUtmWUFXNmE0ZkRDMkFEN1JWc0JySFBLNFhrWXhZTnlaT09iRVJUdnlJNnBaSWh4T3U3eVgwS2Q1UU5jeTVv?oc=5",
         "type": "rss"
       }
     ]
