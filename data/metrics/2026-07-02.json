@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-02",
+  "total_events": 11,
+  "by_company": {
+    "tapestry": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "supply_chain_shift": {
+      "count": 4,
+      "sentiment_avg": -0.19
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

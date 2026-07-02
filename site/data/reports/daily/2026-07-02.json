@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:28:15.799247Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-02-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Italian-Irish venture to set up footwear factory in Bangladesh",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/italian-irish-venture-to-set-up-footwear-factory-in-bangladesh-311392-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-07-02-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Nike Inc a Buy After Its Latest Earnings Report? - The Motley Fool",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHNLSzdEbTliaG1iNWNlQUFfbC1naGdqY05fa1dKclhKdTVXUm1NY3o2NTEtcHpmQ1VDOXdpaWt6Vi1WSHJrZU51VFdpdGVMT096dUdjRWpzZWtzdHgxckxiMVpJbVFhYVMtWUJ2SFdTeUYzRVFjTGFEZkxvUWF5TTdlMXdzZTI1ZjlmMjBoOEFvbkVaODEwMg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-07-02-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike (NKE) Stock May Be A Bargain On Earnings But Fully Priced On Cash Flow - Yahoo Finance",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmh5R2hfOFRmOGZDNXNfWjZaN3REQ29RMWZKc2o2bzNMbWFmSDdscFlfSkJzcC1JU2F5VHhWb3FmQTk2MWNUeE9qVUp4MWktNmMyOTc2OWFUb0tVWkxWZWJBdC1DNnVBUHpNeWNWdDN6YzdzMmtSa1BET1otVUZlSVJxTVBtY1J5MzVuZGhYZnMtekZYNFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-07-02-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike (NYSE: NKE) Earnings Beat Hides $986 Million One-Time Tariff Windfall As Core Business Struggles - foreignpolicyjournal.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlVjZk9JNjdEODhWUEViZU8wMXBmVVIyMDZiaGRLd3IwZE1vd3ktUmRlMHJ3eEJwR2RscldGeHM1YVY5cHBNbXVlNjF3SklQRzNfM3A0eWtreXRMazQ2dGVzUndJWTd0Tmdta00zR0RlTHJNOWZYRHZBYkczWklIQmg3MFhoVWh4OFotanpwZF9IUEVMd25LczJDZHY3ZFJEMkNmNWVRQ0MzMzlXbG1uRFBaNldmYTVzWTRaMi1zY19iMmQ0VzdEZlppTUtxOEw1MDI5eFJkbjJ3RVREWkww?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-02-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Italian textile machinery eyes revival through innovation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/italian-textile-machinery-eyes-revival-through-innovation-311399-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.19,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 4
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 98,
+    "too_old": 198,
+    "gate1_blocked": 37,
+    "gate2_blocked": 48,
+    "passed": 25,
+    "pass_rate": "8.1%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "Enterprise value to EBITDA forward of Toray Industries, Inc. – LSX:853974 - TradingView",
+      "Toray marks the company’s centenary at Farnborough Airshow - Aerospace Manufacturing magazine",
+      "ARCHION, Toray Industries, etc. [List of stock-related news items from newspapers] - 富途牛牛",
+      "Price to sales forward of Far Eastern New Century Corporation – TWSE:1402 - TradingView",
+      "Far Eastern New Century Corporation Actuals & Estimates (TWSE:1402) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為耐吉、Coach相關動態：「Italian-Irish venture to set up footwear factory in Bangl...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Italian-Irish venture to set up footwear factory in Bangladesh（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is Nike Inc a Buy After Its Latest Earnings Report? - The Motley Fool（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
