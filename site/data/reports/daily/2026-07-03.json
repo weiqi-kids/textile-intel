@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:26:44.386369Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tapestry-2026-07-03-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bayeux Tapestry tickets sell out as British Museum sees record demand - blooloop",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56QUdWT3JMUDZuTnhoNkVrcnNWWTRkbkpWR1hlSWtDVEs1MGVnY0JjdU1IX1p3WGZaU2piU0xpb3AweHA2eVBjWV83OFozMHNQZHp0RVJGZDlpZHFsVDhDcjFES3gyN2c4STRNZkkyNXM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-03-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Vietnam, Italy gain as global apparel imports fall 5%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/vietnam-italy-gain-as-global-apparel-imports-fall-5--311447-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-07-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pictet Asset Management Holding SA Increases Stake in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTHFfWEFRNm93c0ZiOGdONGNIRXVhbUFBT3AtYjM4TkxoMzFLYk9OUHI2bGk3Z2dIb0ZRVC1wRGtNYnBPd2tEdUZUc2gtOHhmOUpON0JHaTFfWjNfTl9OQjVLUkJxVG5QeDdxaERDcGl3WGN5dzBqdUhyQkgyUGFOVjBTTFhGSENaNy1KU0pfeHlCbHBsdWhjNEVId3NvXzlZd2ppRHVnLTNzZU5wbW1rNTN2WFJ0R0NyMFVmd2g4TmVNajhnYkw0YUMyd2RCTE9DZVhPaXhSXzRXMVk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon’s Tariff Lawsuit Fight Could Be A Game Changer For lululemon athletica (LULU) - simplywall.st",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd1lvVENYS3duV1hxOWl3RER5RWYwcnlQTmI3RFQ0ZFFFUWVyOW5JMVVVLUFVbkRyTmw3N1FfQWtkQjgtblJyVFJobDZjNzZIbDZtbG9JT180cHpSZzEtblBqeEJsUUFCZk5tX0pldExhdDJFSFpYZjhpdDE5djB2MC1vaThMSWd3ckI1cXZ2TUMtRFhoLVZKb2loOTFlbWNobUVrTEFDdldKTkhON3dhQ1p2VjNTLVVvanpzQ2NEU1VHWGpXcm1BZjY4S05GYVNfTGotMFZndHplMUJuM3JR0gHkAUFVX3lxTE9KZmpxdnVjVjBlSTV2c2Y3ZkdxQVBNN21nNUt6czBJeml4NkdteE5TelFxZkhkdkRuSXlQd1hhd0l3XzRETWpYUUg4ZWVzNGVyaVVfLVhKay00WE0zeVVleWlDcnR5Q3AxZjRmV3lsREpYaTVwTUpZY2xnYjFCYmczM1ppS1QzaFRwX1I5TXNOMjRYUDJYYjVFMmxnRWo1bEZ6YWp5VXhZVjVkMmRkQUpNUi14eGd6N002SFhCd1RoZmthcjlKMEg4LXhBaUZncmNGQi1zR1VUTXJ3c0IzNVZqaVI1Zw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EFTA, Vietnam wrap up comprehensive FTA negotiations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/efta-vietnam-wrap-up-comprehensive-fta-negotiations-311442-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 6,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 102,
+    "too_old": 204,
+    "gate1_blocked": 34,
+    "gate2_blocked": 49,
+    "passed": 16,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "16.2%",
+    "gate2_samples": [
+      "Toray marks the company’s centenary at Farnborough Airshow - Aerospace Manufacturing magazine",
+      "ARCHION, Toray Industries, etc. [List of stock-related news items from newspapers] - 富途牛牛",
+      "Enterprise value to EBITDA forward of Toray Industries, Inc. – LSX:853974 - TradingView",
+      "Price to sales forward of Far Eastern New Century Corporation – TWSE:1402 - TradingView",
+      "Far Eastern New Century Corporation Actuals & Estimates (TWSE:1402) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Lululemon、Coach、耐吉相關動態：「Bayeux Tapestry tickets sell out as British Museum sees r...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bayeux Tapestry tickets sell out as British Museum sees record demand - blooloop",
+        "level": "green"
+      },
+      {
+        "text": "Vietnam, Italy gain as global apparel imports fall 5%（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
