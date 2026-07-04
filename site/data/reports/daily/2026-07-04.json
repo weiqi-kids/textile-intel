@@ -1,0 +1,229 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T09:59:50.816433Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-04-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FY26 Bangladesh RMG exports down 1.64%; merchandise exports dip 0.58%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/fy26-bangladesh-rmg-exports-down-1-64-merchandise-exports-dip-0-58--311433-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-07-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "lululemon athletica inc. $LULU Shares Sold by Boston Trust Walden Corp - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeHVDWlBmd0RkZmRoc2dxUTlaTFdQcjkzengwSWFQRkF4ZkdmMWd0YjFFUHJfbkx5cHMwWmMyQTR6bHVkX3JQdmtUM0QzTG9mOUNwNW1SSDloZURWb29yc0lWbDQ2UDIxY1pJRThPNU9zNzd3NzdmbnIwbkF1UW1takFvel9RbHVGcEYwYWt5TTV5eFhob1l0d19USS1iOUlDYnozbHd4T2ZOVldwVTd4LVJ2RjVCWkIyV2pfQlBnaG5HSEF3Y0RfOQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-07-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Baer Investment Advisory LLC Makes New $1.06 Million Investment in Tapestry, Inc. $TPR - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdDZ1YlhHWjZKRzNoZE5zbmpobWpLWlFLYjNFUVdDZGhBcjlaRzRhM01CYkp1R0Z3MkhCSkQ2a1RGWmJxMUdzeWtQTG03MG5hcEhZVTZQQ05VTGJIcnkwVTF2anJqZFhiZ2hpUU9QRFpCMWYwMUxycmQ2ZEV4RWdzVDlXUnEtUmVpZERPMzlhTnd5SUZUeXpRODZ1aFNscmhjN0tjUWgtcWpMMEk2T1dsV2pkNWxuZm1EZnV4VlJaRGtvclNnNkNrR0dIdlp6ekpHNC0xUloyR2pYUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tapestry-2026-07-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thousands snap up tickets to see the Burnhameux Tapestry - NewsBiscuit",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaERLLWQwcnFzbTRzZFZkUjJqVTd5OUEzejVKVTUtanJDTFBfMmplMnNXSWItUVlPdnh5b0JhTTNTc1ZWZlh3cU8ydWdUUzMtb1owNzhlRVV4VmUwRjQxNmpzSEV6MG96ZGdpSVRtUVQzclp4aHg1anZkbExrNGl0bTEyR29ETGRhekhPcjUtUnZQVWM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Brazil cotton prices fall in June as exports head for monthly record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/brazil-cotton-prices-fall-in-june-as-exports-head-for-monthly-record-311443-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 101,
+    "too_old": 215,
+    "gate1_blocked": 28,
+    "gate2_blocked": 40,
+    "passed": 21,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Toray marks the company’s centenary at Farnborough Airshow - Aerospace Manufacturing magazine",
+      "ARCHION, Toray Industries, etc. [List of stock-related news items from newspapers] - 富途牛牛",
+      "Enterprise value to EBITDA forward of Toray Industries, Inc. – LSX:853974 - TradingView",
+      "Price to sales forward of Far Eastern New Century Corporation – TWSE:1402 - TradingView",
+      "Shenzhou International Group Holdings Stock Slips 1.8% in Hong Kong - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Coach、耐吉、Lululemon相關動態：「FY26 Bangladesh RMG exports down 1.64%; merchandise expor...」。主要關注主題為供應鏈轉移、棉花價格、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "FY26 Bangladesh RMG exports down 1.64%; merchandise exports dip 0.58%（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "lululemon athletica inc. $LULU Shares Sold by Boston Trust Walden Corp - Mark...",
+        "level": "green"
+      },
+      {
+        "text": "棉花價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

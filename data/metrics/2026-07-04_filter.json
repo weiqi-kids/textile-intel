@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 28,
+  "gate2_fail": 40,
+  "passed": 21,
+  "gate2_samples": [
+    "Toray marks the company’s centenary at Farnborough Airshow - Aerospace Manufacturing magazine",
+    "ARCHION, Toray Industries, etc. [List of stock-related news items from newspapers] - 富途牛牛",
+    "Enterprise value to EBITDA forward of Toray Industries, Inc. – LSX:853974 - TradingView",
+    "Price to sales forward of Far Eastern New Century Corporation – TWSE:1402 - TradingView",
+    "Shenzhou International Group Holdings Stock Slips 1.8% in Hong Kong - Moomoo"
+  ]
+}
