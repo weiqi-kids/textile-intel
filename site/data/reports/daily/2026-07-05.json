@@ -1,0 +1,180 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:03:09.841311Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-07-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas AG focuses on global growth amid changing sportswear demand - AD HOC NEWS",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmRzMjB4SkFlMzBGdU5VVFFZRTU5YU9haDU3N3F5V2FITVpfT01jOG1sMGc4X2F6bXdrUHBxM3d3bGx2cms1dEJoMGVqajgwYXp6TTBaQTBPWUlaUHo2MUcyVXJhQnVoSXZPeVU2MDgwNkh0YlNrX3hHcVpkWWhPVGxYV1QyTHV5TUR3T3RDUzFQMVpLZ3BnY1FzYjBnbF8tdk03eVNFYmtrRUdLM3h6UFlmZmsxOUdkQXBwMjhYZmNXS1k?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-07-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cirencester invited to create Bayeux-inspired community tapestry - Wilts and Gloucestershire Standard",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1FIWmZqdUZYZ0lSXzE1OV9fMFlvSkRsVFpwRHlVRmplUXB5cDdmRDEzdndwa3FQRnEwbkh2R3pWNWVXeWoyLXRsanoyaTRBNUdGRnptT2VRekc1NmhkemhzQ0JrN1hxR2JpVUVYdFJEVnZ2Xzd1OU5yMXVheldRdDZ1dmliTGdNM2xtR3dxSHJYN0JXS1pSWExnZ25qbGZIN253?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-07-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Keybank National Association OH Decreases Stock Position in Tapestry, Inc. $TPR - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcFo3MW82eFQ2eDNYU09vaGUyRkluTHBibGRsZXBvTk5pUFNlLW9pYXpReWpkeWVKRDJqVE5GejAxZWxqdEtOcnRTbUlpV2xmMnU1NmFJc0lVejc0Y0pTWkRmTGgxUE5DRHhIMjBGSHV6Y1o0aVlTZlV4RE9KNi1pSnA1N3Z2WEFab1B2WXBibDU4QTlRUTVJZHlSOTN0bk1xUmoteUZpOUV6cl9pZ0F5QkxOZmo1b1c5YWR3YlpVcjhVbW1TbkdXSmdGSkhPQndUT3J3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why countries are increasingly settling trade in local currencies",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/why-countries-are-increasingly-settling-trade-in-local-currencies-311465-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India launches first domestically built EXIM container",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-launches-first-domestically-built-exim-container-311476-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 111,
+    "too_old": 206,
+    "gate1_blocked": 27,
+    "gate2_blocked": 46,
+    "passed": 14,
+    "pass_rate": "4.8%",
+    "gate2_block_rate": "15.7%",
+    "gate2_samples": [
+      "Price to sales forward of Toray Industries, Inc. – TSE:3402 - TradingView",
+      "Toray marks the company’s centenary at Farnborough Airshow - Aerospace Manufacturing magazine",
+      "ARCHION, Toray Industries, etc. [List of stock-related news items from newspapers] - 富途牛牛",
+      "Enterprise value to EBITDA forward of Toray Industries, Inc. – LSX:853974 - TradingView",
+      "Shenzhou International Group Holdings Stock Slips 1.8% in Hong Kong - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Coach、愛迪達相關動態：「Adidas AG focuses on global growth amid changing sportswe...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Adidas AG focuses on global growth amid changing sportswear demand - AD HOC NEWS",
+        "level": "green"
+      },
+      {
+        "text": "Cirencester invited to create Bayeux-inspired community tapestry - Wilts and ...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
