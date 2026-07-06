@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T11:54:36.742193Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vf_corp-2026-07-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corporation focuses on brand portfolio and profitability as it navigates a challenging apparel ma - AD HOC NEWS",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzVTaERTR21OUUR2STZCYk40VkMzN0V6cnR4anM4TUNQZlYtOXhpb2NvbHFKZVpmenhLbWNUbXRuNmV2THRGZFYwaXUzREFua3hGYVRiXzRtc1B1bmlKaWNNQ21Mc0FLTFd6RC1raEFlMW5SdXR3SHJoVC1XRVV4cnVtMGR5eUUxQnRNdFFiWVVEUWhXYTFmRzFWclNaTEIyS01PbDFNRlB5MXo2bG5NQ0FfdFJhZmt6TG56NHczcVhCQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-06-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is this the reset Sri Lankan apparel industry needed?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/is-this-the-reset-sri-lankan-apparel-industry-needed--311474-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-07-06-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "lululemon: Don't Mistake Macro Weakness For Permanent Decline (Rating Upgrade) - Seeking Alpha",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdms1amw5eTV0N21MNmtGLW1pY1JTenFDY0djbURHTnZMQmJ2MkFEZ2lpbTE4VnpjSHN3NEdjWGwxSnB6OEVZS3ozN19tUzRlTlJYa0dvcTdBZVhIeXY3Q1NLbEJzU2xNVmhwUWlrWm5KREdKSUE5N1VlNEo0c0hkWVh5NnphVVhqZHF6S2NzRko4NVp0V1pZSDRIWVBHWlNKN3FjcmQyTnI4ZGJraFRSX2RsMHBJU1RpNzJxeHBB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-06-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Indian polyester feedstock extends decline; China rebounds",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.83
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/indian-polyester-feedstock-extends-decline-china-rebounds-311484-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-06-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Mexico apparel nearshoring faces Asian fabric risk in 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/mexico-apparel-nearshoring-faces-asian-fabric-risk-in-2026-311480-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.18,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.83,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 5,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 109,
+    "too_old": 212,
+    "gate1_blocked": 28,
+    "gate2_blocked": 40,
+    "passed": 16,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Price to sales forward of Toray Industries, Inc. – TSE:3402 - TradingView",
+      "Toray marks the company’s centenary at Farnborough Airshow - Aerospace Manufacturing magazine",
+      "Shenzhou International Group Holdings Stock Slips 1.8% in Hong Kong - Moomoo",
+      "Price to book forward of Eclat Textile Co., Ltd. – TWSE:1476 - TradingView",
+      "Eclat Textile Co Ltd strengthens its position in performance fabrics as investors track global appar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Coach、愛迪達、Lululemon相關動態：「VF Corporation focuses on brand portfolio and profitabili...」。主要關注主題為供應鏈轉移、法說會、快時尚趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "VF Corporation focuses on brand portfolio and profitability as it navigates a...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is this the reset Sri Lankan apparel industry needed?（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

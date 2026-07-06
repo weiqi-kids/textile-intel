@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 212,
+  "gate1_fail": 28,
+  "gate2_fail": 40,
+  "passed": 16,
+  "gate2_samples": [
+    "Price to sales forward of Toray Industries, Inc. – TSE:3402 - TradingView",
+    "Toray marks the company’s centenary at Farnborough Airshow - Aerospace Manufacturing magazine",
+    "Shenzhou International Group Holdings Stock Slips 1.8% in Hong Kong - Moomoo",
+    "Price to book forward of Eclat Textile Co., Ltd. – TWSE:1476 - TradingView",
+    "Eclat Textile Co Ltd strengthens its position in performance fabrics as investors track global appar"
+  ]
+}
