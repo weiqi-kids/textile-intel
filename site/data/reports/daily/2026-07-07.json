@@ -1,0 +1,248 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T10:44:56.656248Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-07-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Weekly price shock alert: Lyocell - week ended July 3",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/weekly-price-shock-alert-lyocell-week-ended-july-3-311517-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "pvh-2026-07-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PVH Corp.: Better Brand Execution, But The Earnings Bridge Is Still Messy (NYSE:PVH) - Seeking Alpha",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0RMdHl0Rzg1cGtkV245N1ZIQUFIbEVXN1QtbHF5WDVmbVZmbDNkVjladUZyaEl5MVdRUDhkMGtRaDlLRWhzWXkzenk3cXR4V2pJb1d0aVowejhVR3FVd0JTcFpydHdBaFY3c0VSRW01MzM1ZjVkMTV5VmFhcU5GaGtjUndFRVdzRGxZMTlZbVdJSUFadmFNSFB6WGVLaDViMmc0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-07-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Levi's Q2 to test apparel's new tariff-driven margin playbook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/levi-s-q2-to-test-apparel-s-new-tariff-driven-margin-playbook-311510-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-07-07-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Nike Stock a Buy After Earnings? - The Motley Fool",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS0t1ZFJwdTVzYjU3bGhGLU1wVmNjandTUmpCbzBsQVVfNG1rbWZOMDJsSHkxOHVCQVZTUDlxY1p1NVVndEk2NVJQeTRWMkN6UVZzcnNldEVRQnZLTGg5T201bFNGM2dSWE0zN3Vqd3BxQmx6QlpDMmV0UUQ3TWVyc3BKaw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-07-07-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Nike stock a buy after earnings? - MSN",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV25rUFpRTVZrUWVBRXhraWdua2lESml5Z2tkNDBuWmpRaXRyZ2wySkVOOFRLTkJPYjA1Mm9yLUIyZ2dNVjhNeUVSNkVFQmZJRzJEOGQ1cXdXVHFoVXVJVXpjWnY2R1lvTXd1cWJjM2xHVWVIQng3Q1VNaGM1SG1pbU1lT3Z2ei1acWhmaS16ZjdtMUswUVR0bkQ3MWlfdW9hVjM1aVdiX3lUcjdhcHNTR3J3Rjk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 11,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "eclat",
+        "count": 1
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 113,
+    "too_old": 211,
+    "gate1_blocked": 20,
+    "gate2_blocked": 38,
+    "passed": 23,
+    "pass_rate": "7.9%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Price to sales forward of Toray Industries, Inc. – TSE:3402 - TradingView",
+      "Toray marks the company’s centenary at Farnborough Airshow - Aerospace Manufacturing magazine",
+      "Eclat Textile Co Ltd strengthens its position in performance fabrics as investors track global appar",
+      "Makalot Industrial extends its global apparel role as investors weigh long-term strategy - AD HOC NE",
+      "Adidas AG updates strategy as global sportswear competition intensifies - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為耐吉、Eclat Textile、VF相關動態：「Weekly price shock alert: Lyocell - week ended July 3」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Weekly price shock alert: Lyocell - week ended July 3（供應鏈轉移、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "PVH Corp.: Better Brand Execution, But The Earnings Bridge Is Still Messy (NY...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

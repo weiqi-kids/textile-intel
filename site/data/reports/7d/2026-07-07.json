@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-07",
+  "date_range": {
+    "start": "2026-07-01",
+    "end": "2026-07-07"
+  },
+  "generated_at": "2026-07-07T10:44:56.780459Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-07-005",
+      "date": "2026-07-07",
+      "title": "Weekly price shock alert: Lyocell - week ended July 3",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "supply_chain_shift": {
+      "this_week": 39,
+      "last_week": 2,
+      "week_over_week_change": "+1850%",
+      "sentiment_this_week": 0.05
+    },
+    "cotton_price": {
+      "this_week": 8,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.38
+    },
+    "earnings": {
+      "this_week": 18,
+      "last_week": 23,
+      "week_over_week_change": "-22%",
+      "sentiment_this_week": 0.02
+    },
+    "order_visibility": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.17
+    },
+    "fast_fashion": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "sustainable_textile": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "tapestry": {
+      "event_count": 12,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "nike": {
+      "event_count": 16,
+      "sentiment_avg": -0.01,
+      "rank": 1
+    },
+    "lululemon": {
+      "event_count": 4,
+      "sentiment_avg": -0.06,
+      "rank": 3
+    },
+    "adidas": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 4
+    },
+    "vf_corp": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 5
+    },
+    "eclat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "pvh": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 125,
+        "last": 137,
+        "change_pct": -8.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-01",
+      "event_count": 29,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 20,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 18,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 17,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 9,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 16,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 16,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-01 ~ 2026-07-07）共 125 則事件，重點為「Weekly price shock alert: Lyocell - week ended ...」。VF情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "VF",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Coach",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "耐吉",
+        "reason": "本週出現 16 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

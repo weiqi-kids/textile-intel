@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-07",
+  "total_events": 16,
+  "by_company": {
+    "eclat": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vf_corp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pvh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    },
+    "supply_chain_shift": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
