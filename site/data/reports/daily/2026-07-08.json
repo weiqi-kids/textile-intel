@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:06:26.856950Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-08-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "World Bank flags slower China growth in 2027, steady export outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/world-bank-flags-slower-china-growth-in-2027-steady-export-outlook-311532-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-07-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Resonant Capital Advisors LLC Makes New Investment in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdERFU2t5SllCUHlibkwwWHNZb1E3RUtoZmdGTm9aYlg3akRvTlRNeGpPc0ZLT3VWYV9LeklISEYwZ1M0RDh6U1ZkT1hGeWlWS1RiTmxFRHVvZFFPZ2h1cUpqbG5qWnBMZjVhMjBpbnVvQURSYUN2QnVaYWlvcWtaY05VUWVIVDY5ckdGUXVWaWtEQW5YUFd4X0RFTElmdVJUNlJVdXNyUEVNbG16TWlRNXRjWUZUTXVHU2pRNEd4UTNIVXlHZ0hZUGNiY2hWSkFNNVV0eTZpQmdaaVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India's twin test: 12.5% US tariff meets CCI's July 31 deadline",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-twin-test-12-5-us-tariff-meets-cci-s-july-31-deadline-311548-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ICE cotton rallies further on strong demand prospects, weather worries",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-rallies-further-on-strong-demand-prospects-weather-worries-311545-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India's UK apparel orders surge ahead of CETA duty-free trade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-uk-apparel-orders-surge-ahead-of-ceta-duty-free-trade-311543-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 408,
+    "dup_title": 109,
+    "too_old": 225,
+    "gate1_blocked": 25,
+    "gate2_blocked": 35,
+    "passed": 14,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Price to sales forward of Toray Industries, Inc. – TSE:3402 - TradingView",
+      "Eclat Textile Co Ltd strengthens its position in performance fabrics as investors track global appar",
+      "Makalot Industrial extends its global apparel role as investors weigh long-term strategy - AD HOC NE",
+      "Inditex is worth as much as Hermès on the stock market - nssmag.com",
+      "Inditex S.A. balances global fashion growth and cost pressures - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Lululemon相關動態：「World Bank flags slower China growth in 2027, steady expo...」。主要關注主題為供應鏈轉移、棉花價格、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "World Bank flags slower China growth in 2027, steady export outlook（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Resonant Capital Advisors LLC Makes New Investment in lululemon athletica inc...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

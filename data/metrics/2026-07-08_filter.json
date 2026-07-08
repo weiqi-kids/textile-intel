@@ -1,0 +1,16 @@
+{
+  "total_raw": 408,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 225,
+  "gate1_fail": 25,
+  "gate2_fail": 35,
+  "passed": 14,
+  "gate2_samples": [
+    "Price to sales forward of Toray Industries, Inc. – TSE:3402 - TradingView",
+    "Eclat Textile Co Ltd strengthens its position in performance fabrics as investors track global appar",
+    "Makalot Industrial extends its global apparel role as investors weigh long-term strategy - AD HOC NE",
+    "Inditex is worth as much as Hermès on the stock market - nssmag.com",
+    "Inditex S.A. balances global fashion growth and cost pressures - AD HOC NEWS"
+  ]
+}

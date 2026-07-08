@@ -1,5 +1,149 @@
 [
   {
+    "id": "lululemon-2026-07-08-001",
+    "date": "2026-07-08",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Resonant Capital Advisors LLC Makes New Investment in lululemon athletica inc. $LULU - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdERFU2t5SllCUHlibkwwWHNZb1E3RUtoZmdGTm9aYlg3akRvTlRNeGpPc0ZLT3VWYV9LeklISEYwZ1M0RDh6U1ZkT1hGeWlWS1RiTmxFRHVvZFFPZ2h1cUpqbG5qWnBMZjVhMjBpbn",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdERFU2t5SllCUHlibkwwWHNZb1E3RUtoZmdGTm9aYlg3akRvTlRNeGpPc0ZLT3VWYV9LeklISEYwZ1M0RDh6U1ZkT1hGeWlWS1RiTmxFRHVvZFFPZ2h1cUpqbG5qWnBMZjVhMjBpbnVvQURSYUN2QnVaYWlvcWtaY05VUWVIVDY5ckdGUXVWaWtEQW5YUFd4X0RFTElmdVJUNlJVdXNyUEVNbG16TWlRNXRjWUZUTXVHU2pRNEd4UTNIVXlHZ0hZUGNiY2hWSkFNNVV0eTZpQmdaaVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-002",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India's twin test: 12.5% US tariff meets CCI's July 31 deadline",
+    "summary": "USTR's proposed 12.5 per cent textile duty would stack above India's 18 per cent reciprocal tariff, threatening US export competitiveness without an India-specific carve-out. \nCCI must liquidate ~7 mi",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-twin-test-12-5-us-tariff-meets-cci-s-july-31-deadline-311548-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-003",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "positive",
+    "title": "ICE cotton rallies further on strong demand prospects, weather worries",
+    "summary": "ICE cotton futures surged 3.82 per cent as stronger demand expectations, adverse US weather, and optimism over US-China agricultural trade lifted buying.\nThe December contract settled at 81.29 cents p",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-rallies-further-on-strong-demand-prospects-weather-worries-311545-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-004",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India's UK apparel orders surge ahead of CETA duty-free trade",
+    "summary": "UK textile imports from India rose 11.3 per cent YoY to $527.2M in Q1 2026 as buyers advanced orders before CETA's July 15 rollout. \nCETA removes UK apparel duties of up to 12 per cent, eliminating In",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-uk-apparel-orders-surge-ahead-of-ceta-duty-free-trade-311543-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-005",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "World Bank flags slower China growth in 2027, steady export outlook",
+    "summary": "China’s economy stayed resilient in early 2026, supported by high-tech investment, exports and policy measures.\nThe World Bank projects growth easing to 4.4 per cent in 2026 and 4.3 per cent in 2027 a",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/world-bank-flags-slower-china-growth-in-2027-steady-export-outlook-311532-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-006",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Vietnam's textile, garment exports up 1.7% YoY in H1 2026",
+    "summary": "Vietnam's textile and garment exports were estimated at $22.2 billion in H1 2026—up by 1.7 per cent YoY, according to the Vietnam Textile and Apparel Association. \nExports of fibres, fabrics, accessor",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-textile-garment-exports-up-1-7-yoy-in-h1-2026-311537-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-007",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Vietnam's textile & garment exports rise 0.9% to $18.8 bn in H1",
+    "summary": "Vietnam's textile and garment exports (excluding yarn and fibre) rose 0.9 per cent year-on-year to $18.86 billion in January-June 2026, while yarn exports increased 10.3 per cent to $2.29 billion.\nFab",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/vietnam-s-textile-garment-exports-rise-0-9-to-18-8-bn-in-h1-311519-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-008",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "‘FABRIC Cambodia II’ launched with German help amid tougher standards",
+    "summary": "Germany and Cambodia have launched phase II of a project to improve the latter’s garment, footwear and travel goods sector amid tougher global environmental and labour standards. \nFABRIC Cambodia II f",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/-fabric-cambodia-ii-launched-with-german-help-amid-tougher-standards-311535-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-07-001",
     "date": "2026-07-07",
     "companies": [],
@@ -291,6 +435,118 @@
       {
         "name": "samsung_newsroom",
         "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-second-quarter-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-07-07-017",
+    "date": "2026-07-07",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "lululemon athletica: Potential Value Trap With Execution, Tariff, and Competition Risks - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFdJTXZsTGpwbEJ4SWZHTmVBdG9YRHhyYnJCRnllN1Z5MHhURkppX2IzbWpIYmJIb2RxM2h6U0E3alZudTVncHhPZ2xJbkVmZjBZazBZbzMxQUJEa1BDWU11bS1zdFlSOU5JZ1pFRm",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFdJTXZsTGpwbEJ4SWZHTmVBdG9YRHhyYnJCRnllN1Z5MHhURkppX2IzbWpIYmJIb2RxM2h6U0E3alZudTVncHhPZ2xJbkVmZjBZazBZbzMxQUJEa1BDWU11bS1zdFlSOU5JZ1pFRmdaYWM3aFJRYzRjZ3dXVm9oYTJ4b05ELXFRdllvelhqQjcxZ3dWV3dQS2VHa2RCWUY4YUJmR2dvUVJiRDRiaXNSWFdCd2dfQlZCRG5zeEdkYWd6ejg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-07-07-018",
+    "date": "2026-07-07",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon (NASDAQ: LULU) Stock Price Trades At Deep P/E Discount But Broader Value Checks Remain Mixed - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdnR4N1R3SFBoMEdQTVhwTWNycVNkSlFjRnRPeERrNm82Y1RLX2Q3OTBYeFVZT28tLWVMMXZ2U2kyVkhXejdQa1RyeUxjVG14UURqRUVwOXdQSEItZ3dPS1BfcnN5UnFsQS1ZX3hMUT",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdnR4N1R3SFBoMEdQTVhwTWNycVNkSlFjRnRPeERrNm82Y1RLX2Q3OTBYeFVZT28tLWVMMXZ2U2kyVkhXejdQa1RyeUxjVG14UURqRUVwOXdQSEItZ3dPS1BfcnN5UnFsQS1ZX3hMUTdiSTN1dkdjYkprbllZZWxXeFpJUmJwODZQY3BzMi1MRG8yYkxXV2oybVYzTXFzMGxJYk1zSWhOdjBfVmh4UjU5eFRxVEZhMnA5cVZqNkpHcEVjdy1SZ1FJQ1UzWXRRdm9ueHlnX1JfaFBsRHNWYkVMcE13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-07-07-019",
+    "date": "2026-07-07",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cirencester to create Bayeux-inspired community tapestry - Punchline-Gloucester.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMU1KR2FqUXhRTFhyaTJJR0JwQnNVcmczV3NxWXprbzh5aWtFSmVYOHgyVlhqM1VYUm5LQ3dHOEljbUI1TnllM0JGb3JxZXZLSkZyckxtRldPQjQ4OGZkQ2ZhVGh1WEdFc2ZJdjVnWl",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMU1KR2FqUXhRTFhyaTJJR0JwQnNVcmczV3NxWXprbzh5aWtFSmVYOHgyVlhqM1VYUm5LQ3dHOEljbUI1TnllM0JGb3JxZXZLSkZyckxtRldPQjQ4OGZkQ2ZhVGh1WEdFc2ZJdjVnWl9vQUhBaS16d0tEeXIxcWNCRTJ1b3dKMTZKcy1xNnc0NVROdFVEVDhSUkFra2dZT3dHdXFrWVJqT0ctZTN3VWZRQVlRTjY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-07-07-020",
+    "date": "2026-07-07",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Record ticket sales for Bayeux Tapestry exhibition - Museums Association",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGp1b1lJaUhEYUFETXZsYlNzeFVsRVJodHpOUGVMOERZM1RpcWNDWnNHd28yQkg4dF91UTFEUWp1aVF3S05nakJZekIyS3NTNGtRTXVLWWhPeU5XRHQ3eFJoMjVGa0hhZUdCSFJFWU",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGp1b1lJaUhEYUFETXZsYlNzeFVsRVJodHpOUGVMOERZM1RpcWNDWnNHd28yQkg4dF91UTFEUWp1aVF3S05nakJZekIyS3NTNGtRTXVLWWhPeU5XRHQ3eFJoMjVGa0hhZUdCSFJFWUt2aUlyYk1HZ2VyMDA5S3MxeUtXMnZtTXFBNGVkZGtHTG4zeXgxcER6elhoZEh2YTBUNGQzeVpVUmdTeGhmZEx3LVpmY0FaUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-07-021",
+    "date": "2026-07-07",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Stock: Is It a Buy After Its Recent Earnings Beat? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1JueHVwZ3ZqQnRsN1lvOV83V1d1dVR1N29TOWtSLWFlUzMyM2FCSTZOQlJjYXBfbGRjNmtMMjZDcEVub3hUMkNUcm1jTWlMQVk0UlFBQjVrN1FGSmw5Nnh2UzRzUUJhM2lvMGo4aV",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1JueHVwZ3ZqQnRsN1lvOV83V1d1dVR1N29TOWtSLWFlUzMyM2FCSTZOQlJjYXBfbGRjNmtMMjZDcEVub3hUMkNUcm1jTWlMQVk0UlFBQjVrN1FGSmw5Nnh2UzRzUUJhM2lvMGo4aVNJUkxwcElXVUhrY3cxMl91S3F0UDRSNlpCU0NpZVhfWVR4Rm4yQUs4NQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-07-022",
+    "date": "2026-07-07",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Stock: Is It a Buy After Its Recent Earnings Beat? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONkFYUHZDWVpOcEx1X3dPaUVNUU1vS2U2TzRJR0phalcxbktDaUVGODNDVmdhV0dneTYtbkRLNENRR2FZOVNRZ01ybFJ5WHplV3o4VGFFY2Q2dFF5UVdJRmxUZko2V2xRMWdOUHdleE",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkFYUHZDWVpOcEx1X3dPaUVNUU1vS2U2TzRJR0phalcxbktDaUVGODNDVmdhV0dneTYtbkRLNENRR2FZOVNRZ01ybFJ5WHplV3o4VGFFY2Q2dFF5UVdJRmxUZko2V2xRMWdOUHdleENRY2F3UlhWVXhnckYyYWNxcnlzekxMTjBHbkd3RXpXZm9jRERaX05Nd0prTQ?oc=5",
         "type": "rss"
       }
     ]
