@@ -1,0 +1,16 @@
+{
+  "total_raw": 408,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 223,
+  "gate1_fail": 24,
+  "gate2_fail": 33,
+  "passed": 24,
+  "gate2_samples": [
+    "Price to sales forward of Toray Industries, Inc. – TSE:3402 - TradingView",
+    "Price to sales forward of Lenzing AG – DUS:LEN - TradingView",
+    "Eclat Textile Co Ltd strengthens its position in performance fabrics as investors track global appar",
+    "Makalot Industrial extends its global apparel role as investors weigh long-term strategy - Ad-hoc-ne",
+    "The Ortega story by Joe Haslam – Part 1: The man who made Zara the world’s most valuable fashion bra"
+  ]
+}

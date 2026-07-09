@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T10:45:12.187305Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-09-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "ICE cotton retreats from one-month high on profit booking",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-retreats-from-one-month-high-on-profit-booking-311589-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "4 global bodies warn energy risks still cloud trade outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/4-global-bodies-warn-energy-risks-still-cloud-trade-outlook-311580-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-09-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta (DAL) Q2 Earnings Report Preview: What To Look For - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0Z2aHRxcTlHelBXSnIzZFc3dFB0MGh5VlFFUnpBMFZJWGJyR3h1MFBudU9oQ3M5VHQwb05XNUF6d0g0TUtEdjZPZjhXX3ZxMlByckhNczB0Ul9VLTVXWkF0b1MxUm9QWWEyOHAzaUl2N3o0MS1qZkM3bGhjVHNIT2VGSHBnbWxLd1VnWWJDbGVYUEFhd0NZOWl2NGFGbUlXVG85TVU2dk9FMGRiamM2SE1JYmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pvh-2026-07-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SG Americas Securities LLC Decreases Position in PVH Corp. $PVH - MarketBeat",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDcxVkw1UGhLcEZYeGtMV1RKRXExZ2Y0QzJQQTBDQzNzVXpDTnB3bjV3bV95TEpuUzZUZ2ZmdzJ4YXVBM19xT0M3cS1wcGZfZHFKcGpHNXdicUJlVkVoYTFNaDVFZXpzRlBySkNFYWlid0JJU0Q1dkp1dnFubkpuelFSVV9aa3RMbE1yU015Nkh4cjhDVHlVZDY1RUFaeDNLazFEb3cyVzU5bWFZVHppNWFEdFd5MlFSWVNaVmYtYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-07-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Overseas Gallery of China National Silk Museum - Splendid Silk Exhibition Opens in Kazakhstan, Weaving a Tapestry of Cultural Exchange - PR Newswire",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNb2VsR0hESWZDOUViY0VCczFWZGFPYmp6TmhlZldvWl9CTkJKaDZXcnBrUjhqRDNBNW9CajV1bkd3cG13MlJRaGZfUHRrd3hzVE5lQl90OHJoMW5mdVlGamtPX1hwTHpvTjB0LVlXVjhVSlRweDlHY2NSSk9nMFRZS1JRQjZINlVGRXhwUHQ4SFdQUGx4X196TFdKRHhLd1hPVy1lVUFTVlRCcDA4b195ejNXVnl4WTJ6YTdiVG9oamdLeTZidnBONk5xd1dXVEs0UzZvOG5vcG1xZUp5emxPOE5BZGNRM2oxT2ZudVRYOWg0cS1uMGhvZGJEY2F2b1N3TkVaVmJwdWtXTkVrd1pGaWRxVEJjTXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 408,
+    "dup_title": 104,
+    "too_old": 223,
+    "gate1_blocked": 24,
+    "gate2_blocked": 33,
+    "passed": 24,
+    "pass_rate": "7.9%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Price to sales forward of Toray Industries, Inc. – TSE:3402 - TradingView",
+      "Price to sales forward of Lenzing AG – DUS:LEN - TradingView",
+      "Eclat Textile Co Ltd strengthens its position in performance fabrics as investors track global appar",
+      "Makalot Industrial extends its global apparel role as investors weigh long-term strategy - Ad-hoc-ne",
+      "The Ortega story by Joe Haslam – Part 1: The man who made Zara the world’s most valuable fashion bra"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為PVH、Coach相關動態：「ICE cotton retreats from one-month high on profit booking」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ICE cotton retreats from one-month high on profit booking（棉花價格、訂單能見度、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "4 global bodies warn energy risks still cloud trade outlook（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

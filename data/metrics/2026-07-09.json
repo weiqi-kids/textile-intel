@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-09",
+  "total_events": 10,
+  "by_company": {
+    "pvh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 5,
+      "sentiment_avg": 0.03
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": -0.25
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    },
+    "order_visibility": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
