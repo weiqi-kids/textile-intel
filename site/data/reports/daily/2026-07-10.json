@@ -1,0 +1,251 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:44:02.372630Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-10-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton weakens as profit booking, lower crude weigh on prices",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-weakens-as-profit-booking-lower-crude-weigh-on-prices-311635-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-10-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US' Levi Strauss DTC momentum drives stronger Q2 results",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-levi-strauss-dtc-momentum-drives-stronger-q2-results-311598-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-10-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Brazil's cotton export boom is redrawing Asian trade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/brazil-s-cotton-export-boom-is-redrawing-asian-trade-311626-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "toray-2026-07-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nomura Securities and others reported a change in shareholding in Toray Industries, with their stake decreasing from 12.71% to 11.66%. - Moomoo",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGlEdGRQckpfejFhVC1YV21jQ3hWS1BOam5IaTM3NlE0OVR5b0VfWTFmWE4xeWJDNE9WcEk0WFRTeHViMXJvZmZLX2M1RU5SbkIzOEtMTTZ2NkVsbkxQQXNzbWkzYmpHV19VUUVmaE9QbmdUMXZ0UjlFd1BjaHhaNFFLLTVkQUg1cmhhT3BucUxUYUhKQ085Y3NzdS1aaEd4YTAxamtjN1ZVd0U?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-07-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Capital Flexibility, Legal Friction and India Entry At lululemon (LULU) Has Changed Its Investment Story - simplywall.st",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYllMX0Vua0ZHQjJSMjlacTZwYlNyNDNuLTlETnN0NHNOeENNUzdYY1kwNUQ5UDZ3R0o1VVdWOTM4VElhV0VPWHc3TXNSZGxJNXFKU0hyd3lRVFRhRHpzYmFFUWh3My1PelBvZnV0RUtJcllfN2xmQ1h4eTZmdWE3b3h3YTRXS3FiX3RxSF9zeW1GSThkUkpfeGVfWnZoVzVEdXJRY3NZVTRPT19rODJjaGU5QzNqWWhEMVVxS0EwRXpFd2F2a2FHV0RFbFpkVjg3MncxVkd4b3ZzVEFCeG9ZWNIB5gFBVV95cUxNNjlXdFNpeG43Z3c1b3AyY1hCTkZSbGxxWkg2eGxtaEFkbGhWVHdpenNJaDVkZ3Fhc25Rbm91N3h5SllOcU9JWkNYbTg2d25zR1Y0NWpoZGpFQkcyRlc3YVk5QzUyNHJqQ2lLRzctcFB3Q0V6WFZibTJTcEdabFRZWFhiRTJzZEFUQkVXVGlDMUpQWGJsZEZoRUlnYlZXUE9BdEIwem9PS19KTzBZYm1qci1ZVmc3cTRra3Z6SE53WVNJYXIteDZOUHRLRGxhbEhpTzZhVVRDNjZaNTVuc3RoaDZtS0REQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.32,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 3
+      },
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 106,
+    "too_old": 212,
+    "gate1_blocked": 31,
+    "gate2_blocked": 39,
+    "passed": 16,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Toray's Carbon Fiber Component Cuts X-Ray Radiation Doses - PlasticsToday",
+      "Price to sales forward of Toray Industries, Inc. – TSE:3402 - TradingView",
+      "Price to sales forward of Lenzing AG – DUS:LEN - TradingView",
+      "Shenzhou International Group Holdings Stock Rallies 2.5% in Hong Kong - Moomoo",
+      "Eclat stock stays anchored by its sportswear business - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Coach、東麗、Lululemon相關動態：「ICE cotton weakens as profit booking, lower crude weigh o...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ICE cotton weakens as profit booking, lower crude weigh on prices（棉花價格、訂單能見度、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "US' Levi Strauss DTC momentum drives stronger Q2 results（快時尚趨勢、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

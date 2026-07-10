@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-10",
+  "total_events": 11,
+  "by_company": {
+    "toray": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 5,
+      "sentiment_avg": 0.32
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "order_visibility": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
