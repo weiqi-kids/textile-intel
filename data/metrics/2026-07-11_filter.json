@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 217,
+  "gate1_fail": 32,
+  "gate2_fail": 42,
+  "passed": 18,
+  "gate2_samples": [
+    "Toray's Carbon Fiber Component Cuts X-Ray Radiation Doses - PlasticsToday",
+    "Price to sales forward of Toray Industries, Inc. – TSE:3402 - TradingView",
+    "Price to sales forward of Lenzing AG – DUS:LEN - TradingView",
+    "Shenzhou International Group Holdings Stock Rallies 2.5% in Hong Kong - Moomoo",
+    "Eclat stock stays anchored by its sportswear business - ad-hoc-news.de"
+  ]
+}

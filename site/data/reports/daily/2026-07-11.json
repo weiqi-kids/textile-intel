@@ -1,0 +1,189 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:16:13.437325Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Global oil production recovers as Hormuz shipments resume: IEA report",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/global-oil-production-recovers-as-hormuz-shipments-resume-iea-report-311664-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-11-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India amends footwear QCOs to ease compliance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-amends-footwear-qcos-to-ease-compliance-311630-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Textile focus of China’s 2026-2030 Five-Year Plan signals capacity war",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/textile-focus-of-china-s-2026-2030-five-year-plan-signals-capacity-war-311668-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vietnam needs to do more to maintain H2 2026 export momentum: Experts",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-needs-to-do-more-to-maintain-h2-2026-export-momentum-experts-311655-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh eyes CEPA with India to tackle trade gap, parliament told",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-eyes-cepa-with-india-to-tackle-trade-gap-parliament-told-311644-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 2,
+      "negative": 2
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 95,
+    "too_old": 217,
+    "gate1_blocked": 32,
+    "gate2_blocked": 42,
+    "passed": 18,
+    "pass_rate": "5.8%",
+    "gate2_block_rate": "13.6%",
+    "gate2_samples": [
+      "Toray's Carbon Fiber Component Cuts X-Ray Radiation Doses - PlasticsToday",
+      "Price to sales forward of Toray Industries, Inc. – TSE:3402 - TradingView",
+      "Price to sales forward of Lenzing AG – DUS:LEN - TradingView",
+      "Shenzhou International Group Holdings Stock Rallies 2.5% in Hong Kong - Moomoo",
+      "Eclat stock stays anchored by its sportswear business - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為供應鏈轉移、法說會相關動態：「Global oil production recovers as Hormuz shipments resume...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Global oil production recovers as Hormuz shipments resume: IEA report（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "India amends footwear QCOs to ease compliance（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

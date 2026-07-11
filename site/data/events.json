@@ -1,5 +1,149 @@
 [
   {
+    "id": "unknown-2026-07-11-001",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Textile focus of China’s 2026-2030 Five-Year Plan signals capacity war",
+    "summary": "China’s 15th Five-Year Plan aims to expand textile capacity despite a ~30 per cent fall in US import prices since 2019. \nUS Section 301 cases propose 10-12.5 per cent textile duties plus a US-input in",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/textile-focus-of-china-s-2026-2030-five-year-plan-signals-capacity-war-311668-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-002",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Vietnam needs to do more to maintain H2 2026 export momentum: Experts",
+    "summary": "Vietnam needs more efforts to maintain export growth momentum in H2 2026 as despite encouraging performance, exports heavily depend on limited markets and product groups, while many export items reply",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/vietnam-needs-to-do-more-to-maintain-h2-2026-export-momentum-experts-311655-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-003",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Global oil production recovers as Hormuz shipments resume: IEA report",
+    "summary": "A recovery in world oil demand is under way, with consumption set to rise from its May nadir on seasonal trends and as pent-up demand is released in line with a rebound in product supplies, an IEA rep",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/global-oil-production-recovers-as-hormuz-shipments-resume-iea-report-311664-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-004",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Bangladesh eyes CEPA with India to tackle trade gap, parliament told",
+    "summary": "Bangladesh has taken the initiative to launch a comprehensive economic partnership agreement with India to reduce import dependence, boost exports and address trade imbalance, the former’s parliament ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-eyes-cepa-with-india-to-tackle-trade-gap-parliament-told-311644-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-005",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Can Bangladesh hold on to its EU edge after LDC graduation?",
+    "summary": "Bangladesh is reportedly simultaneously pursuing an EU free trade agreement and GSP Plus status to protect its exports as duty-free access ends after LDC graduation. \nWith the EU buying nearly half it",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/can-bangladesh-hold-on-to-its-eu-edge-after-ldc-graduation--311669-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-006",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Amazon-AEPC’s $80 bn goal rewires India’s apparel exports",
+    "summary": "Amazon's $80 bn export goal arrives as US tariff changes weaken China’s direct-to-consumer advantage, giving Indian apparel MSMEs a rare opportunity to expand through marketplace exports.  \nThe opport",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/amazon-aepc-s-80-bn-goal-rewires-india-s-apparel-exports-311667-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-007",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "India amends footwear QCOs to ease compliance",
+    "summary": "India has amended two footwear Quality Control Orders for leather, rubber, polymeric and other footwear and components.\nThe legacy stock clearance deadline moves to July 31, 2027, giving manufacturers",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/india-amends-footwear-qcos-to-ease-compliance-311630-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-008",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India exports $177 mn; may make 90% of luxury embroidery—no credit",
+    "summary": "India’s embroidery exports are expanding rapidly, with over one-third shipped to Italy and France, underscoring its key role in luxury fashion supply chains.\nYet customs origin rules often credit only",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/india-exports-177-mn-may-make-90-of-luxury-embroidery-no-credit-311645-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "toray-2026-07-10-001",
     "date": "2026-07-10",
     "companies": [
@@ -198,6 +342,62 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/us-levi-strauss-dtc-momentum-drives-stronger-q2-results-311598-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-07-10-012",
+    "date": "2026-07-10",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bayeux Tapestry Arrives in England for First Time in Nearly 1,000 Years - Artforum",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWplX21tSEhmZUFvUDBGdlg0Z3NWZU5WNmk3elRwTUpLNlZGRTE2Q0JTNkNieml3eGdHaE05blR4M3hHX2NVbjFTY3RBMTA5Mk5ZRWhTU3VPa2lqVkRhaGl0c1ViNWp3M3RVbjVjMV",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWplX21tSEhmZUFvUDBGdlg0Z3NWZU5WNmk3elRwTUpLNlZGRTE2Q0JTNkNieml3eGdHaE05blR4M3hHX2NVbjFTY3RBMTA5Mk5ZRWhTU3VPa2lqVkRhaGl0c1ViNWp3M3RVbjVjMVk1MFNfdTk5dEZCa1VHX3UzS29B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-07-10-013",
+    "date": "2026-07-10",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "France loans England famous tapestry despite backlash - Deseret News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ25hRjdpTEt6Ums5VlhzSFZ5bTU1WXJma1dDWHM5WVRiYy1vYVdaVXhmRWI4T3M0TDUyN3BxMjh6ZUFWVDloWTVHcVVKZGZNQkJ2Vy1NLXRudnBCWGZzcmxZOUZzcTZIV09NemVtVm",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ25hRjdpTEt6Ums5VlhzSFZ5bTU1WXJma1dDWHM5WVRiYy1vYVdaVXhmRWI4T3M0TDUyN3BxMjh6ZUFWVDloWTVHcVVKZGZNQkJ2Vy1NLXRudnBCWGZzcmxZOUZzcTZIV09NemVtVmJ5Z3RDbHBXVkNuS05wVkxwRHBoNHIybjVH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-10-014",
+    "date": "2026-07-10",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike’s Earnings Beat and Cautious Outlook Might Change The Case For Investing In NIKE (NKE) - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaUdKUjZMZ0pYWGpKaHFwbG9RSTV4OGhaYU84S2paTWFuYzZveTJuSV9nVHBpekRWaFZkZDlob291OUdYWmlOMmw5NnFZN3JLYTZzT3J0NmwwQmZOSVh2Y1NwSjZVQ1hHT2Y3MjIxaj",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaUdKUjZMZ0pYWGpKaHFwbG9RSTV4OGhaYU84S2paTWFuYzZveTJuSV9nVHBpekRWaFZkZDlob291OUdYWmlOMmw5NnFZN3JLYTZzT3J0NmwwQmZOSVh2Y1NwSjZVQ1hHT2Y3MjIxajgxV3YyVXVkQ0p5Tzl3RE1vdE9wdHYyX1Z6NGtwZ3haREVMMS1xa1RlX0NkTkVsZndSVEs2QzZmOVdyLVdwSXRPWVppSHE2WWIxaHhadU5WUDNaODhjRC1RSNIBzgFBVV95cUxOTVJUbHZpSnVpanpSd2F6NGVLeVZlNEdpWk04SllKdGpQcDVCOVltczZHc0tlSG5ZT2dCYXZFRTZMTnJxdW4tX1diLWw1UTRRdFY2ZC0zNmtZY1NqY0FlcWFfaUppcF9oVnpwZEtwamtSbEp1Q0RpTmJJam4yY3dYc21RaHVGcVMtb1pqRXoyOGhNT1ktaVl1YjllRTRlaFpyN3YxLW41NS10RklIUGhwdm5UalVmMHBiZlpfYnJneEllVzViRXQ5cUtmZThjQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -420,6 +620,24 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZE9FM3FONURmTW1HckktX2VIY3ZLY3BlWGQ3Ulk0cHFNRVNLeFpxTHdUOF82RE9kRG5HQ0E3S0FqS2ZZMGNyalJhSWRTVEJMNFNJRURNMm05ZWdCWkhULXBWeGMtYUgzRDFpc016Y2FyRXVTU1pLMXRhRWpfT3dDb1JxMzhQOXR2dXpsUzY1SnI5TFIzNWZuU2NVczU5WVFnaEs4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-07-09-013",
+    "date": "2026-07-09",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon Athletica (LULU) Stock Forecast & Analyst Ratings - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgNBVV95cUxPWmZMLXlGR25Bc1RuOWcyNTQycy1BQXhDUVFwejRMZzhINVhVb1VZWnhHV2ZZSzNSLXdVajNhVklKcFFFelJrTEgtb3lRbDB0Yy0yVnBwbGZ6QlZNLTRjTS1RMHhNdlJuWmhqTHpBN0",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPWmZMLXlGR25Bc1RuOWcyNTQycy1BQXhDUVFwejRMZzhINVhVb1VZWnhHV2ZZSzNSLXdVajNhVklKcFFFelJrTEgtb3lRbDB0Yy0yVnBwbGZ6QlZNLTRjTS1RMHhNdlJuWmhqTHpBN0ZNZFNBYlg2SjRMUG1UejAwMVd3VlhGdGZITUM3b1lxQlo5UTFmUDU5US1weDB4bjRvaHo4SE1kUWc0OFVCQ3RJeGV4OWtGUGxKQkU5VzE2VFZUYVJZbkcyUTBEYS1TeTMxVnpudzFSSWxVY3BQNHFvSVEyRlE3MUF0T3R0dFRSUlpneFFWakJqVjc1MkVzbG1Fd1VxY0FVYW9xMUZKb1dyQU4xUU9Ib2xMWEZUN2Z5QWFDSGhJWTQ1dUY5VTl4b3VZM0J6OTB5dHdUd0J2Y3RZbk5BMzFZS3J0SVBOdHRMcnBXTjJqZ2trZnVUeW1iQ0t2WTRMX1ZELTFyNEk3c05TVnZDZldublNXMS1kdkNSMGMyVUVfaDNscXhJNm9uV1F5TFVxNWVFODZXZw?oc=5",
         "type": "rss"
       }
     ]
@@ -764,6 +982,42 @@
       {
         "name": "vf_corp",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObmh2QlpneWpsYi14eGNyS0hQaG1qeS1rbXozN3k0N2d1YUpqT0d5OGd5RW9iQXJCWXQxYkpSSVlVb0JqMVlta1h0eTE1T1VLZ3o0QXVsVk1FOFg0YXQzdks1RTFfb2syNWpuekM2c3BXbFFmUUR5LUt0ZHZ5Q0RDTFQ1SXVOMTQxSDk5VUVXLUsyQk9XSHl5aEk0TEdGalF0SF8wRzR4SXZrTVEwU1lDNERrUlJTczZH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "makalot-2026-07-08-020",
+    "date": "2026-07-08",
+    "companies": [
+      "makalot"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Makalot stock builds on its Taiwan listing. A consumer apparel maker with steady export ties. - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPdHYzeHFSRVRpa1FEZXl4Ylgwd01aX3N5ZDQ3djhCSG1hSHdZZ1piODFnVmpBSTdKdnVvd0RaVW9ERVhaS2F4cjVmMnkwLVZPdDlocGxVUjB2SDBsQlFuRHFlX0d0a3lvRndSOHRmUn",
+    "sources": [
+      {
+        "name": "makalot",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdHYzeHFSRVRpa1FEZXl4Ylgwd01aX3N5ZDQ3djhCSG1hSHdZZ1piODFnVmpBSTdKdnVvd0RaVW9ERVhaS2F4cjVmMnkwLVZPdDlocGxVUjB2SDBsQlFuRHFlX0d0a3lvRndSOHRmUnE2Rm1ETFJXN0p4THE2TmdIXzNPekJYZXo3eWo1cmtabHYzcW9TS09iNml5MU5TWVRaREl3YTFJUXRza281LVdmMGR3YlZZSUZYZWttOWsyRjBha1dUSldjaGxsRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-07-08-021",
+    "date": "2026-07-08",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Adidas AG focuses on long-term growth as global sportswear demand evolves - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQZURZckJacWtLR0V3RG00QjAyYVJlZ0RzamxYV2tZVDRETDBEaXd5VDd5U1Z2cEJUT1J2QjA5QVlTamdTSVRLejFIUm00d2xJVVJPQ05ZVl9FcTBKWDNIZ3Y1U3RRYWpuVzlrVGJON2",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZURZckJacWtLR0V3RG00QjAyYVJlZ0RzamxYV2tZVDRETDBEaXd5VDd5U1Z2cEJUT1J2QjA5QVlTamdTSVRLejFIUm00d2xJVVJPQ05ZVl9FcTBKWDNIZ3Y1U3RRYWpuVzlrVGJON2h5T3VqQ2VjMlozOWRUUl9QSFdoRkV6LUxhc3UtXzdtaWVIUXdlaTIxa1ZNVVdUN0haUDVZTlF5bVRBV3lGcElubHlMNlN4cXppMnpuMHEwbEZYVGtST1pFMWJjcC0?oc=5",
         "type": "rss"
       }
     ]
@@ -1226,6 +1480,44 @@
       {
         "name": "lululemon",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR1VFNl9NcnlqbGt3QnRxY18wUmNxbmdSUUJ6LUJHSWZHR1dqZzVieldUOWlIdzc0UXF6THc4NXBpcU5jRTZmTVFVbE5xeTA2WVlNdkM4aVZzZGQzdTNlelEwX0hYdnZzNGJ6R2ZGN243cVUyNXpNR3RoeDFhdHRWTmY0d0c3bWRqcDVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-026",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "The TOPGREEN Bio-3 from Far Eastern - polyester pellets built for circular fashion - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPcVp0clItb2hsTVc0M0RybjAySEFObDBzbkdWZG1XZEszTExwWHEzU1dvNFZacUxtVzhGd0tUT1hSOHJ3cXVLd0FLdlIxSTluMFlHX201Y1JfdlUzRVNZMkJiVS1xMmZnM2tLaWUzUE",
+    "sources": [
+      {
+        "name": "far_eastern",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcVp0clItb2hsTVc0M0RybjAySEFObDBzbkdWZG1XZEszTExwWHEzU1dvNFZacUxtVzhGd0tUT1hSOHJ3cXVLd0FLdlIxSTluMFlHX201Y1JfdlUzRVNZMkJiVS1xMmZnM2tLaWUzUEdaNWNRbXk1bW9SWWl6cTQtQVJyS2I1MU9WaF9iOUxPZmJDYURlOGpwdzNhSHB2VkFTbkRUdGJiNEN3NUc3eVl5a1A4LXZqRWFJXzBickk2c1VOSEFRakZxUXZtbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-07-027",
+    "date": "2026-07-07",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Stock: Is It a Buy After Its Recent Earnings Beat? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzNOdE5FSm5CM3hOQkpQLWo3Zm5GY0FJLVlKWFM5TFh1NEc4OGVQcmRNb0d3V1ZTaldRNndKbU5ZTjM5RGxGbzk0dUwwdFZyOF9EYWlLU2JscldSMzJvLU4yRkptT1hfN2VWS09HMH",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzNOdE5FSm5CM3hOQkpQLWo3Zm5GY0FJLVlKWFM5TFh1NEc4OGVQcmRNb0d3V1ZTaldRNndKbU5ZTjM5RGxGbzk0dUwwdFZyOF9EYWlLU2JscldSMzJvLU4yRkptT1hfN2VWS09HMHZuRlhmRTVPekprZks1RDBFcnh2RG9RcUVkTjRhRW1sWjNfV090Z2liU2lMd1dwZDlpTmZoazFjS19JQTdPckgxeHd0WmNVVVpmalE5S0x5YW5HWlVwbWp0YzhldmpEUDZ4LW1F?oc=5",
         "type": "rss"
       }
     ]
@@ -2044,6 +2336,42 @@
     "topics": [],
     "impact": "positive",
     "title": "Makalot strengthens its role in global apparel sourcing as investors assess long-term growth prospec - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSFJZQVR5WDdITFV2cTl3YUFBWGdjVF9fanpBaE9GcEk4bHNTbk1YQy1DNHFFS1g5eHQzYktyQVM4a0RxNExfeHpXWllFZjlLVUVBRG5wbTl2MHZ2NTdYZlZ0dzRCdWFkSXpGOFJwRT",
+    "sources": [
+      {
+        "name": "makalot",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSFJZQVR5WDdITFV2cTl3YUFBWGdjVF9fanpBaE9GcEk4bHNTbk1YQy1DNHFFS1g5eHQzYktyQVM4a0RxNExfeHpXWllFZjlLVUVBRG5wbTl2MHZ2NTdYZlZ0dzRCdWFkSXpGOFJwRTFqSzhaX1ZxVFdsYXR3dXhMT3FIendaZXRPZWpVQTZfZXZiNkNQMTBCTnJzWVhWaHhPbm9xOTBZODlZaXNyMmNXWTVSLUVZUDdzWXdmWG1WRjM3ODRWOXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "far_eastern-2026-07-04-020",
+    "date": "2026-07-04",
+    "companies": [
+      "far_eastern"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Far Eastern New Century focuses on sustainable materials. Strategy and global reach shape the long-t - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOcllBbTVIX2JsdE16azY5eWdqNXpXSXFYOTFCeVp4NFJVcWNnTkpHcXQtcllKNnF0eGRWa25Wa0l1MVQtMXR5eDVvdFRLeVZPbnVyZURtVEhNNFpPVFBfUkFPUld5aHpFby1aYWM1YU",
+    "sources": [
+      {
+        "name": "far_eastern",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcllBbTVIX2JsdE16azY5eWdqNXpXSXFYOTFCeVp4NFJVcWNnTkpHcXQtcllKNnF0eGRWa25Wa0l1MVQtMXR5eDVvdFRLeVZPbnVyZURtVEhNNFpPVFBfUkFPUld5aHpFby1aYWM1YURtSTFvbXJFOVNuVDUzdVhmZ3dWQmI5dXBYV1dqWlBfX0tOTm51amptQTU2ZWl5Zno1TWNSNlJfNEhxZFZGYllSQVB4cHN2bTVCbG02cFJjc3RrRmJiMENr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "makalot-2026-07-04-021",
+    "date": "2026-07-04",
+    "companies": [
+      "makalot"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Makalot strengthens its role in global apparel sourcing as investors assess long-term growth prospec - ad-hoc-news.de",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSFJZQVR5WDdITFV2cTl3YUFBWGdjVF9fanpBaE9GcEk4bHNTbk1YQy1DNHFFS1g5eHQzYktyQVM4a0RxNExfeHpXWllFZjlLVUVBRG5wbTl2MHZ2NTdYZlZ0dzRCdWFkSXpGOFJwRT",
     "sources": [
       {
