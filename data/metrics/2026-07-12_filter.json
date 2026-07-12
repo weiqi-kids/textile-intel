@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 222,
+  "gate1_fail": 26,
+  "gate2_fail": 32,
+  "passed": 14,
+  "gate2_samples": [
+    "Toray's Carbon Fiber Component Cuts X-Ray Radiation Doses - PlasticsToday",
+    "Price to sales forward of Lenzing AG – VIE:LNZ - TradingView",
+    "Shenzhou International Group Holdings Stock Rallies 2.5% in Hong Kong - Moomoo",
+    "Eclat stock stays anchored by its sportswear business - ad-hoc-news.de",
+    "Adidas AG (OTCMKTS:ADDYY) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat"
+  ]
+}

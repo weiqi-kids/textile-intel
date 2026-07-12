@@ -1,0 +1,194 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:43:07.326554Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-07-12-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike (NKE) Stock May Be Cheap On Earnings But Fair On Cash Flow - simplywall.st",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTXdLRnMwbUNoX0J4U0g3U1dwdzNkNUFrdHJpTG5yZzN1NWpHaUNlRlRWOUtzMTVyRm9aUTQ4QTBRVndhQ1RGM0Zkcm1iUkZtRlZJMlZLR3FqR2JBUnRFX1BjU05FMFYwT0V3LTBYV2pQQzVmUldnakdHdHBIMHVUN0hTRmlmMm5lY1ZiVExlQTQ3a0F3aFFjSlBqRHdnU1RwZnpEMkRwb1d4amFkMTI4SXN4WWVlS09YRlQyVmJxX1dSeXRaTlF1YtIBzgFBVV95cUxPTHdrX0hETXNCV0dTM3M5eW5vU3BnM0swMjVXUGhpRENZa3ByUlRUOWFzaHlSZHpWUGNEa1hzYzFmQ0tMZkU5SFI0RjA2aDY1TG1UQ1Jqblk2dnA5djVzOWtZa3ByeDFTYmlSUUFoV0luLTNxZ0FnZmY0WnU0VlFNSnBQM2Z2dXBMSTg4ZnA5bVlrUDVGTnNhcG9NVVFhaEZVSHFCSWRCY19kS196X3Iyb1dTZV9GeTRKZFNNdVZpb1BaSHNyU2lOOWlsUGF6dw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh biz leaders call for reforms to improve investment climate",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-biz-leaders-call-for-reforms-to-improve-investment-climate-311675-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India, New Zealand elevate ties to ‘strategic partnership’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-new-zealand-elevate-ties-to-strategic-partnership--311674-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cambodia’s exports up 19.5% YoY to $17.09 bn in H1 2026: Govt",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/cambodia-s-exports-up-19-5-yoy-to-17-09-bn-in-h1-2026-govt-311673-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CDC, JDI discuss Cambodia-Japan SEZ master plan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/cdc-jdi-discuss-cambodia-japan-sez-master-plan-311672-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 110,
+    "too_old": 222,
+    "gate1_blocked": 26,
+    "gate2_blocked": 32,
+    "passed": 14,
+    "pass_rate": "4.8%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Toray's Carbon Fiber Component Cuts X-Ray Radiation Doses - PlasticsToday",
+      "Price to sales forward of Lenzing AG – VIE:LNZ - TradingView",
+      "Shenzhou International Group Holdings Stock Rallies 2.5% in Hong Kong - Moomoo",
+      "Eclat stock stays anchored by its sportswear business - ad-hoc-news.de",
+      "Adidas AG (OTCMKTS:ADDYY) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為耐吉相關動態：「Nike (NKE) Stock May Be Cheap On Earnings But Fair On Cas...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nike (NKE) Stock May Be Cheap On Earnings But Fair On Cash Flow - simplywall.st（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bangladesh biz leaders call for reforms to improve investment climate（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
