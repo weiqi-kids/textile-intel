@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T10:50:01.720528Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pvh-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rockefeller Capital Management L.P. Sells 91,496 Shares of PVH Corp. $PVH - MarketBeat",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXM3NHlMUTBfeVJCLXAtdldJU0plT0VlQmdKRlhXblZHbDU1V0dIV1AxdTN2QWhyd1pSMXBuUDhnYTVXamVGSjVuZWtvcGdUcFlQLUlwWGZybEJpNjkxZ1JzZlVZWHlnZHZDbEFaV1A1ZUxmbUlaRUlqVTFqcDhLOVZyMTNUamhzQ3lnSjNraHF6eUdhZkNuV3lUZkFOaGU4MjlPZ1dHSi1yMEtsN25jdGU5cmJ1QW5QZVgxQTFEekZyTHpnWVpobw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Editorial: A thousand years later, the Bayeux Tapestry returns to Britain - Chicago Tribune",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3MxVWQ5WWpkei1qR3FRV2hSQTVNcjh1WDB6NmNFdWV3RV9iU015UmFJMjN1bEd5MEZxa094T283aFIyZjVGSUd5YTVCSTNyVW1ad1RtOFB2NXlSd2FwcWxEOVYzcG92b2J0Z0gzbmVsVVRkTUJIRE84ZXRCLWhKRXhVZFRNNzIweFRSWmo4NnF2Szlwc3BVMWVZTjNwa2RnZzUwTXI3MENiMzJaRlJ6TGxqOUJyZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Weekly price shock: BCI cotton- week ending July 10",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/weekly-price-shock-bci-cotton-week-ending-july-10-311689-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India may go duty-free, but is weak in 10 of EU’s top 20 garments",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-may-go-duty-free-but-is-weak-in-10-of-eu-s-top-20-garments-311687-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India-EU FTA: 63% cotton basket could cap apparel export gains",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-eu-fta-63-cotton-basket-could-cap-apparel-export-gains-311684-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 402,
+    "dup_title": 106,
+    "too_old": 224,
+    "gate1_blocked": 29,
+    "gate2_blocked": 30,
+    "passed": 13,
+    "pass_rate": "4.4%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Toray's Carbon Fiber Component Cuts X-Ray Radiation Doses - PlasticsToday",
+      "Price to sales forward of Lenzing AG – VIE:LNZ - TradingView",
+      "Shenzhou International Group Holdings Stock Rallies 2.5% in Hong Kong - Moomoo",
+      "Eclat stock stays anchored by its sportswear business - ad-hoc-news.de",
+      "The Ortega story by Joe Haslam – Part 1: The man who made Zara the world’s most valuable fashion bra"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為PVH、Coach、耐吉相關動態：「Rockefeller Capital Management L.P. Sells 91,496 Shares o...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rockefeller Capital Management L.P. Sells 91,496 Shares of PVH Corp. $PVH - M...",
+        "level": "green"
+      },
+      {
+        "text": "Editorial: A thousand years later, the Bayeux Tapestry returns to Britain - C...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,115 @@
 [
   {
+    "id": "pvh-2026-07-13-001",
+    "date": "2026-07-13",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rockefeller Capital Management L.P. Sells 91,496 Shares of PVH Corp. $PVH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXM3NHlMUTBfeVJCLXAtdldJU0plT0VlQmdKRlhXblZHbDU1V0dIV1AxdTN2QWhyd1pSMXBuUDhnYTVXamVGSjVuZWtvcGdUcFlQLUlwWGZybEJpNjkxZ1JzZlVZWHlnZHZDbEFaV1",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXM3NHlMUTBfeVJCLXAtdldJU0plT0VlQmdKRlhXblZHbDU1V0dIV1AxdTN2QWhyd1pSMXBuUDhnYTVXamVGSjVuZWtvcGdUcFlQLUlwWGZybEJpNjkxZ1JzZlVZWHlnZHZDbEFaV1A1ZUxmbUlaRUlqVTFqcDhLOVZyMTNUamhzQ3lnSjNraHF6eUdhZkNuV3lUZkFOaGU4MjlPZ1dHSi1yMEtsN25jdGU5cmJ1QW5QZVgxQTFEekZyTHpnWVpobw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-07-13-002",
+    "date": "2026-07-13",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Editorial: A thousand years later, the Bayeux Tapestry returns to Britain - Chicago Tribune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3MxVWQ5WWpkei1qR3FRV2hSQTVNcjh1WDB6NmNFdWV3RV9iU015UmFJMjN1bEd5MEZxa094T283aFIyZjVGSUd5YTVCSTNyVW1ad1RtOFB2NXlSd2FwcWxEOVYzcG92b2J0Z0gzbm",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3MxVWQ5WWpkei1qR3FRV2hSQTVNcjh1WDB6NmNFdWV3RV9iU015UmFJMjN1bEd5MEZxa094T283aFIyZjVGSUd5YTVCSTNyVW1ad1RtOFB2NXlSd2FwcWxEOVYzcG92b2J0Z0gzbmVsVVRkTUJIRE84ZXRCLWhKRXhVZFRNNzIweFRSWmo4NnF2Szlwc3BVMWVZTjNwa2RnZzUwTXI3MENiMzJaRlJ6TGxqOUJyZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-003",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Weekly price shock: BCI cotton- week ending July 10",
+    "summary": "China's BCI 3128B fell 0.91 per cent week-on-week (WoW) to 18,053 CNY/tonne after USDA raised 2026/27 US cotton output by 400,000 bales, erasing mid-week gains. \nIndia's Shankar-6 (₹181/kg) and Pakist",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/weekly-price-shock-bci-cotton-week-ending-july-10-311689-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-004",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India may go duty-free, but is weak in 10 of EU’s top 20 garments",
+    "summary": "India’s EU Free Trade Agreement (FTA) removes tariff barriers, but product competitiveness remains the bigger challenge.\nTexPro data show exports are still dominated by cotton apparel, while Europe’s ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-may-go-duty-free-but-is-weak-in-10-of-eu-s-top-20-garments-311687-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-005",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India-EU FTA: 63% cotton basket could cap apparel export gains",
+    "summary": "India’s FTA with the EU can improve price competitiveness, but tariffs alone will not double apparel exports.\nTexPro data show India’s Europe-bound basket remains heavily cotton-focused, while demand ",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/india-eu-fta-63-cotton-basket-could-cap-apparel-export-gains-311684-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-13-006",
+    "date": "2026-07-13",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "Nike Stock Is Down 44% From Its High, and the CEO Has Been Buying Shares. Here's What That Means for Investors. - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBRamx3eFI4b2xxWTN5ajlBa3JTel8wNmdVX05qQVZpSzZJZ3c3MVNaMVJZOXROVDIwVVdTc21PdnZmUmw3VWtVZk9IaGRZS0JDcXplU055bnVCb0pzSXVqeVRaTlRtck8xODZGV0dhbD",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRamx3eFI4b2xxWTN5ajlBa3JTel8wNmdVX05qQVZpSzZJZ3c3MVNaMVJZOXROVDIwVVdTc21PdnZmUmw3VWtVZk9IaGRZS0JDcXplU055bnVCb0pzSXVqeVRaTlRtck8xODZGV0dhbDkyTlNIZ0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-12-001",
     "date": "2026-07-12",
     "companies": [],
@@ -339,6 +449,24 @@
       {
         "name": "tapestry",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc09NTlNOekVuMEhUV3BQZUhPZHBmOXc3d3dQOW5hakE3bGFXRVVkOXNmVDVTLTBNemdLQzNiVmR5emo3djhlWTJ5eC10ZjVCZ3RKWUlYZ0Y5TEdPalhFUFgtelhNRGJfbGF3VVAxZXR0MEZ1WUFzOGxzdXRuZ3pNR2ZjQXNZQ2NCWmhBc2FFLV9OeGRPYndQWFZveFkzYTFKZUVxWWdfbVIyNEVwdG1tSmc4SFdqU3BYU0FnNm9Ockx5blVMNy1mTFR1VlZTUW5MZG1sSzVQeUs3V2RjYTN5d05SeFFCdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-11-013",
+    "date": "2026-07-11",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike Stock Recovery May Be Real. The Valuation Still Has To Work - Forbes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRnQ2ajR1YnduUjZQSDl0d19FdFRpRGVzZlVia2VfZ192RTliVlZ2Z25tcE5yMnkzTnlaWmZwQ2FDTFZGRUJjVS0wTEFJUHh5dEw5Zk5ZdTlaU3JucDBjN2RJUWhEbWFuVmtBMVNrU0",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRnQ2ajR1YnduUjZQSDl0d19FdFRpRGVzZlVia2VfZ192RTliVlZ2Z25tcE5yMnkzTnlaWmZwQ2FDTFZGRUJjVS0wTEFJUHh5dEw5Zk5ZdTlaU3JucDBjN2RJUWhEbWFuVmtBMVNrU0NZY0lTQS1XaGlZOGIxVzFnb2xObm9sSC12aDlRTGppcTRvQjl6UnNZMWJlMGZuSDVpX0l5dmhEUE1EU0pJeUt3LVRzaw?oc=5",
         "type": "rss"
       }
     ]
@@ -892,6 +1020,126 @@
       {
         "name": "lululemon",
         "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPWmZMLXlGR25Bc1RuOWcyNTQycy1BQXhDUVFwejRMZzhINVhVb1VZWnhHV2ZZSzNSLXdVajNhVklKcFFFelJrTEgtb3lRbDB0Yy0yVnBwbGZ6QlZNLTRjTS1RMHhNdlJuWmhqTHpBN0ZNZFNBYlg2SjRMUG1UejAwMVd3VlhGdGZITUM3b1lxQlo5UTFmUDU5US1weDB4bjRvaHo4SE1kUWc0OFVCQ3RJeGV4OWtGUGxKQkU5VzE2VFZUYVJZbkcyUTBEYS1TeTMxVnpudzFSSWxVY3BQNHFvSVEyRlE3MUF0T3R0dFRSUlpneFFWakJqVjc1MkVzbG1Fd1VxY0FVYW9xMUZKb1dyQU4xUU9Ib2xMWEZUN2Z5QWFDSGhJWTQ1dUY5VTl4b3VZM0J6OTB5dHdUd0J2Y3RZbk5BMzFZS3J0SVBOdHRMcnBXTjJqZ2trZnVUeW1iQ0t2WTRMX1ZELTFyNEk3c05TVnZDZldublNXMS1kdkNSMGMyVUVfaDNscXhJNm9uV1F5TFVxNWVFODZXZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-09-014",
+    "date": "2026-07-09",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "U.S. revenue of Nike from 1988 to 2026 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE85OHl0M0VjdF94WjA3NHlsT1djYTZBYVNuMFg0cF9GLWpvZ2hsN1RzZWRxdHJOQ1pKTURJY0JMMW00OGFGdk1ic215QmpsRkdROWZ0T3g0LU9fVzhTREhVNmtaUW9jVW5scXJqNmpSNU",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85OHl0M0VjdF94WjA3NHlsT1djYTZBYVNuMFg0cF9GLWpvZ2hsN1RzZWRxdHJOQ1pKTURJY0JMMW00OGFGdk1ic215QmpsRkdROWZ0T3g0LU9fVzhTREhVNmtaUW9jVW5scXJqNmpSNUU4OVdydUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-09-015",
+    "date": "2026-07-09",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike's revenue worldwide 2017-2026, by region - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnhEWXY3ZUNBQmxsbVVhdXZFMWdSVlpYUHp0R2NDdGFwZ1FPT1BWcldfcVhoYzRONHZ0T0kwOEFRTkd2OUIwSEpxUkxwRGZLLUhUcWkwbnpLeVRyUHJpOTY3SWVTMzM0U0N3MkZVdT",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnhEWXY3ZUNBQmxsbVVhdXZFMWdSVlpYUHp0R2NDdGFwZ1FPT1BWcldfcVhoYzRONHZ0T0kwOEFRTkd2OUIwSEpxUkxwRGZLLUhUcWkwbnpLeVRyUHJpOTY3SWVTMzM0U0N3MkZVdTZiRTZfajlHeXZ5VGh6cWpkYTlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-09-016",
+    "date": "2026-07-09",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "NIKE Direct revenue worldwide 2009-2026 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB5a1k2czRoVFc1b0NBUTZPMllId3dXUzl4R2VCZnVqYnhJUl95Zl9Yb2FNcU9uX0toRjdTd1FQR2FITnBldzhmRi1NQlBCSFF6RjgxcHRfaE5qbnc0Vm4xX0luVlV2V1plbHpjVlFpaD",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5a1k2czRoVFc1b0NBUTZPMllId3dXUzl4R2VCZnVqYnhJUl95Zl9Yb2FNcU9uX0toRjdTd1FQR2FITnBldzhmRi1NQlBCSFF6RjgxcHRfaE5qbnc0Vm4xX0luVlV2V1plbHpjVlFpaDFhc0xoc3RnOFVwYnY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-09-017",
+    "date": "2026-07-09",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike's revenue worldwide from the fiscal years of 2016 to 2026, by sales channel - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPVi1sMnlWQ0QyWUlsVnp1OW80NXZPSnhyY0JxdjF5R2hBc1g0UzF2eUtCb0kzZkhyWGp1TENyV0NITlNhQl9LMkhYRGdFYjRVSUkwZDZfSEZVT2dhSUpYTkdmamZSVkc2aHNBQ1VsT0",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVi1sMnlWQ0QyWUlsVnp1OW80NXZPSnhyY0JxdjF5R2hBc1g0UzF2eUtCb0kzZkhyWGp1TENyV0NITlNhQl9LMkhYRGdFYjRVSUkwZDZfSEZVT2dhSUpYTkdmamZSVkc2aHNBQ1VsT0FFVC11SU42bk02NG0tZDBOeEF0N0o5WmtMeUlKQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-09-018",
+    "date": "2026-07-09",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike revenue 2005-2026 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOWl9YSzFHR2JZcWk5LXh2SHBOeG1vcEprYmJhMy1nUWFLWWRQa2x3N0tLcDVWZ0NrUnFvTlF6SDNIN1V2OG9mcDZpSHFjQWU5UFpUNEdKdXZVWG9yS2U5RU5TU2NMdWJpVjBRTnc4aT",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWl9YSzFHR2JZcWk5LXh2SHBOeG1vcEprYmJhMy1nUWFLWWRQa2x3N0tLcDVWZ0NrUnFvTlF6SDNIN1V2OG9mcDZpSHFjQWU5UFpUNEdKdXZVWG9yS2U5RU5TU2NMdWJpVjBRTnc4aTBVVmR0UjVIeGEzMm5FR3FhSlNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-09-019",
+    "date": "2026-07-09",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike's revenue by segment Asia Pacific & Latin America 2026 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQc21kWU1tT2x6S2ZiSXc0WFVkSjY5eXdNT1ZqRWZqMFByV1hEeU5sZk4xd3Z3dkYtMVhDQXg3OTJ6ZVk4b052UkdIajRJWWhULVNpc0lValN2N1lKd3VpZ3ZZbUVudHVtQ2xQWmdaNF",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc21kWU1tT2x6S2ZiSXc0WFVkSjY5eXdNT1ZqRWZqMFByV1hEeU5sZk4xd3Z3dkYtMVhDQXg3OTJ6ZVk4b052UkdIajRJWWhULVNpc0lValN2N1lKd3VpZ3ZZbUVudHVtQ2xQWmdaNFV2WmRtZzNuTWs4VmNDX0JUYzROX3NSYVMyOE13TGVnMFhOMGVacFE?oc=5",
         "type": "rss"
       }
     ]
