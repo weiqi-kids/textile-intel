@@ -1,0 +1,16 @@
+{
+  "total_raw": 400,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 205,
+  "gate1_fail": 40,
+  "gate2_fail": 37,
+  "passed": 14,
+  "gate2_samples": [
+    "Enterprise value to EBITDA forward of Toray Industries Inc. – OTC:TRYIY - TradingView",
+    "Toray's Carbon Fiber Component Cuts X-Ray Radiation Doses - PlasticsToday",
+    "Price to sales forward of Lenzing AG – VIE:LNZ - TradingView",
+    "Shenzhou International Group Holdings Stock Slips 2.0% in Hong Kong - Moomoo",
+    "Eclat stock stays anchored by its sportswear business - Ad-hoc-news.de"
+  ]
+}

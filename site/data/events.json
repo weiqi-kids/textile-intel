@@ -1,5 +1,168 @@
 [
   {
+    "id": "pvh-2026-07-15-001",
+    "date": "2026-07-15",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH names new chief financial officer - FashionNetwork - The World's Fashion Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNajlYTnhlazh3bjVRaGowaVFueU9SNldVOUV2Qjlkc2ZhZ3FsU3NGYV95aHU5S2ZDRkdQODhxMnIzSkllZTBhZnpzTkF3eWVlUTJ4Ym5LaVQ1ZzVlTDc1dTBqbVU4c084Q0VYQzVwVm",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajlYTnhlazh3bjVRaGowaVFueU9SNldVOUV2Qjlkc2ZhZ3FsU3NGYV95aHU5S2ZDRkdQODhxMnIzSkllZTBhZnpzTkF3eWVlUTJ4Ym5LaVQ1ZzVlTDc1dTBqbVU4c084Q0VYQzVwVmgwcE5xVXRkbnlLVndCNzQ3bVVGcDU1di1SMzc2aTl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-002",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India introduces forced labour import ban framework",
+    "summary": "India has amended its Foreign Trade Policy (FTP) 2023 to prohibit imports of goods made wholly or partly using forced labour, aligning its trade framework more closely with measures adopted by the US,",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-introduces-forced-labour-import-ban-framework-311756-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-003",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "ICE cotton falls further on weak demand outlook, China reserve sale",
+    "summary": "ICE cotton futures fell for a second straight session as weaker demand prospects following the USDA's July WASDE report and China's planned state cotton reserve auctions weighed on sentiment.\nThe Dece",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-falls-further-on-weak-demand-outlook-china-reserve-sale-311754-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-004",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "CITI, EURATEX launch India-EU textile dialogue for FTA",
+    "summary": "CITI and EURATEX have launched the EU-India Textile and Apparel Dialogue (TAD) to support the proposed India-EU Free Trade Agreement (FTA). \nAnnounced at Bharat Tex 2026, the platform will promote mar",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/citi-euratex-launch-india-eu-textile-dialogue-for-fta-311750-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-005",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India-UK CETA comes into force today",
+    "summary": "The India-UK Comprehensive Economic and Trade Agreement (CETA) and Double Contribution Convention (DCC) came into force on July 15, 2026, granting zero-duty access to nearly 99 per cent of Indian expo",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-uk-ceta-comes-into-force-today--311749-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-006",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Global cotton benchmarks edge higher; NY futures lead gains",
+    "summary": "Most cotton benchmarks rose over the past month, led by the December NY/ICE contract moving from 75 to 82 cents/lb.\nThe A Index, China and India also gained, while Pakistan prices eased after holding ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/global-cotton-benchmarks-edge-higher-ny-futures-lead-gains-311732-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-007",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "PDS, Busana Apparel to build next gen of global apparel manufacturing",
+    "summary": "PDS Limited has partnered with Indonesia's Busana Apparel Group to strengthen its global manufacturing ecosystem.\nThe alliance expands their combined manufacturing footprint across Asia, Central Ameri",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/pds-busana-apparel-to-build-next-gen-of-global-apparel-manufacturing-311758-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-008",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "India's textile exports rise, apparel exports decline in June 2026",
+    "summary": "India's textile and apparel exports rose a marginal 0.21 per cent YoY to $2.91 billion in June 2026 as higher textile shipments offset weaker apparel exports.\nHowever, exports fell 2.95 per cent durin",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/india-s-textile-exports-rise-apparel-exports-decline-in-june-2026-311720-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-009",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Indonesia & Cambodia lead the shift in US apparel sourcing",
+    "summary": "US apparel imports fell 9.3 per cent in January–May 2026, but Cambodia (+15% value, +18% volume) and Indonesia (+5.5%, +13%) expanded market share. \nBangladesh remained the No. 2 supplier, yet exports",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/indonesia-cambodia-lead-the-shift-in-us-apparel-sourcing-311743-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tapestry-2026-07-14-001",
     "date": "2026-07-14",
     "companies": [
@@ -181,6 +344,79 @@
     ]
   },
   {
+    "id": "lululemon-2026-07-14-011",
+    "date": "2026-07-14",
+    "companies": [
+      "lululemon",
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike (NYSE: NKE), Lululemon (NASDAQ: LULU), Under Armour (NYSE: UAA) And V.F. Corp (NYSE: VFC) Shed Billions As Apparel Sector Fights To Regain Ground - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQaG9yUFd6ejFlbDNMRzI2OUVzZVcyai1XWWg0aVVZYjNoR0h0Z3NEYTNjaDBQanpWMlVXdFc3QUtqdFgwNkVtYmh4U3lQN1EwcmdqeFZCbUF1ZHlhRUhqNFlNR2VDR1JfaXZ6emlaS3",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaG9yUFd6ejFlbDNMRzI2OUVzZVcyai1XWWg0aVVZYjNoR0h0Z3NEYTNjaDBQanpWMlVXdFc3QUtqdFgwNkVtYmh4U3lQN1EwcmdqeFZCbUF1ZHlhRUhqNFlNR2VDR1JfaXZ6emlaS3FORnpHdkhLUW02cjlJQWZCNHdjaTNmbmRJSjZjQWNxMEI5c2oxc2NyUHoyNGtpUGJzNU0xNEtIck9BaDJrbWpUNWVLZ1hiTVBINjNEZTVWVWIyWTJSTTJxZmVxYU5TNHFpWGVRNENNQ3Iwby1aaE00Zm5KMHpuSkRGSm1NZUh4b2J0NmJkYS1wbmpJb1p0ZHBLcXc0YjRZSnExNWtFeHp5bTNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-07-14-012",
+    "date": "2026-07-14",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Names Sephora Executive Alexis Rollier CFO - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNRTE2MWpfY1dfV2ZuTy1nMVdSWVROaUtwMERGTWlrUkQ1bm1NMkJ3MHRaUUgtT005WkJBVDZJSGgzN0FxdnNkTXlFZUtiT0pjQV90SXZXMU5WLW1KN3NFd3ZYX2xUN0EyX1Z3eDVkNS",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRTE2MWpfY1dfV2ZuTy1nMVdSWVROaUtwMERGTWlrUkQ1bm1NMkJ3MHRaUUgtT005WkJBVDZJSGgzN0FxdnNkTXlFZUtiT0pjQV90SXZXMU5WLW1KN3NFd3ZYX2xUN0EyX1Z3eDVkNS1sYTkwR0UxWVlvSVA2VmxKQmluVkRGaU5kMVRvOFpGYmtxTVJaUEhISUZLOVhjc1hx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-07-14-013",
+    "date": "2026-07-14",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Form 144 PVH CORP. For: 14 July By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVRUTkFLLUxGQWsyQ3BLbElWTVFEYVFtbUk3UEEzS3Yzbk1vc2dpdEw0THE1bUN2XzhSNUpKNlB2eDY5bWhuNGpybGRfd2hxWm5vZWNUck9kaHM4aWIwVzE0NnZOVzJVUHFPd2Fub1",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVRUTkFLLUxGQWsyQ3BLbElWTVFEYVFtbUk3UEEzS3Yzbk1vc2dpdEw0THE1bUN2XzhSNUpKNlB2eDY5bWhuNGpybGRfd2hxWm5vZWNUck9kaHM4aWIwVzE0NnZOVzJVUHFPd2Fub1BUVm1ROXRXY2J4YU95Z0FXcWFqa1lIQlpMa1c2cXdmSTA5NEFo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-07-14-014",
+    "date": "2026-07-14",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tapestry (TPR) Could Be 39% Undervalued As Valuation Debate Heats Up - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPVVhiXy1HRVRzbmd0OXVfdnR3aWozaDl6X082NDNvWVhxR3FpdXFzbUxsTFpkM1VESFBONVVzSHdqd1pVcXpPamNNZ0R2UDByT0VmSTI2UVB4bUZydUZZSWlqYTZZejVNd3d2Uks2S2",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVVhiXy1HRVRzbmd0OXVfdnR3aWozaDl6X082NDNvWVhxR3FpdXFzbUxsTFpkM1VESFBONVVzSHdqd1pVcXpPamNNZ0R2UDByT0VmSTI2UVB4bUZydUZZSWlqYTZZejVNd3d2Uks2S29QSktEUXQ2aEVuMkxUMXhMaGFic1Z0UWQ0VE95dzNMSGdjeXlYM0hFamtlMzB3Z2ItOEpPSVd6dmtMZHhKSlNtbTFSVC14NVh3ZFVHZTFfM0lCMFlhLU1pYlRxZ3ZXQdIB0wFBVV95cUxQaFhveEktUy1EWHJaZkpTNHU3SzcxMEhUN0JaVGpXRG5rRFNpVkozd1lzenBtZ0dvczVDUU5wMXNhbEpuLW9Ja20tRDFVX09HMEVCMHBteWV6bDZCUVM2cWR2VDFIaEhrbEkwazhVTll4WEJnb3NWZnBEbF9CTGtxb1E2ZGZGNDZlMzVuVFVjOGhYd0FwdHZISlFKSGZiekRrNGR0elRIX0Q0Y0xrR21jaTBsUzBIN2pGSGxhOUhzTGFGTXJoWUZVUlpSVldwNW9reEZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "pvh-2026-07-13-001",
     "date": "2026-07-13",
     "companies": [
@@ -322,6 +558,24 @@
       {
         "name": "google_news_textile",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1LcEZMRmxFU2pseEFlamwzay10NzZRZkVkVE5RSTduQ1B0Z0JNdFJQdS1UQ1ltaDZsb2I0cnJlVFhsWEJKbFVXSlF2N096NkdJZ0JzSXlrbFp4UmpxLTNUaU9mUmhkRGQzcHJHRVJpeElQdnBlSlI1bVdNUzRYdEcyMzJucHZPbm9ITFBTMW5oZmlBZ2J0RGk2SWJaeUVtXzlGV3c3QWxIMnd0SDhnRjFMSVRQbThVdTI3NDhSVDRDZThHSjU5VmxxOTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-13-009",
+    "date": "2026-07-13",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike Stock Is Down 44% From Its High, and the CEO Has Been Buying Shares. Here's What That Means for Investors. - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHNERVhHMFpuVTBBR2UtNHFoWl9VR2RWNGxMRmF0T2NHVTZoeEU2bG03YXJxcE1QV3RpdFRVNEhmYkxYakhWYjRvZnlJRGpRbE9GMlQzemZuWDg4TklJSy10VzR4REpNejVyZndEQ1",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHNERVhHMFpuVTBBR2UtNHFoWl9VR2RWNGxMRmF0T2NHVTZoeEU2bG03YXJxcE1QV3RpdFRVNEhmYkxYakhWYjRvZnlJRGpRbE9GMlQzemZuWDg4TklJSy10VzR4REpNejVyZndEQ1hzUWxSeHE3elZLR0lpQ2NJckN2VENYbUxkbW1RVU52YXRRUQ?oc=5",
         "type": "rss"
       }
     ]

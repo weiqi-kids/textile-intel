@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T09:49:09.103118Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton falls further on weak demand outlook, China reserve sale",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-falls-further-on-weak-demand-outlook-china-reserve-sale-311754-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "pvh-2026-07-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PVH names new chief financial officer - FashionNetwork - The World's Fashion Business News",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajlYTnhlazh3bjVRaGowaVFueU9SNldVOUV2Qjlkc2ZhZ3FsU3NGYV95aHU5S2ZDRkdQODhxMnIzSkllZTBhZnpzTkF3eWVlUTJ4Ym5LaVQ1ZzVlTDc1dTBqbVU4c084Q0VYQzVwVmgwcE5xVXRkbnlLVndCNzQ3bVVGcDU1di1SMzc2aTl3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India introduces forced labour import ban framework",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-introduces-forced-labour-import-ban-framework-311756-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CITI, EURATEX launch India-EU textile dialogue for FTA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/citi-euratex-launch-india-eu-textile-dialogue-for-fta-311750-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India-UK CETA comes into force today",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-uk-ceta-comes-into-force-today--311749-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 400,
+    "dup_title": 104,
+    "too_old": 205,
+    "gate1_blocked": 40,
+    "gate2_blocked": 37,
+    "passed": 14,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "12.5%",
+    "gate2_samples": [
+      "Enterprise value to EBITDA forward of Toray Industries Inc. – OTC:TRYIY - TradingView",
+      "Toray's Carbon Fiber Component Cuts X-Ray Radiation Doses - PlasticsToday",
+      "Price to sales forward of Lenzing AG – VIE:LNZ - TradingView",
+      "Shenzhou International Group Holdings Stock Slips 2.0% in Hong Kong - Moomoo",
+      "Eclat stock stays anchored by its sportswear business - Ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為PVH相關動態：「ICE cotton falls further on weak demand outlook, China re...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ICE cotton falls further on weak demand outlook, China reserve sale（棉花價格、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "PVH names new chief financial officer - FashionNetwork - The World's Fashion ...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
