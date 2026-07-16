@@ -1,0 +1,222 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T09:55:51.166174Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-16-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ICE cotton gains after two-day decline amid weaker US dollar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-gains-after-two-day-decline-amid-weaker-us-dollar-311788-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "hm-2026-07-16-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bangladesh’s EU export decline points to a shift in apparel sourcing",
+      "companies": [
+        "hm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-s-eu-export-decline-points-to-a-shift-in-apparel-sourcing-311763-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "lenzing-2026-07-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lenzing selects ANDRITZ to supply new debarking and chipping line - METissue",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3hGUG5MY1d1dmE0bHpaLTJHWmZibXk0WWxzNmtCTHhYMGJQUTgwaWh2V01TZWVlQmkzY2V3QXU5SWNXcG1vQVpJVVhKa1J5LWxRZnhvcVFrTFVxVkZsbE9yblU4bk9KWmJjaWtzOG5FV2pGRWhHbl9UU0h4eU5jRzNVcnJaZTJMUUQ2TFJlUTVscGg3YXdhbVVoSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pvh-2026-07-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PVH Investors Have Opportunity to Join PVH Corp. Fraud Investigation with the Schall Law Firm - The National Law Review",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFRMNEMtX1ZxUGxUcTFMRXc2UkM2MHJVSEoyVE9MZUEtVEoyVWNhLWdhRTdwS3g2dVlJZUNTZUZyUWI2Xy12QlRNOGhoNkNVdjl5Ym5vVS00Y05jV2gtaWNwNnZ1SWhUem5HSmJHRjFrYnNlZEY3Yjc0LXM3NGVOMFR6OXU2R2xSZ1NROVVRUmY4TFhpR2t3a05SM0pQMEdLLXQ5NF95TEVoaWM1SXp5ZjF1ZVlQQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pvh-2026-07-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PVH Corp. raids Sephora to bring in company veteran Alexis Rollier as new Chief Financial Officer - Retail Technology Innovation Hub",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRklHS3c3TDRzdkdLM182ZDY2enhpYTlkQWtRX3ZtYnllZXJLQkJxSXcxWXZqakhhOEg4VWZFUFg2bGVRYi1RTWVtZWJaclpvSERVT25IblVlbjd6TDdRek5kd1Q4VjZhZUVWYndsTkVadFN3eVhVOEo5RDVWZm5vX0tidEQzRzZvdXA5YUZGdEJHNzh6RkhvNkhyVU9ycElvVEFwTjhNT242cFlqcWhieXIxQ0s2V0lCcTdMSFRFajlBTkJHeVVmeTFfcXNTRTZCekM0UVc2WGJnbkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "pvh",
+        "count": 2
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "hm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 97,
+    "too_old": 212,
+    "gate1_blocked": 36,
+    "gate2_blocked": 41,
+    "passed": 18,
+    "pass_rate": "5.9%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "Enterprise value to EBITDA forward of Toray Industries Inc. – OTC:TRYIY - TradingView",
+      "Toray's Carbon Fiber Component Cuts X-Ray Radiation Doses - PlasticsToday",
+      "Price to sales forward of Lenzing AG – VIE:LNZ - TradingView",
+      "Shenzhou International Group Holdings Stock Slips 2.0% in Hong Kong - Moomoo",
+      "Eclat stock stays anchored by its sportswear business - Ad Hoc News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為PVH、Lenzing、Coach相關動態：「ICE cotton gains after two-day decline amid weaker US dollar」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ICE cotton gains after two-day decline amid weaker US dollar（棉花價格）",
+        "level": "green"
+      },
+      {
+        "text": "Bangladesh’s EU export decline points to a shift in apparel sourcing（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
