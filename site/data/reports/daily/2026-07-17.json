@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T09:46:28.136571Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-07-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas stock trades near yearly highs as revenue and profit rebound - ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVjgzeGk3dDBDbzZOUmlwb2VOT295aWR5dnNSeVczY0Jxc0w2Nk1ramh5enlkbzlSWmoyek94LTlneE1QT056TE42VnR4S2JzNGlCT0RXdVkxdWxrZzRMUzRrNC1UcUVSc3ZVNDYxTTlvY2RBNzBIRGRMdGVWdGdiSmNyR3JyNWRwbWE1UVFMellfS0JDNEowVGFKeGJnNTRxbEZaT2VJc3VWUmw4dTVwUFVpak5RdnlPT3Y3cVRCemJNWnhH?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-07-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tapestry (TPR) Stock May Be Fairly Priced Despite Pricey Earnings - simplywall.st",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeGY2SmtjdDVMaEpsZnV4c28xVE5WRUhXc3QxdUREM3pSUDNKQXg0WU80dEluM29XWTJTeUhDT2szbThFN0pIdWU4a1NZaVJraGYzSzh3OUdENU9UdzFXc1Q1TnQ1c2ExajdhUjYtTDY1NXlJcmFiVXdOWDJtVE4td1lNdXNjRDFZWjc1dEdmWjNQYmxTZEhQa1lFQ2pYYnhLWGlfZzhIb0lCLTVPY0RtOGlnSTlocS1MaTgyTVJwTFlwaXc5UnRyaE5FOGxUd9IB0wFBVV95cUxOOUNBVXZ6MnVfRkdic2pzekc4QVBjMTVfWm1TUWptR05XZFZZWmlXRGxOcmplTjNiT2hIeGc1T0ZSWEhFN2s5NFJqOC1aRDhDSWhUSEdSWDZUVVlILXZjXzF2YkxSaEs0azFkdmpGTk54eU11WEZOSTV2eUwyeDBtaU82NEhVSW5JaGJmbFp2aEFBTENCd0FlZTZONERwNHdaOXdBQk5iaHNDWVN3N0ZDRjFkZEJrU1Q3VXMwRlI0azVIZG9QLWV2TUM4NEN4YW95THRr?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-17-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Switzerland’s Rieter sees strong orders after Barmag acquisition",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "order_visibility",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/switzerland-s-rieter-sees-strong-orders-after-barmag-acquisition-311818-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-17-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton drops on weaker export sales, profit booking",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-drops-on-weaker-export-sales-profit-booking-311819-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-17-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US cotton export sales slump to marketing-year low despite demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/us-cotton-export-sales-slump-to-marketing-year-low-despite-demand-311831-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.19,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "pvh",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "order_visibility",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 96,
+    "too_old": 216,
+    "gate1_blocked": 41,
+    "gate2_blocked": 35,
+    "passed": 17,
+    "pass_rate": "5.5%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Enterprise value to EBITDA forward of Toray Industries Inc. – OTC:TRYIY - TradingView",
+      "Shenzhou International Group Holdings Stock Advances 4.5% in Hong Kong - Moomoo",
+      "Short Interest in Adidas AG (OTCMKTS:ADDYY) Expands By 223.4% - MarketBeat",
+      "NIKE vs. adidas: Which Athleticwear Stock Offers More Upside? - The Globe and Mail",
+      "Adidas AG (OTCMKTS:ADDYY) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為PVH、愛迪達、Coach相關動態：「Adidas stock trades near yearly highs as revenue and prof...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Adidas stock trades near yearly highs as revenue and profit rebound - ad-hoc-...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tapestry (TPR) Stock May Be Fairly Priced Despite Pricey Earnings - simplywal...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

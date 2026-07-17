@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T09:55:47.693627Z",
+  "updated_at": "2026-07-17T09:46:23.384224Z",
   "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
@@ -194,17 +194,17 @@
       "name": "耐吉",
       "ticker": "NKE",
       "currency": "USD",
-      "ar": 5369000000,
-      "ar_prev": 5738000000,
-      "ar_qoq": "-6%",
+      "ar": 5931000000,
+      "ar_prev": 5369000000,
+      "ar_qoq": "+10%",
       "ar_period": "QoQ",
-      "inventory": 7487000000,
-      "inv_prev": 7726000000,
-      "inv_qoq": "-3%",
+      "inventory": 7501000000,
+      "inv_prev": 7487000000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-02-28"
+      "quarter_date": "2026-05-31"
     },
     {
       "id": "pvh",
