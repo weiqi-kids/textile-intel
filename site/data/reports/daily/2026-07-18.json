@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:15:34.190662Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "inditex-2026-07-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Inditex stock trades near record territory as Zara owner delivers double digit profit growth - ad-hoc-news.de",
+      "companies": [
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQakdaZVBsa2VQYWpfaTFFSUowOVFtYjVHT2taeDM4T2F1eEMtTkJnbHFCQ0FTWVVlUnpYYW9Qdm9kQzZjeFNHQ1NHZDRtS1JGSExkVVVoUkZKdk90OTc1eHB1OVRPYzE2RmZfZFM1YUdPemlBQ1BuWlNoQnNieGVRSHFyNU1nMFZEOUl4TFZMMVVGMkpKQXJlWXlOb09SblJ4WHJZdU5DNFZyYjc5a0xFT3lEaU9jeGVtdXdSLWF1dmlrbEpwZ2FYTHBBOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vf_corp-2026-07-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corporation stock faces a leaner 2026 as revenue and profit reset - ad-hoc-news.de",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlAzQzRJWGdoVEF0UVlySzdvZGp5RW5sUUZrVzd1TnM0d3hCdDF1ZEFDWHdVX2xzWW5nQ2hkd2FfUlBKU2xjLWFrS0dMVXQxVEdIR09DSThVNmRadFhyWHRvZE9za2tDNV84UDFIeF9fTWhTU01qak1EOXB0YWhjTnI4R1VOWEJUbE9YWURvNlBPQVNfS2FRMk9ZZkkzS1pBeDQzbXNBS1k0NlBHUXQ5NWUxN2VvbWZNMVhXTGJDT0phTWVnQXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-07-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bayeux Tapestry returns to England - The Portugal News",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0JQY3VyQUJCWXZjR2p6UUVPcE9EZXZWbUNTenM1a09naExDd19IbFliaFlkd2VvY0ozSzFwNXJOck1qRDZtSHN3Z0dQTEd6UWJva0ktRTNCSEtUdm1WUUJ2VWRNc0o3ZUx6QVA5VHFZVGtNWVRUOGhMbllsY1ZCTkJVeGpiOW1SSnJjUFprams5Wl9k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vietnam attracts registered FDI worth $34.6 bn in H1 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-attracts-registered-fdi-worth-34-6-bn-in-h1-2026-311857-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EU, G77, China reaffirm support for Bangladesh's LDC graduation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/eu-g77-china-reaffirm-support-for-bangladesh-s-ldc-graduation-311853-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "inditex",
+        "count": 1
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 102,
+    "too_old": 211,
+    "gate1_blocked": 42,
+    "gate2_blocked": 35,
+    "passed": 13,
+    "pass_rate": "4.3%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Enterprise value to EBITDA forward of Toray Industries Inc. – OTC:TRYIY - TradingView",
+      "Shenzhou International Group Holdings Stock Advances 4.5% in Hong Kong - Moomoo",
+      "Shenzhou International Group Holdings Stock Slips 2.0% in Hong Kong - Moomoo",
+      "Adidas Shares Edge Out Nike Even Before World Cup Final - Bloomberg.com",
+      "$FuboTV (FUBO.US)$$Nike (NKE.US)$$adidas AG (ADDYY.US)$ TRAD... - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Zara、VF、Coach相關動態：「Inditex stock trades near record territory as Zara owner ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Inditex stock trades near record territory as Zara owner delivers double digi...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "VF Corporation stock faces a leaner 2026 as revenue and profit reset - ad-hoc...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
