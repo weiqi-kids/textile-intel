@@ -1,28 +1,28 @@
 {
   "toray": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6417
+    "count": 6481
   },
   "lenzing": {
-    "earliest": "2000-10-12",
+    "earliest": "2000-07-14",
     "latest": "2026-07-17",
-    "count": 6508
+    "count": 6572
   },
   "far_eastern": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-17",
-    "count": 6384
+    "count": 6448
   },
   "formosa_taffeta": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-17",
-    "count": 6384
+    "count": 6448
   },
   "lealea": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-17",
-    "count": 6384
+    "count": 6448
   },
   "shenzhou": {
     "earliest": "2005-11-24",
@@ -43,14 +43,14 @@
     "history_complete": true
   },
   "nike": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "adidas": {
-    "earliest": "2000-10-12",
+    "earliest": "2000-07-14",
     "latest": "2026-07-17",
-    "count": 6579
+    "count": 6643
   },
   "inditex": {
     "earliest": "2001-05-24",
@@ -59,9 +59,9 @@
     "history_complete": true
   },
   "hm": {
-    "earliest": "2000-10-11",
+    "earliest": "2000-07-13",
     "latest": "2026-07-17",
-    "count": 6531
+    "count": 6595
   },
   "lululemon": {
     "earliest": "2007-07-27",
@@ -70,24 +70,24 @@
     "history_complete": true
   },
   "vf_corp": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "fast_retailing": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6417
+    "count": 6481
   },
   "pvh": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "tapestry": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-10-06",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6481
   },
   "etf_xrt": {
     "earliest": "2006-06-22",

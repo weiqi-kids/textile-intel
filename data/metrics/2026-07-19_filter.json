@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 210,
+  "gate1_fail": 41,
+  "gate2_fail": 32,
+  "passed": 11,
+  "gate2_samples": [
+    "Enterprise value to EBITDA forward of Toray Industries Inc. – OTC:TRYIY - TradingView",
+    "Enterprise value to EBITDA forward of LeaLea Enterprise Co., Ltd. – TWSE:1444 - TradingView",
+    "Shenzhou International Group Holdings Stock Advances 4.5% in Hong Kong - Moomoo",
+    "Goldman Sachs Remains a Buy on Shenzhou International Group Holdings (SZHIF) - The Globe and Mail",
+    "Shenzhou International Group Holdings Stock Slips 2.0% in Hong Kong - Moomoo"
+  ]
+}

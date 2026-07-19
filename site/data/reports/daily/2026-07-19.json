@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:43:56.603965Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-07-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas stock trades near yearly highs as earnings and margin recovery support valuation - ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV09kdXZJbF85OTRxRHlIS0Y2eEV0ZEJfdTFEbUlGMlRFWEpvbnRIT2FUeXBLaDNXampmQkkyTWhqb3N2U0hhc0NOM3hmS21ULWxaRDduWWc5VGRvYmZaWWQtMk13OVRWYXZBVlBRWHE3NkJyb1M4VVNyS0lDQjdLZlB4cjM4S25Ja3RiOFpWYWx3WFRvb2hFN0prSDltbC10eldCajRLT056MWplQVdKcmhmeWlQSmRBbkpINU84QkdndTZUcFQ4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AMC Entertainment (AMC) Reports Q2: Everything You Need To Know Ahead Of Earnings - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWGRONnR5OW1IcGRzdkJza0lIRmhCdE41S25IY1NOdUlkTjdDVGRVWHBwRUJFOU53b0p2amFJQklNVGIwUVphNVZSQVBkUU9fUldEVlVldGdaMHNacUNFRl9Ka0FfLUJOUEl3cHZKUUZDbFRvcGM3YTJsdm5MY0dyc3lzOGtrOTB5OEFEVWc2c0U1ZUkyNDRJeDZabFZDX1BhSnpIUnhPd1VkNmctdS1mZUNGT2lPVnAxeWtrX0FIUjNNdTctX2ZobDJhSGowRW1ya0Q4VXJ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Monarch (MCRI) Reports Q2: Everything You Need To Know Ahead Of Earnings - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUc3U2gzd2FzXzNfWVVVQnN1dTFIZml5MEV0QkJwa1J5TFE0TWZ1a0N2MGdxWm5XUzFVUC1jQUxyZFNsRE5hNEtHTWxsN2tzNlFHTWhBTVpkTlVORjl0OEpSTWdzU1dtYlhyLXZ5Y3JCVzk3eUZRb0ZELW80czNfcHdFRE9IZDcyQVdtU293Q3RtSUE0RUlNWnBkWjgzQWU2cV91M2RDT1ZZaFZ4OERuNnhBcTIyLVlXTmQ3bEtpaWpnRl84ZVoyUlN3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese firm to invest $30 mm in BEPZA EZ in Bangladesh’s Mirsharai",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/chinese-firm-to-invest-30-mm-in-bepza-ez-in-bangladesh-s-mirsharai-311867-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Global economy may grow at 2.5% in 2026; India to lose pace: Moody’s",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/global-economy-may-grow-at-2-5-in-2026-india-to-lose-pace-moody-s-311852-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adidas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 111,
+    "too_old": 210,
+    "gate1_blocked": 41,
+    "gate2_blocked": 32,
+    "passed": 11,
+    "pass_rate": "3.7%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Enterprise value to EBITDA forward of Toray Industries Inc. – OTC:TRYIY - TradingView",
+      "Enterprise value to EBITDA forward of LeaLea Enterprise Co., Ltd. – TWSE:1444 - TradingView",
+      "Shenzhou International Group Holdings Stock Advances 4.5% in Hong Kong - Moomoo",
+      "Goldman Sachs Remains a Buy on Shenzhou International Group Holdings (SZHIF) - The Globe and Mail",
+      "Shenzhou International Group Holdings Stock Slips 2.0% in Hong Kong - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為愛迪達相關動態：「Adidas stock trades near yearly highs as earnings and mar...」。主要關注主題為法說會、供應鏈轉移、快時尚趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Adidas stock trades near yearly highs as earnings and margin recovery support...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "AMC Entertainment (AMC) Reports Q2: Everything You Need To Know Ahead Of Earn...（快時尚趨勢、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
