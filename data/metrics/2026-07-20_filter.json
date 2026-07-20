@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 204,
+  "gate1_fail": 44,
+  "gate2_fail": 34,
+  "passed": 20,
+  "gate2_samples": [
+    "Enterprise value to EBITDA forward of Toray Industries Inc. – OTC:TRYIY - TradingView",
+    "FENC and Studio Smoll Win 2026 iF DESIGN AWARD, Redefining Sustainable Living with Circular Design I",
+    "Shenzhou International Group Holdings Stock Advances 4.5% in Hong Kong - Moomoo",
+    "Goldman Sachs Remains a Buy on Shenzhou International Group Holdings (SZHIF) - The Globe and Mail",
+    "Shenzhou International Group Holdings Stock Slips 2.0% in Hong Kong - Moomoo"
+  ]
+}
