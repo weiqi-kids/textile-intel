@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T10:40:10.546608Z",
+  "updated_at": "2026-07-21T10:14:11.846502Z",
   "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "聚陽",
       "ticker": "1477.TW",
       "currency": "TWD",
-      "ar": 899191000,
-      "ar_prev": 888115000,
-      "ar_qoq": "+1%",
+      "ar": 745867000,
+      "ar_prev": 899191000,
+      "ar_qoq": "-17%",
       "ar_period": "QoQ",
-      "inventory": 5034259000,
-      "inv_prev": 5202024000,
-      "inv_qoq": "-3%",
+      "inventory": 4180497000,
+      "inv_prev": 5034259000,
+      "inv_qoq": "-17%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "nike",

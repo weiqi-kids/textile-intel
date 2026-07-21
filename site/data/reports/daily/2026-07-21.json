@@ -1,0 +1,234 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:14:15.346753Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-21-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "ICE cotton edges higher on weather concerns, stronger crude oil",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-edges-higher-on-weather-concerns-stronger-crude-oil-311906-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Standard Chartered upgrades Vietnam's 2026 GDP growth outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/standard-chartered-upgrades-vietnam-s-2026-gdp-growth-outlook-311900-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-07-21-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike stock trades steadily as investors weigh recent earnings and guidance - Ad-hoc-news.de",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1g4eGdCaVcwelNqSEU0WDFSajctZTN4ckJaRW1naW9KWndUZGZEM0kwSU5QTm14eVNqVkpNY3djQjZDcGhHY0FObGxEM1k1dTVYTW4tckt2T05zWnZBTldQd3ZtSkNyZ2N1c3hFbVZwbjNKNEE3WWtMaU1Rb3ZKYnVfeVlXOGIwWGR1VGJmV0QxdXhXcW03bURHai1adXFYRkp3X21hdFN0QVVXZ29Cb1RQaWxNaGtIUHpIRDh6QXJ6ODVveW9DTlJCWVlpZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-07-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Stock And 2 Consumer Names Exposed To New US Canada Tariffs - simplywall.st",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcUZOMjF2cDZYNjRDUHpLUlNIWldmZzIzN2FMcEotRGRSX3VtRERUdFFYMXpJbWFlV3QtWHZ1MktrYjJRLTl2X1I4aS1QbnVRQWs5UGZpREMxWGdFN1daalhzNzAxSnFtUzd1bVZYUXlpSW5QcFdwX1hHTjVORUxrM1FQOUlCeGh0UjRqSzlnN193cDVpYnU4cFNwcjl2V1JsUWswVjFXNmY0eUx1RHZyLU9Ka3QzZDY0NVNaYXpOb0oyX1JJOTVvMWtsWXBjd1luZzNFUmVXYVpxd2JTbm9aSUxiWdIB6AFBVV95cUxNMk5GYVJiY1Uyd1JFX29uc0FnSjUwOTJjaEdiRFY3N0ZxdGowTjhFMmpPei1rRkV3bnZpSmhBZXBveVdNWUxvanlGZnlINU5UNTNkcWxLa1J4eG53T2Z3Ymw1RjJ5YmplRTlmYjJzNlp1NHJsWG11LWRUbzdWWXlld3I3T3pFZmlpVHh6VW5hcDBJeUI3VjhVZDN1dlZfR3dLSl8xdGZ1dTlqVkdFNXJWdkxvb3A5eTB2X1NiNjJrVG9xMnZkblA4d0tJbnZQaXUwQXN4UjhMelJzZnpUaDc5RXlpXzBVb2Z0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India’s RSWM wins CITI sustainability award at Bharat Tex 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-rswm-wins-citi-sustainability-award-at-bharat-tex-2026-311907-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 106,
+    "too_old": 207,
+    "gate1_blocked": 44,
+    "gate2_blocked": 30,
+    "passed": 16,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "FENC and Studio Smoll Win 2026 iF DESIGN AWARD, Redefining Sustainable Living with Circular Design I",
+      "Shenzhou International Group Holdings Stock Advances 4.5% in Hong Kong - Moomoo",
+      "Goldman Sachs Remains a Buy on Shenzhou International Group Holdings (SZHIF) - The Globe and Mail",
+      "$Nike (NKE.US)$ $adidas AG (ADDYY.US)$ - Moomoo",
+      "Adidas Shares Edge Out Nike Even Before World Cup Final - Bloomberg.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Lululemon、耐吉相關動態：「ICE cotton edges higher on weather concerns, stronger cru...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ICE cotton edges higher on weather concerns, stronger crude oil（棉花價格、訂單能見度、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Standard Chartered upgrades Vietnam's 2026 GDP growth outlook（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

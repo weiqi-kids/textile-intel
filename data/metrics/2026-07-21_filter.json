@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 207,
+  "gate1_fail": 44,
+  "gate2_fail": 30,
+  "passed": 16,
+  "gate2_samples": [
+    "FENC and Studio Smoll Win 2026 iF DESIGN AWARD, Redefining Sustainable Living with Circular Design I",
+    "Shenzhou International Group Holdings Stock Advances 4.5% in Hong Kong - Moomoo",
+    "Goldman Sachs Remains a Buy on Shenzhou International Group Holdings (SZHIF) - The Globe and Mail",
+    "$Nike (NKE.US)$ $adidas AG (ADDYY.US)$ - Moomoo",
+    "Adidas Shares Edge Out Nike Even Before World Cup Final - Bloomberg.com"
+  ]
+}
