@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T10:14:11.846502Z",
+  "updated_at": "2026-07-22T10:13:56.737860Z",
   "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "儒鴻",
       "ticker": "1476.TW",
       "currency": "TWD",
-      "ar": 3079117000,
-      "ar_prev": 5480870000,
-      "ar_qoq": "-44%",
+      "ar": 3493729000,
+      "ar_prev": 3079117000,
+      "ar_qoq": "+13%",
       "ar_period": "QoQ",
-      "inventory": 5931258000,
-      "inv_prev": 5594008000,
-      "inv_qoq": "+6%",
+      "inventory": 6203632000,
+      "inv_prev": 5931258000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "far_eastern",
@@ -75,17 +75,17 @@
       "name": "南紡織",
       "ticker": "1440.TW",
       "currency": "TWD",
-      "ar": 1140768000,
-      "ar_prev": 1250666000,
-      "ar_qoq": "-9%",
+      "ar": 1278944000,
+      "ar_prev": 1140768000,
+      "ar_qoq": "+12%",
       "ar_period": "QoQ",
-      "inventory": 3248468000,
-      "inv_prev": 3299080000,
-      "inv_qoq": "-2%",
+      "inventory": 3118644000,
+      "inv_prev": 3248468000,
+      "inv_qoq": "-4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "hm",

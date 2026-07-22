@@ -1,5 +1,318 @@
 [
   {
+    "id": "adidas-2026-07-22-001",
+    "date": "2026-07-22",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Adidas stock trades near yearly highs as stronger earnings and margin expansion support valuation - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWZLQ3Y4cUk3ckxxMFl4NUo1TXV4T2x5SHpRdzNQNkVBU1ZlWXNlbUtEWlR6bUIyNGxQVTMxblJPRHd4YVdOZW43NVRtYmM1LUxQN3RzN2RxQjZlSnFCa3pxazJCVU1nOHJGbXRVMV",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWZLQ3Y4cUk3ckxxMFl4NUo1TXV4T2x5SHpRdzNQNkVBU1ZlWXNlbUtEWlR6bUIyNGxQVTMxblJPRHd4YVdOZW43NVRtYmM1LUxQN3RzN2RxQjZlSnFCa3pxazJCVU1nOHJGbXRVMVVnMmFjbFpqcXhObnFmeGtCTnd4TE1xRW8ycE0xMlMxZWJiRGs1RkUxblhZVGgyXzBXTXBsd2N3Zy14Smt5Y0JYUWc5UF84bjB2dENTV0hIRktVd3lGck9J?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-07-22-002",
+    "date": "2026-07-22",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Lululemon Athletica stock trades near its yearly highs as margins and revenue growth support valuati - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGVOSDlnTGk1RVpNNW94WFE3Unp5Z0dSV2xkUG9ZSEdqN19BOUxJN1hQbW1OX3VjeG9KNnItLXJyQXBsTVBPallQejY5alpVc1MyWGFaQ1A3Y2ZPVGwyR3pwUndXM2I1S0NuNy1rVz",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGVOSDlnTGk1RVpNNW94WFE3Unp5Z0dSV2xkUG9ZSEdqN19BOUxJN1hQbW1OX3VjeG9KNnItLXJyQXBsTVBPallQejY5alpVc1MyWGFaQ1A3Y2ZPVGwyR3pwUndXM2I1S0NuNy1rVzdEX3QwcG1HQVdQWFliZnI4WTVGblRBcnQ2Y1lkZ3hkWkYxeHpyQjZGODEwZTlCZUtkQXk4ZXd2QUZ6QmowbjRXS1hvc3ota05QNDg0YTMwVmpOUm5lVTdN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-07-22-003",
+    "date": "2026-07-22",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bank of New York Mellon Corp Cuts Position in lululemon athletica inc. $LULU - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFBjMEJVRmF2bWRzQ01xRnZvbHN5OE9JZmdyTjBXS1lCeWs3NUVsYTRJMXFjZzNrUXRxVzNHeV85SGs1dE5EQVNFM1hRN01KQUw1UTZjTDcyYmx3NzlWUlhnTm9TOUlWOHhmRFROUH",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFBjMEJVRmF2bWRzQ01xRnZvbHN5OE9JZmdyTjBXS1lCeWs3NUVsYTRJMXFjZzNrUXRxVzNHeV85SGs1dE5EQVNFM1hRN01KQUw1UTZjTDcyYmx3NzlWUlhnTm9TOUlWOHhmRFROUHA4bFRfTm0tdHBCZjczdG1zcGtaVDJJZG5pX0pQeEQ5QWdORTJyOFptMTlseTZJTjQtWUxHa0U5NUItX3U3MWFRWVFEbDJYUmU2NnhJTFFBZE5GUFMwU1pZN0V3NFpaV2Nr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-07-22-004",
+    "date": "2026-07-22",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fifth Third Bancorp Buys 29,601 Shares of PVH Corp. $PVH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEZ0QWJvbzhTWnhxc2duODczUTY4ME1Qd0lnUWtrU0ZSNzFpV3hTTHhBR2NXcUtPWlJQaC1XWUxDVjFoYnNmWENXbGVLZVE1OHlEQUJFT05KQ2NZVC05d20tVFBLdlVfbGpUUmhsTT",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEZ0QWJvbzhTWnhxc2duODczUTY4ME1Qd0lnUWtrU0ZSNzFpV3hTTHhBR2NXcUtPWlJQaC1XWUxDVjFoYnNmWENXbGVLZVE1OHlEQUJFT05KQ2NZVC05d20tVFBLdlVfbGpUUmhsTTNWZTNjazR1RjZTeG5BalhQZkxLVTdYQ0g2emNEWU91WnVjdDRwZDBVZGFKUzJIWFFvWERkeEhKYzZlWVVneUtSa2hEeno?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-07-22-005",
+    "date": "2026-07-22",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tommy Hilfiger Hoodie by PVH Corp - midrange staple boosts casual sales - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSzY1QTl1TWdoc3BYbktTbXY2aV9uMUZwRUlHaVNuSmZlTndXaVBqQ1ZPaHd3T3RPTm1uUDNjS0R0VnpBY1R2SmdtNDRnTGlvWUFnSXpHQ2JkSHhfdHdldms4YmY0Snd6aWs1NnJVWm",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSzY1QTl1TWdoc3BYbktTbXY2aV9uMUZwRUlHaVNuSmZlTndXaVBqQ1ZPaHd3T3RPTm1uUDNjS0R0VnpBY1R2SmdtNDRnTGlvWUFnSXpHQ2JkSHhfdHdldms4YmY0Snd6aWs1NnJVWmppdVptd0hXdHVpOF9jalZVX3lZZnJXWU50Mk1YcnYyNEgyal9MSGt3OUNWWEQtVFdLdHRtQnp4UTlrUE1KRVJDdDBLY2YycTJUNHJiVTIxdV9ZejRncm9v?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-07-22-006",
+    "date": "2026-07-22",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Artwork longer than Bayeux Tapestry turns heads - Gazette and Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZy1KejlsbVlHa1hUTjZjc2R2R3lTS2lwUnRlMTVnRW90Z1B6Y1libC1wNjgwQUJwWVFpWV91M1NxVl9Rb1AtTTJvTEdXakVEZ2xNeXNZZy1fdDIwTnFoT0VSUzNWcE91aVZKQU9wVm",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZy1KejlsbVlHa1hUTjZjc2R2R3lTS2lwUnRlMTVnRW90Z1B6Y1libC1wNjgwQUJwWVFpWV91M1NxVl9Rb1AtTTJvTEdXakVEZ2xNeXNZZy1fdDIwTnFoT0VSUzNWcE91aVZKQU9wVmttT0RhM1kzbG4ycHgwUzJ0WXJYWVVMRWRiazUzY1ZZZDkzUmktS1ZIai1hUG1kN0pm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-07-22-007",
+    "date": "2026-07-22",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "My heart was in my mouth watching the Bayeux Tapestry being moved - The Telegraph",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEFqTVFoRml4THlFME13N3ZRVG90REdTR0gxMDBEbjhoZ21DclA2ZFhWYklBYkQwT25vaDNObHZ3anl3SC1YOUdWN1lqN0lBZTgxdzlWT1ZuQkFjNW9SX0hnckg2cGlqaENWNmdZYW",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEFqTVFoRml4THlFME13N3ZRVG90REdTR0gxMDBEbjhoZ21DclA2ZFhWYklBYkQwT25vaDNObHZ3anl3SC1YOUdWN1lqN0lBZTgxdzlWT1ZuQkFjNW9SX0hnckg2cGlqaENWNmdZYWY1U3MycTFGWnJBY0U3dWsyeGhGQ0JZc0FmRzZSQg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-008",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Weekly price shock alert: Polyester feedstock - week ended July 17",
+    "summary": "MEG CFR Southeast Asia surged 25.93 per cent in the week to July 20 as Hormuz-linked disruptions tightened Gulf cargoes to Asia.\nPX and PTA also rose, but weak downstream textile demand limited polyes",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/weekly-price-shock-alert-polyester-feedstock-week-ended-july-17-311958-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-009",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Weekly price shock alert: Regenerated (MMCF) - week ended July 17",
+    "summary": "Pakistan's Modal 1.4D price rose 4.10 per cent in the week ended July 17, driven by energy and raw-material costs rather than currency weakness.\nIndia's Liva Eco yarn gained 3.33 to 3.70 per cent, whi",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/weekly-price-shock-alert-regenerated-mmcf-week-ended-july-17-311953-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-010",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India's DGFT proposes RCMC exemption for small export consignments",
+    "summary": "India's DGFT has proposed exempting export consignments with an FOB value of up to ₹10,000 from the requirement to obtain an RCMC under the Foreign Trade Policy 2023.\nIt aims to promote small-value ex",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-dgft-proposes-rcmc-exemption-for-small-export-consignments-311961-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-011",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "British International Investment unveils 2026-2031 Bangladesh strategy",
+    "summary": "British International Investment (BII) has launched its 2026-2031 strategy in Bangladesh, reaffirming its long-term commitment to supporting sustainable and inclusive economic growth in the country. \n",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/british-international-investment-unveils-2026-2031-bangladesh-strategy-311954-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-012",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "ICE cotton extends gains for second day on higher crude oil",
+    "summary": "ICE cotton futures extended gains for a second consecutive session, with the December 2026 contract settling 1.90 per cent higher at 80.42 cents per pound.\nStronger crude oil prices, successful Chines",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-extends-gains-for-second-day-on-higher-crude-oil-311956-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-013",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Trident's ₹100 cr innovation push redefines home textiles",
+    "summary": "Trident invested ₹100+ crore (~$12 million+) in R&D, backed by 17+ patents and 147 trademarks, strengthening India's home-textile innovation.\nFY26 EBITDA margins ranged from 9.1 per cent (Welspun) to ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/trident-s-100-cr-innovation-push-redefines-home-textiles-311945-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-014",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Weekly price shock alert: PFY (DTY & POY) - week ended July 17",
+    "summary": "India's DTY rose 3.15 per cent, outpacing China's 1.38 per cent gain as rupee weakness and QCO enforcement enabled full cost pass-through, while Pakistan stayed flat. \nIndia and China reached rare DTY",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/weekly-price-shock-alert-pfy-dty-poy-week-ended-july-17-311936-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-015",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "UV-resistant and fan-powered: India's next performance fabric frontier",
+    "summary": "Zeel Climate Clothing has shown summer apparel prototypes at Bharat Tex 2026 using UV-resistant, heat-resistant and moisture-absorbent synthetic fabric with fan-assisted air circulation.\nThe India-foc",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/uv-resistant-and-fan-powered-india-s-next-performance-fabric-frontier-311947-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-016",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Bangladesh’s $38.7 bn apparel exports hide 151 factory closures",
+    "summary": "Bangladesh’s RMG exports fell 1.64 per cent to $38.70 billion in FY2025-26, masking sharper mid-year weakness.\nOfficial and association data identify 151 textile-apparel factory closures amid wider in",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-s-38-7-bn-apparel-exports-hide-151-factory-closures-311909-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-22-017",
+    "date": "2026-07-22",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike Terminates Topsports' Online Distribution Rights – Latest Official Announcement - 36 Kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE40Z1M4QjdhNUtPOWxCa1E2OVgxM2pGRUpaTGNtUnFKZ3hXak5jVFZ5Ry1YMkxrU2FEZDM4SE1XSG12TnNkNDB3VDhrZlJXRGlmcVlR?oc=5\" target=\"_blank\">Nike Terminates",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40Z1M4QjdhNUtPOWxCa1E2OVgxM2pGRUpaTGNtUnFKZ3hXak5jVFZ5Ry1YMkxrU2FEZDM4SE1XSG12TnNkNDB3VDhrZlJXRGlmcVlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lululemon-2026-07-21-001",
     "date": "2026-07-21",
     "companies": [
@@ -126,6 +439,80 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1g4eGdCaVcwelNqSEU0WDFSajctZTN4ckJaRW1naW9KWndUZGZEM0kwSU5QTm14eVNqVkpNY3djQjZDcGhHY0FObGxEM1k1dTVYTW4tckt2T05zWnZBTldQd3ZtSkNyZ2N1c3hFbVZwbjNKNEE3WWtMaU1Rb3ZKYnVfeVlXOGIwWGR1VGJmV0QxdXhXcW03bURHai1adXFYRkp3X21hdFN0QVVXZ29Cb1RQaWxNaGtIUHpIRDh6QXJ6ODVveW9DTlJCWVlpZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-008",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FCFC stock remains supported by chemical demand as earnings stabilize - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRmJNdGtHUFdFcDB1LXZLc1NSZlV3ZHBUUW9DS3RTN0kySWZIZE9sYnVnek5DeEJYRW02RXhvSG9HLUhkYmdDWlJjVGJVZW5iY2xDZ2xuclctYTV2SUhMZEhGOV9BcjRtS2xoRGF6UG",
+    "sources": [
+      {
+        "name": "far_eastern",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRmJNdGtHUFdFcDB1LXZLc1NSZlV3ZHBUUW9DS3RTN0kySWZIZE9sYnVnek5DeEJYRW02RXhvSG9HLUhkYmdDWlJjVGJVZW5iY2xDZ2xuclctYTV2SUhMZEhGOV9BcjRtS2xoRGF6UG1URjV2SzlSQXNLYjFMLUtMVXJxZmVoTjhVZjRUcFA0OHpVcjdrSU5TUkEzLXVkMmVDcEVIdXZ0ZDU3dUYzenVKV3hQa3BXOGJyczdkVEc2cS01bmo5QzdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eclat-2026-07-21-009",
+    "date": "2026-07-21",
+    "companies": [
+      "eclat"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Eclat stock holds steady as 2025 results frame the outlook - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXFBdnlGalNQWGdQTVNSN204RGxhbk5rdk5Oc21lQXI5cWY3M0o4RXViTnp6a2dVZnZwREdobkl1UEcxaDF6NE16RnRXY2E3bDdxSlJMYlBYUUl6SWV0N1pHdnRwR2h6TUFRWDFkWW",
+    "sources": [
+      {
+        "name": "eclat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXFBdnlGalNQWGdQTVNSN204RGxhbk5rdk5Oc21lQXI5cWY3M0o4RXViTnp6a2dVZnZwREdobkl1UEcxaDF6NE16RnRXY2E3bDdxSlJMYlBYUUl6SWV0N1pHdnRwR2h6TUFRWDFkWW1KcUxuSG9aaVpIc2ljYXo3TVVMUEF5YTYxRVZQa3FkMzIwSXlFRERtRnNVZzE1RnJRS3psZ2lKc2xKWDNUVnM4TXZwdDktaWhi?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-07-21-010",
+    "date": "2026-07-21",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VF Corporation stock trades lower as turnaround plan meets mixed market reaction - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPbktVdThRdk8xOUJBVDYxQjlGTmRJZjdLZzVRM09WVzUzX0pTYm9WS3E3M013S1hncW5RZE9OMWhudGRfUXU2Nm5XZDFHSC1SNVNNVkY0bkFwbzFYbUdhR010aE5SQlAybzd5ZjFVY3",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbktVdThRdk8xOUJBVDYxQjlGTmRJZjdLZzVRM09WVzUzX0pTYm9WS3E3M013S1hncW5RZE9OMWhudGRfUXU2Nm5XZDFHSC1SNVNNVkY0bkFwbzFYbUdhR010aE5SQlAybzd5ZjFVY3dHcExmSlczbXRCODVBVGdfek1OcWc5bWI4Q09aelV1aUwzR2J6a2ZDc2dDTm02NlZNODQ4N1lKVHJJWGpETjZ1bE9Bd2txRG9QTjRSWUk1dERKS3dwUF8yXzF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-07-21-011",
+    "date": "2026-07-21",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NY-TAPESTRY/KATE-SPADE - Black Hills Pioneer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXAzNXVkTlJzWU9saS1nbWJid0VqU1NjeTljVUN6Nmd2aUhybHlyRjBtZHBXWGVIdWhFMEtRZGYya0hsaVFTeGtZLVZFMlZwT1RiZkNvWmJucHJuekJHSGtpcGU5VHNuVWhDVXdWQn",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXAzNXVkTlJzWU9saS1nbWJid0VqU1NjeTljVUN6Nmd2aUhybHlyRjBtZHBXWGVIdWhFMEtRZGYya0hsaVFTeGtZLVZFMlZwT1RiZkNvWmJucHJuekJHSGtpcGU5VHNuVWhDVXdWQnllb0FxcDJzS2dYZWFYREptWjU5MDYwaS1va05PRzd2X1RqWGI4a0dBc1Zoc0tzWmg1dnRzQWxDcFVJeVhFcW5R?oc=5",
         "type": "rss"
       }
     ]
@@ -457,6 +844,24 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdTNZWHNJdTVxZ0VmWjZKVGZITTItUHdQMUFOYW1aYmkzVTJxR0taQy1LOVFOYjAwOURZUjZGR1JzVDJyOHpBenpFcUZ5Z2l2dmNQeXU2U1JVdXYwcGRmVTcyeGg3UjFvZWs1c0o3cW5DdzJJWnE0akZwSUIyMEU3RUt5VXVvR3pUaXpJdHlEZzZmZVNBTllZMlNUSTZ6NERCMmN3VGpEUXFsblpEZHZZWnd2VlloZUtibm90Z25QWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-07-20-019",
+    "date": "2026-07-20",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas AG: Release of a capital market information - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPanFlWnVGekFjYlIyVTFBMGc0eUNiVzJvaDIxR0xjeEZzR1FaSEJIM0xNcTR6STlyTGluNS1LZkpUZ3F1X3JRQ09QZk1jZklwRWpEUi0zSzF3NWZHaTdEOUY5eHA1SnpVWHA1ZWdBWU",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPanFlWnVGekFjYlIyVTFBMGc0eUNiVzJvaDIxR0xjeEZzR1FaSEJIM0xNcTR6STlyTGluNS1LZkpUZ3F1X3JRQ09QZk1jZklwRWpEUi0zSzF3NWZHaTdEOUY5eHA1SnpVWHA1ZWdBWUJaY0JNQ1pJbThkcE5fZnVaTjdYVUl6emRyNHlZbVlkd2h4ZEZNcl85MmJSemZQVllMZk0tUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1672,6 +2077,26 @@
       {
         "name": "far_eastern",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkxRYjAzNUJkMlVhMFhRUThWTzNwd25RdHRSenFHWk1vRWFidXc4cFdJS0tmUGdtUGdVTzI4N01MRVpHQkw1Ti02RFVMaS1qYUUzRzJ2QldLWUx5cnJrSUY4b0EzMlRwbi0yYXBoLTd0RzhsaGNfenFZckZRbjdQa0pBelBHVTROV3Z5MUc0Q1dyWHdud09peHdldWdoWjVGTTFxR0V5a0c1Q2ZvVEFDbmhzakdfRlFhemJVMzl1REdSN194ZjJrNkFva2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-07-16-023",
+    "date": "2026-07-16",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "Lululemon Stock Is Down 43% in 2026. A Lower Valuation Doesn’t Fix Its Problems. - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVAtR0xQOHNsYk9QNXZadWFxcFlCYUJ3RE5RYTl5ODZ4VlR5aWhFaDk3V3FGeFA2V3hxX3FFalM2OUFmV2xydHBPS1ZjVjZWVV96cERlM3NNU0I5ZmhiMUw3eWJESG4zUnc4V3lwdl",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVAtR0xQOHNsYk9QNXZadWFxcFlCYUJ3RE5RYTl5ODZ4VlR5aWhFaDk3V3FGeFA2V3hxX3FFalM2OUFmV2xydHBPS1ZjVjZWVV96cERlM3NNU0I5ZmhiMUw3eWJESG4zUnc4V3lwdllOVHVKYWNSM2dWalpTS3dqcEYwU1IxM3dpOUFCYndmMmVkMVVHd1pGYw?oc=5",
         "type": "rss"
       }
     ]

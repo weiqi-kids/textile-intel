@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 97,
+  "no_date": 0,
+  "too_old": 213,
+  "gate1_fail": 39,
+  "gate2_fail": 33,
+  "passed": 23,
+  "gate2_samples": [
+    "FENC and Studio Smoll Win 2026 iF DESIGN AWARD, Redefining Sustainable Living with Circular Design I",
+    "Shenzhou International Group Holdings Stock Advances 4.5% in Hong Kong - Moomoo",
+    "Goldman Sachs Remains a Buy on Shenzhou International Group Holdings (SZHIF) - The Globe and Mail",
+    "Nike to end online distribution with Topsports, seen as positive for Adidas and Puma - Investing.com",
+    "$Nike (NKE.US)$ $adidas AG (ADDYY.US)$ - Moomoo"
+  ]
+}
