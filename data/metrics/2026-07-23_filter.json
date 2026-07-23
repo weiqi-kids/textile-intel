@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 214,
+  "gate1_fail": 37,
+  "gate2_fail": 30,
+  "passed": 30,
+  "gate2_samples": [
+    "FENC and Studio Smoll Win 2026 iF DESIGN AWARD, Redefining Sustainable Living with Circular Design I",
+    "Shenzhou International Group Holdings Stock Advances 4.5% in Hong Kong - Moomoo",
+    "$Nike (NKE.US)$ $adidas AG (ADDYY.US)$ - Moomoo",
+    "Adidas Shares Edge Out Nike Even Before World Cup Final - Bloomberg.com",
+    "Nike to end online distribution with Topsports, seen as positive for Adidas and Puma - Investing.com"
+  ]
+}

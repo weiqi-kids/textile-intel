@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:11:12.702107Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-07-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas stock trades near yearly high as profitability improves - Ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzVGZFpYRTR0VHF6dXAtcThiTmtpYVdDaTI3R3ZBMndmX2xRLVRuaXlRSE1ZQUdkTTNiblpRSWwtNmFJY0w4MTMxX3N6SUFQblU5Y092SDZzUGt2Sjl4ZjVJQURqbkVqNWphd21ZRUNDbEIwYnN6MjQ0TEhwMXByNG52OTZlV0lwNF81QkR4dTgwUjJwc25aR2hOc21sZHhfbl9kamNlRVRENUN0a1p4SDRUY0RWOUVqYUVWczlR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-23-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s Arvind Fashions’ Q1 revenue jumps as direct sales strengthen",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-s-arvind-fashions-q1-revenue-jumps-as-direct-sales-strengthen-311989-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-07-23-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Key facts: Nike to cut most third‑party sellers in Greater China; Q4 Greater China revenue down 12% - TradingView",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMGV0TFA2NVMtdkFrQkVlWE5iN3hLSEZsUF9UTm9zVnlTSDE0bkxqTjZLS1ByOHpxTmc5Y2hsWlgySnBwbThMWVVIUGZFWWkwSXJ3TjBsV3F2Rnc5c3BrR2ZHQnFGZElrWkR6dm5BOXNFSk9ETm9jamVKMV9CT0VFeHEwd3Y1dkhOMURQajNiWWRkMENxRHVMLUdJUFA4bVVzdk15Y01TZU1tZE1XQkpoaGQ2bVRfMlJpc1VhbkpkSjU3aXpZT3VLc3BaOVNRM1FOU2laNldrMFZWRkxjTmlCWjBJUzJ4dDlGcE52bEFSRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-07-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Swiss National Bank Boosts Stock Position in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFluRTFkSDhNeTR3YWY1eXFKTUt1TU1kcVJBVTRBVHlYeHhSTlNrdU5QaXNmRnBBTEFwQXFKanNOWXppQ2ZTd1ZwcUdqRHIxVGh3TEpRSkM1b3RwUUJIZjRTQTZBVlNYVjNnSV9WYUdqRFloMTdhRXNHZmZ2U3kwbmRhdkNoal9uSUgxVnRmYmJjblpxTHpTQ1pkUUJsQmNKVS1GRng1VFp5aU5LOGtDd0paRlJPLXIwdkM2clNsQ01vcG9GbTVyVlY1Z1JWZ28?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-07-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "lululemon athletica inc. $LULU Stake Lessened by Meeder Asset Management Inc. - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeXkxY0pGMmpkcE5hV3NnQ0YtaHVGTDBLT1ZCTmhkWm55NVIzaGtyQnIwclpfcXVQME1kSF9RTUsxRmp3VENOSFBFVjBFRGx1SGJEaUFlNFZrTEhmTkxSTDQ3aFpENEJQRHItRVBycmVyeUNLajdZMGMyZFZwWDlWNnd6ZHZPcVpXeDdFNVF3X0REZzMwZ2o2dXpVS0xINTk0TGZKNVJIU19nX05VM2JFZkhWclotOTloWk1hLTVEYjFjMmx0MVpwUTlDYkQzMF9O?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 3
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 93,
+    "too_old": 214,
+    "gate1_blocked": 37,
+    "gate2_blocked": 30,
+    "passed": 30,
+    "pass_rate": "9.6%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "FENC and Studio Smoll Win 2026 iF DESIGN AWARD, Redefining Sustainable Living with Circular Design I",
+      "Shenzhou International Group Holdings Stock Advances 4.5% in Hong Kong - Moomoo",
+      "$Nike (NKE.US)$ $adidas AG (ADDYY.US)$ - Moomoo",
+      "Adidas Shares Edge Out Nike Even Before World Cup Final - Bloomberg.com",
+      "Nike to end online distribution with Topsports, seen as positive for Adidas and Puma - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Lululemon、Coach、耐吉相關動態：「Adidas stock trades near yearly high as profitability imp...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Adidas stock trades near yearly high as profitability improves - Ad-hoc-news.de（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "India’s Arvind Fashions’ Q1 revenue jumps as direct sales strengthen（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 10 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
