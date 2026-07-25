@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:26:57.933585Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-07-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas stock trades near year high as 2025 earnings and Olympics sponsorship support valuation - AD HOC NEWS",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeEQyVmlmalo1UU12empKNUdmLWhuMGZ2TTlkdWRNdzFyOXZIb19MVnc2S1NjZm80cFNPMEtpZnhKSFB4b1FzMFd0c3UtclhBQl9vMnZJMmxOWWt4dll3blFlRWNCTnhjY19uM3Zvb2prVUJXTWE1RG1ONVRiaWt5d2ZON0lNNUk5emQxYU5pMjlMZTNITmV1TmlLVEh6SWd4T0RuOE9CSnRrZ1pOYjh1d2NuaHY5UkliOWRzQjRZRC0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-07-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon Athletica stock trades steadily as recent earnings and margin trends shape investor focus - AD HOC NEWS",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdU5sVzQ2OXd1WGxyM1ZKLUM3Y2ZKZGhNdHYyVGl6bFVqZ1FpLTd6U0JNTGFQc3d0Q1hDMVpyd0RDdl9fTlVZdkc0RHRXZGlVa2owZW9hRkd0TFFxdFpmRnNHemdnVmdmSWtES3hSR0IxOGExUW9sQVF0NlZZdzh6X3dWeGdTV3pBT3RvSXgtYjlLX1pKb25lUjlJajFveVpqX3prNWtKTWxFd0FNQktKLXRjMkdqZE52SVhUcTMzTlhVZFBsUnJRNTFn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Australia’s Q2 2026 GDP outlook softens but risks stabilise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.17
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/australia-s-q2-2026-gdp-outlook-softens-but-risks-stabilise-312055-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-25-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US’ Deckers Brands crosses $1 bn Q1 revenue as HOKA, UGG grow",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-deckers-brands-crosses-1-bn-q1-revenue-as-hoka-ugg-grow-312076-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-07-25-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike stock holds ground as futures demand offsets softer North America revenue - AD HOC NEWS",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUlYxRkdMc1ExMnpySXVYVlNMNU9FSzZQejYybFl0aEtSQ1BPQkhvbWpPamRCQkJIOVZKZFJMa2VaVk1jNnFrVTZVNmR5b1ZhMGtsNTJjWjl5RG5FTXlPTzFJTzJWSDdKTEtnd2VvRjZyV2hDWUVESW1oZ0M3UEowVFJpV2dKQ01zQWo0RTNXa2I3YndheUFqZ19kcWVBWU5YdEZiaTZnWmoxZ2stOFJETFZwdHg5VjFtVmV3SjJQVS1XQVZocE5SRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 106,
+    "too_old": 215,
+    "gate1_blocked": 39,
+    "gate2_blocked": 23,
+    "passed": 20,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "FENC and Studio Smoll Win 2026 iF DESIGN AWARD, Redefining Sustainable Living with Circular Design I",
+      "Shenzhou International Group Holdings Stock Sheds 1.2% in Hong Kong - Moomoo",
+      "Price to book forward of Makalot Industrial Co., Ltd. – TWSE:1477 - TradingView",
+      "$Nike (NKE.US)$ $adidas AG (ADDYY.US)$ - Moomoo",
+      "Brainsway and Lululemon athletica have been highlighted as Zacks Bull and Bear of the Day - Yahoo Fi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Lululemon、愛迪達、Coach相關動態：「Adidas stock trades near year high as 2025 earnings and O...」。主要關注主題為供應鏈轉移、法說會、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Adidas stock trades near year high as 2025 earnings and Olympics sponsorship ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lululemon Athletica stock trades steadily as recent earnings and margin trend...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

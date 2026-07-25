@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 39,
+  "gate2_fail": 23,
+  "passed": 20,
+  "gate2_samples": [
+    "FENC and Studio Smoll Win 2026 iF DESIGN AWARD, Redefining Sustainable Living with Circular Design I",
+    "Shenzhou International Group Holdings Stock Sheds 1.2% in Hong Kong - Moomoo",
+    "Price to book forward of Makalot Industrial Co., Ltd. – TWSE:1477 - TradingView",
+    "$Nike (NKE.US)$ $adidas AG (ADDYY.US)$ - Moomoo",
+    "Brainsway and Lululemon athletica have been highlighted as Zacks Bull and Bear of the Day - Yahoo Fi"
+  ]
+}
