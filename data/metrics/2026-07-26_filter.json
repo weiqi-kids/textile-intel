@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 214,
+  "gate1_fail": 40,
+  "gate2_fail": 24,
+  "passed": 12,
+  "gate2_samples": [
+    "FENC and Studio Smoll Win 2026 iF DESIGN AWARD, Redefining Sustainable Living with Circular Design I",
+    "Shenzhou International Group Holdings Stock Sheds 1.2% in Hong Kong - Moomoo",
+    "Price to book forward of Makalot Industrial Co., Ltd. – TWSE:1477 - TradingView",
+    "$Nike (NKE.US)$ $adidas AG (ADDYY.US)$ - Moomoo",
+    "Delta Global Management LP Takes Position in lululemon athletica inc. $LULU - MarketBeat"
+  ]
+}

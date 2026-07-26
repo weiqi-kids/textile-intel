@@ -1,5 +1,99 @@
 [
   {
+    "id": "formosa_taffeta-2026-07-26-001",
+    "date": "2026-07-26",
+    "companies": [
+      "formosa_taffeta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Formosa Taffeta Co., Ltd. Revenue Breakdown – TWSE:1434 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFAwSzY2eUJCR2ZyaGZ2em5uaDhVM3lwNFdYazZLWmJ3ZlgySVBsM2txalp5aVoyNi13cWt1TXR6akRJNjVJZktBTndVNjM5emxyNWNmczBCNmdxeXN6bXF5VnAwVDVfQl92bEhiTkthdz",
+    "sources": [
+      {
+        "name": "formosa_taffeta",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwSzY2eUJCR2ZyaGZ2em5uaDhVM3lwNFdYazZLWmJ3ZlgySVBsM2txalp5aVoyNi13cWt1TXR6akRJNjVJZktBTndVNjM5emxyNWNmczBCNmdxeXN6bXF5VnAwVDVfQl92bEhiTkthdzVUSnd0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-07-26-002",
+    "date": "2026-07-26",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VF Corporation stock trades quietly as investors weigh Vans turnaround and cost actions - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOTGluLTdscDVsNURISU9nSVdrSjNjX05ROGxOQUtNVkNEZmQzLXFrN1pTLW1mSTNkWGNaOVhIdC15VlZULThuS2M4OEFndHV4c2V5UUxERTFRaFJHNE52cEJXLU9SNkhWbGlpeV83dn",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTGluLTdscDVsNURISU9nSVdrSjNjX05ROGxOQUtNVkNEZmQzLXFrN1pTLW1mSTNkWGNaOVhIdC15VlZULThuS2M4OEFndHV4c2V5UUxERTFRaFJHNE52cEJXLU9SNkhWbGlpeV83dnc2SmpzczdBX2FXTXo2OU92Z21udmZSNXB2emJDTkJzR1hQdHZVLXlUMk9kVHJCOF9UUGVXaHp3UHlzT1kyNUI4c1hTLVpzYjR6SERUV3pBd1hsSnl6TjA4NnJVTktvUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-26-003",
+    "date": "2026-07-26",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Firms constrained by capital, weak governance, dated tech: Vietnam PM",
+    "summary": "State-owned Vietnamese companies operate with modest efficiency, sluggish investment and limited collaboration, while private firms are mostly small and medium in size, constrained by capital, weak go",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/firms-constrained-by-capital-weak-governance-dated-tech-vietnam-pm-312083-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-26-004",
+    "date": "2026-07-26",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why this analyst calls Nike’s China pivot a high-stakes gamble - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUpuR0xUcFdVQmtKekpxQzhLZ0FidndvUDg2VnV1Y24zSHpva1dmMEFLMW51YzZkVllTWUR0MV9Jd0xwSEpIdW1IRld4VjdxTEt6NjVzMko4b1FSZEpJdDllc1RxNjhiUUFFbVdEZ2",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUpuR0xUcFdVQmtKekpxQzhLZ0FidndvUDg2VnV1Y24zSHpva1dmMEFLMW51YzZkVllTWUR0MV9Jd0xwSEpIdW1IRld4VjdxTEt6NjVzMko4b1FSZEpJdDllc1RxNjhiUUFFbVdEZ2NYSzNGZExDT3FaN2l0RkFNMDhMOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-07-26-005",
+    "date": "2026-07-26",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike stock trades steadily as investors weigh recent earnings and valuation - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUJHNGpsRm1yMFBoVlN0dXJPS2NnVTdtYWg0cDE4cHpZMFFZR3JHMEhPaVJ1ZlZ5YlIzaGM4MXRCV080UDVaU01YVkV6RGhpcVdTU29waThCSnpxQlk0SlVHc3BMWC1IQjU0bW5CVk",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUJHNGpsRm1yMFBoVlN0dXJPS2NnVTdtYWg0cDE4cHpZMFFZR3JHMEhPaVJ1ZlZ5YlIzaGM4MXRCV080UDVaU01YVkV6RGhpcVdTU29waThCSnpxQlk0SlVHc3BMWC1IQjU0bW5CVkpqLW1icHY5bnU5UVNpaXQwR3d1N1htWTZvb014bnZEb1dFYXd6QVI3LXEtYl9DRGI5aXE1LU5kRkp5eFFDUGlMV0pMSjlEcnNMS3lWS1NhT3Zydw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-07-25-001",
     "date": "2026-07-25",
     "companies": [
@@ -237,6 +331,104 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUlYxRkdMc1ExMnpySXVYVlNMNU9FSzZQejYybFl0aEtSQ1BPQkhvbWpPamRCQkJIOVZKZFJMa2VaVk1jNnFrVTZVNmR5b1ZhMGtsNTJjWjl5RG5FTXlPTzFJTzJWSDdKTEtnd2VvRjZyV2hDWUVESW1oZ0M3UEowVFJpV2dKQ01zQWo0RTNXa2I3YndheUFqZ19kcWVBWU5YdEZiaTZnWmoxZ2stOFJETFZwdHg5VjFtVmV3SjJQVS1XQVZocE5SRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-07-25-014",
+    "date": "2026-07-25",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toray Industries, Inc. Revenue Breakdown – FWB:TOR1 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE4xRm0yWEg5dGxTMEVpbUpRcUlyRFVieHBRLVA5TXdXdHV2cjllREtwZ3BRNy1DeFBZRkd4YllJZGcyWEc0RWN3YlA5Q29OTHJFQ0F6UThRR201TE5uQzhJN09iMWZhZGExUk44Z2hEeE",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xRm0yWEg5dGxTMEVpbUpRcUlyRFVieHBRLVA5TXdXdHV2cjllREtwZ3BRNy1DeFBZRkd4YllJZGcyWEc0RWN3YlA5Q29OTHJFQ0F6UThRR201TE5uQzhJN09iMWZhZGExUk44Z2hEeE1jYkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenzing-2026-07-25-015",
+    "date": "2026-07-25",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Lenzing AG – BX:LEN - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3JoUWV4cjk5ZkdBX0lrdWNUWkhrYXZ2R3pubHk1OEI1YU9LemFFcFlvalNmUE9pUncteHAxalc1N3ROd1dhM19jMU5jTWZqUndITy1sUFkwdG9EMDJqVmZzWlVxanc3YWl3WnBZVk",
+    "sources": [
+      {
+        "name": "lenzing",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3JoUWV4cjk5ZkdBX0lrdWNUWkhrYXZ2R3pubHk1OEI1YU9LemFFcFlvalNmUE9pUncteHAxalc1N3ROd1dhM19jMU5jTWZqUndITy1sUFkwdG9EMDJqVmZzWlVxanc3YWl3WnBZVkdhc1JRWVBDclpZR0dZaFRWcXdKczNfdU1jbTZRTnFvd2lmVzZjeGtaNlVvVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lealea-2026-07-25-016",
+    "date": "2026-07-25",
+    "companies": [
+      "lealea"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LeaLea Enterprise Co., Ltd. Revenue Breakdown – TWSE:1444 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBVN29XaGpYN1lHYmx4WVEyWEtIazJuUklhN2ZwTE9ZSG1ERlZ4ZXd4MURFcVNNVUpUX1MyY0F5cUdxQndhWnFPUFpCSFB5Ym1lNV9tMjhRSnROdVdkYkVvQjFjZzdjSkV4M2pGd1psem",
+    "sources": [
+      {
+        "name": "lealea",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVN29XaGpYN1lHYmx4WVEyWEtIazJuUklhN2ZwTE9ZSG1ERlZ4ZXd4MURFcVNNVUpUX1MyY0F5cUdxQndhWnFPUFpCSFB5Ym1lNV9tMjhRSnROdVdkYkVvQjFjZzdjSkV4M2pGd1psemNxNjVZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-017",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "V.F. Corporation Revenue Breakdown – LS:857621 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5Rd0JPR0d1eGxiZjh3T1Z6UTlvLWN6YlBneTc1T0JMYl9idmRjSEF5Zi1RTWg0ZVg4TWwtUjRMWHB3TUJ4LWZjRW9rQnRGQ0ZjSi1faW00S0xFMkFUOXBHekVJNkdxbGw5VFF2TlAtX0",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Rd0JPR0d1eGxiZjh3T1Z6UTlvLWN6YlBneTc1T0JMYl9idmRjSEF5Zi1RTWg0ZVg4TWwtUjRMWHB3TUJ4LWZjRW9rQnRGQ0ZjSi1faW00S0xFMkFUOXBHekVJNkdxbGw5VFF2TlAtX0gzVG1I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-07-25-018",
+    "date": "2026-07-25",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PVH Corp. Revenue Breakdown – BX:PVH - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaQUx1VWh3QWZwcmJzSGN1WmR0Q3lEZHRNcDYwWFpvZjA0YTVxWVJ1MC1JWFhEdk1SWDNIU0Ftd0dxOVdPb3NEd0czcElMOERQbkc1SVRmYWFuMTNnOTdKU1lBWUlyVVpvQ05TazBleU",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaQUx1VWh3QWZwcmJzSGN1WmR0Q3lEZHRNcDYwWFpvZjA0YTVxWVJ1MC1JWFhEdk1SWDNIU0Ftd0dxOVdPb3NEd0czcElMOERQbkc1SVRmYWFuMTNnOTdKU1lBWUlyVVpvQ05TazBleU8?oc=5",
         "type": "rss"
       }
     ]
@@ -1459,6 +1651,42 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVkNEZXBMV3FXQktMeHJQU2JSYnU5SHM3MWp4cERnRzgzazNVZzZxOXRTajVkUmtwR2huVFNqYml4dXdCakk1RlRCUFBGcWM0UkdSeWdFWmtKWk05QjAtZjhYZ0gtNFIzYU1FMFJ3VEswWXhuZ2Z0RC1ZdUdFQVF1UElQWms0RlFUSHU0VVVBRzg0MWpZcVNHNW9RUjRjTEVCVDNYUk0yeVAwRUJpZ084dlQzWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-07-22-026",
+    "date": "2026-07-22",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Lululemon Athletica (LULU) Stock Is Down Today - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHF4c05uR1ZlQ0N0aUI1Q2lGeUdLcHNGcmNUb0szMVdHdVJlai12Y095VjR5QTU2U0FEWHByamhUVU16dmJiNjVHdEJjQ2FlcFFiMVI5Nmh0dmMyUDJfaTBEVURTRW1PRjk3aUx4Z3",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHF4c05uR1ZlQ0N0aUI1Q2lGeUdLcHNGcmNUb0szMVdHdVJlai12Y095VjR5QTU2U0FEWHByamhUVU16dmJiNjVHdEJjQ2FlcFFiMVI5Nmh0dmMyUDJfaTBEVURTRW1PRjk3aUx4Z3RjZ1dJU01YTl8wbWx0Zl9Zb1ljWU9GS2ZKWXlqeWJMdFA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-07-22-027",
+    "date": "2026-07-22",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Corp. (PVH) Stock Forecasts - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnltTFgyQm9VLWc5VVI1U3Z1UEp1cG1WcmhFOHk3cXNJQzlneWp6RXVDMmQ3SVAwY2g5RzlPdVJEaHdfTzRTZTFyS0FPenVJZk9pc1BwTkRvQV9MQXRlb2tEeDVPTWI1X29jOUlHSm",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnltTFgyQm9VLWc5VVI1U3Z1UEp1cG1WcmhFOHk3cXNJQzlneWp6RXVDMmQ3SVAwY2g5RzlPdVJEaHdfTzRTZTFyS0FPenVJZk9pc1BwTkRvQV9MQXRlb2tEeDVPTWI1X29jOUlHSmtDOUI1Qmh4UmlhSVJJUHZta051dXNrQVB6WEdLWUJkVQ?oc=5",
         "type": "rss"
       }
     ]

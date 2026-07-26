@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T09:50:59.844233Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "formosa_taffeta-2026-07-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Formosa Taffeta Co., Ltd. Revenue Breakdown – TWSE:1434 - TradingView",
+      "companies": [
+        "formosa_taffeta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwSzY2eUJCR2ZyaGZ2em5uaDhVM3lwNFdYazZLWmJ3ZlgySVBsM2txalp5aVoyNi13cWt1TXR6akRJNjVJZktBTndVNjM5emxyNWNmczBCNmdxeXN6bXF5VnAwVDVfQl92bEhiTkthdzVUSnd0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-07-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike stock trades steadily as investors weigh recent earnings and valuation - AD HOC NEWS",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUJHNGpsRm1yMFBoVlN0dXJPS2NnVTdtYWg0cDE4cHpZMFFZR3JHMEhPaVJ1ZlZ5YlIzaGM4MXRCV080UDVaU01YVkV6RGhpcVdTU29waThCSnpxQlk0SlVHc3BMWC1IQjU0bW5CVkpqLW1icHY5bnU5UVNpaXQwR3d1N1htWTZvb014bnZEb1dFYXd6QVI3LXEtYl9DRGI5aXE1LU5kRkp5eFFDUGlMV0pMSjlEcnNMS3lWS1NhT3Zydw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vf_corp-2026-07-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "VF Corporation stock trades quietly as investors weigh Vans turnaround and cost actions - AD HOC NEWS",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTGluLTdscDVsNURISU9nSVdrSjNjX05ROGxOQUtNVkNEZmQzLXFrN1pTLW1mSTNkWGNaOVhIdC15VlZULThuS2M4OEFndHV4c2V5UUxERTFRaFJHNE52cEJXLU9SNkhWbGlpeV83dnc2SmpzczdBX2FXTXo2OU92Z21udmZSNXB2emJDTkJzR1hQdHZVLXlUMk9kVHJCOF9UUGVXaHp3UHlzT1kyNUI4c1hTLVpzYjR6SERUV3pBd1hsSnl6TjA4NnJVTktvUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Firms constrained by capital, weak governance, dated tech: Vietnam PM",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/firms-constrained-by-capital-weak-governance-dated-tech-vietnam-pm-312083-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-07-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why this analyst calls Nike’s China pivot a high-stakes gamble - Yahoo Finance Australia",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUpuR0xUcFdVQmtKekpxQzhLZ0FidndvUDg2VnV1Y24zSHpva1dmMEFLMW51YzZkVllTWUR0MV9Jd0xwSEpIdW1IRld4VjdxTEt6NjVzMko4b1FSZEpJdDllc1RxNjhiUUFFbVdEZ2NYSzNGZExDT3FaN2l0RkFNMDhMOA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "formosa_taffeta",
+        "count": 1
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 115,
+    "too_old": 214,
+    "gate1_blocked": 40,
+    "gate2_blocked": 24,
+    "passed": 12,
+    "pass_rate": "4.1%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "FENC and Studio Smoll Win 2026 iF DESIGN AWARD, Redefining Sustainable Living with Circular Design I",
+      "Shenzhou International Group Holdings Stock Sheds 1.2% in Hong Kong - Moomoo",
+      "Price to book forward of Makalot Industrial Co., Ltd. – TWSE:1477 - TradingView",
+      "$Nike (NKE.US)$ $adidas AG (ADDYY.US)$ - Moomoo",
+      "Delta Global Management LP Takes Position in lululemon athletica inc. $LULU - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為耐吉、Formosa Taffeta、VF相關動態：「Formosa Taffeta Co., Ltd. Revenue Breakdown – TWSE:1434 -...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Formosa Taffeta Co., Ltd. Revenue Breakdown – TWSE:1434 - TradingView（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nike stock trades steadily as investors weigh recent earnings and valuation -...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
