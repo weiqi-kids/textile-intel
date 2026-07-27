@@ -1,0 +1,227 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:01:30.256362Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: Unchanged guidance and continuation of share buyback - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkVRSy1xSmhtalpSY2lBUFBxNTBJYkgzYmdFcGRlN3JvWi1VeUNnN25KOWZaUW5hSzRsMERjd2p6ckg3VzA5aW5uelhNQ1ZmOWszUzAzcEtqbFNZbTZ6emd1aU5mWk14X2JsQUh1NlkxMmFiZy1ZT1lrdmlONjdTd2drVVRzdWFIbWNVaDI5ZGtudWQxT2FiQjZ0bGxSY1R5alFIaG5kUFdkRG41YWZ6Rml5bUVsSEdoeGQtQk82WnM2TkVONXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China's industrial firms' H1 profits rise 18.7%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/china-s-industrial-firms-h1-profits-rise-18-7--312088-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "adidas-2026-07-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas stock trades steady as investors weigh margin recovery and China rebound - Ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHo2NjE4bkFXRXQybjR1RE84ZnlfWFREVk1HQnUzS3JaT0dLVmNRN01TMTdYeWZFTFg5ODR4Y1I3LW04TmYxOU9UaVJ2cTA1UWZLbVhxeWRKc1ZUbkU2YUNoUDJ2Ri01Y0hOTzZfeTlmNHlTMEF1MWlXdER4UVpxYkduODRBb1A2MlpVRFQ5ZGR2ckNrdjFuOFRubklaa1FENnJ5dW84M2kyeWV6bDdEVERHVC12VFFEVU42QTNCbjZHOFZjMEg4d2hR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-07-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "lululemon athletica inc. $LULU Shares Sold by Bank of Nova Scotia - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVNOc1RLaEdkZ0lyY3A2ZkhoaE1DM3BLdHdtMklFTDA5Y1gzWXcwNnFKdzVnN29Vb2tDRDl2SV9ZS3FBTG1UamFvbzQwVjZEdS1USEpUX0JpeGlISDZmdUJReVkxb0dUQ2wtOGpxSGxtQ212aDgtU2l3b0NiX3ZwMDZSNGk2SnRjVFZhQXNRdFAtOTRUSGE5NEY2aDZxS0c1S1ljVWkzdHhRYlgwTnpnR1BIVERqOWpJYnVicGo5VkNuQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Weekly price shock alert: BCI cotton - week ended July 24",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/weekly-price-shock-alert-bci-cotton-week-ended-july-24-312095-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 5,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 108,
+    "too_old": 218,
+    "gate1_blocked": 37,
+    "gate2_blocked": 26,
+    "passed": 15,
+    "pass_rate": "5.1%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "FENC and Studio Smoll Win 2026 iF DESIGN AWARD, Redefining Sustainable Living with Circular Design I",
+      "Shenzhou International Group Holdings Insider Ups Holding During Year - Moomoo",
+      "Shenzhou International Group Holdings Stock Sheds 1.2% in Hong Kong - Moomoo",
+      "Price to book forward of Makalot Industrial Co., Ltd. – TWSE:1477 - TradingView",
+      "$Nike (NKE.US)$ $adidas AG (ADDYY.US)$ - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為愛迪達、Lululemon相關動態：「Weekly Recap: Unchanged guidance and continuation of shar...」。主要關注主題為供應鏈轉移、法說會、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Weekly Recap: Unchanged guidance and continuation of share buyback - TradingView（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "China's industrial firms' H1 profits rise 18.7%（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
