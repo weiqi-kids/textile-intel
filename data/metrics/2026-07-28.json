@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-28",
+  "total_events": 15,
+  "by_company": {
+    "lenzing": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "eclat": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "vf_corp": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "pvh": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.35
+    },
+    "supply_chain_shift": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

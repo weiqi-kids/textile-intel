@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:22:33.565013Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-07-28-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Lululemon Athletica (NASDAQ: LULU) Faces Steep Earnings Decline Ahead Of Q2 2026 Report - foreignpolicyjournal.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMG5Ia2VNSU9nb2I1bVZNSEJldEpmaEZDSTNWWmUtT2xhSThaUkNVWVhwZWVrYTB2VDFaajljODNuVkxEX3hobE83a1NVdVlGa0IzMEhvUWw4b1huWEJUa29vZ2ZFeVZ3WjBZOUR1OTNZcUk5TnJqaTBTUVZ4N0xHSHZKanRYMnJWcG5NY2ZNUUZtQVNZdjVQUG81b1FHY1FzeGVjbVdVWWROY08teFo1VU52eC1GVEhfQ2ZLdDZMLUZqdy1MNk1YN01SbUFRdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-28-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Italian textile machinery orders rebound 25% in Q2 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/italian-textile-machinery-orders-rebound-25-in-q2-2026-312111-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "eclat-2026-07-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eclat Textile Co., Ltd. Revenue Breakdown – TWSE:1476 - TradingView",
+      "companies": [
+        "eclat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrQ0dhdWgza2dyQjBQT1dhcVhYdHJKVko5V0I0VnpENDFrejVGNF9zN2hQQmh3X2dUbHVQb1VORzFpdmRlbU9weHhNTDJxZHFDMjJ2ZDF6ZWlSM3RYUUhmWGc0bWRKMlZSZ0dkdVAxS2tnajJm?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pvh-2026-07-28-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PVH Corp (PVH) Financial Health: Profitability & Balance Sheet Analysis - TradingKey",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtbnU2cGVXYVEzTl9oU0ZnUjhyWjItSTd6ajV6V1BGOFE2emxnYVNsUUpZbkJJR21seGY2VkNmWW5QeGFyTmNwbmtvLVBTYnE3LXhBUzNEQ29OZUZ2SXdKLUx1V19CT1VYZ3g3SGg4aw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lenzing-2026-07-28-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Austria’s Lenzing shifts focus to nonwovens, resets textiles strategy",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/austria-s-lenzing-shifts-focus-to-nonwovens-resets-textiles-strategy-312113-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.35,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 7,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "lenzing",
+        "count": 2
+      },
+      {
+        "id": "pvh",
+        "count": 2
+      },
+      {
+        "id": "eclat",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 106,
+    "too_old": 214,
+    "gate1_blocked": 34,
+    "gate2_blocked": 24,
+    "passed": 26,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Short Interest Down 53.9% in July - MarketBeat",
+      "Lenzing AG: Lenzing AG advances strategic transformation - TradingView",
+      "Lenzing AG Plans Reduction in Global Workforce - marketscreener.com",
+      "Shenzhou International Group Holdings Insider Ups Holding During Year - Moomoo",
+      "Shenzhou International Group Holdings Stock Sheds 1.2% in Hong Kong - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Lenzing、PVH、Eclat Textile相關動態：「Lululemon Athletica (NASDAQ: LULU) Faces Steep Earnings D...」。主要關注主題為供應鏈轉移、法說會、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lululemon Athletica (NASDAQ: LULU) Faces Steep Earnings Decline Ahead Of Q2 2...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Italian textile machinery orders rebound 25% in Q2 2026（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
