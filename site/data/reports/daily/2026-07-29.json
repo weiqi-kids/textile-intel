@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:28:45.488761Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-29-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "ICE cotton declines after 5-day rally due to falling crude oil",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-declines-after-5-day-rally-due-to-falling-crude-oil-312164-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "vf_corp-2026-07-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corporation Delivered First Quarter Fiscal 2027 Ahead of Guidance",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-07-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "lululemon athletica inc. Revenue Breakdown – BIVA:LULU - TradingView",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFeUx6M2ItNEczSlRrX0FObWNGTmo5U1hpT2kzekhVcThrM1N4UXVKVjVBYXF1Z0h3d1VNSFV2MVhia2NXbGluVFMxYWtITWlrWlZOYlhuQnJoUC1ZWkdaLUx3LTY4ZHZzUUV6eEladmJTVkNQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "vf_corp-2026-07-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corporation Delivered First Quarter Fiscal 2027 Ahead of Guidance - Yahoo Finance Singapore",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnMzbXdtX2FheExGQk9TQXRFakZzTk56N3IwQkpDa0lXbjVDUDZqZGpBZjdtTzdHZTFfY0JHaENVZ1R3UUI4UFhaVE1vMnpWOWVVaWJsZWg4ZWlzSjAwclZhZlVjVEs3NkFydXhRTjM5SG1IbnFuZVZFQWtEOTBCTmQzMXBPemVEZmZ4eVFMUlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-29-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UK's Coats posts H1 revenue growth, maintains FY26 outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.33
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/uk-s-coats-posts-h1-revenue-growth-maintains-fy26-outlook-312143-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "pvh",
+        "count": 4
+      },
+      {
+        "id": "vf_corp",
+        "count": 2
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 110,
+    "too_old": 204,
+    "gate1_blocked": 34,
+    "gate2_blocked": 26,
+    "passed": 29,
+    "pass_rate": "9.9%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Short Interest Down 53.9% in July - MarketBeat",
+      "Lenzing AG: Lenzing AG advances strategic transformation - TradingView",
+      "Textile Maker Lenzing Closes UK, Austria Sites in Turnaround Bid - Bloomberg.com",
+      "Lenzing AG Plans Reduction in Global Workforce - marketscreener.com",
+      "Shenzhou International Group Holdings Insider Ups Holding During Year - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為PVH、VF、Lenzing相關動態：「ICE cotton declines after 5-day rally due to falling crud...」。主要關注主題為供應鏈轉移、法說會、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ICE cotton declines after 5-day rally due to falling crude oil（棉花價格、訂單能見度、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "VF Corporation Delivered First Quarter Fiscal 2027 Ahead of Guidance（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

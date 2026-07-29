@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 204,
+  "gate1_fail": 34,
+  "gate2_fail": 26,
+  "passed": 29,
+  "gate2_samples": [
+    "Toray Industries Inc. (OTCMKTS:TRYIY) Short Interest Down 53.9% in July - MarketBeat",
+    "Lenzing AG: Lenzing AG advances strategic transformation - TradingView",
+    "Textile Maker Lenzing Closes UK, Austria Sites in Turnaround Bid - Bloomberg.com",
+    "Lenzing AG Plans Reduction in Global Workforce - marketscreener.com",
+    "Shenzhou International Group Holdings Insider Ups Holding During Year - Moomoo"
+  ]
+}
