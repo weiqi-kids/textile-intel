@@ -1,0 +1,233 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:12:00.284912Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-07-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon (NASDAQ: LULU) Stock Outpaces S&P 500 But Faces Declining Earnings Outlook - foreignpolicyjournal.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb21Ra1FDemtRVTQ4SktGeVVDQVVQNGFDWjRkMnh2ekN0UDFXd0ZiUmN4ampwYWJRUEM3RXBNSWVGV01URkJON2pRUnl5LVlYT3FHWUZYdXBTQ0JjRWFSQlBMdlB2aVRVVDNMcVpybVRDZmpRaVdjellNS0tXc3M4OFJ6RWdReDZuZm9faWVpR1VKYzRUSS1IWnpyLWNpWUgyM0g3TTMyVEFjYVA0WVVwYndPQ2l3MmN3MWIyRXlvQjMtRi0xa1d3bw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vf_corp-2026-07-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corp Earnings Call Signals Cautious Turnaround - TipRanks",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVzFGX3lkbldRTmpRVmRIaWVfYzFDa1hOTWxsN2FMZ3ZFVC11Y1JuWVgwYmZKdS15ZWtIdUN6MURBMlZpUVhMMFg1TVBUMXJYSmtZU3N1RTNrU3EwRHA1MDljdEZHTmR5Y1N2amRHMW9qb0VSTUFQck54eU9ZR1c1cFBabmx1UnUxbldwN3N1UDJJQmRsOFZqWVFURFBMSVpfeVJ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton falls further as broader commodity weakness weighs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.17
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-falls-further-as-broader-commodity-weakness-weighs-312200-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-30-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China's apparel profits fall 28% as textile profits rise 16.6%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/china-s-apparel-profits-fall-28-as-textile-profits-rise-16-6--312196-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-07-30-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Loses Ground in China: Revenue Falls 30% Amid Local Competition - Briefs Finance",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc2pOeHJIU1Qyb3B0aXZDSUs3MWVKUGN5OHJyWFI2TzQyblVVV05RczAzS3J3dXJTXzUyY1IyLXZQeFhKd0VRRThTY1VaamN5QlhSc3JhRDNZRXdmdzE1NjVZS3hLUTZvcGlQQWZFR0V6ZjdBc3lna3ZJaHFiSVhRc1p0eVRoY1dfaDUzRTE4OHQ0QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "pvh",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 400,
+    "dup_title": 108,
+    "too_old": 201,
+    "gate1_blocked": 31,
+    "gate2_blocked": 32,
+    "passed": 28,
+    "pass_rate": "9.6%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Short Interest Down 53.9% in July - MarketBeat",
+      "Toray develops a resin anode current collector film - Automotive World",
+      "Lenzing AG: Lenzing AG advances strategic transformation - TradingView",
+      "Textile Maker Lenzing Closes UK, Austria Sites in Turnaround Bid - Bloomberg.com",
+      "Lenzing AG Plans Reduction in Global Workforce - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為PVH、Lululemon、VF相關動態：「Lululemon (NASDAQ: LULU) Stock Outpaces S&P 500 But Faces...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lululemon (NASDAQ: LULU) Stock Outpaces S&P 500 But Faces Declining Earnings ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "VF Corp Earnings Call Signals Cautious Turnaround - TipRanks（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
