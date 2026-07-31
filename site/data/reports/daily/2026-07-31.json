@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:28:20.146567Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 98,
+    "too_old": 214,
+    "gate1_blocked": 16,
+    "gate2_blocked": 35,
+    "passed": 31,
+    "pass_rate": "10.5%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Short Interest Down 53.9% in July - marketbeat.com",
+      "Toray develops a resin anode current collector film - automotiveworld.com",
+      "Lenzing AG: Lenzing AG advances strategic transformation - TradingView",
+      "Textile Maker Lenzing Closes UK, Austria Sites in Turnaround Bid - Bloomberg.com",
+      "Lenzing AG Plans Reduction in Global Workforce - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-07-31 無紡織產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

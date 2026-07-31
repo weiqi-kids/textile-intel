@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T10:11:56.303124Z",
+  "updated_at": "2026-07-31T10:28:16.219483Z",
   "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
@@ -279,17 +279,17 @@
       "name": "威富",
       "ticker": "VFC",
       "currency": "USD",
-      "ar": 1427957000,
-      "ar_prev": 1415884000,
-      "ar_qoq": "+1%",
+      "ar": 1215279000,
+      "ar_prev": 1427957000,
+      "ar_qoq": "-15%",
       "ar_period": "QoQ",
-      "inventory": 1371274000,
-      "inv_prev": 1658700000,
-      "inv_qoq": "-17%",
+      "inventory": 1899470000,
+      "inv_prev": 1371274000,
+      "inv_qoq": "+39%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     }
   ]
 }

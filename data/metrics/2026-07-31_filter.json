@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 214,
+  "gate1_fail": 16,
+  "gate2_fail": 35,
+  "passed": 31,
+  "gate2_samples": [
+    "Toray Industries Inc. (OTCMKTS:TRYIY) Short Interest Down 53.9% in July - marketbeat.com",
+    "Toray develops a resin anode current collector film - automotiveworld.com",
+    "Lenzing AG: Lenzing AG advances strategic transformation - TradingView",
+    "Textile Maker Lenzing Closes UK, Austria Sites in Turnaround Bid - Bloomberg.com",
+    "Lenzing AG Plans Reduction in Global Workforce - marketscreener.com"
+  ]
+}
