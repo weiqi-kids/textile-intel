@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T09:49:10.484875Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UK's private sector activity outlook improves to -18%, CBI says",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.17
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/uk-s-private-sector-activity-outlook-improves-to-18-cbi-says-312247-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Canada Goose reports higher Q1 sales, improved margins",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/canada-goose-reports-higher-q1-sales-improved-margins-312259-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-01-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US’ Columbia Sportswear returns to profit in Q2, lifts FY26 outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-columbia-sportswear-returns-to-profit-in-q2-lifts-fy26-outlook-312258-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-01-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Canada's Gildan Activewear's Q1 revenue surges 64% on HanesBrands deal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/canada-s-gildan-activewear-s-q1-revenue-surges-64-on-hanesbrands-deal-312237-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-08-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arrowstreet Capital Limited Partnership Takes $11.01 Million Position in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZkgtRXhWMEdKWUEwSHFFWGJQb1h3YWN5cGhEWjNvc2t3TFRUTGhpVHgxa05fRDdrZXVfWGRZQnVlR056S09tamI5cVVCUHI5bzIxaE1NQzVVaUpUNkQwemRCR0hyNFJvSlY0MlN1bEhTNnNnSy1xdkFIT3pjdXlmYm82RlUwaGFObHA4V3NUMFY4eVFCYTZIbndfLU9oLTlpZ2dIYl9PUW5iMXVfejg3eXp0VVpXNVBkSmVUdFpZVG94UDdOb056QmVqWktNTlBuM1JabUVZRC1WTUhUSHJpUFlVVkpXbW1SWWVuOTJWSmszdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 402,
+    "dup_title": 106,
+    "too_old": 197,
+    "gate1_blocked": 32,
+    "gate2_blocked": 34,
+    "passed": 33,
+    "pass_rate": "11.1%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Short Interest Down 53.9% in July - MarketBeat",
+      "Toray develops a resin anode current collector film - Automotive World",
+      "Textile Maker Lenzing Closes UK, Austria Sites in Turnaround Bid - Bloomberg.com",
+      "Lenzing AG: Lenzing AG advances strategic transformation - TradingView",
+      "Lenzing AG Plans Reduction in Global Workforce - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Lululemon、PVH相關動態：「UK's private sector activity outlook improves to -18%, CB...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "UK's private sector activity outlook improves to -18%, CBI says（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Canada Goose reports higher Q1 sales, improved margins（快時尚趨勢、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

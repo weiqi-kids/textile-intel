@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T10:28:16.219483Z",
+  "updated_at": "2026-08-01T09:49:07.014932Z",
   "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "愛迪達",
       "ticker": "ADS.DE",
       "currency": "EUR",
-      "ar": 3492000000,
-      "ar_prev": 2635000000,
-      "ar_qoq": "+33%",
+      "ar": 3567000000,
+      "ar_prev": 3492000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 5788000000,
-      "inv_prev": 5832000000,
-      "inv_qoq": "-1%",
+      "inventory": 5969000000,
+      "inv_prev": 5788000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "eclat",

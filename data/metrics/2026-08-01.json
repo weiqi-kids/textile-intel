@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-01",
+  "total_events": 9,
+  "by_company": {
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pvh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.02
+    },
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
