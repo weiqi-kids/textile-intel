@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:48:50.591242Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India-China cross-border trade through Shipki La resumes after 6 years",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-china-cross-border-trade-through-shipki-la-resumes-after-6-years-312283-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-08-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Recreation of a missing scene from the Bayeux Tapestry reaches halfway point - The Connexion",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUl9HV25GcjZ2bXBmeEFucUJJLVJ3SlJvbC1UVDY1T2o3cmdkVHBJTDhPZ2RWbVNVMFpaUmFqc1hGQUZ1UGg1TGh5SzA4aXNHMTh5dDJ6OHVUcWR2ejJLaGRnUG5ueHRvTTJEenlhTmhLRDk0cVZYaGpFQXhFZ01mc0dRTEpweFBSeVl4eExJVUFoT0wwZ2lkWXQ1WHlMWF9IaTU3RVM4dVJBM285U0w3Qno3SWJ1RG1GelRBVA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PM Rahman calls for continued US investment in Bangladesh",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/pm-rahman-calls-for-continued-us-investment-in-bangladesh-312285-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HCM City working on developing Vietnam’s energy, industrial hub",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/hcm-city-working-on-developing-vietnam-s-energy-industrial-hub-312284-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MSP for seed cotton raised by 7% for cotton season 2026-27 in India",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/msp-for-seed-cotton-raised-by-7-for-cotton-season-2026-27-in-india-312282-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 401,
+    "dup_title": 117,
+    "too_old": 202,
+    "gate1_blocked": 31,
+    "gate2_blocked": 33,
+    "passed": 18,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Short Interest Down 53.9% in July - MarketBeat",
+      "Toray develops a resin anode current collector film - Automotive World",
+      "Textile Maker Lenzing Closes UK, Austria Sites in Turnaround Bid - Bloomberg.com",
+      "Lenzing AG: Lenzing AG advances strategic transformation - TradingView",
+      "Lenzing AG Plans Reduction in Global Workforce - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Coach相關動態：「India-China cross-border trade through Shipki La resumes ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "India-China cross-border trade through Shipki La resumes after 6 years（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Recreation of a missing scene from the Bayeux Tapestry reaches halfway point ...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
