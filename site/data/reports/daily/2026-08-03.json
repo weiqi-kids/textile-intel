@@ -1,0 +1,237 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:12:25.376811Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-03-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Rising tariffs push footwear margins to a tipping point",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/rising-tariffs-push-footwear-margins-to-a-tipping-point-312296-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-03-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Foreign firms grab 80% of Bangladesh’s freight earnings: CSR study",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/foreign-firms-grab-80-of-bangladesh-s-freight-earnings-csr-study-312288-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-03-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SMEs face hurdles limiting ability to be energy-efficient: IEA article",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/smes-face-hurdles-limiting-ability-to-be-energy-efficient-iea-article-312279-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-03-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s Raymond Lifestyle’s Q1 earnings grow 11%; garmenting jumps 50%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-s-raymond-lifestyle-s-q1-earnings-grow-11-garmenting-jumps-50--312300-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "lenzing-2026-08-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lenzing AG: Invitation to the Extraordinary General Meeting - TradingView",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGowWlA2MWxNTXJLelNHS0pkX0NYaVlIYmNnZ2lHQ2dRQTFaeElIbUtKSkxra0tKTUdnTGFZbTAzcEhHVi1wUUZIUWZIRW1RTFdPYmlhZjVjYVZpWGpXck9DT3IxUlhBRFF1RXVxdnp0al92VEQ5aUNPR0x1a1piblhtbzREdXJIRlY1OFBCNzJrNC1IcmhKX2tSN0JjdzBwYWJIM1Rld0RISHNYbkh2UjNB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 400,
+    "dup_title": 120,
+    "too_old": 196,
+    "gate1_blocked": 33,
+    "gate2_blocked": 35,
+    "passed": 16,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "12.5%",
+    "gate2_samples": [
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Short Interest Down 53.9% in July - MarketBeat",
+      "Toray develops a resin anode current collector film - Automotive World",
+      "Lenzing Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "Textile Maker Lenzing Closes UK, Austria Sites in Turnaround Bid - Bloomberg.com",
+      "Lenzing AG Refines Strategy And Strengthens Competitiveness For A Challenging Environment - Textile "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Lenzing、PVH、耐吉相關動態：「Rising tariffs push footwear margins to a tipping point」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rising tariffs push footwear margins to a tipping point（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Foreign firms grab 80% of Bangladesh’s freight earnings: CSR study（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

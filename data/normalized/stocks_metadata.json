@@ -1,50 +1,50 @@
 {
   "toray": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-31",
-    "count": 6632,
+    "latest": "2026-08-03",
+    "count": 6633,
     "history_complete": true
   },
   "lenzing": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-31",
-    "count": 6721,
+    "latest": "2026-08-03",
+    "count": 6722,
     "history_complete": true
   },
   "far_eastern": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-31",
-    "count": 6608,
+    "latest": "2026-08-03",
+    "count": 6609,
     "history_complete": true
   },
   "formosa_taffeta": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-31",
-    "count": 6608,
+    "latest": "2026-08-03",
+    "count": 6609,
     "history_complete": true
   },
   "lealea": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-31",
-    "count": 6608,
+    "latest": "2026-08-03",
+    "count": 6609,
     "history_complete": true
   },
   "shenzhou": {
     "earliest": "2005-11-24",
-    "latest": "2026-07-31",
-    "count": 5097,
+    "latest": "2026-08-03",
+    "count": 5098,
     "history_complete": true
   },
   "eclat": {
     "earliest": "2001-04-18",
-    "latest": "2026-07-31",
-    "count": 6272,
+    "latest": "2026-08-03",
+    "count": 6273,
     "history_complete": true
   },
   "makalot": {
     "earliest": "2003-01-22",
-    "latest": "2026-07-31",
-    "count": 5812,
+    "latest": "2026-08-03",
+    "count": 5813,
     "history_complete": true
   },
   "nike": {
@@ -55,20 +55,20 @@
   },
   "adidas": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-31",
-    "count": 6792,
+    "latest": "2026-08-03",
+    "count": 6793,
     "history_complete": true
   },
   "inditex": {
     "earliest": "2001-05-24",
-    "latest": "2026-07-31",
-    "count": 6461,
+    "latest": "2026-08-03",
+    "count": 6462,
     "history_complete": true
   },
   "hm": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-31",
-    "count": 6743,
+    "latest": "2026-08-03",
+    "count": 6744,
     "history_complete": true
   },
   "lululemon": {
@@ -85,8 +85,8 @@
   },
   "fast_retailing": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-31",
-    "count": 6632,
+    "latest": "2026-08-03",
+    "count": 6633,
     "history_complete": true
   },
   "pvh": {

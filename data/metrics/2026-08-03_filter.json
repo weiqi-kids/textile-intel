@@ -1,0 +1,16 @@
+{
+  "total_raw": 400,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 196,
+  "gate1_fail": 33,
+  "gate2_fail": 35,
+  "passed": 16,
+  "gate2_samples": [
+    "Toray Industries Inc. (OTCMKTS:TRYIY) Short Interest Down 53.9% in July - MarketBeat",
+    "Toray develops a resin anode current collector film - Automotive World",
+    "Lenzing Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+    "Textile Maker Lenzing Closes UK, Austria Sites in Turnaround Bid - Bloomberg.com",
+    "Lenzing AG Refines Strategy And Strengthens Competitiveness For A Challenging Environment - Textile "
+  ]
+}
