@@ -1,5 +1,115 @@
 [
   {
+    "id": "unknown-2026-08-04-001",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "order_visibility"
+    ],
+    "impact": "negative",
+    "title": "Textile industry confidence slips as order intake weakens: ITMF",
+    "summary": "ITMF's latest survey shows the global textile industry remains under pressure as business sentiment and order intake weakened, while capacity utilisation and order backlogs declined.\nWeak demand and g",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/textile-industry-confidence-slips-as-order-intake-weakens-itmf-312336-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-002",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "order_visibility"
+    ],
+    "impact": "negative",
+    "title": "Holiday 2026 orders face new cost shock amid US tariffs",
+    "summary": "US tariff uncertainty is pushing fashion retailers to reassess Holiday 2026 supplier choices, inventory commitments and pricing plans.\nBuyers are prioritising risk reduction over lowest-cost sourcing ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/holiday-2026-orders-face-new-cost-shock-amid-us-tariffs-312334-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-003",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Solid monthly improvement in Vietnamese manufacturing health: PMI data",
+    "summary": "July data pointed to a strengthening of growth momentum in the Vietnamese manufacturing sector, with sharper increases recorded in output, new orders, exports and purchasing, while employment rose for",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/solid-monthly-improvement-in-vietnamese-manufacturing-health-pmi-data-312331-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-004",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Indonesia’s cotton spindles fell 59% as China orders jumped 136%",
+    "summary": "China imported $62.45 million of Indonesian cotton yarn in January-April 2026, up 135.6 per cent year on year, giving underused mills a demand boost.\nThe rebound is concentrated in HS 5205 and remains",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/indonesia-s-cotton-spindles-fell-59-as-china-orders-jumped-136--312330-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-005",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "negative",
+    "title": "ICE cotton climbs on institutional buying, limited rainfall",
+    "summary": "ICE cotton extended gains for a third straight session, supported by strong export demand, continued Chinese reserve buying, tightening certified stocks and rising open interest.\nUS crop conditions we",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-climbs-on-institutional-buying-limited-rainfall-312335-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenzing-2026-08-04-006",
+    "date": "2026-08-04",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Asian VSF price floor faces supply-driven upside risk",
+    "summary": "Asian VSF prices were unchanged in India, Pakistan and China in the week ended July 31, with TexPro-tracked grades showing 0.00 per cent intra-week movement.\nFirm pulp costs, Chinese maintenance and a",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/asian-vsf-price-floor-faces-supply-driven-upside-risk-312328-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lenzing-2026-08-03-001",
     "date": "2026-08-03",
     "companies": [
@@ -197,6 +307,63 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlBGUHFndkRwWExUZ0s1elJvVUlLSkNzLTkyWnVPdmQzV2VoUDltcmxodzlEMUF5VnhxNDBGSDc3Mkp1ZmJaTXNRc2xRRnVCWnVwSkVhTktaTmo5V0FsZmxOSkZhRGtpQVoxcFNOM1RJQWk4Q3p0QXBLUTJWTHc0TWdkclNaMVBPckQweTNwZEh4OGZ6N0pyRTQ5NXlCMlUta2hsRG9qUVBoUy1yV0NEYmJ4X0NqdnRoTmtz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "makalot-2026-08-03-012",
+    "date": "2026-08-03",
+    "companies": [
+      "makalot"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Makalot's Strong Q2 Earnings Met With Cautious Foreign Sell-Side; Target Price Cut to NT$232 - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE45dEo1enpsZjh0LW1uTkRScFEyZzY4TWdLZGZrYVh3TnlQRGlJcTJ3VGFVdFBmQ3RkTXQ3QmJjUkU2a2owdWFia09mM1UwQmhtcVRZTlhNRkI3NGhwMXF4VTZzOU5iakY4Rk9mRXlFRD",
+    "sources": [
+      {
+        "name": "makalot",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45dEo1enpsZjh0LW1uTkRScFEyZzY4TWdLZGZrYVh3TnlQRGlJcTJ3VGFVdFBmQ3RkTXQ3QmJjUkU2a2owdWFia09mM1UwQmhtcVRZTlhNRkI3NGhwMXF4VTZzOU5iakY4Rk9mRXlFRDIxdkhqMFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-013",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "fast_fashion",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Weekly Recap: Record Q2 sales, DTC gains and share plunge post profit miss - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWtLOUFkcFAyZ2ZCMFFnRDR0dEVjdjktLUJBc3cwekdCUkQ2LVJDbGRfeGZRWlZia080VFk1bC1GVGlWY2NBalZLakxvTDdGNnRkb1R1VzVsRVVLNlA3UlgzNlBNUzRCY2FzT1NCQn",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWtLOUFkcFAyZ2ZCMFFnRDR0dEVjdjktLUJBc3cwekdCUkQ2LVJDbGRfeGZRWlZia080VFk1bC1GVGlWY2NBalZLakxvTDdGNnRkb1R1VzVsRVVLNlA3UlgzNlBNUzRCY2FzT1NCQnlWUmo5Qm0wSUNSUWFlck1oNjVTbEZKOHFpSV9fWDVKczhfNG1oS2w0cGh6WGVJZTNYWE52bUF6SUtTTTNBQnRVWHlFN2dJVkVWWTM0QmpfeUkyZGQ0V1dSS2NJTXFXRlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-08-03-014",
+    "date": "2026-08-03",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Form 4 VF Corporation For: 3 August By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVhjVTNmQThoY3N6QWdkVHVNRTNmOHI2TXJsMVVXWUFOd0hjblVrejA4QXRRQVhLdy1LSm9haHV5aTFraHFuZUFvd1U5Ym5hSVQyYUpxT0tYZlV3UWhuUXlHT1BMNzV3Ym9Ea0hDZU",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVhjVTNmQThoY3N6QWdkVHVNRTNmOHI2TXJsMVVXWUFOd0hjblVrejA4QXRRQVhLdy1LSm9haHV5aTFraHFuZUFvd1U5Ym5hSVQyYUpxT0tYZlV3UWhuUXlHT1BMNzV3Ym9Ea0hDZUVPY04zMy1xRTd0MmkwWF9sV2Y1aUVOQm9nc2hSSWFYd3JBOUoxYVItRHpkWQ?oc=5",
         "type": "rss"
       }
     ]
@@ -534,6 +701,24 @@
     ]
   },
   {
+    "id": "vf_corp-2026-08-01-013",
+    "date": "2026-08-01",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VF (VFC) Stock Stays Calm As Debt Repair Carries Turnaround Hope - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE50Z0R4NC1veHBGaWJ0d0gyU05qRmFyYkFIVnNYMmFldDVaVHdEWXJORjBhcXpPVFhKR2I1STFndXJVMTU2aUtaa1F0QVFDeHU0ZmZoT18tQ18?oc=5\" target=\"_blank\">VF (VFC)",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50Z0R4NC1veHBGaWJ0d0gyU05qRmFyYkFIVnNYMmFldDVaVHdEWXJORjBhcXpPVFhKR2I1STFndXJVMTU2aUtaa1F0QVFDeHU0ZmZoT18tQ18?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "toray-2026-07-31-001",
     "date": "2026-07-31",
     "companies": [
@@ -603,6 +788,24 @@
       {
         "name": "formosa_taffeta",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0tzM2xlNWt5aldLQ0pRV0VzWDVxYmpFSWdYRmdCdWlwRjVDUVQ4RlNFT28zOEdmcHZ3cHR6MnpXdUtTRllqeGlQOXdzbXRLZlBmeFBpQnU1V1pRenZ3VUwzcFM0ZVRrRl8yREl5cHZWSE96WjhIY3JDbkF2NF84X3BRSUNFRTdCUmJHcnZzMEczY2NRaDFZdG13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-07-31-005",
+    "date": "2026-07-31",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Michael Burry Expands Bets Against Nvidia, Micron— and Is Now Buying Lululemon and DraftKings - benzinga.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWtpMlZvUndqWnpxWG5KZGxHTXRQWjdWOHZ0Nm1UaGU1Wi1PTHR5U09MdlFfcmwyMzB3bjVjNG5LOGp5bGsyVzd4bTM2dHpvaU5BeXpKMUZNLXltWTZkSlE1TXVVRXQtNHprOVk5RV",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWtpMlZvUndqWnpxWG5KZGxHTXRQWjdWOHZ0Nm1UaGU1Wi1PTHR5U09MdlFfcmwyMzB3bjVjNG5LOGp5bGsyVzd4bTM2dHpvaU5BeXpKMUZNLXltWTZkSlE1TXVVRXQtNHprOVk5RVloQ2dNN1VBUEhKaF92MmE2djBubEVjYUtBYm01LUFQRGNkUE56d04wZzhSTEJFR0dEQ3NKZzJwYUNwbzVjcVhOTTRtTEY3SlNDclR3aE1reHNNNk9lWEpDSFJsTlpEZ0NTSGxUWl9yYndFT0pGNFJYQmJXNmhDVnBMQXFjWnlB?oc=5",
         "type": "rss"
       }
     ]
@@ -1505,6 +1708,26 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcXBGWTZWemNDU3VXclNhSTVocU1rYTZSZTJ2NEFybGktcjh0bU5Va281UklCdHY0VzA5RFdzMG1xZ0diZUNQTnFSSUI5MFlUeXNVRHlMdXNoNjhTQ2F2VHJfTFZndEliUmRHWFFqVllwMTMyVlE5ZFNDNkZrSXo0dm9fb0ZIR3RJRXRiWGR6ejkwd3U3N3FjdE5uREd2Uy16cEhnQTFoV3J6cVB6TWxnN3JfVk9IeEtDX2FWbGlybHI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-07-30-049",
+    "date": "2026-07-30",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Adidas plunges after aggressive World Cup marketing dents profit - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1liTDlvTHVnY3ZSLWNhR1ZPbFgzZl9MeTlNMmpCazFjY3c4VXJIY2JHZnlHWTE0UThpMVMtVXFZODQ2OVBxNDM5SnhYLU9aZVZhbVdMTGFuaUs3QnpuY0pMczV2Slc4ZllrRW4tSE",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1liTDlvTHVnY3ZSLWNhR1ZPbFgzZl9MeTlNMmpCazFjY3c4VXJIY2JHZnlHWTE0UThpMVMtVXFZODQ2OVBxNDM5SnhYLU9aZVZhbVdMTGFuaUs3QnpuY0pMczV2Slc4ZllrRW4tSE1kbGxqcktIeTBiSEloLVg2SUxhb29PNnBrUXdpRw?oc=5",
         "type": "rss"
       }
     ]
