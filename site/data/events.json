@@ -1,5 +1,158 @@
 [
   {
+    "id": "lenzing-2026-08-05-001",
+    "date": "2026-08-05",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lenzing doubles half-year profits - Knitting Industry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5sM1N0NUx2V1dNTVU0TjVVRW1Sc1FnajdlcDJOWTRTMXBmWlBEaEc5dnFoU29odW9zclZJLWxvYlhSeENpTFkzVjQ4UGI5WVdvdk1qWGRxckN5dm1zWjFaLWh0VFlkeGVBNElLcEZxdl",
+    "sources": [
+      {
+        "name": "lenzing",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sM1N0NUx2V1dNTVU0TjVVRW1Sc1FnajdlcDJOWTRTMXBmWlBEaEc5dnFoU29odW9zclZJLWxvYlhSeENpTFkzVjQ4UGI5WVdvdk1qWGRxckN5dm1zWjFaLWh0VFlkeGVBNElLcEZxdlA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-08-05-002",
+    "date": "2026-08-05",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "VF Corporation Beats Q1 Fiscal 2027 Expectations, Raises Full-Year Revenue Outlook - snowindustrynews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaWM3aTVOVWZKWE9aYklGQmZ2TTRfUTJ6U2lVc0lPYk0xWFFmSndiLXhjWFJlLUhlajB6M2RuVU9wSHdfd0hDakJxUVJhOU9ZQVhmdWI2ckNxcTVvYnZSVVpVZnBwblRnOXgzc1ZWNX",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaWM3aTVOVWZKWE9aYklGQmZ2TTRfUTJ6U2lVc0lPYk0xWFFmSndiLXhjWFJlLUhlajB6M2RuVU9wSHdfd0hDakJxUVJhOU9ZQVhmdWI2ckNxcTVvYnZSVVpVZnBwblRnOXgzc1ZWNXZyV2x0OVJzREg5bWI2V1BpSUtzejE1Mm9yYlhULW9uNTRJMkR0cTFBQXBibzJzZHdiMFpROEdXYTR0WjFrdXBXNldfU3pEbWZNRnZTaUFjcG1RbnNQeGg4SXNPZDB2OElGdVRhNjFMN25QZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-003",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh, S Korea sign Comprehensive Economic Partnership Agreement",
+    "summary": "Bangladesh and South Korea have signed a trade agreement that will grant preferential tariff treatment to 97 per cent of goods from the former entering the latter. \nThe pact allows Bangladesh to exten",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-s-korea-sign-comprehensive-economic-partnership-agreement-312375-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenzing-2026-08-05-004",
+    "date": "2026-08-05",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Austria’s Lenzing doubles H1 2026 profit despite lower revenue",
+    "summary": "Lenzing has reported a stronger H1 2026 despite lower revenue, with net profit more than doubling to €35.6 million (~$40.9 million) as higher-margin product sales, cost reductions and favourable forei",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/austria-s-lenzing-doubles-h1-2026-profit-despite-lower-revenue-312374-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-005",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "order_visibility",
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "ICE cotton retreats on profit booking, weaker crude oil",
+    "summary": "ICE cotton futures edged lower as profit-booking followed a strong rally that had lifted prices to a two-month high.\nWeaker crude oil prices also weighed on sentiment.\nHowever, tightening ICE certifie",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-retreats-on-profit-booking-weaker-crude-oil-312373-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-006",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India opens handloom technology centre at IIT Delhi",
+    "summary": "India has opened a Centre of Excellence for Handloom Technology at IIT Delhi to link handloom heritage with research, digital tools and sustainability.\nFive initiatives span productivity monitoring, e",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-opens-handloom-technology-centre-at-iit-delhi-312364-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-007",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Guangdong, Zhejiang, Jiangsu: Inside China's three-way textile rivalry",
+    "summary": "China's textile and apparel exports totalled $293.77 billion in 2025, with Guangdong, Zhejiang and Jiangsu accounting for 70–80 per cent of output.\nZhejiang leads by revenue and export value, built on",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/guangdong-zhejiang-jiangsu-inside-china-s-three-way-textile-rivalry-312371-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-008",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh’s BGMEA calls media reports of RMG units’ closure baseless",
+    "summary": "Bangladesh trade body BGMEA has dismissed claims by some media outlets that several garment factories, including those of the DBL Group, were shut down due to gas and power shortage.  \nTerming the inf",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-s-bgmea-calls-media-reports-of-rmg-units-closure-baseless-312348-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-04-001",
     "date": "2026-08-04",
     "companies": [],
@@ -105,6 +258,116 @@
       {
         "name": "fibre2fashion_textile",
         "url": "https://www.fibre2fashion.com/news/textile-news/asian-vsf-price-floor-faces-supply-driven-upside-risk-312328-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-04-007",
+    "date": "2026-08-04",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "lululemon athletica (NASDAQ:LULU) Given New $154.00 Price Target at JPMorgan Chase & Co. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNZGZKbnp0SGthVFdTclZLV2U5S3JmY3N6azk2NmdrNHc2SzVfYjYxQzBCdXRubXFQdGQtV0FjbWZjME9oM3h2RVVYYmxkSDZTbkoxOGJDM2xWSmlTOGNMdV8yekc1bXpoeUpxWnhUeF",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZGZKbnp0SGthVFdTclZLV2U5S3JmY3N6azk2NmdrNHc2SzVfYjYxQzBCdXRubXFQdGQtV0FjbWZjME9oM3h2RVVYYmxkSDZTbkoxOGJDM2xWSmlTOGNMdV8yekc1bXpoeUpxWnhUeFR5Q0YzQXRvbDJCelpNUzVBdGdoYTBOcjJleVA0dlllQXhxbURSVmlXZGc0UEg4dHZYTmM2RUpBOGxqOWtZazJUU3FVSDBNNW1nVmNqYzhvSk9ER3NxYkNyRkd5UmJuWVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-04-008",
+    "date": "2026-08-04",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "lululemon athletica inc. $LULU Shares Bought by Pine Valley Investments Ltd Liability Co - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTzlKTHEyaWJnQ2RnczVaVF9aRkdORHNZX1BZY3hZNUtrbEZ2bzNWTVFZa00zTDZCRmwtaDZlVzJkeW5GU1VSeVNHdi1XRmJWT2RyNk0tTlRnTnBfODVqdENic2o3Q1lselkySE1xVH",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTzlKTHEyaWJnQ2RnczVaVF9aRkdORHNZX1BZY3hZNUtrbEZ2bzNWTVFZa00zTDZCRmwtaDZlVzJkeW5GU1VSeVNHdi1XRmJWT2RyNk0tTlRnTnBfODVqdENic2o3Q1lselkySE1xVHZpZVBQTWZjVWpXVGd6X1RJQmlXeUdOQ2NMWDVxa3NTSTFaVkFHQ014RnhaS0tVWGdtRmNKUU92ZzhQVWhXNkZtNWRvc2g2anpDR1Z3Vy1DZDBrOHV6dG1GQXRvZURFWXF4U0JFdXdwUlhrX2ZmNVhaTw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-04-009",
+    "date": "2026-08-04",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "lululemon athletica inc. $LULU Shares Bought by Sei Investments Co. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSDRtLV9VWEoyNUhVc3I5b2pRbnlVQ3dlNld3UFhEbVNzTDlLeWNWMmxhZk9VZTZod3prM0NoMUFPQ3BzV1NjWW5lcDJEYlAwR0N1eVUySThzUDRucDZiTkhWR3VTcEd2bUlTbmFsOX",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSDRtLV9VWEoyNUhVc3I5b2pRbnlVQ3dlNld3UFhEbVNzTDlLeWNWMmxhZk9VZTZod3prM0NoMUFPQ3BzV1NjWW5lcDJEYlAwR0N1eVUySThzUDRucDZiTkhWR3VTcEd2bUlTbmFsOXRLaEJRdXVVTWg5ZXNqMUtadHoxOHIwRTFQRHY0bk5jM1FsTnhhOU9HMVJwd2s4aHNJeWZycW9LUVNaOEVoLXVNQ0ZiQWUyTlRTZkZOcXctN0pRZEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-08-04-010",
+    "date": "2026-08-04",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Downgraded by JP Morgan -- Price Target Raised to $84 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNc09SUHoxYklMMnVZUmUzb3R0Q2NMNmV4VktBYlNSZWRyRnhVbWlST2ppT2NEb2p0dWtBdFJNMkttbjVRWW5aWU5kMGpXQi13VWtjOTdNcDBRTVF5Mm9aUWRxdUhoeDBMVGU0R3RxUj",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc09SUHoxYklMMnVZUmUzb3R0Q2NMNmV4VktBYlNSZWRyRnhVbWlST2ppT2NEb2p0dWtBdFJNMkttbjVRWW5aWU5kMGpXQi13VWtjOTdNcDBRTVF5Mm9aUWRxdUhoeDBMVGU0R3RxUjBJdk11cFZ5NWpWVnVkNmo1WDUxYVBwSzc1WmtpUUpoU0VubDg1cVV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-08-04-011",
+    "date": "2026-08-04",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Quantinno Capital Management LP Boosts Stake in PVH Corp. $PVH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUJPV1U4a29qbFdCMHNqc2ZjaDJKS2VzWC10aVZXN1VwTXlRQWJ1U1NQbW9WblhkN3UzaUFuODRUX1I1SjRsQzVMYzc0WlVtMG16amdGU3hpQS1uUERfN2dYcHNCMUZ5TDRtdGFwZl",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUJPV1U4a29qbFdCMHNqc2ZjaDJKS2VzWC10aVZXN1VwTXlRQWJ1U1NQbW9WblhkN3UzaUFuODRUX1I1SjRsQzVMYzc0WlVtMG16amdGU3hpQS1uUERfN2dYcHNCMUZ5TDRtdGFwZlh0N0ZjbWN2UTNlcl9FRVJxQ2lRZzgzM3pyQ0FWUVRRNWhpVGdZTWVxS2lHTERLMGNFbmU0bDc2U1F5elkxdm5CZGpweFRueVVaUkstU0tB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-08-04-012",
+    "date": "2026-08-04",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH CORP : JP MORGAN CUTS TO UNDERWEIGHT FROM NEUTRAL; RAISES TARGET PRICE TO $84 FROM $70 - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWNF9SdzFDSmZvdG5WT0xZdkx6cjVpdmpuUDJOdHQ1bmMtSkUxWEVlWURISXV0MzRYV3NlTXMyVTk5c3R2X0JsSDFMeFcwRkpYZ2Vrc2pRWXMwVEt1N2E1MDdlb9IBY0FVX3lxTFBWNF",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWNF9SdzFDSmZvdG5WT0xZdkx6cjVpdmpuUDJOdHQ1bmMtSkUxWEVlWURISXV0MzRYV3NlTXMyVTk5c3R2X0JsSDFMeFcwRkpYZ2Vrc2pRWXMwVEt1N2E1MDdlb9IBY0FVX3lxTFBWNF9SdzFDSmZvdG5WT0xZdkx6cjVpdmpuUDJOdHQ1bmMtSkUxWEVlWURISXV0MzRYV3NlTXMyVTk5c3R2X0JsSDFMeFcwRkpYZ2Vrc2pRWXMwVEt1N2E1MDdlbw?oc=5",
         "type": "rss"
       }
     ]
@@ -806,6 +1069,26 @@
       {
         "name": "lululemon",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWtpMlZvUndqWnpxWG5KZGxHTXRQWjdWOHZ0Nm1UaGU1Wi1PTHR5U09MdlFfcmwyMzB3bjVjNG5LOGp5bGsyVzd4bTM2dHpvaU5BeXpKMUZNLXltWTZkSlE1TXVVRXQtNHprOVk5RVloQ2dNN1VBUEhKaF92MmE2djBubEVjYUtBYm01LUFQRGNkUE56d04wZzhSTEJFR0dEQ3NKZzJwYUNwbzVjcVhOTTRtTEY3SlNDclR3aE1reHNNNk9lWEpDSFJsTlpEZ0NTSGxUWl9yYndFT0pGNFJYQmJXNmhDVnBMQXFjWnlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-07-31-006",
+    "date": "2026-07-31",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "adidas AG 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:ADDYY) 2026-07-31 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEZlNXJqUXVZeUlqWV9ZbmJfVXpqTlVMLTExSHl1Ti11cTRIZHFIZHJzMmFHQlNTYU5jampzbzZwOFB5WkZCcnJjTURoc2dTSHVDTlF1WUN1Uk9aTmc0cXlzc1UxU2NmS2p4cnUteU",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEZlNXJqUXVZeUlqWV9ZbmJfVXpqTlVMLTExSHl1Ti11cTRIZHFIZHJzMmFHQlNTYU5jampzbzZwOFB5WkZCcnJjTURoc2dTSHVDTlF1WUN1Uk9aTmc0cXlzc1UxU2NmS2p4cnUteUdVVG9NRk52ZG9zSFhWcUVJakxRM0ppSmtsNTlDYXZLSHZJTWhQbGlVTA?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 400,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 218,
+  "gate1_fail": 35,
+  "gate2_fail": 31,
+  "passed": 15,
+  "gate2_samples": [
+    "Toray develops a resin anode current collector film - Automotive World",
+    "Lenzing Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+    "Lenzing AG Refines Strategy And Strengthens Competitiveness For A Challenging Environment - Textile ",
+    "ETFs Investing in Formosa Taffeta Co., Ltd. Stocks - TradingView",
+    "Shenzhou International Group Holdings Stock Sheds 3.0% in Hong Kong - Moomoo"
+  ]
+}

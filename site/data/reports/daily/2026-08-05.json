@@ -1,0 +1,241 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:24:16.851135Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lenzing-2026-08-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lenzing doubles half-year profits - Knitting Industry",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sM1N0NUx2V1dNTVU0TjVVRW1Sc1FnajdlcDJOWTRTMXBmWlBEaEc5dnFoU29odW9zclZJLWxvYlhSeENpTFkzVjQ4UGI5WVdvdk1qWGRxckN5dm1zWjFaLWh0VFlkeGVBNElLcEZxdlA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vf_corp-2026-08-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corporation Beats Q1 Fiscal 2027 Expectations, Raises Full-Year Revenue Outlook - snowindustrynews.com",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaWM3aTVOVWZKWE9aYklGQmZ2TTRfUTJ6U2lVc0lPYk0xWFFmSndiLXhjWFJlLUhlajB6M2RuVU9wSHdfd0hDakJxUVJhOU9ZQVhmdWI2ckNxcTVvYnZSVVpVZnBwblRnOXgzc1ZWNXZyV2x0OVJzREg5bWI2V1BpSUtzejE1Mm9yYlhULW9uNTRJMkR0cTFBQXBibzJzZHdiMFpROEdXYTR0WjFrdXBXNldfU3pEbWZNRnZTaUFjcG1RbnNQeGg4SXNPZDB2OElGdVRhNjFMN25QZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lenzing-2026-08-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Austria’s Lenzing doubles H1 2026 profit despite lower revenue",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/austria-s-lenzing-doubles-h1-2026-profit-despite-lower-revenue-312374-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-05-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton retreats on profit booking, weaker crude oil",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-retreats-on-profit-booking-weaker-crude-oil-312373-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-05-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Guangdong, Zhejiang, Jiangsu: Inside China's three-way textile rivalry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/guangdong-zhejiang-jiangsu-inside-china-s-three-way-textile-rivalry-312371-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lenzing",
+        "count": 2
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 400,
+    "dup_title": 101,
+    "too_old": 218,
+    "gate1_blocked": 35,
+    "gate2_blocked": 31,
+    "passed": 15,
+    "pass_rate": "5.0%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Toray develops a resin anode current collector film - Automotive World",
+      "Lenzing Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "Lenzing AG Refines Strategy And Strengthens Competitiveness For A Challenging Environment - Textile ",
+      "ETFs Investing in Formosa Taffeta Co., Ltd. Stocks - TradingView",
+      "Shenzhou International Group Holdings Stock Sheds 3.0% in Hong Kong - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Lenzing、VF相關動態：「Lenzing doubles half-year profits - Knitting Industry」。主要關注主題為法說會、供應鏈轉移、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lenzing doubles half-year profits - Knitting Industry（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "VF Corporation Beats Q1 Fiscal 2027 Expectations, Raises Full-Year Revenue Ou...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
