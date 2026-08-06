@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-06",
+  "date_range": {
+    "start": "2026-07-31",
+    "end": "2026-08-06"
+  },
+  "generated_at": "2026-08-06T10:26:44.863715Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-08-03-003",
+      "date": "2026-08-03",
+      "title": "Rising tariffs push footwear margins to a tipping point",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "supply_chain_shift": {
+      "this_week": 27,
+      "last_week": 37,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": 0.06
+    },
+    "earnings": {
+      "this_week": 17,
+      "last_week": 28,
+      "week_over_week_change": "-39%",
+      "sentiment_this_week": 0.15
+    },
+    "fast_fashion": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "cotton_price": {
+      "this_week": 4,
+      "last_week": 9,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": -0.38
+    },
+    "order_visibility": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": -0.42
+    }
+  },
+  "company_7d_summary": {
+    "lululemon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "pvh": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "tapestry": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "lenzing": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nike": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "vf_corp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "adidas": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 83,
+        "last": 201,
+        "change_pct": -58.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-31",
+      "event_count": 7,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 14,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 17,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 13,
+      "sentiment_avg": -0.17
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 15,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-08-06",
+      "event_count": 11,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-31 ~ 2026-08-06）共 83 則事件，重點為「Rising tariffs push footwear margins to a tippi...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "PVH",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Coach",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lenzing",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

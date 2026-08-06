@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:26:44.703625Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-06-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "How did Israel's Delta Galil achieve record revenue & profit in Q2?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/how-did-israel-s-delta-galil-achieve-record-revenue-profit-in-q2--312403-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-06-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton gains on weaker US dollar, persistent weather concerns",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-gains-on-weaker-us-dollar-persistent-weather-concerns-312416-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-06-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s Pearl Global reports highest-ever quarterly revenue in Q1 FY27",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.62
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-s-pearl-global-reports-highest-ever-quarterly-revenue-in-q1-fy27-312411-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "adidas-2026-08-06-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Generative AI in textiles: Are physical samples obsolete?",
+      "companies": [
+        "adidas",
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/generative-ai-in-textiles-are-physical-samples-obsolete--312415-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-08-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Revisiting Stock Picks Cinemark Holdings, Tapestry, Carpenter Technology - barrons.com",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVEzMGdpaWpPRWpOVkdsN1NxUHVqZUhYTkZhU1A0MDFLSmtjLWFiS3EwcUM3QnlobFBHeTlFQ3U1WTZnWEZZQVF1ZFg1YVdtdUktNkdjdGxmUlgzaUctakhOZjVzeWp2U1Yzb09RQ2FueHh5RmJ5MXU0X0ZnUFJBRERNaTJOS0F3RS0xeG5GU3c4dlFsYkt4RFZNV29Nc3pkTHF4ejlXWGphV3ZlMDBVU1V3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.29,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 4
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 400,
+    "dup_title": 87,
+    "too_old": 221,
+    "gate1_blocked": 33,
+    "gate2_blocked": 35,
+    "passed": 24,
+    "pass_rate": "7.7%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "Lenzing AG: Release of a Financial report - tradingview.com",
+      "Lenzing Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "Lenzing H1 2026 slides: margins hold at 19% amid geopolitical headwinds - Investing.com",
+      "Lenzing Reports Strongly Improved Half-Year Results and Accelerates Strategic Transformation Agenda ",
+      "ETFs Investing in Formosa Taffeta Co., Ltd. Stocks - tradingview.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Coach、愛迪達、PVH相關動態：「How did Israel's Delta Galil achieve record revenue & pro...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "How did Israel's Delta Galil achieve record revenue & profit in Q2?（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "ICE cotton gains on weaker US dollar, persistent weather concerns（棉花價格、訂單能見度、供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

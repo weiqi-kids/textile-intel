@@ -1,0 +1,16 @@
+{
+  "total_raw": 400,
+  "dup_title": 87,
+  "no_date": 0,
+  "too_old": 221,
+  "gate1_fail": 33,
+  "gate2_fail": 35,
+  "passed": 24,
+  "gate2_samples": [
+    "Lenzing AG: Release of a Financial report - tradingview.com",
+    "Lenzing Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+    "Lenzing H1 2026 slides: margins hold at 19% amid geopolitical headwinds - Investing.com",
+    "Lenzing Reports Strongly Improved Half-Year Results and Accelerates Strategic Transformation Agenda ",
+    "ETFs Investing in Formosa Taffeta Co., Ltd. Stocks - tradingview.com"
+  ]
+}

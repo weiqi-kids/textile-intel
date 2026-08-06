@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-06",
+  "total_events": 11,
+  "by_company": {
+    "tapestry": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "adidas": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pvh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 7,
+      "sentiment_avg": 0.02
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "order_visibility": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.29
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
