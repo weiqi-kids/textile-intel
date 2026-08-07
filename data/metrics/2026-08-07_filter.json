@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 28,
+  "gate2_fail": 28,
+  "passed": 33,
+  "gate2_samples": [
+    "Lenzing AG: Release of a Financial report - tradingview.com",
+    "Lenzing Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+    "Lenzing H1 2026 slides: margins hold at 19% amid geopolitical headwinds - Investing.com",
+    "AGM: Lenzing AG - marketscreener.com",
+    "Lenzing Reports Strongly Improved Half-Year Results and Accelerates Strategic Transformation Agenda "
+  ]
+}

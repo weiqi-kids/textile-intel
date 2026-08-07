@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:26:40.918922Z",
+  "updated_at": "2026-08-07T08:45:56.754354Z",
   "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
@@ -126,17 +126,17 @@
       "name": "力麗",
       "ticker": "1444.TW",
       "currency": "TWD",
-      "ar": 441720000,
-      "ar_prev": 614465000,
-      "ar_qoq": "-28%",
+      "ar": 966994000,
+      "ar_prev": 441720000,
+      "ar_qoq": "+119%",
       "ar_period": "QoQ",
-      "inventory": 3204527000,
-      "inv_prev": 3387744000,
-      "inv_qoq": "-5%",
+      "inventory": 3236672000,
+      "inv_prev": 3204527000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "lenzing",
