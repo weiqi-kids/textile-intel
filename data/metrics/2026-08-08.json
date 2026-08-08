@@ -1,0 +1,29 @@
+{
+  "date": "2026-08-08",
+  "total_events": 7,
+  "by_company": {
+    "tapestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -0.25
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

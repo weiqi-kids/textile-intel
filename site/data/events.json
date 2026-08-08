@@ -1,5 +1,134 @@
 [
   {
+    "id": "tapestry-2026-08-08-001",
+    "date": "2026-08-08",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Hilton introduces Tapestry Collection in Vietnam - Travel Daily Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPY3JYRkhpMG9wUmxNRHFnalhneEptQXlBd3VXTFAxTFB0cFRBM08tVExpY0RnTlJXQUV0ZHMyMnpMUmFIUGhxcy1KOUk5cnlJZXNsdi16emRPMUVGYWt4TFU1dkJqVjRGeExod3B6dE",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY3JYRkhpMG9wUmxNRHFnalhneEptQXlBd3VXTFAxTFB0cFRBM08tVExpY0RnTlJXQUV0ZHMyMnpMUmFIUGhxcy1KOUk5cnlJZXNsdi16emRPMUVGYWt4TFU1dkJqVjRGeExod3B6dEVweHpnaEhsNG1fd0w1djJfemlhSGk0cUpQdUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-002",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "How US' Somnigroup's Q2 net income rose 12% despite sales decline?",
+    "summary": "Somnigroup’s Q2 FY26 net income rose 12 per cent to $110.9 million despite a 3 per cent sales decline to $1.82 billion, supported by margin expansion and higher operating income. \nGross margin improve",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/how-us-somnigroup-s-q2-net-income-rose-12-despite-sales-decline--312482-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-003",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Pakistan's textile surge signals a South Asian sourcing shift",
+    "summary": "Pakistan's textile exports hit a record $1.83 billion in July 2026, up 9 per cent year-on-year after a flat FY2025-26.\nBangladesh's gas-constrained garment factories running at 60–70 per cent capacity",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/pakistan-s-textile-surge-signals-a-south-asian-sourcing-shift-312480-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-004",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "EXIM Bank replaces RBI as India's export subsidy implementing agency",
+    "summary": "India has shifted implementation of the Interest Subvention Support Scheme for pre- and post-shipment export credit under the Export Promotion Mission from the Reserve Bank of India to EXIM Bank, effe",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/exim-bank-replaces-rbi-as-india-s-export-subsidy-implementing-agency-312474-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-005",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "PM Modi honours weavers, artisans on National Handloom Day",
+    "summary": "Prime Minister Narendra Modi greeted the citizens of India on National Handloom Day and celebrated the country's handloom heritage.\nHe paid tribute to weavers and artisans for preserving traditional c",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/pm-modi-honours-weavers-artisans-on-national-handloom-day-312469-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-006",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "South India's cotton yarn stable, faces higher cost but slower demand",
+    "summary": "Cotton yarn prices held steady in Mumbai and Tiruppur after mills passed higher cotton costs to buyers. \nMumbai saw subdued grey and finished fabric demand at higher levels, while Tiruppur reported st",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/south-india-s-cotton-yarn-stable-faces-higher-cost-but-slower-demand-312471-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-007",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "US cotton rewrites Bangladesh's apparel sourcing playbook",
+    "summary": "Bangladesh Bank has raised the cash incentive for exporters using local yarn and fabric to 5 per cent in FY27, from 1.5 per cent.\nA draft import policy lifts value addition to 30 per cent for most clo",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/us-cotton-rewrites-bangladesh-s-apparel-sourcing-playbook-312483-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "far_eastern-2026-08-07-001",
     "date": "2026-08-07",
     "companies": [
@@ -292,6 +421,138 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SYnM4QmFkZDJnN3VaaldfMlFvVlZuM1Z1VVZ4b0tRTW1mTnAwZVo2UWdfeWUwRjRSV21RRHBiSGVpLXplUGlSMDUyank4NGF0eWVacWRIeEppREk5TkpOeFhKaHZXOHhfeGVSYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-08-07-017",
+    "date": "2026-08-07",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toray Industries (TSE:3402) Stock Runs Ahead Of Profit Recovery - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT2hkSUJ3YnVuT0hRX1dBYUtNUnNsbnl0clVoT292UUdRdThLWldDeUZQM1NyREFWVGU1ZnRrT3ExeF8zZWFEcGFLRUN4UlN0dWZiNVFwSUdFMFJZeWJiWGpCU21qTWhSLWhnVC1oMW",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT2hkSUJ3YnVuT0hRX1dBYUtNUnNsbnl0clVoT292UUdRdThLWldDeUZQM1NyREFWVGU1ZnRrT3ExeF8zZWFEcGFLRUN4UlN0dWZiNVFwSUdFMFJZeWJiWGpCU21qTWhSLWhnVC1oMWtVWkVRd2d2c3ZUM2Q3TDdRVVB2T3hvYXZzLXZKVzRRR0JaWC1wQjZJUllEWmZIbWZnRFdBU2MtbUNrRks1cURpdDlHOXhyVTNIMmMzQXF0bTFGUWJ3aGkzVFBCSG9QSEJkNWhUa0xNTzF4MnNZ0gHcAUFVX3lxTFBPaGRJQndidW5PSFFfV0FhS01Sc2xueXRyVWhPb3ZRR1F1OEtaV0N5RlAzU3JEQVZUZTVmdGtPcTF4XzNlYURwYUtFQ3hSU3R1ZmI1UXBJR0UwUll5YmJYakJTbWpNaFItaGdULWgxa1VaRVF3Z3ZzdlQzZDdMN1FVUHZPeG9hdnMtdkpXNFFHQlpYLXBCNklSWURaZkhtZmdEV0FTYy1tQ2tGSzVxRGl0OUc5eHJVM0gyYzNBcXRtMUZRYndoaTNUUEJIb1BIQmQ1aFRrTE1PMXgyc1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenzhou-2026-08-07-018",
+    "date": "2026-08-07",
+    "companies": [
+      "shenzhou"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Shenzhou International Warns of Up to 43% Lower H1 Profit - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0RKd2VxVnJWZmlEaXo0Sy1EOEdZMFRYeUY5WkJncVJWV3Y2WDFnN0t0bmtYUFV3V2tGSWc4Sl9UVDhjbkNvSTNpVExTSmdrYmJCZWo3UkZMcEtkYzMySnkxajZ6Z21rcG91ZkhDbz",
+    "sources": [
+      {
+        "name": "shenzhou",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0RKd2VxVnJWZmlEaXo0Sy1EOEdZMFRYeUY5WkJncVJWV3Y2WDFnN0t0bmtYUFV3V2tGSWc4Sl9UVDhjbkNvSTNpVExTSmdrYmJCZWo3UkZMcEtkYzMySnkxajZ6Z21rcG91ZkhDbzdqVVVoUnF4U055Y3JDUTRfb202Vlc4Rksxb1Fib1ZaM2FPcG9ESmxUSG9fN2t6WkFfc2NvVTZsWUJNdGhKUmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-08-07-019",
+    "date": "2026-08-07",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "adidas AG: NNS Investments (Cyprus) Limited, Expiration ITM of 50,000 Long Calls for an aggregate cash settlement of EUR 113,500 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOWURqNE5fN0t3cmt1dzl5NlJXanR6eDBoenlrOGRXTXdLY2RNOU01bDZFcUNhSld2V085TTRUN1NpdnFyNXFiNGZIRmQ2SzdsOE9kd01ZQnFpUVYybTNGUXZNM3pOSzFyaVhRZHFzME",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWURqNE5fN0t3cmt1dzl5NlJXanR6eDBoenlrOGRXTXdLY2RNOU01bDZFcUNhSld2V085TTRUN1NpdnFyNXFiNGZIRmQ2SzdsOE9kd01ZQnFpUVYybTNGUXZNM3pOSzFyaVhRZHFzMEpydDc2Tml6WDFRNmhhQTdmTU5NWE9SOVdKUFRrMEphV3pmWko3U0xGbVM4eUkzNngxOElPc3JZYTZ0WU9adnI2OUxZODZFdG1ZLXE5TFNsUkhhcGVsQjhpZHVpaDMxY3M3S1VkUnU0TllyeVZSQW5Ka01DOVZoYmt6ZmZrQjJQSU1rT3MwNEY3MjFuNDVrekNENnhrTFQxclZwZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-08-07-020",
+    "date": "2026-08-07",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ADIDAS AG (ADS.VI) Q1 FY2026 earnings call transcript - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQNElndUpSUHJfUnNaejlUNXVLcFNxeXFQS1NLZXJiNmRwcHoyWXdnQS1WVHRLck9EWHExRUVHd0pJMjJnX0hWYkhQOTFUQmcwTzJvQV9rQzZZMlFTTmg1RHlEUjBOeE5ILWpuME5GcW",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNElndUpSUHJfUnNaejlUNXVLcFNxeXFQS1NLZXJiNmRwcHoyWXdnQS1WVHRLck9EWHExRUVHd0pJMjJnX0hWYkhQOTFUQmcwTzJvQV9rQzZZMlFTTmg1RHlEUjBOeE5ILWpuME5GcW94NTdvTzhiV2J5eWliSHJNNXRBYVg0SU51YUdQVVZxcUpwUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-07-021",
+    "date": "2026-08-07",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Eastern Bank Decreases Stock Holdings in lululemon athletica inc. $LULU - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZktaS3VxdHlfUTNxd1gxb25BQXQ3NzJGMm5TMm1fN2FkWUlGbXNfR3hWQTBvdFZ3UFRlRkhUZHVzLWplQVNyRXRMelpRYlc0OXhwQjNkLVFjMGJZSGRtYi1ZY214VHNTVE1OQ1o3T0",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZktaS3VxdHlfUTNxd1gxb25BQXQ3NzJGMm5TMm1fN2FkWUlGbXNfR3hWQTBvdFZ3UFRlRkhUZHVzLWplQVNyRXRMelpRYlc0OXhwQjNkLVFjMGJZSGRtYi1ZY214VHNTVE1OQ1o3T0JuaUJMRnp3Q3h1QVFiN05NUlhDSkN6Si14bmlsV2wtdWF4bU9SODVKYjdCSDhqRjFmRG1UMzZ3dHl5bG5XM2VEbV9BdDFrbjl1SnpmOWVmNTVZNmtNbVEweW53?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-07-022",
+    "date": "2026-08-07",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NY-TAPESTRY - Black Hills Pioneer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlo3eU8wNUlDN1RwX2NUNTNoUG1Tdm9kNkdSTzYzNVl3XzVNSG81WWFtR1pqR2pxMEFoYkVOa1FuZFVrclVsUEtDVUVfRGI2ME9vM0tmU0RrZW9TcFN3UnBnbU5ZOVVkWVVjVFdZel",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlo3eU8wNUlDN1RwX2NUNTNoUG1Tdm9kNkdSTzYzNVl3XzVNSG81WWFtR1pqR2pxMEFoYkVOa1FuZFVrclVsUEtDVUVfRGI2ME9vM0tmU0RrZW9TcFN3UnBnbU5ZOVVkWVVjVFdZeld5OS1lZkNjRjN1RHVXVF93YkIyQ2drSVdhRTQ0VE8yd05Kcm1UMDFmTFNyRW5DOHBS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-07-023",
+    "date": "2026-08-07",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tapestry's Culture of Curiosity Turns AI Experimentation into Business Advantage - Bluefield Daily Telegraph",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV20xZnI0cU5abWtadFhpRmNXMV9KSnlhbVhWU2s1RVBBOGE2RjV4UWJ1N0pJRkhFZXRKenk0NXoyWHNHak1mRTVhcVhBOFpQNjU4dDBwQUpqRFBHWVNlTkpkNkZyeTcwSTJuclE2Sz",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV20xZnI0cU5abWtadFhpRmNXMV9KSnlhbVhWU2s1RVBBOGE2RjV4UWJ1N0pJRkhFZXRKenk0NXoyWHNHak1mRTVhcVhBOFpQNjU4dDBwQUpqRFBHWVNlTkpkNkZyeTcwSTJuclE2SzBXcWdpZ0VYSXRKQmdGXzJTR0pJLXNUM1VTcE1nYV9WODRyVDFSODhLcWFxR0VmZ0hURHc4QTcySGV4WHM5VTZSeFJFSF9JTGMzOE1sQUF2T0RPZ1c0VXFCYjJhZ0RPdjlZaXRHV0w4X2s3OWotdGFXbnk0Q2gxbHRWeTdLVmlvTXlDdWZY?oc=5",
         "type": "rss"
       }
     ]
@@ -736,6 +997,106 @@
     ]
   },
   {
+    "id": "toray-2026-08-06-024",
+    "date": "2026-08-06",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Toray Industries: Strong year-over-year profit and revenue growth led to raised first-half forecasts - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPdi1Cck5mal85dzE4SVFxLU9Rbk5iS0o3cW5DdDFuRDZmSHhrYS1INnl4TEtPVi05MUhZbmtiRUVVeXFtUS1tcHoxcTVOZjF3ZUdxUlVQT2U5T1luN3hWaUVyLUU1SEtVcV81NGt2Zk",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdi1Cck5mal85dzE4SVFxLU9Rbk5iS0o3cW5DdDFuRDZmSHhrYS1INnl4TEtPVi05MUhZbmtiRUVVeXFtUS1tcHoxcTVOZjF3ZUdxUlVQT2U5T1luN3hWaUVyLUU1SEtVcV81NGt2ZkVhMTNNSzg5RV9qOGpEVVpkUV8zdkp0ZFJlTmpoUFloWGV3cUw2WU5XTXpxYTFITmRnZ1RpRjgzanRsb3dWb2Q4OE9sbHltVWtvaUZQR2FOOUI4Yjc1TksxYUU4S2FHQTFfdmdxb1FvMk9GeG51UU5HdDR1YlJOc3o5UG9JcDhUSWE1QTZYZ3NsMlljUnE3eE40LUpqSHdhNUtnWWJVYUF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-08-06-025",
+    "date": "2026-08-06",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toray Industries, Inc. Provides Commemorative Dividend Guidance for the Second Quarter-End of the Year Ending March 31, 2027 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOGxRWktLUkREVEk4UDdjd0M1ajJNZUZKR0h1UC1aTHAyX3d6a0FsUWk4ZmRvNmRxb1VWSkZ3WU9tV01YOF9odjZ2N2p2NExjR014LUZacG1OeVZxT19CRXlCQXNNZVpKczRJeUtuX0",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOGxRWktLUkREVEk4UDdjd0M1ajJNZUZKR0h1UC1aTHAyX3d6a0FsUWk4ZmRvNmRxb1VWSkZ3WU9tV01YOF9odjZ2N2p2NExjR014LUZacG1OeVZxT19CRXlCQXNNZVpKczRJeUtuX0dhelpXVXRBV2t2UndpaW52TDZ2NzdkUjZMQ2JONmdHWjNDV3B0cVNHSFkyYWk0R2FmYWxJRzYyYkxkNGhETndtZnZGdjFOendoQXRnN0h0Vlp0c3l1TlFlc2FVUFUyOUxVSE5LekdYX2ZuWGQwTGROTEh6bFNMdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-08-06-026",
+    "date": "2026-08-06",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toray Industries, Inc. Provides Consolidated Earnings Guidance for the Fiscal Year Ending March 31, 2027 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNXzRTM0RXYjVBRkJIblVTQjNRQm50OFM3bHZVd3JianRwRlVmVDFKc2lpTGpVMWhKQnhENGJmeld4RnRpSllLVUdEZjNqcGJLV3NsQ2hJZlR2VFF3RHFoTW5ZXy1xbFNOTTRpSkJ5Zl",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNXzRTM0RXYjVBRkJIblVTQjNRQm50OFM3bHZVd3JianRwRlVmVDFKc2lpTGpVMWhKQnhENGJmeld4RnRpSllLVUdEZjNqcGJLV3NsQ2hJZlR2VFF3RHFoTW5ZXy1xbFNOTTRpSkJ5ZlYyRGEtTEtZaUVqNmxhd2IyMFE0cGZHblNrXzlGMmtZcHpIX290cnRqTVNKSWRFbnJsa0N1YnEzckRoQUVaald5YzVYX1RVTFc5WGpoLWMyVUtEWThmUDJmUDQ3eExFdlUteDN0WHE5VldyX1pjTmNzWE92cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-08-06-027",
+    "date": "2026-08-06",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toray Industries Attributable Profit Surges 82% in Fiscal Q1; Shares Rise 7% - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQUFFbWtvV1V6T3luTzhab21kZ0Y1cGlLQ25fcWJGX0JoZTRld1kzZ3plMHFBM29FOFphV0F1ejlEM2lnSUJnSHVUN1VKWTVkZEpvaU5WZGJERHZ6QlZtMUhVVWNfYl9MNW9pR3JOV3",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQUFFbWtvV1V6T3luTzhab21kZ0Y1cGlLQ25fcWJGX0JoZTRld1kzZ3plMHFBM29FOFphV0F1ejlEM2lnSUJnSHVUN1VKWTVkZEpvaU5WZGJERHZ6QlZtMUhVVWNfYl9MNW9pR3JOV3REbDVhOUdTWExTM09yQTRfUHNqX1lXT05BUHZyd3dUV19qR2VuakdER09YY3pWLWJTX3NnblE3NjYwUHllMjJtV19nbnpIMFJNUVVNR1oyNHFVaFhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenzing-2026-08-06-028",
+    "date": "2026-08-06",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Lenzing increases half-year profit despite decline in revenue - fashionunited.uk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXExVjVsWW9ERnBfSWF0MHlaOU5SZjZmLUxUVUU1Qm51b1pXLW5vUDdONXZtS2VjSlNBQUdObEZQOFktZnVMLVVCVkRMd2l3cmtCNlVBTEJvU3dsclM1LU9YSHR6TUVETnByT2ozeW",
+    "sources": [
+      {
+        "name": "lenzing",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXExVjVsWW9ERnBfSWF0MHlaOU5SZjZmLUxUVUU1Qm51b1pXLW5vUDdONXZtS2VjSlNBQUdObEZQOFktZnVMLVVCVkRMd2l3cmtCNlVBTEJvU3dsclM1LU9YSHR6TUVETnByT2ozeWppVUlxeE9POG1ObEx2Y2oxVkFleHFrUFRzLVNTU3BjMXJjdzJmVjVUVm0wNTJ1ZGN2T3ZELTBldlA2LS0xSk0yWnB6d2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lenzing-2026-08-05-001",
     "date": "2026-08-05",
     "companies": [
@@ -1101,6 +1462,24 @@
     ]
   },
   {
+    "id": "pvh-2026-08-05-020",
+    "date": "2026-08-05",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Declares $0.0375 Quarterly Cash Dividend Payable Sept. 23 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXd4LWtqMGNDMkpZYmxsa01qOXhiaXZVVk1ZNExBWUJOSjVVbEdfMVRNVE9VdUVRaEUyR05KNkZkdmZyMThMb1JmTkxjSkQ5am5yam5FdmEtckFZRmU5WkZ6STRnbVZLMEZVUWY2Ml",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXd4LWtqMGNDMkpZYmxsa01qOXhiaXZVVk1ZNExBWUJOSjVVbEdfMVRNVE9VdUVRaEUyR05KNkZkdmZyMThMb1JmTkxjSkQ5am5yam5FdmEtckFZRmU5WkZ6STRnbVZLMEZVUWY2MloxUXBfcEhJaEctR0NjUUxXLWNSQ2xIYURXaUprSU1UZnJiT3lhUWpMN1YzQmZubk1rWEszMmFzcDJWVlk3RFptRF9QWFZNN3Uybk40ek53?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-04-001",
     "date": "2026-08-04",
     "companies": [],
@@ -1334,6 +1713,24 @@
       {
         "name": "lenzing",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52QUhVcG5WTUthZFJ4RkdTRUY4S0dwV25YVmtoQWhsbGxsMk9PQ3NRR0t2djRWRkVVRHMza25jRzZJT0xwRFdZX2JvbTNjVHlHVzlVei1DdjJYWVYwbEoydU5lVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-04-014",
+    "date": "2026-08-04",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JPMorgan Adjusts Price Target on Lululemon Athletica to $154 From $149, Maintains Neutral Rating - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFJqcHRPRnc1THRiZ1Z5a2ZRb2MyeDV0bkliX3VMZUJVTmd0NDlVMFl2SEN5b0hCazZVSy1CX2J5UDJwNTE0SEw1VWtMRGpfOXBPRFVPMkdYc3BHLVFKS0V5a0VkS1lrTTkzYVc4bG",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFJqcHRPRnc1THRiZ1Z5a2ZRb2MyeDV0bkliX3VMZUJVTmd0NDlVMFl2SEN5b0hCazZVSy1CX2J5UDJwNTE0SEw1VWtMRGpfOXBPRFVPMkdYc3BHLVFKS0V5a0VkS1lrTTkzYVc4bGhrRlI2STZZR3JCT1NDT012WHZtVmQzcWZmekwtTlQ3M2lsUml3aWU1RDRrNXFzeGZxTFhiLWd6YlRtUQ?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,210 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:28:57.094748Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How US' Somnigroup's Q2 net income rose 12% despite sales decline?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/how-us-somnigroup-s-q2-net-income-rose-12-despite-sales-decline--312482-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-08-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Pakistan's textile surge signals a South Asian sourcing shift",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/pakistan-s-textile-surge-signals-a-south-asian-sourcing-shift-312480-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-08-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hilton introduces Tapestry Collection in Vietnam - Travel Daily Media",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY3JYRkhpMG9wUmxNRHFnalhneEptQXlBd3VXTFAxTFB0cFRBM08tVExpY0RnTlJXQUV0ZHMyMnpMUmFIUGhxcy1KOUk5cnlJZXNsdi16emRPMUVGYWt4TFU1dkJqVjRGeExod3B6dEVweHpnaEhsNG1fd0w1djJfemlhSGk0cUpQdUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EXIM Bank replaces RBI as India's export subsidy implementing agency",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/exim-bank-replaces-rbi-as-india-s-export-subsidy-implementing-agency-312474-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PM Modi honours weavers, artisans on National Handloom Day",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/pm-modi-honours-weavers-artisans-on-national-handloom-day-312469-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 102,
+    "too_old": 226,
+    "gate1_blocked": 20,
+    "gate2_blocked": 34,
+    "passed": 21,
+    "pass_rate": "7.0%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Lenzing AG: Release of a Financial report - TradingView",
+      "Cascale Case Study: Lenzing Advances Responsible Fiber Manufacturing - marketscreener.com",
+      "Lenzing Reports Strongly Improved Half-Year Results and Accelerates Strategic Transformation Agenda ",
+      "Lenzing H1 2026 slides: margins hold at 19% amid geopolitical headwinds - Investing.com",
+      "AGM: Lenzing AG - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Coach相關動態：「How US' Somnigroup's Q2 net income rose 12% despite sales...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "How US' Somnigroup's Q2 net income rose 12% despite sales decline?（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pakistan's textile surge signals a South Asian sourcing shift（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

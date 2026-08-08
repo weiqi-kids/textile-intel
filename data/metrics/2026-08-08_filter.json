@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 226,
+  "gate1_fail": 20,
+  "gate2_fail": 34,
+  "passed": 21,
+  "gate2_samples": [
+    "Lenzing AG: Release of a Financial report - TradingView",
+    "Cascale Case Study: Lenzing Advances Responsible Fiber Manufacturing - marketscreener.com",
+    "Lenzing Reports Strongly Improved Half-Year Results and Accelerates Strategic Transformation Agenda ",
+    "Lenzing H1 2026 slides: margins hold at 19% amid geopolitical headwinds - Investing.com",
+    "AGM: Lenzing AG - marketscreener.com"
+  ]
+}
