@@ -1,5 +1,114 @@
 [
   {
+    "id": "unknown-2026-08-09-001",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "V.F. Corporation Revenue Breakdown – NYSE:VFC - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVVhLamNOR3NXZHRXVzU5c3RvNnAtUi1NNHY1ZXlRNjVDMzZmNXBhM29vM1lIaVBGZ3JkaVVld0pwaEM5RHZWalE4VEVwMVNKdWtBNmRlU1NOdWtNdlplbkIxb1k5NGR4aVVDUDJFUH",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVVhLamNOR3NXZHRXVzU5c3RvNnAtUi1NNHY1ZXlRNjVDMzZmNXBhM29vM1lIaVBGZ3JkaVVld0pwaEM5RHZWalE4VEVwMVNKdWtBNmRlU1NOdWtNdlplbkIxb1k5NGR4aVVDUDJFUHZMUTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-002",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "sustainable_textile",
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India seeks policy boost to improve textiles industry competitiveness",
+    "summary": "India’s parliamentary commerce committee has urged stronger support for textile and apparel exporters facing US tariff uncertainty. \nIt recommended faster implementation of PM MITRA, PLI and Samarth s",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-seeks-policy-boost-to-improve-textiles-industry-competitiveness-312493-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-003",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Vietnam’s textile & garment exports reach to $22.8 bn in Jan-July 2026",
+    "summary": "Vietnam’s textile and garment exports, excluding yarn and fibre, inched up 1.1 per cent YoY to $22.863 billion in January-July 2026.\nYarn exports grew 11.1 per cent YoY to $2,723.846 million in value,",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-textile-garment-exports-reach-to-22-8-bn-in-jan-july-2026-312485-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-004",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "AfCFTA signs $3.1-bn pact to digitise customs operations across Africa",
+    "summary": "The African Continental Free Trade Area (AfCFTA) Secretariat recently signed a 20-year $3.1-billion concession agreement with Bergmans Security Consultant and Supplies in Abuja to digitise customs ope",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/afcfta-signs-3-1-bn-pact-to-digitise-customs-operations-across-africa-312487-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-005",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "US Senate passes bill putting India, China at risk of 100% tariffs",
+    "summary": "The US Senate has passed a bill allowing President Donald Trump to impose tariffs of up to 100 per cent on goods from major buyers of Russian energy, including India and China. \nPassed by an 86-11 vot",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/us-senate-passes-bill-putting-india-china-at-risk-of-100-tariffs-312492-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-006",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "BGMEA, Wagely Bangladesh join hands to boost capacity of 50000 workers",
+    "summary": "Trade body BGMEA and Wagely Bangladesh have signed a strategic partnership agreement to strengthen workforce development, financial well-being and sustainable productivity within the RMG sector.\nBoth ",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/bgmea-wagely-bangladesh-join-hands-to-boost-capacity-of-50000-workers-312489-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tapestry-2026-08-08-001",
     "date": "2026-08-08",
     "companies": [
@@ -124,6 +233,100 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/us-cotton-rewrites-bangladesh-s-apparel-sourcing-playbook-312483-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenzing-2026-08-08-008",
+    "date": "2026-08-08",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lenzing AG (LNZNF) (Q2 2026) Earnings Call Highlights: Value Over Volume Strategy Drives 9% ... - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9EUzdqVWlXR1pmTkcyZzl5THl2VjhRVm55UDdOS1VmT2ZNSFBESEhKbmNxanZqcHFPbjVvQkJHRDBiVWNiUHVOdURld1NaN2hXTFM4WW9rQVFLb2pKNkpDUjlZRUxJNGxWcGl5VHVWYm",
+    "sources": [
+      {
+        "name": "lenzing",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EUzdqVWlXR1pmTkcyZzl5THl2VjhRVm55UDdOS1VmT2ZNSFBESEhKbmNxanZqcHFPbjVvQkJHRDBiVWNiUHVOdURld1NaN2hXTFM4WW9rQVFLb2pKNkpDUjlZRUxJNGxWcGl5VHVWYmh2blNZYTRUMG5kNVpYdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-009",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "SHZHY Stock Price and Chart — OTC:SHZHY - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5USHRGT2xaRnloWXV4eEd5VjRTOUhxbE1ZWUEtZUtHQU41eWVMWGUyT3ZESGVPYml1NG9UYlN6XzlYelpyRExKd1N1Qm01bFhtbjFzbHhZRmhMNG9EUjhKSVdTTGF2b3FBejdnc185Uj",
+    "sources": [
+      {
+        "name": "shenzhou",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5USHRGT2xaRnloWXV4eEd5VjRTOUhxbE1ZWUEtZUtHQU41eWVMWGUyT3ZESGVPYml1NG9UYlN6XzlYelpyRExKd1N1Qm01bFhtbjFzbHhZRmhMNG9EUjhKSVdTTGF2b3FBejdnc185UjNhSmdtUUFrX05R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-08-08-010",
+    "date": "2026-08-08",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Adidas AG (ADS1) Q2 2026 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG9ORzN6enNtdlQxdVhxdnVVdjRsRjhMQ2UwV00tWFJ0NWtvWkd1OHlHbkllMENIeUE1WFdGRVpwdzFyUVp2TUFpVXZMTmV5S3hUWnBVWGhOX3F1Y0Yya2VQZmRGZC1Eb21PdWVMaS",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG9ORzN6enNtdlQxdVhxdnVVdjRsRjhMQ2UwV00tWFJ0NWtvWkd1OHlHbkllMENIeUE1WFdGRVpwdzFyUVp2TUFpVXZMTmV5S3hUWnBVWGhOX3F1Y0Yya2VQZmRGZC1Eb21PdWVMaS1IcnJ1RmVZRVozWldxUVNEX0NUMVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-08-011",
+    "date": "2026-08-08",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rockland Trust Co. Raises Holdings in lululemon athletica inc. $LULU - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNbk5yOUZIODBkengyVHZ2SkwyOGZiaVlIeTMwMzAtSi1kaExINzZLOHA4ZWZkSmMxT0JmbHFzbVhHMWc2Smd0UFhsY01LYUZHMFo5Rk9uSnNNRzU2cGJvY2FFQm5QdHo2cDFNdFMzbV",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbk5yOUZIODBkengyVHZ2SkwyOGZiaVlIeTMwMzAtSi1kaExINzZLOHA4ZWZkSmMxT0JmbHFzbVhHMWc2Smd0UFhsY01LYUZHMFo5Rk9uSnNNRzU2cGJvY2FFQm5QdHo2cDFNdFMzbVlDQnhWZmdBWTNhSURXd1paMmlQWXJ5ekZiZ0hQRXpWd0MzNDlobEZHaU93N0c4VmVuTTVnckZORWgtdmV2MEFqbEpxUURnb0p4R19oTnhxX3l1Nlot?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-012",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "NONWOVENN Targets Doubling USA Revenue With Key Senior Director Appointment",
+    "summary": "BRIDGWATER, England — August 6, 2026 — One of the world’s leading nonwoven fabric-tech companies, Nonwovenn has appointed leading industry expert, Robert Green, as Business Development Director for it",
+    "sources": [
+      {
+        "name": "textile_world",
+        "url": "https://www.textileworld.com/textile-world/nonwovens-technical-textiles/2026/08/nonwovenn-targets-doubling-usa-revenue-with-key-senior-director-appointment/",
         "type": "rss"
       }
     ]
@@ -553,6 +756,46 @@
       {
         "name": "tapestry",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV20xZnI0cU5abWtadFhpRmNXMV9KSnlhbVhWU2s1RVBBOGE2RjV4UWJ1N0pJRkhFZXRKenk0NXoyWHNHak1mRTVhcVhBOFpQNjU4dDBwQUpqRFBHWVNlTkpkNkZyeTcwSTJuclE2SzBXcWdpZ0VYSXRKQmdGXzJTR0pJLXNUM1VTcE1nYV9WODRyVDFSODhLcWFxR0VmZ0hURHc4QTcySGV4WHM5VTZSeFJFSF9JTGMzOE1sQUF2T0RPZ1c0VXFCYjJhZ0RPdjlZaXRHV0w4X2s3OWotdGFXbnk0Q2gxbHRWeTdLVmlvTXlDdWZY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-08-07-024",
+    "date": "2026-08-07",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "【Toray FY2026 Q1 Earnings Call】Operating profit hits record ¥48.4 billion, first-half forecast raised — automotive and aircraft demand recovery drives growth - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DRGJQRXY1WGN4UzJ1YUhrTnJTeF9iNHVGeUJvdTIzeDFhTWFpSTdSR1hscjRZQ2dLZWtvZWZTT19XMXZQU3hiOWFZb20yZEVGWjF3S2NPckt3ODM5NlRaXw?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DRGJQRXY1WGN4UzJ1YUhrTnJTeF9iNHVGeUJvdTIzeDFhTWFpSTdSR1hscjRZQ2dLZWtvZWZTT19XMXZQU3hiOWFZb20yZEVGWjF3S2NPckt3ODM5NlRaXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-08-07-025",
+    "date": "2026-08-07",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ADIDAS AG (ADS.VI) Q1 FY2026 earnings call transcript - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQNElndUpSUHJfUnNaejlUNXVLcFNxeXFQS1NLZXJiNmRwcHoyWXdnQS1WVHRLck9EWHExRUVHd0pJMjJnX0hWYkhQOTFUQmcwTzJvQV9rQzZZMlFTTmg1RHlEUjBOeE5ILWpuME5GcW",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNElndUpSUHJfUnNaejlUNXVLcFNxeXFQS1NLZXJiNmRwcHoyWXdnQS1WVHRLck9EWHExRUVHd0pJMjJnX0hWYkhQOTFUQmcwTzJvQV9rQzZZMlFTTmg1RHlEUjBOeE5ILWpuME5GcW94NTdvTzhiV2J5eWliSHJNNXRBYVg0SU51YUdQVVZxcUpwUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1097,6 +1340,46 @@
     ]
   },
   {
+    "id": "tapestry-2026-08-06-029",
+    "date": "2026-08-06",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tapestry (TPR) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0lQQVBMemtMWWtSUVBGTjU4ekk1eExmSWkwR2NhcWRZOXBzaGlNTmVqcXRKa20xZ2ZEZ0ZidlJSR293bHdWNHhkaW5HSkhGUFc2TGQzSlR3NDQycWFJTldWVWt5NkhleHkxMzNFVl",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0lQQVBMemtMWWtSUVBGTjU4ekk1eExmSWkwR2NhcWRZOXBzaGlNTmVqcXRKa20xZ2ZEZ0ZidlJSR293bHdWNHhkaW5HSkhGUFc2TGQzSlR3NDQycWFJTldWVWt5NkhleHkxMzNFVlVOMDZqdjdlblhzSkw0QmRfMzduYjNObHZ5S2dvX3I0Zkw2MHhTa2dTWldpc1RYRnhzMVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-06-030",
+    "date": "2026-08-06",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Tapestry Collection by Hilton Debuts in Vietnam with Opening of NHAAN Resort & Spa Hoi An - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVdsVVBDVTZPSDZjZjlyRHdNQjFLOFZhWlJ0VVkyVmdQTUtrSEljLTk1RnFQN25hV1Z6aEZia1BFQTJiUmNabFQzSVVGSGpjSmxKdkZGTkthZno0NjE1WnIzTnVxRHFWVkktMGRweU",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVdsVVBDVTZPSDZjZjlyRHdNQjFLOFZhWlJ0VVkyVmdQTUtrSEljLTk1RnFQN25hV1Z6aEZia1BFQTJiUmNabFQzSVVGSGpjSmxKdkZGTkthZno0NjE1WnIzTnVxRHFWVkktMGRweUpReU5UdG1iOHlhTExWVW12aWFDTGZpVUUyQk95T2d2UV9hcVp5UXFZbzhGbGVUeC1wdkFhZlNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lenzing-2026-08-05-001",
     "date": "2026-08-05",
     "companies": [
@@ -1475,6 +1758,62 @@
       {
         "name": "pvh",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXd4LWtqMGNDMkpZYmxsa01qOXhiaXZVVk1ZNExBWUJOSjVVbEdfMVRNVE9VdUVRaEUyR05KNkZkdmZyMThMb1JmTkxjSkQ5am5yam5FdmEtckFZRmU5WkZ6STRnbVZLMEZVUWY2MloxUXBfcEhJaEctR0NjUUxXLWNSQ2xIYURXaUprSU1UZnJiT3lhUWpMN1YzQmZubk1rWEszMmFzcDJWVlk3RFptRF9QWFZNN3Uybk40ek53?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenzing-2026-08-05-021",
+    "date": "2026-08-05",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lenzing doubles half-year profits - knittingindustry.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5sM1N0NUx2V1dNTVU0TjVVRW1Sc1FnajdlcDJOWTRTMXBmWlBEaEc5dnFoU29odW9zclZJLWxvYlhSeENpTFkzVjQ4UGI5WVdvdk1qWGRxckN5dm1zWjFaLWh0VFlkeGVBNElLcEZxdl",
+    "sources": [
+      {
+        "name": "lenzing",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sM1N0NUx2V1dNTVU0TjVVRW1Sc1FnajdlcDJOWTRTMXBmWlBEaEc5dnFoU29odW9zclZJLWxvYlhSeENpTFkzVjQ4UGI5WVdvdk1qWGRxckN5dm1zWjFaLWh0VFlkeGVBNElLcEZxdlA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-05-022",
+    "date": "2026-08-05",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Lululemon (LULU) Faces California Lawsuit Over Alleged Misleading Discount Prices - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQY052Sm1pZ2RvMjdwLVdVZWZ5SGIySDlQV1JaenNoYmE5c19ITDdQVnZWRHczNWk5Zm1FYzJKY3gxTEYxbWlyXzhjazMtUXN3OF9uejJtRkNNNENybzdEd2JmcWRnc1piNjA1cHFGYV",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY052Sm1pZ2RvMjdwLVdVZWZ5SGIySDlQV1JaenNoYmE5c19ITDdQVnZWRHczNWk5Zm1FYzJKY3gxTEYxbWlyXzhjazMtUXN3OF9uejJtRkNNNENybzdEd2JmcWRnc1piNjA1cHFGYVRCUF91QmRPNzM5QnZGX3BYXzZTM05PVFNtZlcySVJfelFYT19jZTlSTzV0RWFIU1N4MTE3VDl1MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-08-05-023",
+    "date": "2026-08-05",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Corp. Declares Quarterly Cash Dividend - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNLWFadWMwYmpydTNoWUxHcWRCNDRBNVVXSzJhR0JCcXRFVmZGaG5RNDFRZ0d6dGh3eTRfLW03VVB2THN4OVlqalFsUVVYdGp3T1hpbUNxS09RaV8zZFRHRVNjeThSRmExWmM2dHBWRG",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWFadWMwYmpydTNoWUxHcWRCNDRBNVVXSzJhR0JCcXRFVmZGaG5RNDFRZ0d6dGh3eTRfLW03VVB2THN4OVlqalFsUVVYdGp3T1hpbUNxS09RaV8zZFRHRVNjeThSRmExWmM2dHBWRGxkYzhNUGRYOC1iYm54YV94dHgtd2xpLWVQNzd5bTBxcUktLVQwX1hHd2x1Z3BrZw?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:29:42.326985Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "V.F. Corporation Revenue Breakdown – NYSE:VFC - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVVhLamNOR3NXZHRXVzU5c3RvNnAtUi1NNHY1ZXlRNjVDMzZmNXBhM29vM1lIaVBGZ3JkaVVld0pwaEM5RHZWalE4VEVwMVNKdWtBNmRlU1NOdWtNdlplbkIxb1k5NGR4aVVDUDJFUHZMUTg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AfCFTA signs $3.1-bn pact to digitise customs operations across Africa",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/afcfta-signs-3-1-bn-pact-to-digitise-customs-operations-across-africa-312487-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India seeks policy boost to improve textiles industry competitiveness",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "sustainable_textile",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-seeks-policy-boost-to-improve-textiles-industry-competitiveness-312493-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vietnam’s textile & garment exports reach to $22.8 bn in Jan-July 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-textile-garment-exports-reach-to-22-8-bn-in-jan-july-2026-312485-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-09-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Senate passes bill putting India, China at risk of 100% tariffs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/us-senate-passes-bill-putting-india-china-at-risk-of-100-tariffs-312492-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 401,
+    "dup_title": 120,
+    "too_old": 194,
+    "gate1_blocked": 27,
+    "gate2_blocked": 42,
+    "passed": 18,
+    "pass_rate": "6.4%",
+    "gate2_block_rate": "14.9%",
+    "gate2_samples": [
+      "Toray Industries, Inc. Just Beat EPS By 30%: Here's What Analysts Think Will Happen Next - simplywal",
+      "Toray Industries, Inc. (TRYIF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Lenzing AG: Release of a Financial report - TradingView",
+      "Cascale Case Study: Lenzing Advances Responsible Fiber Manufacturing - marketscreener.com",
+      "Lenzing Reports Strongly Improved Half-Year Results and Accelerates Strategic Transformation Agenda "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為供應鏈轉移、法說會、永續紡織相關動態：「V.F. Corporation Revenue Breakdown – NYSE:VFC - TradingView」。主要關注主題為供應鏈轉移、法說會、永續紡織，市場情緒中性。",
+    "signals": [
+      {
+        "text": "V.F. Corporation Revenue Breakdown – NYSE:VFC - TradingView（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "AfCFTA signs $3.1-bn pact to digitise customs operations across Africa（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
