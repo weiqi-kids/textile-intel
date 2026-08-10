@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-10",
+  "total_events": 13,
+  "by_company": {
+    "shenzhou": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "adidas": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "supply_chain_shift": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
