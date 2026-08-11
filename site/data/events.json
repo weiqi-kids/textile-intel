@@ -1,5 +1,172 @@
 [
   {
+    "id": "unknown-2026-08-11-001",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ICE cotton ends lower on profit taking, stronger US dollar",
+    "summary": "ICE December 2026 cotton settled at 83.86 cents, down 0.54 cent, after a 487-point gain in seven sessions.\nTrading volume fell to 46,070 contracts, while open interest rose 3,575 to 343,058, signallin",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-ends-lower-on-profit-taking-stronger-us-dollar-312535-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-002",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "neutral",
+    "title": "China's FDY correction opens a buying window before restocking",
+    "summary": "Domestic-China FDY polyester filament yarn prices closed August 3–7, 2026 broadly lower across three benchmark deniers, Fibre2Fashion TexPro data showed.\nThe coarser 100D/72F led the correction at 3.3",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/china-s-fdy-correction-opens-a-buying-window-before-restocking-312530-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-003",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Plan to turn Vietnam into strong maritime nation by 2030 cleared",
+    "summary": "As part of Vietnam’s resolution on turning itself into a strong maritime nation by 2030, it will develop green and smart seaports, its merchant fleet, shipbuilding industries and maritime logistics, w",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/plan-to-turn-vietnam-into-strong-maritime-nation-by-2030-cleared-312529-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-004",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "sustainable_textile",
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Dhaka plans initiative to expand trade, investment with New Zealand",
+    "summary": "To further strengthen bilateral trade and investment relations, Bangladesh recently discussed with New Zealand Trade and Enterprise (NZTE) an initiative to expand cooperation in several sectors, inclu",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/dhaka-plans-initiative-to-expand-trade-investment-with-new-zealand-312509-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-005",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Brazil, Indonesia mull establishing Indonesia-Mercosur PTA",
+    "summary": "Brazil and Indonesia are mulling over a preferential trade agreement as a first step towards deeper ties and widening market access between Southeast Asia and Latin America, according to Indonesia’s T",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/brazil-indonesia-mull-establishing-indonesia-mercosur-pta-312528-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-006",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "5 apparel hubs gain 5.7% as China, Türkiye lose $8.4 bn",
+    "summary": "India, Pakistan, Indonesia, Egypt and Morocco raised HS 61-62 apparel exports by 5.7 per cent to $41.68 billion in 2025, while China and Türkiye lost about $8.4 billion.\nUNCTAD says announced greenfie",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/5-apparel-hubs-gain-5-7-as-china-t-rkiye-lose-8-4-bn-312534-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-11-007",
+    "date": "2026-08-11",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Under Armour cuts 25% more products to save margins. Will it work?",
+    "summary": "Under Armour plans another 25 per cent SKU cut in 18 months, taking the total reduction to about 40 per cent by end-2028.\nIt is prioritising full-price sales, cleaner inventory and margins over top-li",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/under-armour-cuts-25-more-products-to-save-margins-will-it-work--312531-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-008",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Can Under Armour revive growth after Q1 FY27 revenue decline?",
+    "summary": "American sportswear company Under Armour reported a 3 per cent YoY decline in Q1 FY27 revenue to $1.1 billion, as weaker North American and Asian demand weighed on sales. \nThe gross margin expanded 59",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/can-under-armour-revive-growth-after-q1-fy27-revenue-decline--312517-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-009",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Labour compliance puts Bangladesh garment exporters under pressure",
+    "summary": "Bangladesh’s garment exporters face tougher labour and traceability requirements in the EU and US, with compliance increasingly affecting market access, shipment clearance and buyer decisions. \nSmalle",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/labour-compliance-puts-bangladesh-garment-exporters-under-pressure--312502-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "shenzhou-2026-08-10-001",
     "date": "2026-08-10",
     "companies": [
@@ -241,6 +408,60 @@
     ]
   },
   {
+    "id": "shenzhou-2026-08-10-014",
+    "date": "2026-08-10",
+    "companies": [
+      "shenzhou"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CICC Sticks to Its Buy Rating for Shenzhou International Group Holdings (SZHIF) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY1BUVFQzdVUxTG12UTNxZ1BxTXkzS1l3ZVFNR3pQVHl4Q2NhUmV3MlFkNmg1NzRQdWFha1dJV2FCV1JFSDVyMGJfR1R1NDRaeWZoc2haTEVfZGVQbjJBZmRXdmxXcVJhcm9mWHd0SW",
+    "sources": [
+      {
+        "name": "shenzhou",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY1BUVFQzdVUxTG12UTNxZ1BxTXkzS1l3ZVFNR3pQVHl4Q2NhUmV3MlFkNmg1NzRQdWFha1dJV2FCV1JFSDVyMGJfR1R1NDRaeWZoc2haTEVfZGVQbjJBZmRXdmxXcVJhcm9mWHd0SWN1X0xiY2g4SGlvb0hMRThyZUpIUjlvQ2RuN1FBUVVSWWRnMWJTMmlIS09ybEdyRkRuYlNmQlJGNHlKTWE4bGs4amhueFllRFgyQkdNSldvNTBoNnlqT0RSa3ZtZDJpeGF6MFRySlFLYU42MDFKUnM0VklraVZQN1BtVGZNOHhobw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-10-015",
+    "date": "2026-08-10",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon Executive Exits Month Before CEO Joins Troubled Chain - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHUwRE51eGhtWWRkYkRkZ1pIRzlSTDZKTVowYnlNS19WSjFDclhaalE1R2NTYWVLRTJ6cUJsb2k4cE9ZVEVmNU82T3pVMWNZc2kxOUhtSXhlVmc5M21HMGNUazFuMW5TZzlJOF93Zm",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHUwRE51eGhtWWRkYkRkZ1pIRzlSTDZKTVowYnlNS19WSjFDclhaalE1R2NTYWVLRTJ6cUJsb2k4cE9ZVEVmNU82T3pVMWNZc2kxOUhtSXhlVmc5M21HMGNUazFuMW5TZzlJOF93ZmJYeWFHaXlQejUwRi1BekpHd2RsYldFbUxCU212a2c1Z2tFcGhyRXNBdlpJaHFiTWRoZExmN2VzbXp0MEZ1RG5VQWlMeGRZQ1BYcWtJcnYyRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-10-016",
+    "date": "2026-08-10",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vista Investment Partners LLC Takes $4.83 Million Position in Tapestry, Inc. $TPR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcV82NEgwNW1jTXR4UDNacHNpTElEbXNYWEIwc21UUlhWbXpPdFNDOGsxQklVZFdVV3QwUEZTeEtLd1VlUWhMOU1QckZmVzVZU2pva3c1X0pxVzlpZW1nMDVCNWJhd0dmOU1OQTJLQU",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcV82NEgwNW1jTXR4UDNacHNpTElEbXNYWEIwc21UUlhWbXpPdFNDOGsxQklVZFdVV3QwUEZTeEtLd1VlUWhMOU1QckZmVzVZU2pva3c1X0pxVzlpZW1nMDVCNWJhd0dmOU1OQTJLQU5ySGZEYXY5OGcwZWZoNTRvOWxjamJTTkVsam14djRBeWU5TVRmaVR0NnRETUxuYmgxRGpPVHNVLU9kSVhZelA0bGZSMU5CZU0wX0w1WUp6TkVIM1V2ajd0dzMxS3FBcm9PSEhz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-09-001",
     "date": "2026-08-09",
     "companies": [],
@@ -381,6 +602,44 @@
       {
         "name": "textile_world",
         "url": "https://www.textileworld.com/textile-world/2026/08/natural-fibres-in-focus-expanded-india-pavilion-drives-cotton-yarn-sourcing-at-yarn-expo-autumn-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lealea-2026-08-09-009",
+    "date": "2026-08-09",
+    "companies": [
+      "lealea"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of LeaLea Enterprise Co., Ltd. – TWSE:1444 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWI4QlE0bU5aT0dXa3FaNzJvRkZENmhudXgteV94Q3dsN2xpTXZzSG1FckR2b25VSDEwel9oU0Q3WVpodW1XMXA0eFZJY3g2cEJhQnJIYTZfRnVoSmdtYmJ3bVUxQUpqZnlGbDFSNT",
+    "sources": [
+      {
+        "name": "lealea",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWI4QlE0bU5aT0dXa3FaNzJvRkZENmhudXgteV94Q3dsN2xpTXZzSG1FckR2b25VSDEwel9oU0Q3WVpodW1XMXA0eFZJY3g2cEJhQnJIYTZfRnVoSmdtYmJ3bVUxQUpqZnlGbDFSNTI0ZWwtUS1zcU9POHlHRWowcFJ6OWo5QmpodzZsazAwclYwUUpLRmQxb1dVbF9XdE9ZUEdzU3VkNUhfUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-09-010",
+    "date": "2026-08-09",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon Athletica | 4: Statement of changes in beneficial ownership of securities-Officer MAESTRINI ANDRE - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWdVYWRtY1ZONnhtZDNkTGFqbE1jLWVXd3k5elZxT3g3RkJvZ0JnYlhmQ0NyX0R0bmJQaVg2dnljbGxsXy1qbzY1aHdEX1FfaTFnSUdPX1VKLVNRN0ZtM1hFMDYzQ0hSdHFvZUVURl",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWdVYWRtY1ZONnhtZDNkTGFqbE1jLWVXd3k5elZxT3g3RkJvZ0JnYlhmQ0NyX0R0bmJQaVg2dnljbGxsXy1qbzY1aHdEX1FfaTFnSUdPX1VKLVNRN0ZtM1hFMDYzQ0hSdHFvZUVURlVweHFCUy1NMDNha25jN0IzSFRKSHNFTlF0eWNDVDNNVXlHWTRrTGJsaTJ0VXI2NFUyYUQ2LTVhbElvcUpmLWllMDZWRmQ?oc=5",
         "type": "rss"
       }
     ]
@@ -624,6 +883,46 @@
       {
         "name": "lenzing",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGlWMEpGMlpWZkNrQ0I2NktuYWxuUEV5N3pXOUQ4M3J2ODJncU40OHZzNHRIOS11aV9ZdTlXUWlkYk9BM2QwNUV3UXNNcFB0WW04SEY5bE5EVmoybm5mdVRXSDAycExvdkpWN0wwbmxNQjJ0YzcyXzI3V0dpWHVPZXIxNk1pczhlRmVMT3VIWU5IaVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-08-08-014",
+    "date": "2026-08-08",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Adidas AG (ADS1) Q2 2026 Earnings Report - Results, Call & Slides - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9wZ0pmQW50aXQ5TmVQLUU0YVZKZkxQaURaNmFhdENhQWJQdlo3a2IzY1l0bXo4MGQzeFFDTmZuU3ZVUVVPZHd4a0ZiT1ZRQjhtc1FGQmRzRHIxT1V0aHhrNXFXQTYzR19faGk4N2RBSU",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wZ0pmQW50aXQ5TmVQLUU0YVZKZkxQaURaNmFhdENhQWJQdlo3a2IzY1l0bXo4MGQzeFFDTmZuU3ZVUVVPZHd4a0ZiT1ZRQjhtc1FGQmRzRHIxT1V0aHhrNXFXQTYzR19faGk4N2RBSUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-08-08-015",
+    "date": "2026-08-08",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Adidas AG (ADS1) Q1 2024 Earnings Report - Results, Call & Slides - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5MYjdKS2xXcUVFUnlfSlA5TTRLVUQ3YTNOdGgxNjJCU1gxVXFNb3NPVFZLVHUza3hhcFJxMGtrQVB4UUxvLTRVRVRHM1E0TmJ0NXcwQnRIMF9LT0tjNklFc0s5THp5MlNsTkRtcE5FNj",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MYjdKS2xXcUVFUnlfSlA5TTRLVUQ3YTNOdGgxNjJCU1gxVXFNb3NPVFZLVHUza3hhcFJxMGtrQVB4UUxvLTRVRVRHM1E0TmJ0NXcwQnRIMF9LT0tjNklFc0s5THp5MlNsTkRtcE5FNjg?oc=5",
         "type": "rss"
       }
     ]

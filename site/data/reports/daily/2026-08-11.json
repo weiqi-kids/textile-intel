@@ -1,0 +1,228 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:43:32.141636Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton ends lower on profit taking, stronger US dollar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-ends-lower-on-profit-taking-stronger-us-dollar-312535-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-08-11-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Under Armour cuts 25% more products to save margins. Will it work?",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/under-armour-cuts-25-more-products-to-save-margins-will-it-work--312531-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-11-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can Under Armour revive growth after Q1 FY27 revenue decline?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.12
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/can-under-armour-revive-growth-after-q1-fy27-revenue-decline--312517-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's FDY correction opens a buying window before restocking",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/china-s-fdy-correction-opens-a-buying-window-before-restocking-312530-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Plan to turn Vietnam into strong maritime nation by 2030 cleared",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/plan-to-turn-vietnam-into-strong-maritime-nation-by-2030-cleared-312529-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 122,
+    "too_old": 198,
+    "gate1_blocked": 26,
+    "gate2_blocked": 45,
+    "passed": 16,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (TRYIF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Toray Industries, Inc. Just Beat EPS By 30%: Here's What Analysts Think Will Happen Next - simplywal",
+      "Lenzing AG: Release of a Financial report - TradingView",
+      "Cascale Case Study: Lenzing Advances Responsible Fiber Manufacturing - marketscreener.com",
+      "Lenzing Reports Strongly Improved Half-Year Results and Accelerates Strategic Transformation Agenda "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為耐吉相關動態：「ICE cotton ends lower on profit taking, stronger US dollar」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ICE cotton ends lower on profit taking, stronger US dollar（棉花價格、供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Under Armour cuts 25% more products to save margins. Will it work?（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

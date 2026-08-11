@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-11",
+  "total_events": 9,
+  "by_company": {
+    "nike": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "supply_chain_shift": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.21
+    },
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
