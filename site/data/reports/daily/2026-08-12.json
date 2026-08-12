@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:00:15.054646Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "far_eastern-2026-08-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Far Eastern New Century Says Jan-Jun Net Profit T$5.83 Bln - TradingView",
+      "companies": [
+        "far_eastern"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSlAwc0drajVtMUhzUjhldXlQWkhNRHMwZEhwSHdlNzNhengtSHk4TUVWWHhUeVBMMkhtTVdCUTNrd0YwRjBOa0pqU3g4cUFnRjZyckFNS2NJZVNpbjQwSnh4T241M3VVZGZTQ2poYzVwcHZacVNCQ28wWWo3OEJSQ19pQ3FtZnVYNkZ3cDh1bmVTakh4ejhfRDhRVHpVR1BJTkZTZXZzSVozMnF5V1djb1pKMzdwNjV1T2pzMExjdWlUNkdwSGJB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-08-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tapestry (TPR) To Report Earnings Tomorrow: Here Is What To Expect - TradingView",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3hnRGJzSzJ1dUhtYm01OFFvclBCNURCanRodVlzblpsNU0tZndGUFF2YVN2TExXX1c0UTNIOEd6c3pRMjRUZkNCRmdVOEJGN3VLZUQ0OHhnc3pqeS1WTlZ0SFRFZ1NLc0JBX3FBWFlrVDRHLU4ta2YyY0RlUC11ekItTlJhZEpFN3NLa0hCNVBINUVtVXQ1eTdRTU8xRTR5VjZZUzZBNG9ia0tuaGFZMW0tcmtpQjdqeU5kZ0k2SU5CUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ralph Lauren crushes Q1 2026: Stock jumps 7% on strong sales",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ralph-lauren-crushes-q1-2026-stock-jumps-7-on-strong-sales-312567-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-12-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wolverine Worldwide (WWW) Q2 Earnings: What To Expect - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUkpCXzVqbVB5UWlSdVlUZURGS0lOZmxCRFdjOWpHQWlzVGZWMGEySi1STGZ4dTJ1em5NYTNUVG9lejMtN0RjcWg0NzBnaFBHcVB1OGhKZGljbXkwN2lfZTFMMWFoWUxiRHRmRzRfdEZsRWQzR2xWWGU0dTJPVlh6OFp3OWIxcDlPUVF0V1JpTk5zYjFCN216UFdBZHJyWFpIVGxUOG1sMldfNS1GS1hNdg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-12-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "RMG exports from Bangladesh declines 1.92% in July",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/rmg-exports-from-bangladesh-declines-1-92-in-july-312544-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "far_eastern",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 113,
+    "too_old": 193,
+    "gate1_blocked": 31,
+    "gate2_blocked": 45,
+    "passed": 23,
+    "pass_rate": "7.9%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "Toray Industries, Inc. Just Beat EPS By 30%: Here's What Analysts Think Will Happen Next - webull.co",
+      "Toray Industries, Inc. (TRYIF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Lenzing AG: Release of a Financial report - TradingView",
+      "Cascale Case Study: Lenzing Advances Responsible Fiber Manufacturing - marketscreener.com",
+      "Lenzing H1 2026 slides: margins hold at 19% amid geopolitical headwinds - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Far Eastern New Century、Coach相關動態：「Far Eastern New Century Says Jan-Jun Net Profit T$5.83 Bl...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Far Eastern New Century Says Jan-Jun Net Profit T$5.83 Bln - TradingView（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tapestry (TPR) To Report Earnings Tomorrow: Here Is What To Expect - TradingView（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

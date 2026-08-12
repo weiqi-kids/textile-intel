@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 193,
+  "gate1_fail": 31,
+  "gate2_fail": 45,
+  "passed": 23,
+  "gate2_samples": [
+    "Toray Industries, Inc. Just Beat EPS By 30%: Here's What Analysts Think Will Happen Next - webull.co",
+    "Toray Industries, Inc. (TRYIF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Lenzing AG: Release of a Financial report - TradingView",
+    "Cascale Case Study: Lenzing Advances Responsible Fiber Manufacturing - marketscreener.com",
+    "Lenzing H1 2026 slides: margins hold at 19% amid geopolitical headwinds - Investing.com"
+  ]
+}
