@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:03:33.209326Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-13-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India retains BBB- rating as Fitch flags robust growth prospects",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-retains-bbb-rating-as-fitch-flags-robust-growth-prospects-312577-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-13-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US' Kontoor Brands Q2 revenue up 19% on Helly Hansen boost",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-kontoor-brands-q2-revenue-up-19-on-helly-hansen-boost-312611-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-13-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India's Q1 FY27 GDP growth seen at 8%: SBI Research",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-q1-fy27-gdp-growth-seen-at-8-sbi-research-312584-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-13-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India loses $1.25 bn in T&A export orders from US in H1 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-loses-1-25-bn-in-t-a-export-orders-from-us-in-h1-2026-312574-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-13-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Adopt fair trading practices to take 'Make in India' global: Goyal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/adopt-fair-trading-practices-to-take-make-in-india-global-goyal-312601-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 69,
+    "dup_title": 10,
+    "too_old": 21,
+    "gate1_blocked": 26,
+    "gate2_blocked": 2,
+    "passed": 10,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "AI agents are now shopping for your clothes",
+      "Samsung TV Plus To Live-Stream KCON LA 2026 for Global K-pop Fans at Home"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為供應鏈轉移、法說會相關動態：「India retains BBB- rating as Fitch flags robust growth pr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "India retains BBB- rating as Fitch flags robust growth prospects（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "US' Kontoor Brands Q2 revenue up 19% on Helly Hansen boost（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 9 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

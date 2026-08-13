@@ -1,0 +1,13 @@
+{
+  "total_raw": 69,
+  "dup_title": 10,
+  "no_date": 0,
+  "too_old": 21,
+  "gate1_fail": 26,
+  "gate2_fail": 2,
+  "passed": 10,
+  "gate2_samples": [
+    "AI agents are now shopping for your clothes",
+    "Samsung TV Plus To Live-Stream KCON LA 2026 for Global K-pop Fans at Home"
+  ]
+}

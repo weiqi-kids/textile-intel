@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-13",
+  "total_events": 10,
+  "by_company": {},
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 9,
+      "sentiment_avg": 0.08
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
