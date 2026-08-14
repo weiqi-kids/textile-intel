@@ -1,0 +1,228 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T08:57:19.803609Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tapestry-2026-08-14-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tapestry Earnings Call Highlights Record Growth And Cash - TipRanks",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUNoN2hFMWZfeUN2aU9SZVoyVkU4UEdIYS1NeDQta3ZjaTRaQ0d2RU94elFZUmhrWjc4TDduZFVWMXNJWEdBMF9RQkJwREFIQzNhcF94X1I0UVZERWFIVGZxQjNsanlJM1hyUHB2aUtuMGV0ald4SlpIV3VvMW45SWllREZUWnVxZWRSY3VWamhVQy1GOUZZWnRadVNYNTZKYVNSZWxmU0k2M0VR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adidas-2026-08-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas stock edges higher as investors weigh 2026 earnings outlook - AD HOC NEWS",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjJpMm03RWdfVmxyWllCci1pWS1LVnB0Qk5yRjA1UWxSOHVPYzNpVGFkVDktTW0wcVFwdWJGZ1N1VzI5N3MtNXJ3NGN6eXNWVlVQXzFzclpiNTV5YXhmNGZmeUh4bmpmU3M4Mm9DdldIUG9kLTNDa0ktYkRudWNRdzZ2QmJyM2lZTnRkdXVxTU9qNHdCSWZVSEZJX3NpUDM2dERDZmZBZmZrdkVidnJVdkI5N3RxczBHMEw4TUxyYmR6akpYSjlRWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-08-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tapestry Q4 Earnings Call Highlights - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNajBWSVFpU2xZbFp2SzkyYmVveUc0VlQwbHMwQkx4NkNLM0hBc2diZ2d1X05PZGpaNmtMdzZTNnNDX0ZxNTl4RGtEa0VvTnVXQjVJa1NLbzhCMUNtV2tMTUx4MVBGOWdNbEFFS25KRy0zRFpmZWJyd2h3WURYajYtMzg2MnZmb1RTbTQwcGtmZl9aZHpveHpENGUtYnNPRFg5THpyZW9abVM4STZDaUVCZWdGcHo0ekF1di1TWklVVUpjdFE0XzY5eW9iUlByNm44a19YeA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-14-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Meenakshi India to add two manufacturing units by FY30",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/meenakshi-india-to-add-two-manufacturing-units-by-fy30-312640-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-08-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Exchange Traded Concepts LLC Raises Position in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaTBMLUhRcGt1OUVFbUJIZTdFUUo4MlR0dGpjcl9TUW5QYnVfRHlEdnhwNlVVRkRtQUpYbVR1Y1dDVXFxdUdYWmMzTy1Hb3NXZU5PV2dBVC1mV09tWmI1R2swOU1tVHBRX0Q3Y0RyTkYtbEJmMm83U2hDejJpWXJ4V0x2cUlONlVFVGM5Vm1jX1djUzREVlowblJscEtnQTAwMjB3VnA0U3dOTFItdXJrNHdoNFZJdDdaanp6M3JkU19ONFo2aWY4dWFIMHdTNmgxSFFr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 98,
+    "too_old": 199,
+    "gate1_blocked": 29,
+    "gate2_blocked": 35,
+    "passed": 44,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Toray Industries, Inc. Just Beat EPS By 30%: Here's What Analysts Think Will Happen Next - webull.co",
+      "Toray Industries, Inc. (TRYIF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "FENC Chairman Douglas Tong Hsu Named Among the 2026 Taiwan Top 100 Best-Performing Business Leaders ",
+      "Lealea Enterprise Grants Loans to Affiliates Worth NT$850 Million - marketscreener.com",
+      "Hong Kong Stock Market Movement | Shenzhou International (02313) Drops Nearly 3%; Company Faces Mult"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Coach、愛迪達、Lululemon相關動態：「Tapestry Earnings Call Highlights Record Growth And Cash ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tapestry Earnings Call Highlights Record Growth And Cash - TipRanks（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Adidas stock edges higher as investors weigh 2026 earnings outlook - AD HOC NEWS（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 9 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
