@@ -1,0 +1,32 @@
+{
+  "date": "2026-08-15",
+  "total_events": 12,
+  "by_company": {},
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 9,
+      "sentiment_avg": -0.06
+    },
+    "order_visibility": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": -0.08
+    },
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

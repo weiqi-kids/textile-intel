@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 203,
+  "gate1_fail": 25,
+  "gate2_fail": 37,
+  "passed": 26,
+  "gate2_samples": [
+    "Toray Industries, Inc. Just Beat EPS By 30%: Here's What Analysts Think Will Happen Next - webull.co",
+    "Toray Industries, Inc. (TRYIF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "FENC Chairman Douglas Tong Hsu Named Among the 2026 Taiwan Top 100 Best-Performing Business Leaders ",
+    "Lealea Enterprise Grants Loans to Affiliates Worth NT$850 Million - marketscreener.com",
+    "Hong Kong Stock Market Movement | Shenzhou International (02313) Drops Nearly 3%; Company Faces Mult"
+  ]
+}
