@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-17",
+  "total_events": 5,
+  "by_company": {
+    "far_eastern": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adidas": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "supply_chain_shift": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

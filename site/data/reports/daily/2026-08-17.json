@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:31:16.856075Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-08-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas stock holds below recent highs as investors weigh earnings and valuation - ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2l2RHlhbUlUcl8zSWNxd1JOSzFIYjdLcHlsaC1US29qZnk5NktOdGlhUHVsY1F0TUFFbXZLUi1Hd0FUSWVKMUpqbTdJLTFxWWNtRDhCWTFIaDBGYlFpcnd5SG96WWF1NTktOEl2dERNNnU4bWw3dEM3SDlIekF3YzVVM3BDRklRc2t6T19EWjVTaTFuMTVaRUE3c2xjVl8wd1Zld1NERk92WW81ZHZFNXR3M1J4WDgyZXM4QXVFcDYwMmgtNW84elhlZ0U?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "far_eastern-2026-08-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FENC Announces Continued Participation in the \"2026 TALENT, in Taiwan\" Alliance - feg.com.tw",
+      "companies": [
+        "far_eastern"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YMi1KZ3pKNFMyVFBacWdobjlpRzRXajdpX1M3WllVUzRuc3k4cVdGZXBLSTFPRFBWSTI3YzdCQ0hBMm53dHJ3Q1R0ZmRpSGVIUkk1clJLMFdFWjZOSVFUWU5pdE9tdW8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-08-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Children invited to ‘finish’ the Bayeux Tapestry in competition - Indy100",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUkdlczczMHdvSE1HWlQxQkZaUVhTelpsc05tSXpmV1oyeXFpbF9ib2NFdF9XSmJzdVYyUTRlbFEwZUExclBIbXg3c01ac2JTWU9ZbHhtMnpUM3lGc3RWZGl4RDJvWURUQWlocHFPd0xWeVUwVHg5OWl1RVNRQmZXcHU4U1JnOFVpSzdWWG9Tem9tb0Vt?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh seeks support from Australia for joining RCEP",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-seeks-support-from-australia-for-joining-rcep-312680-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Bangladesh convert US TRQ edge into lasting advantage?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/can-bangladesh-convert-us-trq-edge-into-lasting-advantage--312661-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "far_eastern",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 125,
+    "too_old": 211,
+    "gate1_blocked": 27,
+    "gate2_blocked": 31,
+    "passed": 9,
+    "pass_rate": "3.2%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "FENC Earns Sixth Consecutive Recognition as One of the HR Asia Best Companies to Work for in Asia, R",
+      "FENC Chairman Douglas Tong Hsu Named Among the 2026 Taiwan Top 100 Best-Performing Business Leaders ",
+      "Lealea Enterprise Grants Loans to Affiliates Worth NT$850 Million - marketscreener.com",
+      "Wrapped Shenzhou International Tokenized Stock (xStock) News - CoinMarketCap",
+      "Hong Kong Stock Market Movement | Shenzhou International (02313) Drops Nearly 3%; Company Faces Mult"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Far Eastern New Century、愛迪達、Coach相關動態：「Adidas stock holds below recent highs as investors weigh ...」。主要關注主題為供應鏈轉移、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Adidas stock holds below recent highs as investors weigh earnings and valuati...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "FENC Announces Continued Participation in the \"2026 TALENT, in Taiwan\" Allian...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
