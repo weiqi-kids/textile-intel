@@ -1,5 +1,279 @@
 [
   {
+    "id": "eclat-2026-08-18-001",
+    "date": "2026-08-18",
+    "companies": [
+      "eclat"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Eclat Textile : Q2 2026 net profit surged 158% year-over-year on higher revenue, margins, and other gains - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPdmFpTkR1OUtWb3RMUm9DaGtlelRubE4tdTN5d0lNTXFBaXV0ejFxQ3IycGZhMjlMbmM5ajRwSDFlV3ExWHJNT1lVOEZ2WmRkLURhMEk5eG5wS1YtdlNieVg1RmZJcDBZemNyZ3REbk",
+    "sources": [
+      {
+        "name": "eclat",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdmFpTkR1OUtWb3RMUm9DaGtlelRubE4tdTN5d0lNTXFBaXV0ejFxQ3IycGZhMjlMbmM5ajRwSDFlV3ExWHJNT1lVOEZ2WmRkLURhMEk5eG5wS1YtdlNieVg1RmZJcDBZemNyZ3REbkg1d1V1QmJNM3d6RVRqcENDVWNJd0IyUW1ZS3pPbHJKV2JnMC1YbGZmMjZIUVBqVVFGWEVQMlQ1VWx2R2dmU2NQbXpodWxrOEpTcWhISUV1N3JxNzFwQWhteFlRbmRpaDZvX0JuZVZIcWE2QWg0enI1Wk1ORmpQSVdObmR2a3d5SW14UERVVG00dUlPSDlqZDhOUHR0YjR6ZGttQTM2UC1MNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-18-002",
+    "date": "2026-08-18",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Stellantis (STLA) and Tapestry (TPR) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQMERkSWRyc1Vzdld0ajFfSTBmQnhwWGo0bFNvOC1GejNFb2gyUmNQQ2w0X3I2TGJFbG5WU1NWd2p1YThCVGJlckpnbFh4aWR5b1dONnYzU1pBanlVMWt2V2N1a0hsdXFLSS1BZ1FhNj",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMERkSWRyc1Vzdld0ajFfSTBmQnhwWGo0bFNvOC1GejNFb2gyUmNQQ2w0X3I2TGJFbG5WU1NWd2p1YThCVGJlckpnbFh4aWR5b1dONnYzU1pBanlVMWt2V2N1a0hsdXFLSS1BZ1FhNjNhWTFoZTFsTDVXMnBpeko1LVBFWGU3SzJvQTQ4NnJyYjdfZWRFc1lrb0hwbm1YNFNIQ2VJbDdXd2NTNThMQWJFOW5oZjFuenZnUEFrUmVQMXFzeTlxWGFwNVZEaTJhNVYxa2NfRGkzOGVVODliNGQ1MEhycUo4YzFPVW50S1ZkeU1Oc3VaTENhQ2pnWjJzU2tRRjktUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-003",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "neutral",
+    "title": "ICE cotton rises further on crop concerns, weaker US dollar",
+    "summary": "ICE cotton futures rose for a second session; December 2026 settled at 85.48 cents, a fresh 3-month high, as volume and open interest strengthened. \nChina’s reserve sale recorded its 21st consecutive ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-rises-further-on-crop-concerns-weaker-us-dollar-312725-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-004",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh, India discuss trade barriers during CII visit",
+    "summary": "A CII delegation led by Chandrajit Banerjee is in Dhaka for talks on trade, investment and industrial co-operation with Bangladesh.\nMeetings with ministers and FBCCI matter for apparel, jute and wider",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-india-discuss-trade-barriers-during-cii-visit-312724-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-005",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Asian lyocell buying could split as September demand approaches",
+    "summary": "Regional lyocell markets moved in three directions between August 10 and 14, 2026, with TexPro showing local demand and liquidity driving Asian MMCF pricing.\nChina domestic 1.4D lyocell firmed to CNY ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/asian-lyocell-buying-could-split-as-september-demand-approaches-312723-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-006",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh to adopt April-March fiscal year from FY 2028-29",
+    "summary": "Bangladesh’s cabinet has approved a shift in the fiscal year to April 1-March 31 from FY 2028-29, replacing the current July 1-June 30 cycle.\nFY 2027-28 will be a nine-month transition ending in March",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-to-adopt-april-march-fiscal-year-from-fy-2028-29-312728-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-007",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "neutral",
+    "title": "Autumn orders could decide the next move in China FDY prices",
+    "summary": "Chinese domestic polyester filament yarn prices firmed selectively, led by fine-denier FDY 150D/96F, up 0.58 per cent week on week to 8.70 CNY/kg on TexPro.\nFDY 75D/36F gained 0.28 per cent to 8,975 C",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/autumn-orders-could-decide-the-next-move-in-china-fdy-prices-312722-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-008",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India’s growth remains resilient; Q1 GDP seen at 7.3%: Report",
+    "summary": "CareEdge sees India’s Q1 FY27 GDP growth at 7.3 per cent and lifts its FY27 forecast to 7 per cent. \nManufacturing growth is seen rising to 9.9 per cent, with factory output, tax collections, auto out",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-growth-remains-resilient-q1-gdp-seen-at-7-3-report-312721-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-009",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "How will Cambodia’s 6 strategies boost business competitiveness?",
+    "summary": "Cambodia’s Ministry of Commerce has outlined six strategies to boost business competitiveness, spanning public-private cooperation, product quality, digital trade, supply chains, foreign investment an",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/how-will-cambodia-s-6-strategies-boost-business-competitiveness--312704-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-010",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "How did Acushnet boost South Korea's Misto Holdings’ Q2 results?",
+    "summary": "Misto Holdings’ Q2 sales rose 16.6 per cent year on year, with operating profit up 62.3 per cent on Acushnet growth, cost efficiency and a tariff refund. \nAcushnet sales rose 21.7 per cent as golf bal",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/how-did-acushnet-boost-south-korea-s-misto-holdings-q2-results--312720-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-011",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "What is behind Japan's Asics’ record-breaking H1 performance?",
+    "summary": "Asics posted record Q2 FY26 results, with first-half net sales up 32.7 per cent to ¥534.4 billion (~$3.36 billion and operating profit up 48.5 per cent.\nSportStyle, Onitsuka Tiger and Performance Runn",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/what-is-behind-japan-s-asics-record-breaking-h1-performance--312714-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-012",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "China+1 is evolving into China+proof for apparel sourcing",
+    "summary": "TexPro data shows eight Asian hubs gained share equal to 90.8 per cent of China's US apparel share loss between 2021 and 2025.\nCambodia shows the clearest rerouting risk signal, with Chinese textile e",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/china-1-is-evolving-into-china-proof-for-apparel-sourcing-312698-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-18-013",
+    "date": "2026-08-18",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike Stock Plummets to 12-Year Low - chosun.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUZoeU5GSllOU3VON2F1a015amN1U2Q1MXBmcUdTUG0tNTZSSm1qenlPMTZwTlJsOXZEVWFlRDBqRXVwU2RUWmRiMlNfY3BsSTJNVk9xT2tweEMyY0VJV19hc1pIUlBEclBKWFdQen",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUZoeU5GSllOU3VON2F1a015amN1U2Q1MXBmcUdTUG0tNTZSSm1qenlPMTZwTlJsOXZEVWFlRDBqRXVwU2RUWmRiMlNfY3BsSTJNVk9xT2tweEMyY0VJV19hc1pIUlBEclBKWFdQenFEc1ZNMldmSXl2RHJGVmEwVEdqWUw2ZjVwTzZ5NkxR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-18-014",
+    "date": "2026-08-18",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Nike Stock Hit a 12-Year Low, Down 78% From Its 2021 Peak - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUJldmJPNTlBbGFMX2xlTGJMSi04YkxsOGJKeXlaclFqTFdiNmNwcUQtaE1mb25RN2t0UEhoNWhRcGhKVDNlbmNvU3YtNEk1bTIwelhwNFVyWjVWLXI0UXdldVhjTDVoUTRHTkNOMk",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUJldmJPNTlBbGFMX2xlTGJMSi04YkxsOGJKeXlaclFqTFdiNmNwcUQtaE1mb25RN2t0UEhoNWhRcGhKVDNlbmNvU3YtNEk1bTIwelhwNFVyWjVWLXI0UXdldVhjTDVoUTRHTkNOMkdobGhBR092YWt0dDAybjQtSkRaQlZEekR3T3V1d04yd056bjRIRVh4R0tHNWFGTlVRcTV3WVpYTHpiWm9Cdm9NYmFiMnNFVk0tRWdKdW5OT0p3OXRaM0Fya2plUzY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-18-015",
+    "date": "2026-08-18",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike stock sinks to a 12-year low as analysts flag earnings risks - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDBHSHR4Yl9uZUVQUDFhZTN2T1ZOWHFlZG5qeFJtZFM1ZkdhT0xBNk5HTXUxajZCT2VDYm44NXlMTDB0ZEN1QlEyV1pOdlFubGV0OElyWUpEMUVPS2MyWWhMa25ORFY5X2FRVENpTz",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDBHSHR4Yl9uZUVQUDFhZTN2T1ZOWHFlZG5qeFJtZFM1ZkdhT0xBNk5HTXUxajZCT2VDYm44NXlMTDB0ZEN1QlEyV1pOdlFubGV0OElyWUpEMUVPS2MyWWhMa25ORFY5X2FRVENpTzR3R0dkUXo0MDQ4TERrVVFGb3NWY0lUMmZhUGNreGp4R29pc2RlUThEM2V3SFNlZXdGU09Gay1HZUFUUkc4Szd6YWdZVlh3WldWLTdqdUsyYXNtbGR1WEZz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "far_eastern-2026-08-17-001",
     "date": "2026-08-17",
     "companies": [
@@ -87,6 +361,196 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/can-bangladesh-convert-us-trq-edge-into-lasting-advantage--312661-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-17-006",
+    "date": "2026-08-17",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Chase Investment Counsel Corp Makes New $1.37 Million Investment in lululemon athletica inc. $LULU - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV2l0THJxZ01IME5vM3p2ZG9FQ1hQZlBkcnFoRmQzMHlHSU9wbkdjazRVYmRRZTFnOVRCRzdIcTB4VHEzRnlhVjFBVXo2U2ZqY1FaZW5NWGlOQ1FlTGdjalhVYTF1R3kwZHQ0dnMxWm",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV2l0THJxZ01IME5vM3p2ZG9FQ1hQZlBkcnFoRmQzMHlHSU9wbkdjazRVYmRRZTFnOVRCRzdIcTB4VHEzRnlhVjFBVXo2U2ZqY1FaZW5NWGlOQ1FlTGdjalhVYTF1R3kwZHQ0dnMxWmJraGV0aFQ1Rmp2UWNyWGJrVjh2anFJb1hSOXNrWV80VW4xTEVyb21aWGVYN0pfM2hjSzRaQ2NSN0JuRU5ONnVoSG41V1MyQTJXSER3T1hvc0JVMERjMU5DLUtMd0E1R3Y2Q0g1OUdsWHdBVzNSaGhVTFFMUUNoYkNmdE5N?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-08-17-007",
+    "date": "2026-08-17",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PVH Corp. to Host Conference Call to Discuss Second Quarter 2026 Earnings Results - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdklYRHMxSjQ2ZzJJLUQ4WEFnNHd1bHZtOWJhNTdtOUsya01LeWFiNEJFSkVyMVJZOG5fQWk2Smo4UFdRWWFFOEpoQlEtbmxTUHhTSnQ3QndYOVIxYmt6S0gyam9USjVDZURfYXViaG",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdklYRHMxSjQ2ZzJJLUQ4WEFnNHd1bHZtOWJhNTdtOUsya01LeWFiNEJFSkVyMVJZOG5fQWk2Smo4UFdRWWFFOEpoQlEtbmxTUHhTSnQ3QndYOVIxYmt6S0gyam9USjVDZURfYXViaGE0SzRZUnJISUwyR3ZNejl3MzRYVjlHZGZpb01xOV9lLUFkMUdoM0ZDZERrRHd0dkhETjdKV0xZcEJ1aW9QeFVrQ3F0Y1FtM0syZ2dnR18tRkJqWWVKeVhmMGZPaXc4Sm1DNlNPNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-17-008",
+    "date": "2026-08-17",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "‘A better tomorrow’: UK schoolchildren get the chance to rewrite the ending of the Bayeux Tapestry - Euronews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjVWRkl3NjdjdVdoRzcxRFBwVlRtZndqM2xMdlh0UlRRenlDd19mWnBIU29lQTVQNWtYRmhiNHd0ZEpWRHQzWUtmbENlTk0zdW04dHJlZWFaRDBWVFJTMkhBcGhKMTZjX0Y4WHRodz",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjVWRkl3NjdjdVdoRzcxRFBwVlRtZndqM2xMdlh0UlRRenlDd19mWnBIU29lQTVQNWtYRmhiNHd0ZEpWRHQzWUtmbENlTk0zdW04dHJlZWFaRDBWVFJTMkhBcGhKMTZjX0Y4WHRodzFUd3g3N3Z3NmZkaHJpMm5ITFJ5WHpCeGF1cGJyYnFZLUhpTDIxY2EwNHBzVkkxX2drQkh6V1ZpRWZIVHFxOWp1Sl9fQ24zREtJNFpURW9POVNDWU1XdnpYVDB1VVZjUW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-17-009",
+    "date": "2026-08-17",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Nike stock trades near 52-week low as fiscal 2026 revenue declines - eciks.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1Zc2xiUzJWVTJENFZNTlA2b0Z5c0dTVU1naGhXOWZ5dVFxNU1KanM1bGd4SEtjZFpQQnh5VmZJTXpTYUtrNmhLM0Vxdm1NSzNTVVNOa3NRSVFsNW1jR2FUblNtOGJrTXpaSGlPRUdmMA",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Zc2xiUzJWVTJENFZNTlA2b0Z5c0dTVU1naGhXOWZ5dVFxNU1KanM1bGd4SEtjZFpQQnh5VmZJTXpTYUtrNmhLM0Vxdm1NSzNTVVNOa3NRSVFsNW1jR2FUblNtOGJrTXpaSGlPRUdmMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-17-010",
+    "date": "2026-08-17",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Nike Falls 3% to a Fresh 52-Week Low as China Weakness Overshadows Its Wholesale Rebound - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVQxY1d1QTd2aXBpdHlZbzV0MW1ibjkySE0tMk5qeW1BRVA4dGVtc01CTFkzOGx2NlllSXFicEdVa3V2WUlQa1dkVUNGQWV1R3dxNmtDU3F4WVlrR0RrSmVwMF8zajV0QzVpTXkzUk",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVQxY1d1QTd2aXBpdHlZbzV0MW1ibjkySE0tMk5qeW1BRVA4dGVtc01CTFkzOGx2NlllSXFicEdVa3V2WUlQa1dkVUNGQWV1R3dxNmtDU3F4WVlrR0RrSmVwMF8zajV0QzVpTXkzUkJIckVKb0RTVEJxSWFpU1FoYmtMUDhQMi1Pa0l6YmdtMXh6cE1XSmk5eEJ3Z3k4emdxdHFYVEswanJyVVNQVDJsaHotcVdzMHlibE5YTEpXMHo0Q3JBTFJ1RjctQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-17-011",
+    "date": "2026-08-17",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike (NKE) Faces Phia Questions As Tariff Refunds Support Profits - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOHpRblE0YkNGMXVhYjVCOEhqOHVKUS1PNjVWbVJMcUNFNHlVcjM1dkdRbkZvcHdaQXRITWY4SWZrOWEteEpMNXdXRXFLNi1VeFVxaVJ6ejRYWXJackQ3ZDNQejRNSHdjY09WakJWNU",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOHpRblE0YkNGMXVhYjVCOEhqOHVKUS1PNjVWbVJMcUNFNHlVcjM1dkdRbkZvcHdaQXRITWY4SWZrOWEteEpMNXdXRXFLNi1VeFVxaVJ6ejRYWXJackQ3ZDNQejRNSHdjY09WakJWNUd1dGhRU0RwRTlTZjAyTFpENjRPTkRpOEtUTkFQQ0I0MlpyQ3RLa0VxdklwMjhTUjdyaGh3cldwTjU3SGYtVHd0TkVzTU1uWlVDSHVLaTBUcGpMUmdyb2Q1ddIBzgFBVV95cUxNZmQ3ejVFRlFVdnc1akpZQW80eEJRcVVfSE0tRXJsN0hXMnJlajNiRWxJRUJBS0xGUTZ2b1VwTzdZclhqUUctZXRSeEhGVmxFN3cxNHBWYjR5dUYwTTh6RTEybDJ0ZXQ2TEJWRzZ3YmxfWlJRRklmTXd2NGNOcEpMZkJaYjdjYXB2RXhxdXdqUTNiNXJiSzFMWGZwclVlbUo0dGtJeHRMeGcxNjJBd1RaaEx2S2hTNGxtRVhCQmRaRk8xLV9uQnJnVDJES2Vudw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-17-012",
+    "date": "2026-08-17",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Expected to Lose $3.5 Billion in Revenue Due to Coronavirus - Highsnobiety",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbmtOYVYtUEEwMHlmLVliMXdQUXMzd00xRV85NG9IaDdjZnVHdkFNM3RRWEwwTlh5cnVMWlBLTlYwS2RuSzZHdXZiSWVFaGtpdUxKcXdQcUZmajcyd3BXTk15VU44WXU2SHRhUjRmcm",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbmtOYVYtUEEwMHlmLVliMXdQUXMzd00xRV85NG9IaDdjZnVHdkFNM3RRWEwwTlh5cnVMWlBLTlYwS2RuSzZHdXZiSWVFaGtpdUxKcXdQcUZmajcyd3BXTk15VU44WXU2SHRhUjRmcmw4X1o1enhMVzFHZXZUb0RnVzdRc3lVSEtTUkdMdXQ5U0o0bFh4Ym5RdGgtTmNodE1hbGgzV0hFQTd5NXUxUEtkWFpMVzBFN0hqRTg5THVCSmdfLWFkT0dzY0pTZ1BJN2pDQmdtRDVPRDI4MDNz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-17-013",
+    "date": "2026-08-17",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Stock Slumps 4%, Drops To Fresh 52-Week Low As Turnaround Doubts Linger - NDTV Profit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2tmbEhveGVObE9vcVVSV1U1QUM3VzRoV1lQREpwMDVVc3pvVm9RQWJxSmYwWXcteW1fZ29wV1RqdjBfZEJKTGJRTWc1NkZOZzFiYnNPbkp3SXpFZlp6MTVXQko2M3pXWjFNdXJHTz",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2tmbEhveGVObE9vcVVSV1U1QUM3VzRoV1lQREpwMDVVc3pvVm9RQWJxSmYwWXcteW1fZ29wV1RqdjBfZEJKTGJRTWc1NkZOZzFiYnNPbkp3SXpFZlp6MTVXQko2M3pXWjFNdXJHTzFkQS1GWEp1Nzdkal92eUs3QjhjanFXbWZGd1FmZjlvaWxuVnE3aENJU3VHSy1QZXVkNXN6TFRSV0gtbVJQZFNyMFVZTUgwZDhHY0HSAcIBQVVfeXFMT01wV1Rmc2dZdURtc3BteEpMdGl2Y0h6LVl1blM5ZGEzRHNwNlMxOHdJcHcwa091ejFxTDJIQTVQTDVaTnpkQ3NkWnFSSl9EaHQzRkE5UjhWcXQ1czVuZjV5cFNBS2pFemdTMm5fazJXZ2JqajI2Mk03WGFTWWZPbW1Nb0ZIVFd0b1dsalloRmNSM2ZrcXMxbFVZamZ1dU5vdXFaRU04RE45dkQ1dXNiMDI0WDg0allTdXdOMFBwU0RhSFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-17-014",
+    "date": "2026-08-17",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike stock hits 12-year low, down 78% since 202... - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDJfZXJyaE1ocTF5SXktVkNBR2t0R01SZEdjb3hKVjRfSUJVem9QS3JlaS1LcGRLMjVlejlnaHNTcmNUekd1aUtPV1p5NFJHTFhNbmNtdnJNeGtBT09Mc0xYenBoUkxNeXljQ0pGOX",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDJfZXJyaE1ocTF5SXktVkNBR2t0R01SZEdjb3hKVjRfSUJVem9QS3JlaS1LcGRLMjVlejlnaHNTcmNUekd1aUtPV1p5NFJHTFhNbmNtdnJNeGtBT09Mc0xYenBoUkxNeXljQ0pGOXQtdnZzTnpVWThNVGs5RWdyVlVqYV8zWGJRa3NWQVRGTjU1RTcwV0RqbndTNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-17-015",
+    "date": "2026-08-17",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike Shares Drop 3.1% to Fresh 52-Week Low, Dividend Adequacy Under Spotlight (NYSE:NKE) - ts2.tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlJKY3JjLTcwTnY0UG1vN2tKMnA1clMtazRSOV9EYWNWXzh0VkF2WjFIS0xjTzlXSFFOeGN3M2ZTSE9wQnVLZlRfcnhDdFdJU3VwVE5ZZk5UdjVJaGZtNWY0NkxmeWNHSnczbnhVVE",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlJKY3JjLTcwTnY0UG1vN2tKMnA1clMtazRSOV9EYWNWXzh0VkF2WjFIS0xjTzlXSFFOeGN3M2ZTSE9wQnVLZlRfcnhDdFdJU3VwVE5ZZk5UdjVJaGZtNWY0NkxmeWNHSnczbnhVVEpVdkRNRy1CWTZlcVROOXZRMnNYcDB3a2dYSDZXbFVnOHVvaXVRT280V1d4U1NhaTZD?oc=5",
         "type": "rss"
       }
     ]
@@ -926,6 +1390,24 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSndvY1BYUjNBTEZsZHJ3WUNIMTdHZzZieUlWVzAzbFJ5ZE82RV9lMWs5NnZRY3BUSG83ZWI2aXVGTDhFNk5LMDNDRXd3Ympyd0pMRmtSU3FfamlFTjltM2xzcDVnTHg1OFMxamxBdnBVUGhHckREcjJ1N1FvR2c4eTlJWEFHejJaQUhpUWdvanhDNTVab1RxZHVzM0QzMzNfRjZKVjF0dVVlSVQ1YkNZMC12SVkzZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-08-14-024",
+    "date": "2026-08-14",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas AG stock chart - forex.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE15MjItak1sZ2pVeHVWaHg1LXFvMnBUMmRrbjJMbF9YU1ZiSXBILUxNdzJTRjVLMHVlSkd0SGUyVGtSUUI0R2JfRDIxaERndGxrY0ZNenFNYk54ZGVHWWtWSGNB?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15MjItak1sZ2pVeHVWaHg1LXFvMnBUMmRrbjJMbF9YU1ZiSXBILUxNdzJTRjVLMHVlSkd0SGUyVGtSUUI0R2JfRDIxaERndGxrY0ZNenFNYk54ZGVHWWtWSGNB?oc=5",
         "type": "rss"
       }
     ]
@@ -2193,6 +2675,24 @@
       {
         "name": "samsung_newsroom",
         "url": "https://news.samsung.com/global/samsung-opens-business-experience-studio-in-hanoi-supporting-enterprise-digital-transformation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-11-020",
+    "date": "2026-08-11",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "French Culture Minister Asked British Counterpart to Get on His Knees for Bayeux Tapestry Loan - artforum.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRk9Rb2R6WHk4ZzJUelcwaW9wdE1qM1UxMzZNV3RVNm54c3JzeXVTVktEQU4zY2dOM2ZDTDVmOHBDeWxzWEVjeXZaTW9TY2ZPVmVTTGl1T2ZlbTJqNmVnbXJOZlBiRkRJVjhiUXdBbl",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRk9Rb2R6WHk4ZzJUelcwaW9wdE1qM1UxMzZNV3RVNm54c3JzeXVTVktEQU4zY2dOM2ZDTDVmOHBDeWxzWEVjeXZaTW9TY2ZPVmVTTGl1T2ZlbTJqNmVnbXJOZlBiRkRJVjhiUXdBblp2eERYNEtJNFJSTDBxbWwyX3ZsU1JWZmhXdkpBMzBBQVFXV2VYaUxwTXJUVWFJTEIwamc?oc=5",
         "type": "rss"
       }
     ]

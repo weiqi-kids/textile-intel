@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 204,
+  "gate1_fail": 29,
+  "gate2_fail": 34,
+  "passed": 27,
+  "gate2_samples": [
+    "FENC Earns Sixth Consecutive Recognition as One of the HR Asia Best Companies to Work for in Asia, R",
+    "Lealea Enterprise Grants Loans to Affiliates Worth NT$850 Million - marketscreener.com",
+    "Wrapped Shenzhou International Tokenized Stock (xStock) News - CoinMarketCap",
+    "Hong Kong Stock Market Movement | Shenzhou International (02313) Drops Nearly 3%; Company Faces Mult",
+    "Adidas AG : UBS gives a Neutral rating - marketscreener.com"
+  ]
+}

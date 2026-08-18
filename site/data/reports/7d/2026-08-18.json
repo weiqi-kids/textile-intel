@@ -1,0 +1,149 @@
+{
+  "date": "2026-08-18",
+  "date_range": {
+    "start": "2026-08-12",
+    "end": "2026-08-18"
+  },
+  "generated_at": "2026-08-18T08:23:03.931760Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tapestry-2026-08-14-003",
+      "date": "2026-08-14",
+      "title": "Tapestry Earnings Call Highlights Record Growth And Cash - TipRanks",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 21,
+      "last_week": 23,
+      "week_over_week_change": "-9%",
+      "sentiment_this_week": 0.17
+    },
+    "supply_chain_shift": {
+      "this_week": 45,
+      "last_week": 42,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.0
+    },
+    "order_visibility": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "sustainable_textile": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "fast_fashion": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "cotton_price": {
+      "this_week": 2,
+      "last_week": 6,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "far_eastern": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "tapestry": {
+      "event_count": 7,
+      "sentiment_avg": 0.11,
+      "rank": 1
+    },
+    "adidas": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "lululemon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "eclat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "nike": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 125,
+        "last": 153,
+        "change_pct": -18.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-12",
+      "event_count": 19,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 30,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 24,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 13,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-12 ~ 2026-08-18）共 125 則事件，重點為「Tapestry Earnings Call Highlights Record Growth...」。供應鏈轉移、法說會、訂單能見度為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Coach",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "耐吉",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

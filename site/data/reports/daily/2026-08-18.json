@@ -1,0 +1,227 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:23:03.846510Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-18-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "What is behind Japan's Asics’ record-breaking H1 performance?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/what-is-behind-japan-s-asics-record-breaking-h1-performance--312714-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "eclat-2026-08-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eclat Textile : Q2 2026 net profit surged 158% year-over-year on higher revenue, margins, and other gains - TradingView",
+      "companies": [
+        "eclat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdmFpTkR1OUtWb3RMUm9DaGtlelRubE4tdTN5d0lNTXFBaXV0ejFxQ3IycGZhMjlMbmM5ajRwSDFlV3ExWHJNT1lVOEZ2WmRkLURhMEk5eG5wS1YtdlNieVg1RmZJcDBZemNyZ3REbkg1d1V1QmJNM3d6RVRqcENDVWNJd0IyUW1ZS3pPbHJKV2JnMC1YbGZmMjZIUVBqVVFGWEVQMlQ1VWx2R2dmU2NQbXpodWxrOEpTcWhISUV1N3JxNzFwQWhteFlRbmRpaDZvX0JuZVZIcWE2QWg0enI1Wk1ORmpQSVdObmR2a3d5SW14UERVVG00dUlPSDlqZDhOUHR0YjR6ZGttQTM2UC1MNQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-18-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How did Acushnet boost South Korea's Misto Holdings’ Q2 results?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/how-did-acushnet-boost-south-korea-s-misto-holdings-q2-results--312720-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-08-18-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike stock sinks to a 12-year low as analysts flag earnings risks - AD HOC NEWS",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDBHSHR4Yl9uZUVQUDFhZTN2T1ZOWHFlZG5qeFJtZFM1ZkdhT0xBNk5HTXUxajZCT2VDYm44NXlMTDB0ZEN1QlEyV1pOdlFubGV0OElyWUpEMUVPS2MyWWhMa25ORFY5X2FRVENpTzR3R0dkUXo0MDQ4TERrVVFGb3NWY0lUMmZhUGNreGp4R29pc2RlUThEM2V3SFNlZXdGU09Gay1HZUFUUkc4Szd6YWdZVlh3WldWLTdqdUsyYXNtbGR1WEZz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-18-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China+1 is evolving into China+proof for apparel sourcing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/china-1-is-evolving-into-china-proof-for-apparel-sourcing-312698-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.31,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 3
+      },
+      {
+        "id": "eclat",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 111,
+    "too_old": 204,
+    "gate1_blocked": 29,
+    "gate2_blocked": 34,
+    "passed": 27,
+    "pass_rate": "9.2%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "FENC Earns Sixth Consecutive Recognition as One of the HR Asia Best Companies to Work for in Asia, R",
+      "Lealea Enterprise Grants Loans to Affiliates Worth NT$850 Million - marketscreener.com",
+      "Wrapped Shenzhou International Tokenized Stock (xStock) News - CoinMarketCap",
+      "Hong Kong Stock Market Movement | Shenzhou International (02313) Drops Nearly 3%; Company Faces Mult",
+      "Adidas AG : UBS gives a Neutral rating - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為耐吉、Eclat Textile、Coach相關動態：「What is behind Japan's Asics’ record-breaking H1 performa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "What is behind Japan's Asics’ record-breaking H1 performance?（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Eclat Textile : Q2 2026 net profit surged 158% year-over-year on higher reven...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
