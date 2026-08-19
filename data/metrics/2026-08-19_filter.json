@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 204,
+  "gate1_fail": 30,
+  "gate2_fail": 30,
+  "passed": 24,
+  "gate2_samples": [
+    "FENC Earns Sixth Consecutive Recognition as One of the HR Asia Best Companies to Work for in Asia, R",
+    "Eclat Textile and Tatung Hold Investor Conferences on Same Day, Each Touting Growth Drivers for Seco",
+    "Adidas AG : UBS gives a Neutral rating - marketscreener.com",
+    "adidas AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act",
+    "Lululemon Athletica (LULU) Stock Faces Fresh Pressure After Soros Fund Exit - Yahoo Finance"
+  ]
+}

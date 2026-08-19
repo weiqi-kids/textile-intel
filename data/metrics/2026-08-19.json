@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-19",
+  "total_events": 9,
+  "by_company": {
+    "vf_corp": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "supply_chain_shift": {
+      "count": 7,
+      "sentiment_avg": -0.04
+    },
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

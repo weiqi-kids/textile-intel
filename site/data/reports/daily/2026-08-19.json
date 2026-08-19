@@ -1,0 +1,222 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:23:28.566769Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-19-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What prompted US' Wolverine Worldwide to lift its 2026 forecast?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/what-prompted-us-wolverine-worldwide-to-lift-its-2026-forecast--312751-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "vf_corp-2026-08-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "VF Corporation stock holds at $14 as Vans weakness tests turnaround - AD HOC NEWS",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1UzWTBjQ1M4dFJvX09QVm5tOW9VdTc4cEpCaW5nTlI3NGNvUFBaNTB4Qzd0VmlMVHY3RUdDWlB1d1JMVklZVWNPRXYxc0lFVC1LYjh3TkZHLVF0ZE5TS0JmcUoxTFNOSk1ORHF6WGtlN0ljQkRyQ3Y0R3dvVEtveHQxNlVkaktUekFtcl9JTzNWOGhuV2JkcnpkcnY4eUNyaHZpdWh1LUlwRE5nenhYZ0VGS2lCMW1VLV9fQ2t3cU5XQkVpME9TVg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh, Netherlands sign MoU on circular economy cooperation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-netherlands-sign-mou-on-circular-economy-cooperation-312733-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Progress of Tumakuru Node land acquisition in India’s Karnataka smooth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/progress-of-tumakuru-node-land-acquisition-in-india-s-karnataka-smooth-312750-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India, Bangladesh propose two task forces to boost trade, investment",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-bangladesh-propose-two-task-forces-to-boost-trade-investment-312748-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "vf_corp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 116,
+    "too_old": 204,
+    "gate1_blocked": 30,
+    "gate2_blocked": 30,
+    "passed": 24,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "FENC Earns Sixth Consecutive Recognition as One of the HR Asia Best Companies to Work for in Asia, R",
+      "Eclat Textile and Tatung Hold Investor Conferences on Same Day, Each Touting Growth Drivers for Seco",
+      "Adidas AG : UBS gives a Neutral rating - marketscreener.com",
+      "adidas AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act",
+      "Lululemon Athletica (LULU) Stock Faces Fresh Pressure After Soros Fund Exit - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為VF相關動態：「What prompted US' Wolverine Worldwide to lift its 2026 fo...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "What prompted US' Wolverine Worldwide to lift its 2026 forecast?（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "VF Corporation stock holds at $14 as Vans weakness tests turnaround - AD HOC ...（快時尚趨勢）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

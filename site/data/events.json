@@ -1,5 +1,171 @@
 [
   {
+    "id": "vf_corp-2026-08-19-001",
+    "date": "2026-08-19",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "negative",
+    "title": "VF Corporation stock holds at $14 as Vans weakness tests turnaround - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1UzWTBjQ1M4dFJvX09QVm5tOW9VdTc4cEpCaW5nTlI3NGNvUFBaNTB4Qzd0VmlMVHY3RUdDWlB1d1JMVklZVWNPRXYxc0lFVC1LYjh3TkZHLVF0ZE5TS0JmcUoxTFNOSk1ORHF6WG",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1UzWTBjQ1M4dFJvX09QVm5tOW9VdTc4cEpCaW5nTlI3NGNvUFBaNTB4Qzd0VmlMVHY3RUdDWlB1d1JMVklZVWNPRXYxc0lFVC1LYjh3TkZHLVF0ZE5TS0JmcUoxTFNOSk1ORHF6WGtlN0ljQkRyQ3Y0R3dvVEtveHQxNlVkaktUekFtcl9JTzNWOGhuV2JkcnpkcnY4eUNyaHZpdWh1LUlwRE5nenhYZ0VGS2lCMW1VLV9fQ2t3cU5XQkVpME9TVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-002",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh, Netherlands sign MoU on circular economy cooperation",
+    "summary": "The Netherlands and Bangladesh recently signed an MoU in Dhaka on cooperation in circular economy. \nThe domains include resource efficiency across the textile value chain, waste reduction, recycling, ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-netherlands-sign-mou-on-circular-economy-cooperation-312733-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-003",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Progress of Tumakuru Node land acquisition in India’s Karnataka smooth",
+    "summary": "The land acquisition for Tumakuru Node—an industrial manufacturing hub in India’s Karnataka state—has been smoothly progressing, state minister for commerce & industries and infrastructure M B Patil s",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/progress-of-tumakuru-node-land-acquisition-in-india-s-karnataka-smooth-312750-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-004",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "India, Bangladesh propose two task forces to boost trade, investment",
+    "summary": "CII has proposed two joint task forces with Bangladesh on infrastructure and high-tech sectors to turn bilateral trade talks into projects.\nLand-port delays, particularly at Benapole, and raw-material",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-bangladesh-propose-two-task-forces-to-boost-trade-investment-312748-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-005",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "South India cotton yarn faces headwinds, prices up but demand slow",
+    "summary": "South India’s cotton yarn market moved in opposite trends; southern mills raised rates by ₹7 per kg, and Tiruppur prices increased by ₹4-5 per kg.\nMumbai yarn prices stayed stable as slow fabric deman",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/south-india-cotton-yarn-faces-headwinds-prices-up-but-demand-slow-312757-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-006",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India's polyester buying window could tighten further before festivals",
+    "summary": "Polyester filament yarn prices diverged across Asia in the week ended August 14, 2026.\nIndia’s DTY 150D/48F closed at ₹139/kg, up 2.21 per cent week on week.\nChina’s DTY rose 0.53 per cent to CNY 9,45",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-polyester-buying-window-could-tighten-further-before-festivals-312749-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-007",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India’s raw silk production edges up in 2025-26",
+    "summary": "India's raw silk production rose 2.22 per cent YoY to 42,033 tonnes in 2025–26, Central Silk Board statistics show. \nMulberry silk remained dominant at 32,250 tonnes, as higher-quality bivoltine silk ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-raw-silk-production-edges-up-in-2025-26-312744-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-008",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "FBCCI calls for Chinese investment to boost Bangladesh exports",
+    "summary": "FBCCI says Bangladesh-China trade is near $20 billion, but Bangladesh exports to China remain below $1 billion a year. \nThe chamber has urged stronger business engagement and joint investment to reduc",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/fbcci-calls-for-chinese-investment-to-boost-bangladesh-exports-312741-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-009",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "What prompted US' Wolverine Worldwide to lift its 2026 forecast?",
+    "summary": "Wolverine Worldwide reported second-quarter (Q2) revenue of $506.4 million, up 6.8 per cent year on year, led by Merrell and Saucony.\nInternational sales rose 10.9 per cent, while higher US tariffs pr",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/what-prompted-us-wolverine-worldwide-to-lift-its-2026-forecast--312751-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "eclat-2026-08-18-001",
     "date": "2026-08-18",
     "companies": [
@@ -269,6 +435,270 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDBHSHR4Yl9uZUVQUDFhZTN2T1ZOWHFlZG5qeFJtZFM1ZkdhT0xBNk5HTXUxajZCT2VDYm44NXlMTDB0ZEN1QlEyV1pOdlFubGV0OElyWUpEMUVPS2MyWWhMa25ORFY5X2FRVENpTzR3R0dkUXo0MDQ4TERrVVFGb3NWY0lUMmZhUGNreGp4R29pc2RlUThEM2V3SFNlZXdGU09Gay1HZUFUUkc4Szd6YWdZVlh3WldWLTdqdUsyYXNtbGR1WEZz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eclat-2026-08-18-016",
+    "date": "2026-08-18",
+    "companies": [
+      "eclat"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "[Eclat Textile FY2026 Q2 Earnings Call] Quarterly Revenue Hits NT$10.09 Billion, a 16-Quarter High; EPS Surges 158%! Gross Margin Returns to 30%, but GM Admits \"Carryover Orders Exceeded Expectations\" Weighing on Upside - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1NXVqYXo5dkdlZ2pMYVZ2N2JGNmxCbXMzazJmRzJFSG9FckdQYWVxTUVudVIxbXlGU0w5VFdHLWhNU2lJX0E4M2JUczZxalljZkJnbnJnRkRmSGc2SG9HZTVB?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "eclat",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1NXVqYXo5dkdlZ2pMYVZ2N2JGNmxCbXMzazJmRzJFSG9FckdQYWVxTUVudVIxbXlGU0w5VFdHLWhNU2lJX0E4M2JUczZxalljZkJnbnJnRkRmSGc2SG9HZTVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-18-017",
+    "date": "2026-08-18",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "lululemon athletica (LULU) Is Down 5.3% After Softer Outlook And Legal Strains Has The Bull Case Changed? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VyZUU3VmZfSzRtd0lwdXNiSFFoQWxvb3JRRG9kUVY1cElrRVIxOGgxOFloU3V5RkpZNjVKc3R1YXVJTGV6SGRkX1Rxdm1HT1pTU0J6WkNRc0ZGRHpiVnpLdk40aGhTdTVKVTBwbG",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VyZUU3VmZfSzRtd0lwdXNiSFFoQWxvb3JRRG9kUVY1cElrRVIxOGgxOFloU3V5RkpZNjVKc3R1YXVJTGV6SGRkX1Rxdm1HT1pTU0J6WkNRc0ZGRHpiVnpLdk40aGhTdTVKVTBwbGtERUxWWDA5TW5zazU5Y2RtcUZnZWE0QV9tcGU3UXNQazd4V21BT2NBUWg0RlQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-18-018",
+    "date": "2026-08-18",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "lululemon athletica (NASDAQ:LULU) Stock Price Up 4.3% - What's Next? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2tkODEta2tsckt3cmRrOXQwVHJvVWp5REdhVFpJUUNuT0dqQ2FZV1ppRUN2SmVNdThwdU1wOGJ5VVRJLURZeEJOQVgyRFNadFIydGROaG9UNXRHa3g4VDU3MXhuVjB2anIyaVdlWW",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2tkODEta2tsckt3cmRrOXQwVHJvVWp5REdhVFpJUUNuT0dqQ2FZV1ppRUN2SmVNdThwdU1wOGJ5VVRJLURZeEJOQVgyRFNadFIydGROaG9UNXRHa3g4VDU3MXhuVjB2anIyaVdlWWFFclpRamdxN0dFdV9sdGZ1Zm15QU9EUWt2WjZJaGlKUGNtRHoyNGdFR3V2Tlp4blY5UVZrbzE4c1puWWFMMlhVWXRMSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-18-019",
+    "date": "2026-08-18",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Lululemon Athletica (LULU) Undervalued On Softer Guidance And A Split Fair Value View? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWdubi1WOC1SS2gwTkNIVmMzX3dBYjZJOHBIWUY5S29yTWxldWY5blJvX3BhLWd2RWt3TGtNMTZ0bUNoRmZubk5YSzg5VXhUYXZhUnhFbUpHQmFUa0JoOGhRQzExOVlDVnBTLWxIYm",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWdubi1WOC1SS2gwTkNIVmMzX3dBYjZJOHBIWUY5S29yTWxldWY5blJvX3BhLWd2RWt3TGtNMTZ0bUNoRmZubk5YSzg5VXhUYXZhUnhFbUpHQmFUa0JoOGhRQzExOVlDVnBTLWxIYmdQck1UcHlDSHFIVVdPRGxiN3QwVXVlMVNDbTRKSnZ1eFBWaUpaVmh1NDItWG1mSTl6Vjg4cmxDSDBTcjJ5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-08-18-020",
+    "date": "2026-08-18",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "VF Corp. Raises Fiscal 2027 Sales Outlook as Outdoor Growth Offsets Vans - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFdPa0h6YW9VYTdQNEhWRzNEY2dmNDMtZHZab1U2RXp1bzF3eE0ycHB0Ulh5bFJaRW14dGtsUVVuWnhDTkUyejNoWlZiSDhJOU5LQUJjT1ljTnYwczN0YUwzMEo3SzE4d1N3U05ROH",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFdPa0h6YW9VYTdQNEhWRzNEY2dmNDMtZHZab1U2RXp1bzF3eE0ycHB0Ulh5bFJaRW14dGtsUVVuWnhDTkUyejNoWlZiSDhJOU5LQUJjT1ljTnYwczN0YUwzMEo3SzE4d1N3U05ROHJQM2NiQzZ3anU3OVFXVVV5T25USUI0NmlVbUJva1VoNjk4UE5qeVRzWDk5N09sbHJSSFlVVFJkTFBqeWxNVGJyOXFLeG55djh3QVQ1WDdidXVGRmwwZXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-08-18-021",
+    "date": "2026-08-18",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "VF Corporation stock holds at $14.49 as guidance shifts toward fiscal 2027 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFh3N1BmOFpQSjJsU2FxcnpCdWFRMmtvbkh1SmQ5SUUwUnpRZzVJM1NWeGRXRlBjY29TMVdGMTU3bXNac1JOdHYyYUNRdWUtc25NSnE4UmRwY1otS2o4a0xPZktSVVFfeVMtNDlzU2",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFh3N1BmOFpQSjJsU2FxcnpCdWFRMmtvbkh1SmQ5SUUwUnpRZzVJM1NWeGRXRlBjY29TMVdGMTU3bXNac1JOdHYyYUNRdWUtc25NSnE4UmRwY1otS2o4a0xPZktSVVFfeVMtNDlzU2dua012TU1scE1OUHlRSEJXYktRZ3ZkUHBMUDRGZ0R6R0JXNWpXYWEydlppQmFERmlQN2lESnh0aGl6VGsxUG9qR0pMWGVmNElsb3RMMUVSNERvUEhzblVBd1B4VHlSNVJDSWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-08-18-022",
+    "date": "2026-08-18",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Pzena Investment Management LLC Takes Position in PVH Corp. $PVH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlIxNmpYY1FGMEg2WG4wVjFRVFFCejdOcmliYUotOVZCVVhlWWh3M2ZTdjhoMEctcm5KTTJEc0ZycHhlQ0FoT01ob3loRUlhbVVNSHFIRWZGSkp5cUxKNTZQaDl1WDQyODJsanNrUj",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlIxNmpYY1FGMEg2WG4wVjFRVFFCejdOcmliYUotOVZCVVhlWWh3M2ZTdjhoMEctcm5KTTJEc0ZycHhlQ0FoT01ob3loRUlhbVVNSHFIRWZGSkp5cUxKNTZQaDl1WDQyODJsanNrUjY0Vk1pNWM0dWdwOG12RFNUQzdrcmJkRlJHSXR2UFZWZzVzdC1pZS1WTXk0S1k0WWltdVdMd2VtcXNzTmxXSzAxdlljR3ZPNUVpYTlOWHNmQlY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-18-023",
+    "date": "2026-08-18",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "How the Bayeux Tapestry Became a Tool For Diplomacy - observer.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPaV9KRHBmZ1d6ejhmQ09tZTZMdlpwNkpJX2JXMkxiLUZiaUp4U2Zra0dlWmg0SzVxXy1nMFpCc243em53WXdOZ2l2UUo2NGkyNEJVWEVLYU44MzBqYXNpcVllZzVhNnF3d3N0Y0NfNT",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaV9KRHBmZ1d6ejhmQ09tZTZMdlpwNkpJX2JXMkxiLUZiaUp4U2Zra0dlWmg0SzVxXy1nMFpCc243em53WXdOZ2l2UUo2NGkyNEJVWEVLYU44MzBqYXNpcVllZzVhNnF3d3N0Y0NfNTFEWllXQ1I3R2FsRF9vNkZuV1ozQW9JaWY5UzFIdGdsOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-18-024",
+    "date": "2026-08-18",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Competition invites children across the UK to reimagine Bayeux Tapestry's lost panel - The Art Newspaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWhUYWZRSlhOc0xyWTlLMjZvYjJaUGVFR2otdkFlVUxua0xUTzRMajVkTFNkaVVkX3U4bDYxd0l6TjJabjFEcW81X2lVLWhkM3VUbl9iUEVYVUFNVkJ5QzczT1NTT1hSSTVKMHI2X1",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWhUYWZRSlhOc0xyWTlLMjZvYjJaUGVFR2otdkFlVUxua0xUTzRMajVkTFNkaVVkX3U4bDYxd0l6TjJabjFEcW81X2lVLWhkM3VUbl9iUEVYVUFNVkJ5QzczT1NTT1hSSTVKMHI2X1FhX3FDbk54QWU5R3R4M2E5M19SY3p1S2FWenR0bTFrbWtOUmZwZmtIZHlHcnhXZ2VkTXZ5THZEZzRYZFZGazcwUFRrdmNlZDU1VFNF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-18-025",
+    "date": "2026-08-18",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "How Nike’s Weak Results and Leadership Shifts At NIKE (NKE) Have Changed Its Investment Story - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSmFCZjZUYUN0c2JrWkxPMXl4THRiMXVzZkFEQlpDTjF5X2tac2RxMmlEQjlSVG13dDJfc21RQTU2WXBILTBkMHFIck14MUlhTHpYRl9FSDRKNXJPTXpyVFFHUzR6Nlh2OURJbWZRSX",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSmFCZjZUYUN0c2JrWkxPMXl4THRiMXVzZkFEQlpDTjF5X2tac2RxMmlEQjlSVG13dDJfc21RQTU2WXBILTBkMHFIck14MUlhTHpYRl9FSDRKNXJPTXpyVFFHUzR6Nlh2OURJbWZRSXBzanRfaGRqSGhXTkFiTGpSd1NLZTRDZFJGaVBaUHB3ZEZURF82RFFaN3l3YTN4cjhlaUMwc0Y1ODNFOEJUTkRKdUNVM3JMQ3NZaUQ2R0FPWE5uOXFkR05lUtIBzgFBVV95cUxNQm85TERZOFRSUU9mRU1haXl6cVFGUlBfUzVYV1Y4TExiNVM4Q3RwVUJRdmduQzdKWU9ySDh1UDNaYnhIbXpoQnZwMmEwQllUbldRR2tsa1pnbVZKb3R2Z3NGZ3lyZG9wd2NxdkVOaVpWTGUtVTFldXlMOEYzOUY1STZrTnlTNXQxWmRGZmZzYTJMQUlRTXl0ZDNtOVRCVGZ5U0hha3Q3NE83eU5GUmhVV01HdUJTN09ZejU4dXMtdk5XOGJhVU9EMWRrLXAtUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-18-026",
+    "date": "2026-08-18",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike stock hits 12-year low as JPMorgan downgrades outlook - eciks.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3dTloZmd6ME5IeEZtSm9QQ093MGdOY1NCMnNkbGFkU1dUSy1GMy1RVzVjeEIwMzA1Vl84ZXlua2tDZTBKMjVZc2drSnEycXJZZHM3dktyOXdFRzk0b2NlQk9xQUt6bFU?oc=5\" targ",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3dTloZmd6ME5IeEZtSm9QQ093MGdOY1NCMnNkbGFkU1dUSy1GMy1RVzVjeEIwMzA1Vl84ZXlua2tDZTBKMjVZc2drSnEycXJZZHM3dktyOXdFRzk0b2NlQk9xQUt6bFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-18-027",
+    "date": "2026-08-18",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Nike Stock Hit a 12-Year Low, Down 78% From Its 2021 Peak - tradingkey.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUJldmJPNTlBbGFMX2xlTGJMSi04YkxsOGJKeXlaclFqTFdiNmNwcUQtaE1mb25RN2t0UEhoNWhRcGhKVDNlbmNvU3YtNEk1bTIwelhwNFVyWjVWLXI0UXdldVhjTDVoUTRHTkNOMk",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUJldmJPNTlBbGFMX2xlTGJMSi04YkxsOGJKeXlaclFqTFdiNmNwcUQtaE1mb25RN2t0UEhoNWhRcGhKVDNlbmNvU3YtNEk1bTIwelhwNFVyWjVWLXI0UXdldVhjTDVoUTRHTkNOMkdobGhBR092YWt0dDAybjQtSkRaQlZEekR3T3V1d04yd056bjRIRVh4R0tHNWFGTlVRcTV3WVpYTHpiWm9Cdm9NYmFiMnNFVk0tRWdKdW5OT0p3OXRaM0Fya2plUzY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-18-028",
+    "date": "2026-08-18",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike Stock Hits a 12-Year Low. How Did It Fall This Far? - EBC Financial Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9ybFRIMDlacDMzQW40SWtkQlJCMkxqZmlpeFVyMjdGQmw0eFUtWjhHWTE5dU5veUxrdjdvV3JNY1gxNjlmaFRHRXpNR25pR1pSM2pFZVlnWk9Hdi1jaDN0LVdVWjdTMlJENjVDMw?oc=",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ybFRIMDlacDMzQW40SWtkQlJCMkxqZmlpeFVyMjdGQmw0eFUtWjhHWTE5dU5veUxrdjdvV3JNY1gxNjlmaFRHRXpNR25pR1pSM2pFZVlnWk9Hdi1jaDN0LVdVWjdTMlJENjVDMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-029",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Usha Yarns Secures Growth Equity Investment From Fullerton Carbon Action Fund",
+    "summary": "CHANDIGARH, India — July 14, 2026 — Usha Yarns Limited (“Usha Yarns”), a producer of high-quality recycled yarns with advanced, well established production processes, today announced a growth equity i",
+    "sources": [
+      {
+        "name": "textile_world",
+        "url": "https://www.textileworld.com/textile-world/fiber-world/2026/08/usha-yarns-secures-growth-equity-investment-from-fullerton-carbon-action-fund/",
         "type": "rss"
       }
     ]
@@ -551,6 +981,24 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlJKY3JjLTcwTnY0UG1vN2tKMnA1clMtazRSOV9EYWNWXzh0VkF2WjFIS0xjTzlXSFFOeGN3M2ZTSE9wQnVLZlRfcnhDdFdJU3VwVE5ZZk5UdjVJaGZtNWY0NkxmeWNHSnczbnhVVEpVdkRNRy1CWTZlcVROOXZRMnNYcDB3a2dYSDZXbFVnOHVvaXVRT280V1d4U1NhaTZD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-17-016",
+    "date": "2026-08-17",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon Loses Two More Senior Executives Amid Leadership Transition - Retail TouchPoints",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNFZPTUs5UElFTEN1c2I3blkzMklrdW5wS01KdGllNTdOS0FJajdkaVpPU2w2ajhiTmt0LTNiSzlyd1BDeVRSUkJwUVpZdXhIazE0Zkp4TUJiRy1lZnpOUkNiOXljVklSSWZ3bVN2Nj",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNFZPTUs5UElFTEN1c2I3blkzMklrdW5wS01KdGllNTdOS0FJajdkaVpPU2w2ajhiTmt0LTNiSzlyd1BDeVRSUkJwUVpZdXhIazE0Zkp4TUJiRy1lZnpOUkNiOXljVklSSWZ3bVN2NjlFOHNmdmlZN29PNGM4Tjc4aTlKbDRiVUFnejB1SDNzcGEwcjN3U3lra2VNMmR2X3ZKdmttcDBibXpteHFlZi1UMmtKNjdfR1E?oc=5",
         "type": "rss"
       }
     ]
