@@ -1,0 +1,229 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T08:24:36.150076Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-20-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What helped Finland's Amer Sports beat guidance in Q2?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/what-helped-finland-s-amer-sports-beat-guidance-in-q2--312784-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-20-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "39% gone; yet fast fashion still can’t quit China",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/39-gone-yet-fast-fashion-still-can-t-quit-china-312800-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-20-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Italy defies decline in Hong Kong apparel imports on luxury demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/italy-defies-decline-in-hong-kong-apparel-imports-on-luxury-demand-312776-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "tapestry-2026-08-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Coach’s Sales Grew 14%, Yet Tapestry (TPR) Fell as Much as 17%. Is Kate Spade the Real Problem? - Yahoo Finance",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFlPNlRzNjVRZXJmUWQ2WVc0b3dPUUhsSlNIenMtcFR4WFJ1MmM3NjJWazAyLVNVOGtQNHRFU1Y3LTh2eC1tbEtnejd0c25jdW5vbGFNUm8wTm5tRzd1Tm5sQnV1T19PSnRQazhRVkkyb21OTVhrOHhncTUxS2ZVcHlEZ1VfQ0Rnd1FqdjV2aGExQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ICE cotton jumps amid tight stocks, weaker dollar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-jumps-amid-tight-stocks-weaker-dollar-312801-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 5,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "hm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 108,
+    "too_old": 209,
+    "gate1_blocked": 37,
+    "gate2_blocked": 32,
+    "passed": 19,
+    "pass_rate": "6.4%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "FENC Earns Sixth Consecutive Recognition as One of the HR Asia Best Companies to Work for in Asia, R",
+      "Eclat Textile and Tatung Hold Investor Conferences on Same Day, Each Touting Growth Drivers for Seco",
+      "Adidas stock holds steady as brand momentum clashes with mixed analyst signals - Ad-hoc-news.de",
+      "Adidas AG : UBS gives a Neutral rating - marketscreener.com",
+      "H&M opens its first store in Paraguay"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Coach、H&M相關動態：「What helped Finland's Amer Sports beat guidance in Q2?」。主要關注主題為供應鏈轉移、棉花價格、快時尚趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "What helped Finland's Amer Sports beat guidance in Q2?（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "39% gone; yet fast fashion still can’t quit China（快時尚趨勢、供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

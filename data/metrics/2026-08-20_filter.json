@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 209,
+  "gate1_fail": 37,
+  "gate2_fail": 32,
+  "passed": 19,
+  "gate2_samples": [
+    "FENC Earns Sixth Consecutive Recognition as One of the HR Asia Best Companies to Work for in Asia, R",
+    "Eclat Textile and Tatung Hold Investor Conferences on Same Day, Each Touting Growth Drivers for Seco",
+    "Adidas stock holds steady as brand momentum clashes with mixed analyst signals - Ad-hoc-news.de",
+    "Adidas AG : UBS gives a Neutral rating - marketscreener.com",
+    "H&M opens its first store in Paraguay"
+  ]
+}
