@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 201,
+  "gate1_fail": 33,
+  "gate2_fail": 38,
+  "passed": 20,
+  "gate2_samples": [
+    "Toray Industries (H.K.) Ltd. Goes Live with Centric PLM to Strengthen Cost Management and Developmen",
+    "FENC Earns Sixth Consecutive Recognition as One of the HR Asia Best Companies to Work for in Asia, R",
+    "Price to sales forward of LeaLea Enterprise Co., Ltd. – TWSE:1444 - TradingView",
+    "Shenzhou International Group Holdings Stock Rallies 1.8% in Hong Kong - Moomoo",
+    "Eclat Textile and Tatung Hold Investor Conferences on Same Day, Each Touting Growth Drivers for Seco"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-08-21",
+  "total_events": 7,
+  "by_company": {
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
