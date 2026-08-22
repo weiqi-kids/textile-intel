@@ -1,0 +1,16 @@
+{
+  "total_raw": 406,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 204,
+  "gate1_fail": 35,
+  "gate2_fail": 42,
+  "passed": 12,
+  "gate2_samples": [
+    "Toray Industries Goes Live with Centric PLM to Improve Product Development - Machine Maker",
+    "Toray Industries (H.K.) Ltd. Goes Live with Centric PLM to Strengthen Cost Management and Developmen",
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "FENC Earns Sixth Consecutive Recognition as One of the HR Asia Best Companies to Work for in Asia, R",
+    "Price to sales forward of LeaLea Enterprise Co., Ltd. – TWSE:1444 - TradingView"
+  ]
+}

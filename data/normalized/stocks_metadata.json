@@ -49,8 +49,8 @@
   },
   "nike": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "adidas": {
@@ -73,14 +73,14 @@
   },
   "lululemon": {
     "earliest": "2007-07-27",
-    "latest": "2026-08-20",
-    "count": 4797,
+    "latest": "2026-08-21",
+    "count": 4798,
     "history_complete": true
   },
   "vf_corp": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "fast_retailing": {
@@ -91,20 +91,20 @@
   },
   "pvh": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "tapestry": {
     "earliest": "2000-10-06",
-    "latest": "2026-08-20",
-    "count": 6505,
+    "latest": "2026-08-21",
+    "count": 6506,
     "history_complete": true
   },
   "etf_xrt": {
     "earliest": "2006-06-22",
-    "latest": "2026-08-20",
-    "count": 5072,
+    "latest": "2026-08-21",
+    "count": 5073,
     "history_complete": true
   }
 }
