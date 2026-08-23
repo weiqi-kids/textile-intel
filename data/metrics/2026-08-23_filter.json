@@ -1,0 +1,16 @@
+{
+  "total_raw": 406,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 205,
+  "gate1_fail": 38,
+  "gate2_fail": 39,
+  "passed": 15,
+  "gate2_samples": [
+    "Enterprise value to EBITDA forward of Toray Industries, Inc. – HAN:TOR1 - TradingView",
+    "Toray Industries Goes Live with Centric PLM to Improve Product Development - Machine Maker",
+    "Toray Industries (H.K.) Ltd. Goes Live with Centric PLM to Strengthen Cost Management and Developmen",
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "FENC Earns Sixth Consecutive Recognition as One of the HR Asia Best Companies to Work for in Asia, R"
+  ]
+}

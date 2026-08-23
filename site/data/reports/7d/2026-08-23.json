@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-23",
+  "date_range": {
+    "start": "2026-08-17",
+    "end": "2026-08-23"
+  },
+  "generated_at": "2026-08-23T08:17:34.359440Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nike-2026-08-17-009",
+      "date": "2026-08-17",
+      "title": "Nike stock trades near 52-week low as fiscal 2026 revenue declines - eciks.org",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 9,
+      "last_week": 24,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.14
+    },
+    "supply_chain_shift": {
+      "this_week": 29,
+      "last_week": 48,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": -0.08
+    },
+    "cotton_price": {
+      "this_week": 7,
+      "last_week": 2,
+      "week_over_week_change": "+250%",
+      "sentiment_this_week": 0.0
+    },
+    "fast_fashion": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.75
+    }
+  },
+  "company_7d_summary": {
+    "far_eastern": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "adidas": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tapestry": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "eclat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "nike": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "vf_corp": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 7
+    },
+    "hm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "lululemon": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "pvh": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 120,
+        "last": 136,
+        "change_pct": -11.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-17",
+      "event_count": 17,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 30,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 16,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 25,
+      "sentiment_avg": -0.12
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 12,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 15,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 5,
+      "sentiment_avg": -0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-17 ~ 2026-08-23）共 120 則事件，重點為「Nike stock trades near 52-week low as fiscal 20...」。VF情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "VF",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Coach",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "耐吉",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
