@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 198,
+  "gate1_fail": 32,
+  "gate2_fail": 44,
+  "passed": 16,
+  "gate2_samples": [
+    "Enterprise value to EBITDA forward of Toray Industries, Inc. – HAN:TOR1 - TradingView",
+    "Toray Industries Goes Live with Centric PLM to Improve Product Development - Machine Maker",
+    "Toray Industries (H.K.) Ltd. Goes Live with Centric PLM to Strengthen Cost Management and Developmen",
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "FENC Issues the Latest - feg.com.tw"
+  ]
+}
