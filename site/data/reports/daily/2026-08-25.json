@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:29:17.609014Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-08-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas stock holds steady as investors await next earnings update - Ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObEYtV244cUJOVENuWW1JeFlKTm0zMFVmOHl3MDZPVGdwVmZlVEwyVDFDclZsWkUxYmVGemhRTUhmUlVPWFprZl9EVEVNTWttUTZscWZCVXVBTEk1aEFNRm9tcEJOVzNfZlY2OE5WbVppcTdKM2hVVTkxcFBIY2NNRVdDcUJEUkpwUHBrNm84NWJfYlU1M1hOWGJ2TzFmc3dlVl9uUGZJaVZRSkNNaEtheGlHUGdlUmNMWkw5Y09PaUxrOEtJTE80?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-25-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Australia's City Chic's FY26 EBITDA surges 92% on margin",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/australia-s-city-chic-s-fy26-ebitda-surges-92-on-margin-312919-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-08-25-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike stock holds near multi-year lows as earnings beat fails to shift cautious outlook - Ad-hoc-news.de",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM3NVUWpLak55bnowUHl4aWVpN0t3djhoNW9SV21OQ19Kc2RPQnRUOV9wcDItVzRnRFRaQi1JYW9NRm1jbjdkay0tYjJXWngtcFdheVpDSTU3TXVyc2w2QWtadkpkY1Y0a0dUVnJDOEcwaTNnYllYN0hITjJ2ZG5FQmxWdFE1Z0xNejUycWx3YWdEUEthc2twZ05qYXJrQ0pYMmZWQkp1STF1NUVhZ1REWjZ2cjE2S0s2QS1WS0pBS1lXTE1wcGpLRzF2YUI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-25-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sweden’s apparel imports fall as China strengthens market share",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/sweden-s-apparel-imports-fall-as-china-strengthens-market-share-312896-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-08-25-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nike Bets on One Piece Release Amid 12% Digital Sales Decline - TechStock²",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazRaYlF1TzA0bVljVFFrRFhveXdBSWtyU1NiSHhoNjFMbVpRVW5md0xmT3BOLVNual92VEY2Yzc0Z1JwTDJTNlpjUldvZS12a2RKVkRjOVkyVk14Tjk5MHBYRlBBWkpSenhCcVB6T2xNQ2dhNk9hbzZqVjFXeEpjMXZESkhPTEk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 106,
+    "too_old": 208,
+    "gate1_blocked": 27,
+    "gate2_blocked": 45,
+    "passed": 19,
+    "pass_rate": "6.4%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "Enterprise value to EBITDA forward of Toray Industries, Inc. – HAN:TOR1 - TradingView",
+      "Toray Industries Inc ADR (OTC: TRYIY) Stock Price, News & Analysis - Kalkine",
+      "Toray Industries Goes Live with Centric PLM to Improve Product Development - Machine Maker",
+      "Toray Industries (H.K.) Ltd. Goes Live with Centric PLM to Strengthen Cost Management and Developmen",
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Coach、耐吉、愛迪達相關動態：「Adidas stock holds steady as investors await next earning...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Adidas stock holds steady as investors await next earnings update - Ad-hoc-ne...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Australia's City Chic's FY26 EBITDA surges 92% on margin（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

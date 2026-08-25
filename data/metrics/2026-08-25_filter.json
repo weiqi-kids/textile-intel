@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 208,
+  "gate1_fail": 27,
+  "gate2_fail": 45,
+  "passed": 19,
+  "gate2_samples": [
+    "Enterprise value to EBITDA forward of Toray Industries, Inc. – HAN:TOR1 - TradingView",
+    "Toray Industries Inc ADR (OTC: TRYIY) Stock Price, News & Analysis - Kalkine",
+    "Toray Industries Goes Live with Centric PLM to Improve Product Development - Machine Maker",
+    "Toray Industries (H.K.) Ltd. Goes Live with Centric PLM to Strengthen Cost Management and Developmen",
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine"
+  ]
+}
