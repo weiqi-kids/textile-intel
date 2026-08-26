@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-26",
+  "total_events": 8,
+  "by_company": {
+    "toray": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "shenzhou": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "adidas": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "tapestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": -0.08
+    },
+    "supply_chain_shift": {
+      "count": 2,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

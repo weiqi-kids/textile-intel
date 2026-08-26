@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:29:51.119137Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "shenzhou-2026-08-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Shenzhou International Earnings: Weaker Cost Pass-Through Drives 16% Cut to Fair Value Estimate - Morningstar",
+      "companies": [
+        "shenzhou"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVlFrcVl5TlJ6eHJRZlpvTzQ1ZXlnSDlGbk8xTm5sNmxqTnNYeFNJTVVQTEtyQW8temhhbkhnbVl4a3NkNDFHTWNvN3FuQ3dRc2Q4LTNhSDFTdTdsTmFyZG5KSmo1ZEVkMUtEVnAzRThLVUtENUo2UDVsWVRWdDh6S01Oa1lOZERBQXNRTEVfQmR5OElrMEREbjBqclV3TnhlQlVkQTBLQUVqRThobjktR1dEcDZsOG5EQWlvMElDd3dSTkpqUmozVTJKWDFFeXJLRE9QdmhCM1o3eFVLWEVBbG5BUGkzT1Nya1g5OE56c2c5b3h2Rlpj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Moody’s affirms Philippines’ ‘Baa2’ credit rating, stable outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/moody-s-affirms-philippines-baa2-credit-rating-stable-outlook-312953-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-26-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India seeks Japanese capital for technology & manufacturing growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-seeks-japanese-capital-for-technology-manufacturing-growth-312955-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "toray-2026-08-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[Market Orders] NYK and INPEX sold; Toray Industries and Tokio Marine purchased (morning session, 26th). - Moomoo",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWRhekNTM01NdHQ0eEY4c1dTYW9HLVl3UFY2YTNsbWxhY2wwVkJpd3lUQVdzb3R1RFZrQjA5d0tyTFFSN2k4QlZIdERVS1hMNmJBcjEzb1Znb01uQi0yaGx0UFh2ekRpb2t5dTd4Z3p4Z3c2bFQ5SFVJal9HOC1jYWlmUzJwV1VaSU9za3RFdERFWlk1eFM4RzNYNjNiWE8wTURj?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adidas-2026-08-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas stock steadies after a CEO buy and sector weakness - Ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY0hxSkpXQUVFRlZGZVkxMEpMWWgwdXBMcjVJQ05veGp3U0s5QmM3UmdXckNrY011empBUlJtU2I2LWxQX3N4TGhSR0xtVkZtQUFYeURzNkxTNzlDV0RCakJFUG1pU3RtNlZGRFVJTUJfUkJTM3V2T0tHN0cyQmZlbnc2NkNGSzhDRVdvUk9ua004MVBJUVgzTWJ6SDFHYkpCSmpQYWhMNXFuYjNzNER1RllpbzJhcy1jcm45Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "shenzhou",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 100,
+    "too_old": 198,
+    "gate1_blocked": 38,
+    "gate2_blocked": 36,
+    "passed": 33,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "Enterprise value to EBITDA forward of Toray Industries, Inc. – HAN:TOR1 - TradingView",
+      "Toray Industries Goes Live with Centric PLM to Improve Product Development - Machine Maker",
+      "Toray Industries Inc ADR (OTC: TRYIY) Stock Price, News & Analysis - Kalkine",
+      "Toray Industries (H.K.) Ltd. Goes Live with Centric PLM to Strengthen Cost Management and Developmen",
+      "Austria's Lenzing approves $349.8 mn capital raise to support strategy - Fibre2Fashion"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為東麗、Shenzhou International、愛迪達相關動態：「Shenzhou International Earnings: Weaker Cost Pass-Through...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Shenzhou International Earnings: Weaker Cost Pass-Through Drives 16% Cut to F...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Moody’s affirms Philippines’ ‘Baa2’ credit rating, stable outlook（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
