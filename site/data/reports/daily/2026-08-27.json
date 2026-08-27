@@ -1,0 +1,255 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:30:00.493192Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-08-27-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Adidas stock steadies after guidance hike and record Q2 revenue - Ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNnlTQXlJVGZmc18xZFR0Q1BJMWpJbVBfbVZTajRmRVdhVXRDamtHRUcyRC1oZklFTm1GSk5YTWEwOHVZak54U3NSNWZoVElwQ2dWRjlpczhYcTNWYXRMWFhFTGlCVVZPSnVkbFBPdUdUdlpHM01kaTQyV0l6QXZ6Vks2QVRsRG16dTdNdEM4YjlqMVBkWUVIamtJeUtHSUJEaVYxdk9xT3JNb2xQNEZKLWxIbHJUSXJjQS1VdElldGlrZ0Ew?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adidas-2026-08-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas stock rises as Q2 revenue and guidance lift sentiment - Ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcG4yM29fcVRHOVZqODhoRUpNSDVjZkM2TUJGeFhYUk1QN3pYYU9XMXc1b3gzakNRU2JnM0VLbV94MUpWeEJmeDB5Y1F1S2h2Qkxtc09vYV9RVGNuOGhldHJvcmpjZE5qOGgzRWl3UmhZNVh2LXRjNFFZZUppZ2lQRHN2T1N4UmpFenVfdnNSSDVGSWxSZDZBbER4eTd4MWZ2LS14ZmFrRnhEX2dHdjZQN3dNTjNKczdncEc5QWtPUmw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-08-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon Athletica (LULU) Heads Into Earnings As Investors Weigh Value Against Slowing Sales - simplywall.st",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGFwT3ZSYXZaU2EyYXJZSXc4M2JMMjVVUWVOeVN0NHlyQ3ZlangwQ2Z1ZUJsWExhQkdzRFRCTWVxNkJEczlHUFFqNWJpb2VjOVNMUG96Z1FWMm9WTzNUTDhZMzBrRjIyUjk1eTRLWXFJOXNSbm1ydXI1Vk5DWnAzWkpqNkROeHN1MGZNSUlaSDV4QmxkcW85V3Uwb0Z1eDdoZXFlWUktcjZOeWNyN1JmenlyNjZfRTk5TFFRcERDTUtmdEktVWRGZkJYWXJ2S1FicVoybU5oaG5SNUNLMG9PbTlwMWo3QdIB5gFBVV95cUxOcGFwT3ZSYXZaU2EyYXJZSXc4M2JMMjVVUWVOeVN0NHlyQ3ZlangwQ2Z1ZUJsWExhQkdzRFRCTWVxNkJEczlHUFFqNWJpb2VjOVNMUG96Z1FWMm9WTzNUTDhZMzBrRjIyUjk1eTRLWXFJOXNSbm1ydXI1Vk5DWnAzWkpqNkROeHN1MGZNSUlaSDV4QmxkcW85V3Uwb0Z1eDdoZXFlWUktcjZOeWNyN1JmenlyNjZfRTk5TFFRcERDTUtmdEktVWRGZkJYWXJ2S1FicVoybU5oaG5SNUNLMG9PbTlwMWo3QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-08-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "lululemon Q2 Earnings Upcoming: Is It Likely to Surprise Investors? - TradingView",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGt2d2JPeVFZNFNGTi1abnNDLVg1RVlLTGVwNHIxSFoyQnJ4WkVPYzdRT2V3M2V3Zkk0dWE5S1NQdHJHVndJbzhnUUpnU2FLUHhOX3cycXZsVTVDWWpDS3JrZTBPYVJCUFVmUTd5TjJ0d2lfUVVzOV9raTd1MUx1eGY2V3lxajQwQkZ4NTNmV21OZW5QbVRuSFlHaFM3NEUyWjYxcEtvTjk1c1V2T3ZyVWdQUloyTGN6MlFNeDl3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-08-27-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "lululemon athletica (LULU) Projected to Post Earnings on Thursday - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3E5S3U2N1RjLS1fU0ZDZGhiUnU4SnBOQ1d2bXM4TjQxaUhmR3lGTzNVcUVSZFplRlk2RTVJN1IxR04yTkJBT3UxVzY4NDFNaFRkY28yaUlPdjdaMUJiRUlPLUZhdFlsQ1hubVpwNWtHVXVJZWx0TVFpS2xGVnhsTXF2VExZM3hqZUI0ME9Zc3ZKU3RaZFJHdWhvUXl3M2p6TnY3eWhhTHlyb0ZldnVHNTF5SzVBMmt5a0ZpbWxtV1VEZWND?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 6
+      },
+      {
+        "id": "tapestry",
+        "count": 5
+      },
+      {
+        "id": "adidas",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "cotton_price",
+        "count": 3
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 107,
+    "too_old": 186,
+    "gate1_blocked": 33,
+    "gate2_blocked": 42,
+    "passed": 37,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "Enterprise value to EBITDA forward of Toray Industries, Inc. – HAN:TOR1 - TradingView",
+      "Toray Industries Goes Live with Centric PLM to Improve Product Development - Machine Maker",
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "Lenzing approves $349.8mn capital increase to support strategic reset - Textile Today",
+      "Austria's Lenzing approves $349.8 mn capital raise to support strategy - Fibre2Fashion"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為Lululemon、Coach、愛迪達相關動態：「Adidas stock steadies after guidance hike and record Q2 r...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Adidas stock steadies after guidance hike and record Q2 revenue - Ad-hoc-news.de（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Adidas stock rises as Q2 revenue and guidance lift sentiment - Ad-hoc-news.de（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
