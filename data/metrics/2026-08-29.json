@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-29",
+  "total_events": 14,
+  "by_company": {
+    "adidas": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vf_corp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 6,
+      "sentiment_avg": 0.12
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
