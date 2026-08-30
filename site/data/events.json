@@ -1,5 +1,77 @@
 [
   {
+    "id": "pvh-2026-08-30-001",
+    "date": "2026-08-30",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bank of New York Mellon Corp Takes Position in PVH Corp. $PVH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnE0SUNnNEVpNC1iUnl4Q1hfYWtVSjN1N3FTTEptQ3g0cWMwQWxJQWF6TkVaLV9PX0ZoQ3ZzVVJlQVRCbU9Ccm1vTU9qbkphM1BIRnZjS0VYWHRvT2pXNHlEdUFJQ0s1bmNLa0ZCWm",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnE0SUNnNEVpNC1iUnl4Q1hfYWtVSjN1N3FTTEptQ3g0cWMwQWxJQWF6TkVaLV9PX0ZoQ3ZzVVJlQVRCbU9Ccm1vTU9qbkphM1BIRnZjS0VYWHRvT2pXNHlEdUFJQ0s1bmNLa0ZCWmxyS2R1Z3ZrS0ZST0xZTkdkLVlXTFFKSHhqanJ2bFlyY3VjTl9xZVVvUkpYbVFRZm5xckxDdmxNM0tzT3FYM0pOOXZuUHV4WXlQanNEZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-30-002",
+    "date": "2026-08-30",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thornburg Investment Management Inc. Has $4.37 Million Holdings in Tapestry, Inc. $TPR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWNORmlhQll4bkRnY0hxU3RkdWhaTVRTNVhuVGlyTVJXODFDcjFKQTFWS2FmczZtWmdJMjA4TzJEbjE0bGRIV0lCZV9GUFVwZDFEUURKYzVEMVMwSlJvYjBKZnRCZU85RzJCUk11cX",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWNORmlhQll4bkRnY0hxU3RkdWhaTVRTNVhuVGlyTVJXODFDcjFKQTFWS2FmczZtWmdJMjA4TzJEbjE0bGRIV0lCZV9GUFVwZDFEUURKYzVEMVMwSlJvYjBKZnRCZU85RzJCUk11cXJLQlozWEU5NGxEVVZmTTFRSkU1MU1leVpDeXlmb3VCZzBXa21ZUzRaajAxYzRYNUp0bW1zN245RHh2bFBXVHBjdFRDTlpVdWZWSHlhczBWbWd2QnNldEhoOVp3dnlvdk1mMHh5cGhKTS0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-30-003",
+    "date": "2026-08-30",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "IIP for India’s textile manufacturing in Jul grows 3.9% to 135.5",
+    "summary": "The growth rate of India’s index of industrial production (IIP) for July was 6.7 per cent, quick official estimates show.\nFor the manufacturing sector, it was 7.3 per cent in July.  \nThe IIP for texti",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/iip-for-india-s-textile-manufacturing-in-jul-grows-3-9-to-135-5-313050-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-30-004",
+    "date": "2026-08-30",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Can solar energy ease Bangladesh RMG sector’s power woes?",
+    "summary": "Bangladesh garment factories could generate up to 1,768 MWp of rooftop solar using nearly 9.7 million square metres of roof space. \nIt could meet around 40 per cent of large factories’ power demand, 3",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/can-solar-energy-ease-bangladesh-rmg-sector-s-power-woes--313042-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-29-001",
     "date": "2026-08-29",
     "companies": [],
@@ -252,6 +324,44 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMnhsSTd0NVF1dDF0WjF3RFNkbGh2cWNqMTYxQkRWZm5VcGp0Tm5UUmkwb3N5VGpSVU0tX0piTlVsZHBGTzJhSGF3Q3dBWGxjYURhZDhhU2pMLTJBZFZBanJwOWI2V2xGZ1Jyb3dQZU83UFFQVWtVRXdpbjE4TWIxMnBFWDlYcmw4bWlQdlNhTVVDbXdxYzhqLTBRSUdUaWJackhqM0RwSTFhcU54T3pFNjlYVjAzUjJic0c0cklTbUdhUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-29-015",
+    "date": "2026-08-29",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "From Hockney to Grayson Perry — the modern revival of tapestry - The Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUg4dVI0c3N5dEJCR2VEYS11Z2tkWjZKZk8xcjdwdjFfRUI1a1drb1FRSi1xdTlheGdtcW1KRzNSXzR2R0dTWnpqQjM0WlhjeVFKX2NnRVJucVNYUVNyN1B3YS11NE5xeGV2VkJSZG",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUg4dVI0c3N5dEJCR2VEYS11Z2tkWjZKZk8xcjdwdjFfRUI1a1drb1FRSi1xdTlheGdtcW1KRzNSXzR2R0dTWnpqQjM0WlhjeVFKX2NnRVJucVNYUVNyN1B3YS11NE5xeGV2VkJSZGFRZlJKYU5iVGlScDB2OGMtZ1g0cVhQSWZqTG56VmtYdmliN1ZtcFROcEM1N2VUQTFGWm1jMG1PQWZ2QjVodEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-08-29-016",
+    "date": "2026-08-29",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bayeux Tapestry loan ‘could pave the way for Elgin Marbles deal’ - The Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNei1RMk5wQzV3YWdFVnd2VTA3Y1I2RUdvQ3c1R1pxemVDY0FEU3htem1jZ2wyc0NwRHB1YWY1b2NMVkNMLTQ0T2ZLSjdYbUhPN1hEbU5mVHQxWG5NdWlIZ2JaemJDUWJZZHRXX3Q5LW",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNei1RMk5wQzV3YWdFVnd2VTA3Y1I2RUdvQ3c1R1pxemVDY0FEU3htem1jZ2wyc0NwRHB1YWY1b2NMVkNMLTQ0T2ZLSjdYbUhPN1hEbU5mVHQxWG5NdWlIZ2JaemJDUWJZZHRXX3Q5LWxKN25xelYwVk51Nnp4Uko4c2xjdmJGQjJoRW1xLUtZN0wtdw?oc=5",
         "type": "rss"
       }
     ]
@@ -514,6 +624,44 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPek1QNHlPRjNGcF8tOGhrRzk1RkdtLUN1RGZqRnlvZkYtcWpELVhfT1JPVDRPQU9IYksyZXM3eEZwUGtCUFRpSDBBS1JWVy1mcVJKSTlrdHNiQWI3VXZEQlVZLXlqZkR5T3RDb3ZqWE5kUmMyZFVFaklSV2wyZkxhOU1VQ1llNGlUazBBSnhiS0c3UzVBWklrVkNCTWRWZ2V3RnpZLVRlaWljR2RQNU5sNGxwSEo1UmtydHpvRkdBcnlfTW5tdkgyMkNyYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-28-015",
+    "date": "2026-08-28",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "$Lululemon Athletica (LULU.US)$ - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalhaenJKc190Sm9wcmp5RzJVNHhIODBWZGtCb3N0N0lYdEJOWTJSbG9RRWItNXdlZnVvdFJHSXJoWHB6Mk5TUm5CY2ZpNW1xRGVFSmF1SUI1TlFEZFBKNHcwM2liR1RwQ3NpVkRUTF",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalhaenJKc190Sm9wcmp5RzJVNHhIODBWZGtCb3N0N0lYdEJOWTJSbG9RRWItNXdlZnVvdFJHSXJoWHB6Mk5TUm5CY2ZpNW1xRGVFSmF1SUI1TlFEZFBKNHcwM2liR1RwQ3NpVkRUTFFGTTJyZ2ZkdG1iclctakVmN1h1eHVRTGxK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-08-28-016",
+    "date": "2026-08-28",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Preview: PVH Corp to Report Financial Results Post-market on September 02 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQV9DTmtNN0h2NXZzWjE1RnAtMWp5cEU0NkROX0MyakZrYXhYdnpvWWJoZmhnTElkRmpwOXJxamZyTmtlUGVXeXk2U0dwcUJsUC0tTU1nb0JpSnVJenhyMHg3TWNKLTV1bWJYNXlTMy",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQV9DTmtNN0h2NXZzWjE1RnAtMWp5cEU0NkROX0MyakZrYXhYdnpvWWJoZmhnTElkRmpwOXJxamZyTmtlUGVXeXk2U0dwcUJsUC0tTU1nb0JpSnVJenhyMHg3TWNKLTV1bWJYNXlTMy1uLXJGZmRvSUdKMWZIbnFtUzZoMWJFWFAxN3RxdDR3Mng0QkJ4eC1rV0lGcE1tVzZtSy1QcEJ4WVdwYXM?oc=5",
         "type": "rss"
       }
     ]
@@ -1454,6 +1602,26 @@
       {
         "name": "pvh",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzJrQnVtOFNxM1M2b1JlRlo4dEMwLThIRWkzWnA0cjBveHl1ckpBb2FkNHJVNktOck5qNHpndjZibXpoNHdUaTN1OV9aLW1nWEZNNi1pLWI5YXlWaEdUQzUtZ3BkeU45a0pGR29pNllkVGZJTFZqSnZDaUhGcWZVOGlabE9DMnhkTTQ5elNBTjlaMkI2dnJQUlljQXQtdDBsazdaaVBHVWVRQXl6Rzhj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenzhou-2026-08-26-021",
+    "date": "2026-08-26",
+    "companies": [
+      "shenzhou"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Shenzhou International's First-Half Net Profit Plunges 40%, Shares Tumble Nearly 6% - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE51dk9TRlNTTGp5al9RVDI3X0RBTWlxMER3MjhGSlZZT25VMTg2WGxScTRpSEJSUnU0dFAzVkktb0FjdkVzU3dKaTFWRkowaFluM3pEUGJCZjdpOU9oOFJYMTBHVzE0MXFRcVMwWDlrM1",
+    "sources": [
+      {
+        "name": "shenzhou",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51dk9TRlNTTGp5al9RVDI3X0RBTWlxMER3MjhGSlZZT25VMTg2WGxScTRpSEJSUnU0dFAzVkktb0FjdkVzU3dKaTFWRkowaFluM3pEUGJCZjdpOU9oOFJYMTBHVzE0MXFRcVMwWDlrM1p1ZkkxVWc?oc=5",
         "type": "rss"
       }
     ]

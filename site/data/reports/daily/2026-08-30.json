@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T13:24:46.737055Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pvh-2026-08-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of New York Mellon Corp Takes Position in PVH Corp. $PVH - MarketBeat",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnE0SUNnNEVpNC1iUnl4Q1hfYWtVSjN1N3FTTEptQ3g0cWMwQWxJQWF6TkVaLV9PX0ZoQ3ZzVVJlQVRCbU9Ccm1vTU9qbkphM1BIRnZjS0VYWHRvT2pXNHlEdUFJQ0s1bmNLa0ZCWmxyS2R1Z3ZrS0ZST0xZTkdkLVlXTFFKSHhqanJ2bFlyY3VjTl9xZVVvUkpYbVFRZm5xckxDdmxNM0tzT3FYM0pOOXZuUHV4WXlQanNEZg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-08-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thornburg Investment Management Inc. Has $4.37 Million Holdings in Tapestry, Inc. $TPR - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWNORmlhQll4bkRnY0hxU3RkdWhaTVRTNVhuVGlyTVJXODFDcjFKQTFWS2FmczZtWmdJMjA4TzJEbjE0bGRIV0lCZV9GUFVwZDFEUURKYzVEMVMwSlJvYjBKZnRCZU85RzJCUk11cXJLQlozWEU5NGxEVVZmTTFRSkU1MU1leVpDeXlmb3VCZzBXa21ZUzRaajAxYzRYNUp0bW1zN245RHh2bFBXVHBjdFRDTlpVdWZWSHlhczBWbWd2QnNldEhoOVp3dnlvdk1mMHh5cGhKTS0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "IIP for India’s textile manufacturing in Jul grows 3.9% to 135.5",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/iip-for-india-s-textile-manufacturing-in-jul-grows-3-9-to-135-5-313050-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can solar energy ease Bangladesh RMG sector’s power woes?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/can-solar-energy-ease-bangladesh-rmg-sector-s-power-woes--313042-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 118,
+    "too_old": 204,
+    "gate1_blocked": 32,
+    "gate2_blocked": 40,
+    "passed": 9,
+    "pass_rate": "3.2%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "Austria's Lenzing approves $349.8 mn capital raise to support strategy - Fibre2Fashion",
+      "Lenzing approves $349.8mn capital increase to support strategic reset - Textile Today",
+      "FENC Issues the Latest Sustainability Report - feg.com.tw",
+      "Shenzhou International Group Holdings Limited (HKG:2313) Just Reported, And Analysts Assigned A HK$5"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為PVH、Coach相關動態：「Bank of New York Mellon Corp Takes Position in PVH Corp. ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bank of New York Mellon Corp Takes Position in PVH Corp. $PVH - MarketBeat",
+        "level": "green"
+      },
+      {
+        "text": "Thornburg Investment Management Inc. Has $4.37 Million Holdings in Tapestry, ...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
