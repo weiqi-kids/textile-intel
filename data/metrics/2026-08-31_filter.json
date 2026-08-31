@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 199,
+  "gate1_fail": 29,
+  "gate2_fail": 42,
+  "passed": 17,
+  "gate2_samples": [
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "Lenzing AG Approves €300 Million Capital Increase To Support Strategic Realignment - IFAB MEDIA",
+    "Lenzing approves $349.8mn capital increase to support strategic reset - Textile Today",
+    "FENC Issues the Latest Sustainability Report - feg.com.tw",
+    "Shenzhou International Group Holdings Limited (HKG:2313) Just Reported, And Analysts Assigned A HK$5"
+  ]
+}
