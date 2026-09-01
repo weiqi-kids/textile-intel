@@ -1,0 +1,239 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T12:52:53.953708Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vf_corp-2026-09-01-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "VF Corporation stock holds low as fiscal 2027 loss and guidance reset weigh on sentiment - AD HOC NEWS",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnZZemJZdzVySWFlSjN1dnByYUR5SUg2c21FQ1R1RGtwaEVnUF9pSEw0dGoyeDhYYldrOTlRa0pQMmVBMHpJc3p3SzNCbkU1Znczd2hrM2ZyUy1WZHdXRzA2Nlg3MHVmX0ZIWlVKOUphZ25yaFVLS2dFWTc4OWFHb2llSm5CbGZRVDRaTWNtUjc0OFhCNWppM2x6RnpscFpTZEdJeDZmYUtkWDVtNm42RmxZVXJzdW9hNks5UHlqMUFob3EydUFDZUEyQWY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-01-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Global garment trade nears $550 bn as synthetic fibres gain share",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/global-garment-trade-nears-550-bn-as-synthetic-fibres-gain-share-313115-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-09-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Headlands Technologies LLC Purchases Shares of 10,668 lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "sustainable_textile"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdW9lNTI1TXJ6V1pLSEdKaHlIV0FESGdMSE03eEwyM1hTN0g3V0FzYk5TVTV5cmtHNXVJRmVkY0pub0pTaFczcWFGdDVvanpUZkIxUkxJejBMSklsblY4anpOa2ZiV01Qbk9Pd0YzVTNxUUZVeUVJTW5haUkyWEI2VWtvLVRvZUE0c1ltQkRVekJPT19vclZ0eW5jbW5iVGtLaURvQVZDODJWemFaa1lQcF9LWUN0WWRnTm93d0dTR1VFaDUxWW5lRGxRNi1Jb1NuT2tTYmF6NXo5dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pvh-2026-09-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Empowered Funds LLC Purchases New Stake in PVH Corp. $PVH - MarketBeat",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRElBTlJQbVdkM05ZV3ZNZDRjUU1DOEZoaHItS3I2bWtud0o5Y1dEOFRjQnZRdjRVNXBlNFY5ck5lWmZkb3Z0WWxuamdtZ2Q2cVh3eDlGUndvZUdtSi0zSkk5VmI3SkY3M29oOWFUMG9SRnpMczdXRGhDWXBScWI4bS0wcVp2cGxtRHhNSGJUWUZJZFl2OFRuYWhDTHQ3UEd0VVZ3YWFSM3NKY2k2cmRlZDEwQ3VUbFU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-09-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Railway Pension Investments Ltd Acquires 100,176 Shares of Tapestry, Inc. $TPR - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjdVSmhfbDFycVlRVkoyVVFSNzNXXy1sRWRqcjFXRFdBeThXdTVIY0E0RVVyNGU5X3FHYjF5U2tHSFBsX05QeEhKREg3cEt2Rk5NdERyR19OREVVZ0VXNEx2TG1xNTYyNlQtSC1BcUZLSXJ2bU9hLU9rVllkTGRuTjNpT0paaWs1TEJfZzJSMHBJTEpJSFNiODVkd0N5ODZBQlBpVkJ5ZzBSYlJtQ3RJdEdvWVVmMEVQYmNEckJMY0dJQXZ2NUhxYWJra2N2dE1Q?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 103,
+    "too_old": 211,
+    "gate1_blocked": 30,
+    "gate2_blocked": 42,
+    "passed": 19,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "13.9%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "Lenzing AG Approves €300 Million Capital Increase To Support Strategic Realignment - IFAB MEDIA",
+      "Lenzing approves $349.8mn capital increase to support strategic reset - Textile Today",
+      "Shenzhou International Group Holdings Limited (HKG:2313) Just Reported, And Analysts Assigned A HK$5",
+      "Shenzhou International xStock (SZIGHX) Price Prediction for 2026 to 2031 - Bybit"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Coach、Lululemon、VF相關動態：「VF Corporation stock holds low as fiscal 2027 loss and gu...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "VF Corporation stock holds low as fiscal 2027 loss and guidance reset weigh o...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Global garment trade nears $550 bn as synthetic fibres gain share（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

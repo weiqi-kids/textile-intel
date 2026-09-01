@@ -1,5 +1,244 @@
 [
   {
+    "id": "lululemon-2026-09-01-001",
+    "date": "2026-09-01",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "Headlands Technologies LLC Purchases Shares of 10,668 lululemon athletica inc. $LULU - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdW9lNTI1TXJ6V1pLSEdKaHlIV0FESGdMSE03eEwyM1hTN0g3V0FzYk5TVTV5cmtHNXVJRmVkY0pub0pTaFczcWFGdDVvanpUZkIxUkxJejBMSklsblY4anpOa2ZiV01Qbk9Pd0YzVT",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdW9lNTI1TXJ6V1pLSEdKaHlIV0FESGdMSE03eEwyM1hTN0g3V0FzYk5TVTV5cmtHNXVJRmVkY0pub0pTaFczcWFGdDVvanpUZkIxUkxJejBMSklsblY4anpOa2ZiV01Qbk9Pd0YzVTNxUUZVeUVJTW5haUkyWEI2VWtvLVRvZUE0c1ltQkRVekJPT19vclZ0eW5jbW5iVGtLaURvQVZDODJWemFaa1lQcF9LWUN0WWRnTm93d0dTR1VFaDUxWW5lRGxRNi1Jb1NuT2tTYmF6NXo5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-09-01-002",
+    "date": "2026-09-01",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "VF Corporation stock holds low as fiscal 2027 loss and guidance reset weigh on sentiment - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnZZemJZdzVySWFlSjN1dnByYUR5SUg2c21FQ1R1RGtwaEVnUF9pSEw0dGoyeDhYYldrOTlRa0pQMmVBMHpJc3p3SzNCbkU1Znczd2hrM2ZyUy1WZHdXRzA2Nlg3MHVmX0ZIWlVKOU",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnZZemJZdzVySWFlSjN1dnByYUR5SUg2c21FQ1R1RGtwaEVnUF9pSEw0dGoyeDhYYldrOTlRa0pQMmVBMHpJc3p3SzNCbkU1Znczd2hrM2ZyUy1WZHdXRzA2Nlg3MHVmX0ZIWlVKOUphZ25yaFVLS2dFWTc4OWFHb2llSm5CbGZRVDRaTWNtUjc0OFhCNWppM2x6RnpscFpTZEdJeDZmYUtkWDVtNm42RmxZVXJzdW9hNks5UHlqMUFob3EydUFDZUEyQWY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-09-01-003",
+    "date": "2026-09-01",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Empowered Funds LLC Purchases New Stake in PVH Corp. $PVH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQRElBTlJQbVdkM05ZV3ZNZDRjUU1DOEZoaHItS3I2bWtud0o5Y1dEOFRjQnZRdjRVNXBlNFY5ck5lWmZkb3Z0WWxuamdtZ2Q2cVh3eDlGUndvZUdtSi0zSkk5VmI3SkY3M29oOWFUMG",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRElBTlJQbVdkM05ZV3ZNZDRjUU1DOEZoaHItS3I2bWtud0o5Y1dEOFRjQnZRdjRVNXBlNFY5ck5lWmZkb3Z0WWxuamdtZ2Q2cVh3eDlGUndvZUdtSi0zSkk5VmI3SkY3M29oOWFUMG9SRnpMczdXRGhDWXBScWI4bS0wcVp2cGxtRHhNSGJUWUZJZFl2OFRuYWhDTHQ3UEd0VVZ3YWFSM3NKY2k2cmRlZDEwQ3VUbFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-09-01-004",
+    "date": "2026-09-01",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Railway Pension Investments Ltd Acquires 100,176 Shares of Tapestry, Inc. $TPR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjdVSmhfbDFycVlRVkoyVVFSNzNXXy1sRWRqcjFXRFdBeThXdTVIY0E0RVVyNGU5X3FHYjF5U2tHSFBsX05QeEhKREg3cEt2Rk5NdERyR19OREVVZ0VXNEx2TG1xNTYyNlQtSC1BcU",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjdVSmhfbDFycVlRVkoyVVFSNzNXXy1sRWRqcjFXRFdBeThXdTVIY0E0RVVyNGU5X3FHYjF5U2tHSFBsX05QeEhKREg3cEt2Rk5NdERyR19OREVVZ0VXNEx2TG1xNTYyNlQtSC1BcUZLSXJ2bU9hLU9rVllkTGRuTjNpT0paaWs1TEJfZzJSMHBJTEpJSFNiODVkd0N5ODZBQlBpVkJ5ZzBSYlJtQ3RJdEdvWVVmMEVQYmNEckJMY0dJQXZ2NUhxYWJra2N2dE1Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-09-01-005",
+    "date": "2026-09-01",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The woman stitching a replica Bayeux tapestry - The Observer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1pzd2xIaGVyUWdPUlVBVFdRZHdyR1dCUW5wU1ZnTkpRSFlGUkpKS2xmOTh2LVBBYzhVZ1phQ01KZXJlS25iekxoRUEwZWpiUlI0bWp5WkJvTlAtN2lULTlzejhlX09JYUh3dDA4U1",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1pzd2xIaGVyUWdPUlVBVFdRZHdyR1dCUW5wU1ZnTkpRSFlGUkpKS2xmOTh2LVBBYzhVZ1phQ01KZXJlS25iekxoRUEwZWpiUlI0bWp5WkJvTlAtN2lULTlzejhlX09JYUh3dDA4U1dtNmFNd016cEQ5bGo3bWVTV0U2QXgyRGlHR29GSFkxOVBoQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-006",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Jakarta’s policy regulating TPT imports balances supply, demand: Govt",
+    "summary": "Indonesia’s policy regulating imports of textiles and textile products is aimed at balancing supply and demand while protecting domestic production, the Industry Ministry said. \nThe policy is not inte",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/jakarta-s-policy-regulating-tpt-imports-balances-supply-demand-govt-313122-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-007",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "South India cotton yarn prices rise as natural fibre costs climb",
+    "summary": "Cotton yarn prices in Mumbai and Tiruppur rose by ₹5-8 per kg across most counts as higher domestic and international cotton pushed up costs. \nDemand from weaving and knitting units stayed average, wi",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/south-india-cotton-yarn-prices-rise-as-natural-fibre-costs-climb-313119-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-008",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India yarn exports rise 14%; why is apparel falling 12%?",
+    "summary": "India’s yarn exports rose 14.0 per cent to $1.340 billion in April–June 2026, while apparel exports fell 12.27 per cent to $3.687 billion.\nChina led the demand shift, with yarn exports up 311.6 per ce",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-yarn-exports-rise-14-why-is-apparel-falling-12--313118-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-009",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India’s factory growth loses momentum as demand softens in August 2026",
+    "summary": "India’s manufacturing PMI fell to 52.8 in August from 53.5 in July, marking the weakest sector improvement in five years.\nOutput and new orders still expanded, but growth slowed as demand softened; ex",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-factory-growth-loses-momentum-as-demand-softens-in-august-2026-313112-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-010",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "TEXPROCIL takes India’s textile industry into the AI era",
+    "summary": "India’s TEXPROCIL has launched Phase 2 of its AI-powered Textile Trust Stack with RePut.ai and Control Union under TEX-RAMPS.\nThe platform combines AI verification, blockchain-enabled data integrity a",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/texprocil-takes-india-s-textile-industry-into-the-ai-era-313110-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-011",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "China 1.4D lyocell price rises 0.87%, putting Q4 procurement on watch",
+    "summary": "Chinese domestic 1.4D lyocell rose to CNY 13,920 per tonne on Thursday, closing 0.87 per cent higher for the week.\nIndia stayed unchanged at ₹203 per kg, while Pakistan held at PKR 721 per kg amid neu",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/china-1-4d-lyocell-price-rises-0-87-putting-q4-procurement-on-watch-313103-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-012",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Apparel’s tariff map just changed; who gains the advantage?",
+    "summary": "US apparel imports fell 7.8 per cent to $36.90 billion in H1 2026, while Cambodia, Indonesia and Vietnam gained and China and India retreated sharply.\nNew Section 301 duties put Vietnam and China in a",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/apparel-s-tariff-map-just-changed-who-gains-the-advantage--313128-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-013",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Global garment trade nears $550 bn as synthetic fibres gain share",
+    "summary": "Global knit and woven garment exports neared $550 billion in 2025, making up nearly 60 per cent of world textile exports.\nChina remained dominant, while Bangladesh rose to second and Vietnam to third ",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/global-garment-trade-nears-550-bn-as-synthetic-fibres-gain-share-313115-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lululemon-2026-08-31-001",
     "date": "2026-08-31",
     "companies": [
@@ -215,6 +454,102 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/26-point-duty-gap-could-favour-flexible-apparel-sourcing-313069-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-08-31-013",
+    "date": "2026-08-31",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas stock slips as investors weigh recent gains and consumer demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQS3JYR0tmT09ibDNNMzJXVUpaOFJCejg0aFNEMTN3alpFbllvR3ptckx6Q3I1SE5tSC1KQkltNkxrUEMwbU9VOWVSTHh5VjRjUG16a2NCdmR6bEQ1SnRCa19qNDZ5Y21sOE1pRDFHZm",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS3JYR0tmT09ibDNNMzJXVUpaOFJCejg0aFNEMTN3alpFbllvR3ptckx6Q3I1SE5tSC1KQkltNkxrUEMwbU9VOWVSTHh5VjRjUG16a2NCdmR6bEQ1SnRCa19qNDZ5Y21sOE1pRDFHZmpNa0tfamU3OVpLaTVSSk1sWk5FVGNxMEhicDBPWkJyazdBWlNpa0hCaHRGVG1zeEZXNjFGaU42STdYNHVrTVljSHk0TEhyMzRWYXNQRk94dnlCdlRGZGxEMHlsSWp5Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-08-31-014",
+    "date": "2026-08-31",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Adidas stock holds firm as World Cup sales lift guidance - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnBmVHhBT01GbHQwSGtBdDhrUUNEamNGdEZ6YVlyT2EzOXpKNm04TThFRGxfVGJrWXF4b043NjluZlRreHJLREJvNGxqNTlZX0MyR2F6SkpBQW1Obnh6UUU1UWZaUzZIS3RHR3dUVE",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnBmVHhBT01GbHQwSGtBdDhrUUNEamNGdEZ6YVlyT2EzOXpKNm04TThFRGxfVGJrWXF4b043NjluZlRreHJLREJvNGxqNTlZX0MyR2F6SkpBQW1Obnh6UUU1UWZaUzZIS3RHR3dUVEFCaGdJNFJnNG9ZYTZGWDFrUHp4TGN1U2VEc0IwTGJLUENoZktuZzRhR2d2OVdvYjhjZ08xdThLdzJpUjVKdTBpdkM4Y1JmN2VWbUJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-08-31-015",
+    "date": "2026-08-31",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lululemon's Next Earnings Report on September 3 Could Send the Stock Plummeting. Here's Why. - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkhKcWRvU1NNWFZwQ255SXhpVUhDTlNkRngxSjJBeXN3aG10dTRWVkJuaWpIVHJqcnVDVks5akdEMDNIcnZPTVNKd2hqV1RIczg4YjdjdmJGQTIwX3k3eTVBdmlzS1pGSFJKbEt2Tn",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkhKcWRvU1NNWFZwQ255SXhpVUhDTlNkRngxSjJBeXN3aG10dTRWVkJuaWpIVHJqcnVDVks5akdEMDNIcnZPTVNKd2hqV1RIczg4YjdjdmJGQTIwX3k3eTVBdmlzS1pGSFJKbEt2TnFzY0NkMklfY0x3Q2FielZBZUNBb0U0NnFzX1ZJYVMwd3RQMFBtS3RpOUd6VDU0cnpoUjluV0RvSnhlQmZKWmRWZnVVNHpfSDJHaDA5dzlmOUVvRTJQRUhINHZRak9WUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-31-016",
+    "date": "2026-08-31",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike’s Big Comeback Has a $1.55 Problem - Nike (NYSE:NKE) - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2xBVFN0OEtpM1FhNndBck1SQXlRRUZMUTA5UGVGNjg2QVZaTDR2a2JkY01aSXY5NWxQNlFoTkdtX3ZIUzlZOXZJRFluSGlES092cW9qZjVUZ25tUW9TdlkzT1JrR2FsbFRKaGdYaV",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2xBVFN0OEtpM1FhNndBck1SQXlRRUZMUTA5UGVGNjg2QVZaTDR2a2JkY01aSXY5NWxQNlFoTkdtX3ZIUzlZOXZJRFluSGlES092cW9qZjVUZ25tUW9TdlkzT1JrR2FsbFRKaGdYaVdLRDVEY0tCQWt1ZGg5WlhMUVVHSGluM09BRmYwb2tZRlEza3RERUMyVG1pdy02RGswUjhzalZNQTY3N2NjWXZUQUNwVGxabC02andxY3ZYTkJHRUFTMUxfb0h0eDVaaHNWZE1wbzg4Y0thZDQ3dFBZYg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-31-017",
+    "date": "2026-08-31",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike stock trades near its 12-month low as latest quarter shows modest earnings beat - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOclhyQVlTSWlMU2ZRQUlyTVl1U1dUZ3lNYUdCWVBKb2MtMlJFSXlqZ2xMVUtlNjZVa3gzZXlxUGNxSk5acFo4REVRUktLcHN2a0xudmktejE0SjJPbDFXamhza1JRT1JOX3BrVjg3VW",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOclhyQVlTSWlMU2ZRQUlyTVl1U1dUZ3lNYUdCWVBKb2MtMlJFSXlqZ2xMVUtlNjZVa3gzZXlxUGNxSk5acFo4REVRUktLcHN2a0xudmktejE0SjJPbDFXamhza1JRT1JOX3BrVjg3VW1fVTRlRGkxazU0TmZiV3Zuek1iQlF4aXJxd2I2dEJMd2hRdUxmM2g4Vk1KV21YR0xJVml2WU5nZXJyMElqOFpvUG9CRUcxOXA2eG9EYVdZbXVFZ0p1UUN4Q3RRanZZZw?oc=5",
         "type": "rss"
       }
     ]
@@ -922,6 +1257,26 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDlOQlJTUm1STUxydWZFUV9lUkZZSXJiYWlmZnRsbzNSLWtvOE5ZUW13YUJjel94N3pRc09IRVdfaVJDeG5LODNQaWZsc2NTT0NVWFVCSnE4dGZVT0Z0UHpvUDc3VDlmbHJOaWFWQjRWM2tEVmpZdG95THk3eFM5VFZkckJfclVCdWZrVDlJM0ViWkdFQXlRMm50RnVYdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "inditex-2026-08-28-018",
+    "date": "2026-08-28",
+    "companies": [
+      "inditex"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "positive",
+    "title": "Inditex expands Lefties in UK to counter Shein with ultra-cheap fashion - CHOSUNBIZ - biz.chosun.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGt5LVNFZ0V5andJcUphOU45WnFXYklVZ3NWYTBwd2h3emk1QVZRYzVRcHMycEY1NnlsVDJQV0ZmelRjcXY2TUFtVjhaVUIwaVVvcXk4UThPZWwzN0RRQktvZEFkeWxlZFlkaFh1ZH",
+    "sources": [
+      {
+        "name": "inditex",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGt5LVNFZ0V5andJcUphOU45WnFXYklVZ3NWYTBwd2h3emk1QVZRYzVRcHMycEY1NnlsVDJQV0ZmelRjcXY2TUFtVjhaVUIwaVVvcXk4UThPZWwzN0RRQktvZEFkeWxlZFlkaFh1ZHpxbTYxZ3d2SjRXTjJ4a2lNdVE3ZkdzV3Nr0gGcAUFVX3lxTE1IVGZxSzZObGpwajkxRDJKa2NaUXN1UHEwblRoTExRbWhUMklxTE5lTXA5bWFqZkptX3JtR0ZqaUFrRXFRSDJOTlM3Z2FyTnJtYXpWeGo2UWdkUFdVZmdTeTZ4WDl0Ykc2WURvZGFwaGxKM0twVWhIVWhTMWxVOVpCcDVsUTZ1RXhDOUdlTzl2anBfdVQ2U3ktVlFVNQ?oc=5",
         "type": "rss"
       }
     ]
