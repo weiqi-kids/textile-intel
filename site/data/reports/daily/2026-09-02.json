@@ -1,0 +1,252 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:22:47.388403Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Far Eastern stock holds steady as investors look to latest earnings and recycling push - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcnZ5dVdKT0NwZUw0cXJYSjdBdnp0Y2pJVU9yYVNLejB3eHdsemk4WjVzMlVHSXJtOE9GWlN4ak5YTHZlcGEycjJ1WkdyTngzNkx5WktTYjNLaVM2M21mWk9Nc3Vob0JCYkpFUk1WdDlWRTVFR1J6ZHJ2Z0VmdlY3UVhzckw2M1BQTEdSS2tuTlRPZlNJNkJ1bElSV0lBak02N1FEYWZ3QkptZ0dJcU1OUzNiMWNLYWJYYXJvc05jZVI0Nzl1RExwaW1n?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-09-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Campbell’s or Lululemon: Why One Earnings Report Matters Far More Than the Other - 24/7 Wall St.",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHd5amdpbW9UaFJNUGFCOGRINXVEXzVvTkxwOUVZZDRJTUhYNE1lS2I0NUNPVkRCNWt4dVVfSFlqc2tvcWZBbDdfSmNxbUxoTThucnl6cDFlUUFTNnlUaXVQcUotOGlySUhCVHV2czVEQ1hpVi02X0xHY1BoX1dNMmRTWGFob0x4Z3g5djFPMl9xeXRTVTl1Zk03dDVyYzU1RDNwMWdZRlNZeUhfQ183UDhubzF6SWdFc001SFdUcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-02-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICE cotton corrects sharply due to profit booking, stronger dollar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-corrects-sharply-due-to-profit-booking-stronger-dollar-313147-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-02-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bangladesh businesses seek sector plans for LDC graduation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-businesses-seek-sector-plans-for-ldc-graduation-313139-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "pvh-2026-09-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Alyeska Investment Group L.P. Takes $6.62 Million Position in PVH Corp. $PVH - MarketBeat",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYXBMRDVpMnQwNWI1bjVkbWxweGdISzdQaWltUlFjLXc5SmF1V0stcEF2ckVCUlo2bHg4eFBOLXJLQ0JPNXhtUWFHU29pa2MyVVhyS3Npc1NDdlhmQWNiaDhYaC01UWNrWmltaFJPYkc3Q3pVaWZGM2xZLVZrYkVPaHo2d2htMkFUeEZMeGp1bU55c2VBa256WnNhVGNsb2h5TEd4Ql83V013VHJYb0RKZ3FVb1laSmE2SjdDY3VrRmw2MGtpb2lnR2gxNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.15,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 396,
+    "dup_title": 102,
+    "too_old": 209,
+    "gate1_blocked": 20,
+    "gate2_blocked": 45,
+    "passed": 20,
+    "pass_rate": "6.8%",
+    "gate2_block_rate": "15.3%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "Lenzing AG Approves €300 Million Capital Increase To Support Strategic Realignment - IFAB MEDIA",
+      "Lenzing approves $349.8mn capital increase to support strategic reset - Textile Today",
+      "Shenzhou International Group Holdings Limited (HKG:2313) Just Reported, And Analysts Assigned A HK$5",
+      "Shenzhou International xStock (SZIGHX) Price Prediction for 2026 to 2031 - Bybit"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Coach、Lululemon、PVH相關動態：「Far Eastern stock holds steady as investors look to lates...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Far Eastern stock holds steady as investors look to latest earnings and recyc...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Campbell’s or Lululemon: Why One Earnings Report Matters Far More Than the Ot...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

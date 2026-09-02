@@ -1,5 +1,225 @@
 [
   {
+    "id": "unknown-2026-09-02-001",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Far Eastern stock holds steady as investors look to latest earnings and recycling push - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQcnZ5dVdKT0NwZUw0cXJYSjdBdnp0Y2pJVU9yYVNLejB3eHdsemk4WjVzMlVHSXJtOE9GWlN4ak5YTHZlcGEycjJ1WkdyTngzNkx5WktTYjNLaVM2M21mWk9Nc3Vob0JCYkpFUk1WdD",
+    "sources": [
+      {
+        "name": "far_eastern",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcnZ5dVdKT0NwZUw0cXJYSjdBdnp0Y2pJVU9yYVNLejB3eHdsemk4WjVzMlVHSXJtOE9GWlN4ak5YTHZlcGEycjJ1WkdyTngzNkx5WktTYjNLaVM2M21mWk9Nc3Vob0JCYkpFUk1WdDlWRTVFR1J6ZHJ2Z0VmdlY3UVhzckw2M1BQTEdSS2tuTlRPZlNJNkJ1bElSV0lBak02N1FEYWZ3QkptZ0dJcU1OUzNiMWNLYWJYYXJvc05jZVI0Nzl1RExwaW1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-09-02-002",
+    "date": "2026-09-02",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Campbell’s or Lululemon: Why One Earnings Report Matters Far More Than the Other - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHd5amdpbW9UaFJNUGFCOGRINXVEXzVvTkxwOUVZZDRJTUhYNE1lS2I0NUNPVkRCNWt4dVVfSFlqc2tvcWZBbDdfSmNxbUxoTThucnl6cDFlUUFTNnlUaXVQcUotOGlySUhCVHV2cz",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHd5amdpbW9UaFJNUGFCOGRINXVEXzVvTkxwOUVZZDRJTUhYNE1lS2I0NUNPVkRCNWt4dVVfSFlqc2tvcWZBbDdfSmNxbUxoTThucnl6cDFlUUFTNnlUaXVQcUotOGlySUhCVHV2czVEQ1hpVi02X0xHY1BoX1dNMmRTWGFob0x4Z3g5djFPMl9xeXRTVTl1Zk03dDVyYzU1RDNwMWdZRlNZeUhfQ183UDhubzF6SWdFc001SFdUcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-09-02-003",
+    "date": "2026-09-02",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Alyeska Investment Group L.P. Takes $6.62 Million Position in PVH Corp. $PVH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNYXBMRDVpMnQwNWI1bjVkbWxweGdISzdQaWltUlFjLXc5SmF1V0stcEF2ckVCUlo2bHg4eFBOLXJLQ0JPNXhtUWFHU29pa2MyVVhyS3Npc1NDdlhmQWNiaDhYaC01UWNrWmltaFJPYk",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYXBMRDVpMnQwNWI1bjVkbWxweGdISzdQaWltUlFjLXc5SmF1V0stcEF2ckVCUlo2bHg4eFBOLXJLQ0JPNXhtUWFHU29pa2MyVVhyS3Npc1NDdlhmQWNiaDhYaC01UWNrWmltaFJPYkc3Q3pVaWZGM2xZLVZrYkVPaHo2d2htMkFUeEZMeGp1bU55c2VBa256WnNhVGNsb2h5TEd4Ql83V013VHJYb0RKZ3FVb1laSmE2SjdDY3VrRmw2MGtpb2lnR2gxNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-09-02-004",
+    "date": "2026-09-02",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rebirth of a Renaissance-Era Tapestry at Mia - Mpls.St.Paul Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnhNTHdGdXJCZUtBNzVrWW9NNVU1MUJxLUZvbng3Z1g5OEdsV0drN28xMjVBRHVtZmVyNERQMEtkaVZxczgwdC1VY015QkZhQXc3U2JsU0F1TjUyZFVPY0ZMS2xZeS1KYk4xQjBOTk",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnhNTHdGdXJCZUtBNzVrWW9NNVU1MUJxLUZvbng3Z1g5OEdsV0drN28xMjVBRHVtZmVyNERQMEtkaVZxczgwdC1VY015QkZhQXc3U2JsU0F1TjUyZFVPY0ZMS2xZeS1KYk4xQjBOTkwtN0VZaXkzUGFFU2lrb1B5WnN2djNrSFVv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-09-02-005",
+    "date": "2026-09-02",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Macron to be first EU leader to meet Andy Burnham during London trip for Bayeux Tapestry exhibition - Yahoo News Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ua2k1Rlh5MWwxOHg1cGhXU1MxSGFhT3paZkRFQWduZFhNZEpLbE1TZmhkNlA0MEdWV1RjVHg5eXF6bWc0emFKNE81R0g2Qk00ZXJOSUVvZWtCTkFzdVp5LUFkc1Q3OEFPV2tLbHZLdj",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ua2k1Rlh5MWwxOHg1cGhXU1MxSGFhT3paZkRFQWduZFhNZEpLbE1TZmhkNlA0MEdWV1RjVHg5eXF6bWc0emFKNE81R0g2Qk00ZXJOSUVvZWtCTkFzdVp5LUFkc1Q3OEFPV2tLbHZLdjJDb2U5a2Rn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-006",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "OEKO-TEX traceability gains momentum ahead of new EU rules",
+    "summary": "OEKO-TEX strengthened traceability across global textile supply chains in 2025/26, with ORGANIC COTTON certified volumes exceeding 33 million kg across more than 20 countries and certificates rising o",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/oeko-tex-traceability-gains-momentum-ahead-of-new-eu-rules-313161-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-007",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India’s DGFT automates free sale certificates for exporters",
+    "summary": "India’s DGFT has enabled automated issuance of Free Sale and Commerce Certificates on its portal for eligible export applications. \nThe change covers items outside the Drugs & Cosmetics Act, 1940, red",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-dgft-automates-free-sale-certificates-for-exporters-313159-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-008",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Global cotton output to slightly exceed consumption in 2026-27",
+    "summary": "Global cotton output is forecast at 26.2 million tonnes in 2026-27, just above use, though weather and pests could cut surplus. \nIndia’s crop and mill use are rising on textile export growth, while Pa",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/global-cotton-output-to-slightly-exceed-consumption-in-2026-27-313155-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-009",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "order_visibility",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ICE cotton corrects sharply due to profit booking, stronger dollar",
+    "summary": "ICE December 2026 cotton settled at 91.55 cents, down 1.59 cent, after gaining about 13 per cent in August. \nA stronger US dollar, improved rainfall and profit-taking pressured prices, while crude oil",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-corrects-sharply-due-to-profit-booking-stronger-dollar-313147-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-010",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "40% FOC rule could force a new MMF capacity race in Bangladesh",
+    "summary": "Bangladesh imported $1.818 billion of selected MMF fibres, yarns and fabrics in H1 2026, up 2.34 per cent year on year.\nWoven MMF fabric made up 63.0 per cent of the basket, with China supplying 81.85",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/40-foc-rule-could-force-a-new-mmf-capacity-race-in-bangladesh-313143-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-011",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India’s garment exporters go global as US apparel trade falls 25%",
+    "summary": "TexPro says India’s apparel exports fell 11.2 per cent year on year to about $7.88 billion in H1 2026, with US shipments down 24.5 per cent.\nUK, Germany, Netherlands, Spain, France and Italy raised th",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/india-s-garment-exporters-go-global-as-us-apparel-trade-falls-25--313148-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-012",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Bangladesh businesses seek sector plans for LDC graduation",
+    "summary": "Bangladesh business leaders want sector-wise LDC graduation plans backed by reliable data, implementation tracking and stronger private-sector input.\nThey warned exporters may face loss of EU GSP and ",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-businesses-seek-sector-plans-for-ldc-graduation-313139-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lululemon-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
@@ -234,6 +454,82 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/global-garment-trade-nears-550-bn-as-synthetic-fibres-gain-share-313115-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-09-01-014",
+    "date": "2026-09-01",
+    "companies": [
+      "toray"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toray launches two new nanofiltration membranes - Filtration and Separation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVRjYmdISS0xLWo0eUNpSXA0S003cVYyeDlqbzJnekFQdEtzY3lrZk1LcmNYYUh4cDhFUnNjR3p5Yld1TnFQYU9lenR2Yk1MU2ZoNG5DYWFUYlRFd29wT3ZyajFrd3NTQ0hnUzhkd2",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVRjYmdISS0xLWo0eUNpSXA0S003cVYyeDlqbzJnekFQdEtzY3lrZk1LcmNYYUh4cDhFUnNjR3p5Yld1TnFQYU9lenR2Yk1MU2ZoNG5DYWFUYlRFd29wT3ZyajFrd3NTQ0hnUzhkd2E0ekR2MnJqVjlEakxEUnEwSjVmUndoZ2FlQThEeQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "inditex-2026-09-01-015",
+    "date": "2026-09-01",
+    "companies": [
+      "inditex"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "Inditex stock edges lower as France targets fast fashion rivals Shein and Temu - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZjVDM1cxcm10YU1kbkZFejN3dHJ3WUt3MTc4eHhVUEtfaTl2blJMdVRxZThqZmpvRHBIcGRvS3hWS3BZMG40aWZObXhpWnY5aWhzdDIwNGNGWGlyblRBc1hFLWEyWUVEZzFPMDlfN0",
+    "sources": [
+      {
+        "name": "inditex",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZjVDM1cxcm10YU1kbkZFejN3dHJ3WUt3MTc4eHhVUEtfaTl2blJMdVRxZThqZmpvRHBIcGRvS3hWS3BZMG40aWZObXhpWnY5aWhzdDIwNGNGWGlyblRBc1hFLWEyWUVEZzFPMDlfN0VGeW8zQWx3cEVyYkw4M2I0dFR3dFhIVmNMT2FtNzd0cE12WXJGU01JQXN2b2hjX2d4Y2lJekRKelVBVTdIODE4cWZSY2VHRGVad2czclRSbFJ3NVFISjlMNDh5X01sc2lpd1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-09-01-016",
+    "date": "2026-09-01",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Calvin Klein Launches Fall 2026 “Feel the Fit” Denim Campaign Starring Sadie Sink - pvh.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZmllYUFZbDFReldBLThqazFvZkxzYnk0Nmwwb091QVpwLU16QnFVRFBtLWdjN3c1VXBfYTFXXy15SVVhUU9pbVRYczBpLVVqSWdVMlEwdGNrRkgwNElkWlNDYlR1ZUFFNTBwbm5VUm",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZmllYUFZbDFReldBLThqazFvZkxzYnk0Nmwwb091QVpwLU16QnFVRFBtLWdjN3c1VXBfYTFXXy15SVVhUU9pbVRYczBpLVVqSWdVMlEwdGNrRkgwNElkWlNDYlR1ZUFFNTBwbm5VUmFkay1tRWw2WENxTlFaZTJyQ2UybVFuaHQ0ckJQLUhNYXZnYkhaLXFyb1I3cFQxbUZILTNHaklJSUNKdGg2RS1EVDZnZFBMRU83eTZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-09-01-017",
+    "date": "2026-09-01",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PVH Q2'26 Earnings: EPS estimate is 3.08 USD - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1JubHpvUUZweHN6eGlfQ0JkLXFEdHg1WXpHX2s4VjFmel9tV2VFS1IxUVZxYWFGbzFYOUpmQkRBY1VWNFZwaFZIM29DZXhaTTE5SEtzdzlCSC14eURVMm1FdE9SUDVPSlAtelB1ZG",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1JubHpvUUZweHN6eGlfQ0JkLXFEdHg1WXpHX2s4VjFmel9tV2VFS1IxUVZxYWFGbzFYOUpmQkRBY1VWNFZwaFZIM29DZXhaTTE5SEtzdzlCSC14eURVMm1FdE9SUDVPSlAtelB1ZGVJa2NNdGhQNVBfZVkzMk9DUl9DN29KT3VnblBZcHd1NTAyeFMyX2Rtem42andGS2h1QUQ4dWVULUM?oc=5",
         "type": "rss"
       }
     ]
@@ -942,6 +1238,26 @@
     ]
   },
   {
+    "id": "adidas-2026-08-29-017",
+    "date": "2026-08-29",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "adidas AG (ADS.DE) Revenue US GAAP (year values) - Smart-Lab",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUWo4ektrbEdFS3VSR0huRURGRENwa0ZQVnd1R1dDOEpxOWFwdVE1OFlTV1BWQ1A2cC1RRDA5WlJuTjVoWWxMWFFlZU9aR0llUEpnNU1Bc1g2QQ?oc=5\" target=\"_blank\">adida",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUWo4ektrbEdFS3VSR0huRURGRENwa0ZQVnd1R1dDOEpxOWFwdVE1OFlTV1BWQ1A2cC1RRDA5WlJuTjVoWWxMWFFlZU9aR0llUEpnNU1Bc1g2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-08-28-001",
     "date": "2026-08-28",
     "companies": [
@@ -1277,6 +1593,44 @@
       {
         "name": "inditex",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGt5LVNFZ0V5andJcUphOU45WnFXYklVZ3NWYTBwd2h3emk1QVZRYzVRcHMycEY1NnlsVDJQV0ZmelRjcXY2TUFtVjhaVUIwaVVvcXk4UThPZWwzN0RRQktvZEFkeWxlZFlkaFh1ZHpxbTYxZ3d2SjRXTjJ4a2lNdVE3ZkdzV3Nr0gGcAUFVX3lxTE1IVGZxSzZObGpwajkxRDJKa2NaUXN1UHEwblRoTExRbWhUMklxTE5lTXA5bWFqZkptX3JtR0ZqaUFrRXFRSDJOTlM3Z2FyTnJtYXpWeGo2UWdkUFdVZmdTeTZ4WDl0Ykc2WURvZGFwaGxKM0twVWhIVWhTMWxVOVpCcDVsUTZ1RXhDOUdlTzl2anBfdVQ2U3ktVlFVNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-08-28-019",
+    "date": "2026-08-28",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas AG Stock Price & Chart - forex.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE15MjItak1sZ2pVeHVWaHg1LXFvMnBUMmRrbjJMbF9YU1ZiSXBILUxNdzJTRjVLMHVlSkd0SGUyVGtSUUI0R2JfRDIxaERndGxrY0ZNenFNYk54ZGVHWWtWSGNB?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15MjItak1sZ2pVeHVWaHg1LXFvMnBUMmRrbjJMbF9YU1ZiSXBILUxNdzJTRjVLMHVlSkd0SGUyVGtSUUI0R2JfRDIxaERndGxrY0ZNenFNYk54ZGVHWWtWSGNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-08-28-020",
+    "date": "2026-08-28",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "NIKE, Inc. Announces First Quarter Fiscal 2027 Earnings and Conference Call - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVZQeVFlVi1HSHZaYlhWTlV1LVBvdUR0dEsxckxudEZZTDFaR2d1UTh4M0JVdHhxTHlocVJ4X3FLbHBZelNKcGxoSzhVbWVCMTh4eGJ0MHRYLUhtTGlGOGdIVW15NlNRSm4zY0V6SX",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVZQeVFlVi1HSHZaYlhWTlV1LVBvdUR0dEsxckxudEZZTDFaR2d1UTh4M0JVdHhxTHlocVJ4X3FLbHBZelNKcGxoSzhVbWVCMTh4eGJ0MHRYLUhtTGlGOGdIVW15NlNRSm4zY0V6SXIxaVZ0NXBjbTZkdDVhNFdHTEdwcG0wOXQ2Yk0xXzlFcnpSNk5FNUM4QjFSUm5VSF9HcnFWaGJrOA?oc=5",
         "type": "rss"
       }
     ]
@@ -2277,6 +2631,26 @@
       {
         "name": "pvh",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdjdQbmxMblQzaFB2VkRkN193ZDJ5c2VFUFJ6TEg2SVpxNmp0RjR6WU5rUmxRUHhBRWxLWlBJZ09CTk1kNW5hUF9FSjNpZU1ZenlOaFNubUtha3otWUg2UnhKYUp2ZmRjU1BPYjZQT2lrSW9DUktDM2ZvVTNfTXZXU1dGVFo0YUk2cFVBZHQtYUJ4aUdka2toYkVzUUI1RF94TUdaSFFvMzFjb1pQcjh3Ul9YeWUzdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-08-26-023",
+    "date": "2026-08-26",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PVH Corp. Set to Report Q2 Earnings: Here's What Investors Should Know - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkczMDlRZk1vMFBUQWRMRzB4b0J1UE5YVnJZQk1CQUNSYzdUVks0OUVPQ0Zaellnby14SnRJZlJpeFdHbU5xU2thNjF3XzAxamV6eWtvaTYzWWhHOFEyMVRBckhrUk1lRjFtYURfQ0",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkczMDlRZk1vMFBUQWRMRzB4b0J1UE5YVnJZQk1CQUNSYzdUVks0OUVPQ0Zaellnby14SnRJZlJpeFdHbU5xU2thNjF3XzAxamV6eWtvaTYzWWhHOFEyMVRBckhrUk1lRjFtYURfQ0hVaTVPa2hWUzdtRGJzZzhPcmk4TEFsbHQ0TWJ6N3NROTUxcmU3NWM2YW8xTm9TTllUcnJUU3RmZlpZQnh6?oc=5",
         "type": "rss"
       }
     ]
