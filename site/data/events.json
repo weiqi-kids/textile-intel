@@ -1,5 +1,187 @@
 [
   {
+    "id": "unknown-2026-09-03-001",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Can India sustain its 19.7% China yarn share as disruptions fade?",
+    "summary": "India’s cotton-yarn shipments to China rose roughly fivefold from November 2025 to about 1,500 containers, or 30,000 tonnes, a month.\nIts share of China’s cotton-yarn imports reached 19.71 per cent in",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/can-india-sustain-its-19-7-china-yarn-share-as-disruptions-fade--313198-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-002",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India targets wider FTA use to boost exports across 780 districts",
+    "summary": "India has called for a nationwide FTA utilisation drive to turn trade agreements into export gains for MSMEs and first-time exporters. \nIt will cover all 780 districts, targeting traders, startups and",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-targets-wider-fta-use-to-boost-exports-across-780-districts-313197-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-003",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "US economic activity grows modestly as manufacturing picks up",
+    "summary": "US economic activity grew modestly since early July, with 10 of 12 Fed Districts reporting slight to moderate expansion, as per the August Beige Book. \nConsumer spending rose slightly but remained pri",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/us-economic-activity-grows-modestly-as-manufacturing-picks-up-313187-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-004",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "order_visibility",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "ICE cotton furthers decline sharply due to profit booking",
+    "summary": "ICE cotton futures declined sharply amid heavy selling pressure and profit booking, with December 2026 settling at 88.93 cents per pound, down 2.62 cent. \nTrading volume rose to 107,487 contracts, whi",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-furthers-decline-sharply-due-to-profit-booking-313185-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-005",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Vietnam's yarn exports to China surge, may redraw Asia's yarn map",
+    "summary": "Vietnam's textile and apparel exports are growing again in 2026, according to Vietnam Customs.\nIn January-July, fibre and yarn exports rose 11.34 per cent and fabric exports 9.57 per cent, while garme",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-yarn-exports-to-china-surge-may-redraw-asia-s-yarn-map-313180-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-006",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "US Kontoor Brands targets $1.1bn Helly Hansen revenue by 2030",
+    "summary": "Kontoor Brands is targeting Helly Hansen revenue of more than $1.1 billion by 2030, with around 10 per cent CAGR from its 2025 base. \nThe company also aims for gross margins in the mid- to high-50 per",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/us-kontoor-brands-targets-1-1bn-helly-hansen-revenue-by-2030-313199-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-007",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why did US’ G-III Apparel’s Q2 profits surge despite lower sales?",
+    "summary": "G-III Apparel Group raised its FY27 earnings guidance after Q2 net income more than doubled to $20.2 million, despite a 10 per cent sales decline to $554.1 million. \nGross margin expanded 440 basis po",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/why-did-us-g-iii-apparel-s-q2-profits-surge-despite-lower-sales--313189-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-008",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What drove US’ Tillys' Q1 FY26 sales & margin gains?",
+    "summary": "Tillys reported a strong start to fiscal 2026, with Q1 net sales rising 15.9 per cent year on year to $124.7 million and comparable sales increasing 22.9 per cent. \nGross margin expanded 910 basis poi",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/what-drove-us-tillys-q1-fy26-sales-margin-gains--313182-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-009",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "$390 mn trade flow reveals India-Sri Lanka’s new apparel model",
+    "summary": "TexPro data shows India and Sri Lanka increasingly acting as one production corridor, with India supplying inputs and Sri Lanka retaining an export-oriented garment base.\nSri Lanka imported $1.003 bil",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/-390-mn-trade-flow-reveals-india-sri-lanka-s-new-apparel-model-313184-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-010",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "Sea freight cuts T-shirt carbon footprint by up to 60%: Canada study",
+    "summary": "Concordia-led research finds polyester T-shirts emit more greenhouse gases than cotton, while cotton has higher land and water demands. \nAir freight is a major emissions driver; switching to sea freig",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/sea-freight-cuts-t-shirt-carbon-footprint-by-up-to-60-canada-study-313177-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-02-001",
     "date": "2026-09-02",
     "companies": [],
@@ -2208,6 +2390,24 @@
       {
         "name": "shenzhou",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrNTlLY2VlZ05felJDdng4NkRIMzlVa1Rsbnk0b0ppc1luLTJackVVbXBzRE1DUkFYamkyVFUwT3JKTUVtLTl5YmtwOUNPQlh3TS0yNEJRMGE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenzhou-2026-08-27-032",
+    "date": "2026-08-27",
+    "companies": [
+      "shenzhou"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Shenzhou International Group Holdings Limited Unsponsored ADR To Go Ex-Dividend On September 9th, 2026 With 0.11226 USD Dividend Per Share - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnZvcWREWFkwODlmN2lCeExGT3ZlOEdnYmtvTVFFLWtJekZGcGxneWlQOXZtWXZMc2pPUm9ZTGFPZ2E3TnB6dTZvaDNxbGpvZllWVzNaLWpsMVZYZmpjWHhZS2llcnFhZ21hcU0zN0",
+    "sources": [
+      {
+        "name": "shenzhou",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnZvcWREWFkwODlmN2lCeExGT3ZlOEdnYmtvTVFFLWtJekZGcGxneWlQOXZtWXZMc2pPUm9ZTGFPZ2E3TnB6dTZvaDNxbGpvZllWVzNaLWpsMVZYZmpjWHhZS2llcnFhZ21hcU0zN0twOGJ5SHplMnhwdGlPbUxfVGNPSmVJVW82Tmdqa0NxVjVSSnlJd25qbnRhUDBpSDNINExJZGlfNG41UDdYYlhXWXlB?oc=5",
         "type": "rss"
       }
     ]

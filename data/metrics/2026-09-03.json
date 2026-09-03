@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-03",
+  "total_events": 10,
+  "by_company": {},
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.23
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    },
+    "order_visibility": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    },
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

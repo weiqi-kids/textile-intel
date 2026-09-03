@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:20:19.799525Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-03-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "ICE cotton furthers decline sharply due to profit booking",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-furthers-decline-sharply-due-to-profit-booking-313185-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US economic activity grows modestly as manufacturing picks up",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/us-economic-activity-grows-modestly-as-manufacturing-picks-up-313187-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-03-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US Kontoor Brands targets $1.1bn Helly Hansen revenue by 2030",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-kontoor-brands-targets-1-1bn-helly-hansen-revenue-by-2030-313199-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-03-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why did US’ G-III Apparel’s Q2 profits surge despite lower sales?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.12
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/why-did-us-g-iii-apparel-s-q2-profits-surge-despite-lower-sales--313189-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-03-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What drove US’ Tillys' Q1 FY26 sales & margin gains?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/what-drove-us-tillys-q1-fy26-sales-margin-gains--313182-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.23,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 2
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 162,
+    "dup_title": 25,
+    "too_old": 90,
+    "gate1_blocked": 31,
+    "gate2_blocked": 5,
+    "passed": 11,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Shenzhou International Group Holdings Stock Sheds 1.1% in Hong Kong - moomoo.com",
+      "Shenzhou International xStock (SZIGHX) Price Prediction for 2026 to 2031 - Bybit",
+      "Shenzhou International Group Holdings Limited (HKG:2313) Just Reported, And Analysts Assigned A HK$5",
+      "Shenzhou International Group Holdings Limited (OTC: SZHIF) Stock Price, News & Analysis - kalkine.co",
+      "New airport set to further boost Noida’s garment exports"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為法說會、供應鏈轉移、棉花價格相關動態：「ICE cotton furthers decline sharply due to profit booking」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ICE cotton furthers decline sharply due to profit booking（棉花價格、訂單能見度、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "US economic activity grows modestly as manufacturing picks up（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

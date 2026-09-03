@@ -1,0 +1,16 @@
+{
+  "total_raw": 162,
+  "dup_title": 25,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 31,
+  "gate2_fail": 5,
+  "passed": 11,
+  "gate2_samples": [
+    "Shenzhou International Group Holdings Stock Sheds 1.1% in Hong Kong - moomoo.com",
+    "Shenzhou International xStock (SZIGHX) Price Prediction for 2026 to 2031 - Bybit",
+    "Shenzhou International Group Holdings Limited (HKG:2313) Just Reported, And Analysts Assigned A HK$5",
+    "Shenzhou International Group Holdings Limited (OTC: SZHIF) Stock Price, News & Analysis - kalkine.co",
+    "New airport set to further boost Noida’s garment exports"
+  ]
+}
