@@ -1,0 +1,16 @@
+{
+  "total_raw": 399,
+  "dup_title": 68,
+  "no_date": 0,
+  "too_old": 214,
+  "gate1_fail": 30,
+  "gate2_fail": 40,
+  "passed": 47,
+  "gate2_samples": [
+    "Shenzhou International xStock (SZIGHX) Price Prediction for 2026 to 2031 - Bybit",
+    "Alex Eala said to have been given rare permissions by Nike that Roger Federer and Serena Williams we",
+    "Adidas AG (OTCMKTS:ADDYY) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages - MarketBea",
+    "Adidas stock holds steady as brand faces backlash over Israeli ad - AD HOC NEWS",
+    "Share Price Adidas Stock Chart Adidas AG: Target Price Consensus And Analysts Recommendations ADS DE"
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T12:21:01.592305Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-09-04-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Lululemon (LULU) Stock Looks Reasonable As Revenue Decline Raises Outlook Concerns - simplywall.st",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQThQeEZyejB3Xy10ZzFaaG5nS01pYnQzYnl6NDZLOG5rd05QQjMtQTJyQnVJNnh6M3l5d3RPZXltVDg1TEpReW53M1dwMkdzM2RYSEw5TEFjeVRKaElvS2E4MVFPNmI4M0tFME1aUUNFNFVOaS1JTUdrRDZ2cjNSXy1ZdEUxWm5qZDdQUTlBM201SUNDd0JaQXJHbnZuampxS1JoUk4xcUJsaDRQSVhUUUVZV2FhR0Jjbm94LVJNZzQyLTNFZmZCczNlajdvd0ZFRm10VC12NjFrQmsyWW9qUjl4aUU0d9IB5gFBVV95cUxQQThQeEZyejB3Xy10ZzFaaG5nS01pYnQzYnl6NDZLOG5rd05QQjMtQTJyQnVJNnh6M3l5d3RPZXltVDg1TEpReW53M1dwMkdzM2RYSEw5TEFjeVRKaElvS2E4MVFPNmI4M0tFME1aUUNFNFVOaS1JTUdrRDZ2cjNSXy1ZdEUxWm5qZDdQUTlBM201SUNDd0JaQXJHbnZuampxS1JoUk4xcUJsaDRQSVhUUUVZV2FhR0Jjbm94LVJNZzQyLTNFZmZCczNlajdvd0ZFRm10VC12NjFrQmsyWW9qUjl4aUU0dw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pvh-2026-09-04-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "| PVH beats profit estimates despite 3% sales decline in Q2 - Fibre2Fashion",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0VndE16clFWanYwZDdGSUIyMDNfSUVVNy1tUmVDNjlFdXd3UllINURMeEVpR0FxMExaSHRpS2dveXlJc2thQWN0TzBfMFFacUxYRVNPSjUzSTQ1TWIxVEdOMTd1a3VPbk1qc2pVbXF2RzlzRnlnUkpDZGY3WEwwZUVsSV92NDZGR2ZTM2k4Ti0zQWxySDY4cUM3V1lRR0p3S2pBeGFNaGJsWjYzRUtLR0hfU0Rxa3BYZktXZDBYWDMyd3pWbGNGQVVxOW5TNDla?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-09-04-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Canadian lululemon's Q2 FY26 profit beats despite 4% revenue decline",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/canadian-lululemon-s-q2-fy26-profit-beats-despite-4-revenue-decline-313235-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "eclat-2026-09-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eclat stock holds steady as fiscal 2025 profits ease from peak - AD HOC NEWS",
+      "companies": [
+        "eclat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXQ3N0lxeUt0VUNsUTJOa3JSZ1paVTlrSXZLQ2N2WGFCM0FYenlhb0FJeVl2WVg1dFRFNEFVQW5WcDlCNU5KbmlmeG9nZlBvbU1SdTdMeDd3aEFSTXZvbTVLZXFyemxoekJUVWxPeGloaDlCMVlFZElyXzFmUTczR2ZwOUlQT1lmYVFXdlUySkpRSmw0c3RfeFp5ajljbDdDaGY4dVdlUWk0SHU3Y2VXTjhYeG9pNlBvb3Z3bVRR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-09-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon Athletica’s Stock Falls After Quarterly Sales, Guidance Miss - Barron's",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazhpc2s5OTlaQ1ZkMGxIOFpxNkhxdVUtMFlvaXNXYjZvT0Npb0M4Y1VCRkQyVUxSbWFqNlI0SE9jdVFGVk1MdGt0V09RbDVHeGh5allZWmpoR2hoekI2T3pXMExSTGhZLVRiOWZ3Ri1nU1dKbXFYZmJvbUFENm12UDdwdWZ5X3pfZUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.34,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.43,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 8
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 11
+      },
+      {
+        "id": "pvh",
+        "count": 3
+      },
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "eclat",
+        "count": 1
+      },
+      {
+        "id": "hm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 399,
+    "dup_title": 68,
+    "too_old": 214,
+    "gate1_blocked": 30,
+    "gate2_blocked": 40,
+    "passed": 47,
+    "pass_rate": "14.2%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Shenzhou International xStock (SZIGHX) Price Prediction for 2026 to 2031 - Bybit",
+      "Alex Eala said to have been given rare permissions by Nike that Roger Federer and Serena Williams we",
+      "Adidas AG (OTCMKTS:ADDYY) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages - MarketBea",
+      "Adidas stock holds steady as brand faces backlash over Israeli ad - AD HOC NEWS",
+      "Share Price Adidas Stock Chart Adidas AG: Target Price Consensus And Analysts Recommendations ADS DE"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為Lululemon、PVH、耐吉相關動態：「Lululemon (LULU) Stock Looks Reasonable As Revenue Declin...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lululemon (LULU) Stock Looks Reasonable As Revenue Decline Raises Outlook Con...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "| PVH beats profit estimates despite 3% sales decline in Q2 - Fibre2Fashion（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

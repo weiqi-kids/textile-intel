@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-04",
+  "total_events": 24,
+  "by_company": {
+    "eclat": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 11,
+      "sentiment_avg": -0.16
+    },
+    "pvh": {
+      "count": 3,
+      "sentiment_avg": -0.46
+    },
+    "hm": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "nike": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": -0.33
+    },
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": -0.34
+    },
+    "supply_chain_shift": {
+      "count": 7,
+      "sentiment_avg": -0.43
+    },
+    "order_visibility": {
+      "count": 1,
+      "sentiment_avg": -0.17
+    },
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": -0.38
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

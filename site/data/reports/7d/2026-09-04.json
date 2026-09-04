@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-04",
+  "date_range": {
+    "start": "2026-08-29",
+    "end": "2026-09-04"
+  },
+  "generated_at": "2026-09-04T12:21:01.684305Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "adidas-2026-08-29-004",
+      "date": "2026-08-29",
+      "title": "Adidas stock steadies as record Q2 2026 and World Cup boost shape outlook - Ad-hoc-news.de",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "supply_chain_shift": {
+      "this_week": 38,
+      "last_week": 29,
+      "week_over_week_change": "+31%",
+      "sentiment_this_week": -0.04
+    },
+    "earnings": {
+      "this_week": 25,
+      "last_week": 21,
+      "week_over_week_change": "+19%",
+      "sentiment_this_week": -0.14
+    },
+    "cotton_price": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": -0.24
+    },
+    "sustainable_textile": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "order_visibility": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.31
+    },
+    "fast_fashion": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.38
+    }
+  },
+  "company_7d_summary": {
+    "adidas": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 6
+    },
+    "lululemon": {
+      "event_count": 18,
+      "sentiment_avg": -0.1,
+      "rank": 1
+    },
+    "vf_corp": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 4
+    },
+    "tapestry": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nike": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 5
+    },
+    "pvh": {
+      "event_count": 6,
+      "sentiment_avg": -0.23,
+      "rank": 3
+    },
+    "eclat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hm": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 125,
+        "last": 154,
+        "change_pct": -18.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-29",
+      "event_count": 17,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 17,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 17,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 18,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 26,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 24,
+      "sentiment_avg": -0.26
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-29 ~ 2026-09-04）共 125 則事件，重點為「Adidas stock steadies as record Q2 2026 and Wor...」。PVH、VF情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "VF",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "PVH",
+        "reason": "本週情緒偏負面（-0.2），共 6 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "H&M",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
