@@ -1,0 +1,224 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:28:36.321354Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-09-05-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Lululemon Athletica (LULU) Cut Full Year Guidance After Q2 Revenue Decline - finance.yahoo.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzdUejExb2VLMGNWbFdqRWlMVVllQXNIOGtvSWRVd0RhWktqTkZqVjhvS095aTRRb1dHSzhmUVI2ZWV2d3ZIWnRmUGhBc2dCZGhqSTJUb1NqRF9yUDR1SzZtc1llRkFQTENyRzRpVlBxd0wtNkpsSHg2OXdCeXlvT21wN0VnRmE5dHNqWUpIM1NodTl0cUFJRFVIRmdpOUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pvh-2026-09-05-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "PVH beats profit estimates despite 3% sales decline in Q2",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/pvh-beats-profit-estimates-despite-3-sales-decline-in-q2-313244-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-05-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "EU FTA offers India relief, just not fast enough",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/eu-fta-offers-india-relief-just-not-fast-enough-313239-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-09-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "lululemon athletica (LULU) Is Down 16.7% After Cutting 2026 Outlook And Reporting Weaker Q2 Results – Has The Bull Case Changed? - finance.yahoo.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWmo0VTN2QkhyMU9oVDl0WllfZnVRelRoT25lZktXMHF4TDJyTmRMQTZaUVhENVRqSWZ6OU9HSWl4SDc3WC1rV2FXOEdHeW53STdUZDlHeUFlNXFCdG9jRVM0aWJXS0x0S2ZIRUU1NTRZNU4wcHBsdUkxR1B5d215QTl2MTgxc2cxY0Y1c1A0NFhnQ3c5Zk5ycERBUHZQUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-09-05-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Top 5 Analyst Questions From Tapestry’s Q2 Earnings Call - finance.yahoo.com",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2VRUmQ4MmFweTZSdEU2SHJ2RlNwWmxjWW9ycTBsLW5BaXVNQnY2VHlKbTN3ck9xcndkWTNNOU9kTWxXSmRxdkJGYUQ5WEc4azN6YWprVUhpSGVhUjJ1Z0RiOThOUTlhUlNjVklKTGNBMTZGYmRxMWlkMTQ4ajRWdV84VWxpQ1lKSkktakNVR2ZnQjdVVlVIaGhVUVEyQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 4
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 81,
+    "too_old": 216,
+    "gate1_blocked": 31,
+    "gate2_blocked": 43,
+    "passed": 33,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "Lenzing AG Approves €300 Million Capital Increase To Support Strategic Realignment - IFAB MEDIA",
+      "Alex Eala said to have been given rare permissions by Nike that Roger Federer and Serena Williams we",
+      "Adidas AG : From Neutral to Buy by Barclays - marketscreener.com",
+      "Adidas AG (OTCMKTS:ADDYY) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages - MarketBea"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Lululemon、Coach、PVH相關動態：「Lululemon Athletica (LULU) Cut Full Year Guidance After Q...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lululemon Athletica (LULU) Cut Full Year Guidance After Q2 Revenue Decline - ...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "PVH beats profit estimates despite 3% sales decline in Q2（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

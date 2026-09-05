@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 81,
+  "no_date": 0,
+  "too_old": 216,
+  "gate1_fail": 31,
+  "gate2_fail": 43,
+  "passed": 33,
+  "gate2_samples": [
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "Lenzing AG Approves €300 Million Capital Increase To Support Strategic Realignment - IFAB MEDIA",
+    "Alex Eala said to have been given rare permissions by Nike that Roger Federer and Serena Williams we",
+    "Adidas AG : From Neutral to Buy by Barclays - marketscreener.com",
+    "Adidas AG (OTCMKTS:ADDYY) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages - MarketBea"
+  ]
+}
