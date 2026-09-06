@@ -1,0 +1,212 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T11:49:39.461520Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "shenzhou-2026-09-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Should Weaker Earnings And A Lower Dividend Require Action From Shenzhou International (SEHK:2313) Investors? - simplywall.st",
+      "companies": [
+        "shenzhou"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVEhFSzVRajVMY3RUbXFCc0FwRWE5eTNCaG44RkpnMlFhS0YwUEdrb0F2TXBXUnVSdU5tN2ZyM0V0aEtMYTY0ZWNSbTNtY2NQa3VEYVBXSndyc3NvdzE4VG04WWFRbzlKR3Q4WUMwU191UWhfZkZxMVNlcHVGZGVaOF9lRThPc2Qyd0xaWHdTNVRiR0dnLXVkV0RiWm5nYWVZQlhjOTlvYkg1aFlnSU5UM01wNVdoMmtsN0FtMzJwRGktU25sbjJJNF9QNzVjeWk0OVEwUWFTVHZnYm1Nc3F2aWtGZzRiQzZYTEFRRkFnU05RWmFsMmZqV3h3OTgwUdIBgwJBVV95cUxQckFIcTNGdVJJQVVoYUZCaGhEdTNwdUhaR3JjNFpOVmExZHRldEQwUGhEZFZrTXEzaDhUM0U2V3dZaTZtanRmZ1A0andYZ0hwTjBZLVoxQTdtaGUwbXUwWThldXZkWllzbFdvQ2F5VFNLU1RLcmdiSENaMW9kS09IM1pMWDB6eDgtTVhadUdKdjhxSWFrcmVYNnRLbDVBUWxYb1JGb054ZEZvQzlTWTd4OERFYi1LRUFhLWhrbW1uS1ZUMXF6ZUxkUTJvUV9ZT2EwMDhJcmFLenRJR0cwLThwTmZpdURFUlhmOTYxSks5MUVmenZlTldiMmpjVVhSVE0zNF9R?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-09-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon Athletica (LULU) Could Be 38% Undervalued After Guidance Cut - simplywall.st",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOczUzRER3RjR6ZTlMX0E4QjJCZ09udlVBbnVWazR0dHlJa1NrSXR1MXl4aXpLMXRrX25jeU84RUpNQlRKSjJKNHhyQVlLMk50bXF1dURoTGNpY0lNQ3N5QTNndXNMc2ptc2t1TXBGNk1ab0hPa0F2T0VpaHAxSGszZFJvUDZFMmJfcGx1bXczSFdvbmxraWg2RzBma1BWSDRkQ214LXV5T2I3dE9Kc0dpczRneF9nMDR1dndUSjlySWFHTGRMU1RHTmFhWEpYZ2hRQzBvYnJQYndqd1dpbXBNVdIB5gFBVV95cUxPUmVXY0ljeHY0d3pkRVYxT1hCblowWDZCNEppc19DN3RHUW9MNDdtM29BVS1PLVZjN0JXdFdHb3BJSDduYklvR3lOazlxZFdJaDZOQ0tiMjNZd00wMklMZUZxUTJpc0hXMkdTZDZqTjU3RDI2WFZhUi1RajR6YWFWdWhQRzNZX3h6S1NZbkFDUG9Fc2xaVU5ublZsdFlaUlFydVNNT2s5SjF1STJmc2xjeDBJWmlGV2l3Q2dfR0x4dGY2dkhHVkZ1YmhtQjRiV1pRTWpNNzRobUpmYmY5SW1qOEJ0X3BOUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-09-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Nike stock has fallen and what it means for fashion - The Times of India",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcU9NcERtalVyQXJfQVBJTlVCYjBJbFBTeV92anVXTXcyeUxMM3FsSm8xS1RJdk9MVEtPdmZRSHZXMDI3UkhmX05JUld4RjFOZGt5TkpqWXRtejJMMWJTVE5Dei1HUDZtTWRVRkN2OTY4RE9pWlktTzRtYWVKV0lVdTVsN0Rfb0ZoR2RHb05iVmI2RU9iY19KeVJoUXhrdFRRTzlkTUZzTnJKVVBJN0xMUkQ2NjVMbG9TU3RYQk9mS3YwNDNfWGNpOEJMMjNyUU12NXpYUVotM0NYSl82UFZsYlRUV3M2Z9IB6wFBVV95cUxPdVpldmZpZ0hVdFdQcHVpTnk4cTV0RVJNT2piX2luTG1XLWNWMlhoTloydm1JVGRoWGw3bXNvbUUtMUQ1S3h3Smh4eFlYcEVtYk16VVJ4X3BGaXhfcjU3Ym9MY3gyZlBWSlU3NW9RbV9IaExVVmVVZVQtZ2tMSWpFeHh5dTRoTk1rTUpYMWh0d19tbG0wZi1kbVM0SC1QVTlmOWVsM0Jza3VXWDI3UHp5YV9icS04c1ZUdDFKRnRROWNDOUhRZl9TTXBDMk41b3ZuZlZXYTFCdnFDV3JWUjlGamIzRGE4WG95cWlN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-09-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New Lululemon CEO faces multifront battle to refashion company’s edge - Toronto Star",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQThqSGRvX2dOcU9uaUdfeUJuamdMeUoxSGh5cVFKWFhwNkxqcmVXRWY2ZENmeG11d2dIYXdxbWRLQnNpOW5GVy1JY3laMUZFTW5WMGhfajlJdlJlYmV5Q0UzNEZxNFRaZXRkS2RGMG4xWjRzUnJQRTNKcUUxbl8wM0g2Mjh5SFdIaV84T2RoQ011ejYxX1J0WFZaTXNGaENOSzdGeDFyTi1hWVFYaVIwUHNmandGakNLNm41cUxiT0dTM09YRDk4bW01c0kwZG1wcTEyajBvUWE0RHUxeFpKRnFYdTJlNkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-09-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New Lululemon CEO faces multifront battle to refashion company’s edge - Yahoo! Finance Canada",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR05uNEtEMGxLdG9pVThHU25qQ2lFTnBxTXQ0Z0lFSTlLdkJTb0g5OV8xN2lLUXZEY0RfN3VVdFdTMTAtN1g5TmV3MmhmQ1lMY3dFSDJ5VDFvNHRQZ2x6UUh5X0l2X21idkdOWTFHcFg5VFZLWHNJOE9mMk9ua1F5bXItMzRIVTJEczcwWm9LRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 3
+      },
+      {
+        "id": "shenzhou",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 109,
+    "too_old": 206,
+    "gate1_blocked": 33,
+    "gate2_blocked": 35,
+    "passed": 21,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "Lenzing AG Approves €300 Million Capital Increase To Support Strategic Realignment - IFAB MEDIA",
+      "Citic Securities Keeps Their Buy Rating on Shenzhou International Group Holdings (SZHIF) - The Globe",
+      "Alex Eala said to have been given rare permissions by Nike that Roger Federer and Serena Williams we",
+      "Adidas AG : From Neutral to Buy by Barclays - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Lululemon、Shenzhou International、耐吉相關動態：「Should Weaker Earnings And A Lower Dividend Require Actio...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Should Weaker Earnings And A Lower Dividend Require Action From Shenzhou Inte...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lululemon Athletica (LULU) Could Be 38% Undervalued After Guidance Cut - simp...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
