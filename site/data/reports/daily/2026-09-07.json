@@ -1,0 +1,260 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T13:47:12.713532Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-09-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon cuts FY26 outlook as negative commentary hits Q2 - Just Style",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yUklXWjlIZUJHeTltNTJkbFh5SEZoMzhIZzJoYXlOM3RUV1k2Z0JrOHFDc3g1NWNYU2xLZUpySHFJQ0tFbHgxZngyTUwxU01ISEdTRXlDRUJBYVNab0lfeGtVUFVaYk0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pvh-2026-09-07-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: Flat FY revenue, cut EPS outlook and Tommy Hilfiger Q1 growth - TradingView",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbmFWWHl6eU1UUUZ2eFFyUi1td1kwSXNpdWlRcEoxWFpaRU0yc05ZcFZ4eV9HSDNyWDEzaVA0b0dTRUdIOXA2VmJnYzIwZ0xCdjZZdVNhTnNCZ2JJTDUtRDFYQnhQWFA2VUZDZzFMaWdGeWhYbjdzU0QyX1ZyNUFhQ3paQm01akRkNktxa2czWXJKUncyaDNReE5tUVlURVhNMmoycUlVYW42b0l3N1JuaExFQ19CdVFPZklEMEQ5YXVwdjZfZ25TYjVlanhZZDR6?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-09-07-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nike loses S&P 100 spot after 18 yrs; stock plunges 80% from peak, wipes out $230 bn - What went wrong? - Fortune India",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWlAyLUR4VUxRV3RGNmtBMGhCZUpXaFIxN1hOVXV4OFp2TC1rYUdoN2pEQUloR0NVZTIyY09rYlhpRHpwYXppa2VxUGY2eGdwajh6eU4yZkNxMmFicndRekZEZVYwa1EtTnB1b2stbTN5ME0tdzRaYUVNUjhoalg2Q1M0UW5uRzJuNU1SanVZUmxYd2xxZzFhY08ySGhQbncxbERsalFQQy1OUlFFcENRVzNIb0pYLTNwSU92VUhiQXdxeDZXcGZ2Tm1ldVFadnhzUExZeVR30gHjAUFVX3lxTE9nSVpDR2pDbXhRRzVmN2w1UVF5b3dhWU92a1hyRnNlYUNtZGc0Zk5rS1NseEtOMVpaWEY4VlJGTG1oaVAyTGpodS13a1V4ZTN1RG5HdkIyUnNmRUh6MVRJeEFRVWdOMUtBRzBCel9PQXVMbVdPdE9lNk5fTk1EYU96R3J0d2g4cmtvN09pMDRZdkJIMG1PLXctaDhiR3FiM0t1aHRjVlgtcFZpLWlKajJfYW5rUUlILTZ4RndOaDNJQTBHZnZMcUhzeDV0ckxFX1Y3YlMxSnR4ME1HcEc3M0Q4SWZz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adidas-2026-09-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas stock trades lower as investors digest recent gains - AD HOC NEWS",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2YzLXQwWHNtclcyUGVjUEdRcE5NQmRyS1N3engxd21BOVlDZ1lYVkVCQUJYMWZWakstbHBTRDc2QWNDSzhLWlFqUUJOZldlbE05WGx4UUpVd2dlSW82UF9DcDY4QS1SZ045QlRzWG5RTlJzVEVOOVpHcGhubWtzUWhuOG9RR1ZORlBYSDhHVjd5c3ZYbG5OQzBMY3BUdWRmWGRHY3IydXpWSjV3N3BhdkIxdTZncVhGTDN6NzdR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adidas-2026-09-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas stock heads into the open after a 0.1 percent Xetra gain - AD HOC NEWS",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjVSNUtJeHAwLTFIQmc0MDVuUjNYclhPN2pSSXJuNXZJWms3VEZMTWRRZE9tTUxZNjhzbXlGeF9ieVVxOGpKSU5md3BuUWxEaFJNbGdwSzVMNWhxSGZBUFJadHRpSWFoZFpTSEZUdUlxNkxFcHF0UGtpWUdqSFZEa3FFUV9rWHhHRW9NZWI4QVpOVzF0OHdyaXV4aVlPQXhyS2tSVHVtcHAxdUVwVXpCZm44bzYxQ09ld3ZHUmRvUWVpQXpj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.24,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 3
+      },
+      {
+        "id": "adidas",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 110,
+    "too_old": 200,
+    "gate1_blocked": 31,
+    "gate2_blocked": 35,
+    "passed": 28,
+    "pass_rate": "9.5%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "Citic Securities Keeps Their Buy Rating on Shenzhou International Group Holdings (SZHIF) - The Globe",
+      "Alex Eala said to have been given rare permissions by Nike that Roger Federer and Serena Williams we",
+      "Adidas AG : From Neutral to Buy by Barclays - marketscreener.com",
+      "Adidas stock edges higher despite sector pressure from Lululemon warning - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Lululemon、愛迪達、Coach相關動態：「Lululemon cuts FY26 outlook as negative commentary hits Q...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lululemon cuts FY26 outlook as negative commentary hits Q2 - Just Style（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Weekly Recap: Flat FY revenue, cut EPS outlook and Tommy Hilfiger Q1 growth -...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 9 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
