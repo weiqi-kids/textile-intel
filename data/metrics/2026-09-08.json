@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-08",
+  "total_events": 16,
+  "by_company": {
+    "far_eastern": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "supply_chain_shift": {
+      "count": 8,
+      "sentiment_avg": -0.25
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:22:49.913407Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-08-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bangladesh curbs bonded cotton yarn imports as BGMEA, BKMEA protest",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-curbs-bonded-cotton-yarn-imports-as-bgmea-bkmea-protest-313309-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-08-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US' Lands' End returns to profit as Q2 revenue rises to $302 mn",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-lands-end-returns-to-profit-as-q2-revenue-rises-to-302-mn-313297-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "far_eastern-2026-09-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FENC's Textile Waste Upcycling Technology Wins the 2026 R&D 100 Awards with Industry Partners - feg.com.tw",
+      "companies": [
+        "far_eastern"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wc1V2a19Da2pZR0w2OTJtLVpoWTJ2ek1vUHVCRV9fTVFCeG8zN2YzS1Nld1AzQTVZWXloRjBkc1dTWmwyWXFvOWtDZllMWnZQTmxLSzdWaEl0WU5lb213czRxaEpXalk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-09-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon billionaire Chip Wilson, wife divorcing after 20-plus years without prenup: report - Fox Business",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcUVJUl8xeGtqblpvT1dqUXJWVHJVWnp4MU5URGRBeDNSbkJNY2JwTk91VjVDM2l4c25EOC1YQXdrNXd6YXZ3MWpGU2dVYV9MRTkxV0ZLbHpzSHBBUFhtdmVSVWtWcm8yd0F2S3AzNDRZUUdmU0RSZDBOWWZDcUNwbXV4VHhIRVBjWHhObjEtTy1waW1YZTI0U1JNWGltR3puSDFkMFR0eVNUVFZTUVNZUkdFNlczQnh3TGxOWmpzNEJZTDFNYjhIR3Vpc0tMbThP0gHWAUFVX3lxTE1OLXJ1MzBoeUdfUTBTTmVsakxVWUdsYTBLWlZ4ZlRxbzl6SUYwNjN0dTE2LXl0a0lmRXZrVVBYLVlDUUIxUV9yN1BCSFJQMGU5MVl3elY1WHFJVnFtQXo3SV92TGZsZFEzQzlpYzZKYkNVRkw0cmVDR1E2NDRFbmRmcmN1NEIxY1NWLWdnZjJZcjhwZXh1R0d0bHN5VWNTS19zLWk3ZmZ2WTRLdXlPbHFOcXM4bEQ0V2E1MWZ5bVgzdVgzQUdpWGdmaGJZVVhHNm1QUFVaM1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-09-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TD Waterhouse Canada Inc. Buys 14,389 Shares of lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU2puODdoRXdVbHZHZGdKZmpGTjBLcFN2cXd6WTk1NVNWcjZNTlZ2cDRDV0ZGT2wzQk9CX1Y2MUJpQXI3aXhYRHQwcVJkdTczZkJtRVR4eVcyS2pTRm81Z1J1M2lfLWFCZkE4Q3ZPWHdfZi13eGY0b0JTdkhrdnIwVm9PdGthYlhJdXk4M01VR1E2Z2hxc3htZF90V1NZLVhZdzZ3cDg0SGpIeXVhZlViekFvQm9zdU5YeXY5Ukw5MlpmQ0dZYWxjOV90dDlkUXdI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "far_eastern",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 97,
+    "too_old": 205,
+    "gate1_blocked": 25,
+    "gate2_blocked": 44,
+    "passed": 24,
+    "pass_rate": "8.1%",
+    "gate2_block_rate": "14.8%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "Lenzing's Board Reshuffle and €300m Cash Call: A Fibre Maker's Governance Pivot - AD HOC NEWS",
+      "Citic Securities Keeps Their Buy Rating on Shenzhou International Group Holdings (SZHIF) - The Globe",
+      "Adidas AG Share Price & Chart - forex.com",
+      "Adidas stock heads into the open after a 0.3 percent rise - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Lululemon、Coach、耐吉相關動態：「Bangladesh curbs bonded cotton yarn imports as BGMEA, BKM...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Bangladesh curbs bonded cotton yarn imports as BGMEA, BKMEA protest（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "US' Lands' End returns to profit as Q2 revenue rises to $302 mn（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

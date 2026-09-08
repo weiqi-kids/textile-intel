@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 97,
+  "no_date": 0,
+  "too_old": 205,
+  "gate1_fail": 25,
+  "gate2_fail": 44,
+  "passed": 24,
+  "gate2_samples": [
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "Lenzing's Board Reshuffle and €300m Cash Call: A Fibre Maker's Governance Pivot - AD HOC NEWS",
+    "Citic Securities Keeps Their Buy Rating on Shenzhou International Group Holdings (SZHIF) - The Globe",
+    "Adidas AG Share Price & Chart - forex.com",
+    "Adidas stock heads into the open after a 0.3 percent rise - AD HOC NEWS"
+  ]
+}
