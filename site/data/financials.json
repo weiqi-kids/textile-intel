@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:22:45.202897Z",
+  "updated_at": "2026-09-09T12:33:50.446538Z",
   "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
@@ -211,17 +211,17 @@
       "name": "PVH Corp",
       "ticker": "PVH",
       "currency": "USD",
-      "ar": 896800000,
-      "ar_prev": 994600000,
-      "ar_qoq": "-10%",
+      "ar": 921400000,
+      "ar_prev": 896800000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 1510200000,
-      "inv_prev": 1583500000,
-      "inv_qoq": "-5%",
+      "inventory": 1738200000,
+      "inv_prev": 1510200000,
+      "inv_qoq": "+15%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-04-30"
+      "quarter_date": "2026-07-31"
     },
     {
       "id": "shenzhou",

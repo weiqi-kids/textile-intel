@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:33:54.468322Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "inditex-2026-09-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zara owner Inditex reports profit miss despite strong August sales - KSL.com",
+      "companies": [
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUhjakJPdEdqTF8zT1RoM2JHQnh2SDZZOE1Ud2p1VGpGVFA2WmtQQmhVZTZzTUM0TmhYZllrN29hdklhbGpFOGZVc3BwX3daWnFiNkgwejUzQ0d1MjlHYzMtZUFNeEQwRHI4X3VXb1lMc1cxalBMSERoaHBQcnZCS25pSHdoLUxyczFaQjk0RzVWNXJOOHN4YU9nS3FoeGNqOFNB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "inditex-2026-09-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zara owner Inditex boosts profits as sales grow across board - IraqiNews",
+      "companies": [
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVVDdmd0c0stZzU2RzFoOEZKdGx6dXhrN2FXenlBODA3R2tubTVReHlQZkNsQ0JoQzVSNTh2X2RRWjJ2emhPMkV0blBtYUxDbXVFQUhWVThnMnRHel83VzF6MHJtYjNVSmRCZmVtcFU2SmlUeWdNeW8wWVQ5MFl1ZTFGbEFZNHRlc2VkeTMzZVJMckxJQVdUUGNRQU0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vf_corp-2026-09-09-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corporation stock gains support as S&P lifts outlook on improved leverage - AD HOC NEWS",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0xfQl9DSnh5cmpES24zWGdCcWZTTk5HVHhXdVh4N2dWd05PTzhycDNEOEREbmVqTnlBdHZnREttWXZ3Zmx5NVJmZFNQRjVkVkJhREU4QmRMWU93YXg5QTdObnc0cUJJeXpvTWFGaTRrWUc4ZXFTRk13alVYYW9nQWV3QzMtU1FOYWJiRTNkMlRwaXA3amFkYjB0YWk2RVVGZjVSVVhHckh4RzF6Nzh3Sy1xczJGdW9SLUo0SVlBY3FMRHdLYkhBWEF2R0IySmM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pvh-2026-09-09-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PVH (PVH) Reaffirmed its Outlook as Tariff Refunds Lifted Margins. Can the Core Business Recover Without the One-Off Benefit? - Yahoo Finance",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkRiSEo3UEZ1Skl0SUtnU2xMMFpERzhRQTlGOU8wdk41Tm1SZGtZUjB5dDAwcWIxcVVuaUgyRENndC1KTXpuaGFPV0lfQ25EMXV2YTJBZTlHZlBwU2dsZ0JKTEZsOFlDYmVOOWJsSTVwQXozN2h3TjJKblJjcjNuS1A3eks4U0kxalJENFR5U0pSUVlCdG5fZTFTLUN4amc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "shenzhou-2026-09-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shenzhou International Group Holdings Ltd's Dividend Analysis - Yahoo Finance",
+      "companies": [
+        "shenzhou"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGtJYVltUEdqdGZEU3gtb1Z2SUUtTjh5R1RveGJaLU9QRFM1S1BwMEJMaWhyVzk1RlJLS29sNE83SER6QVNrYkhacTk1TmJFWnVvWE9rSWVqQlV4MWVtSTF3bGhYdkZCUUFPNW9KRUE5Z2tGUXRnT3B0UUR5OERpalhxTm9VVnBXbVg4ZHFnRFotRmwwT2hRVmJPWnpsME5zcjVLcWxZRlZoNG8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "inditex",
+        "count": 3
+      },
+      {
+        "id": "vf_corp",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "shenzhou",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 111,
+    "too_old": 190,
+    "gate1_blocked": 31,
+    "gate2_blocked": 43,
+    "passed": 30,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Citic Securities Keeps Their Buy Rating on Shenzhou International Group Holdings (SZHIF) - The Globe",
+      "Nike’s Wagyu Air Max Is a Full-Flavored Stepper - Highsnobiety",
+      "Adidas - Britannica",
+      "Adidas AG Share Price & Chart - FOREX.com",
+      "Adidas AG : From Neutral to Buy by Barclays - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Zara、VF、Coach相關動態：「Zara owner Inditex reports profit miss despite strong Aug...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Zara owner Inditex reports profit miss despite strong August sales - KSL.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Zara owner Inditex boosts profits as sales grow across board - IraqiNews（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

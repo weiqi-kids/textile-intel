@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 190,
+  "gate1_fail": 31,
+  "gate2_fail": 43,
+  "passed": 30,
+  "gate2_samples": [
+    "Citic Securities Keeps Their Buy Rating on Shenzhou International Group Holdings (SZHIF) - The Globe",
+    "Nike’s Wagyu Air Max Is a Full-Flavored Stepper - Highsnobiety",
+    "Adidas - Britannica",
+    "Adidas AG Share Price & Chart - FOREX.com",
+    "Adidas AG : From Neutral to Buy by Barclays - marketscreener.com"
+  ]
+}
