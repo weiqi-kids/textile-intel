@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 112,
+  "no_date": 0,
+  "too_old": 194,
+  "gate1_fail": 27,
+  "gate2_fail": 44,
+  "passed": 28,
+  "gate2_samples": [
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "Citic Securities Keeps Their Buy Rating on Shenzhou International Group Holdings (SZHIF) - The Globe",
+    "Nike’s Wagyu Air Max Is a Full-Flavored Stepper - Highsnobiety",
+    "Adidas AG Share Price & Chart - forex.com",
+    "Adidas stock falls after Morgan Stanley cuts target despite solid Q2 growth - ad-hoc-news.de"
+  ]
+}
