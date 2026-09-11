@@ -1,0 +1,168 @@
+{
+  "date": "2026-09-11",
+  "date_range": {
+    "start": "2026-09-05",
+    "end": "2026-09-11"
+  },
+  "generated_at": "2026-09-11T12:26:05.505470Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lululemon-2026-09-05-003",
+      "date": "2026-09-05",
+      "title": "Lululemon Athletica (LULU) Cut Full Year Guidance After Q2 Revenue Decline - finance.yahoo.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 20,
+      "last_week": 25,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.02
+    },
+    "supply_chain_shift": {
+      "this_week": 38,
+      "last_week": 38,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.12
+    },
+    "cotton_price": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.29
+    },
+    "sustainable_textile": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "order_visibility": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": -0.5
+    },
+    "fast_fashion": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lululemon": {
+      "event_count": 16,
+      "sentiment_avg": -0.0,
+      "rank": 1
+    },
+    "tapestry": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "pvh": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 5
+    },
+    "nike": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 3
+    },
+    "shenzhou": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 7
+    },
+    "adidas": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "far_eastern": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "inditex": {
+      "event_count": 6,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    },
+    "vf_corp": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 147,
+        "last": 171,
+        "change_pct": -14.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-05",
+      "event_count": 14,
+      "sentiment_avg": -0.14
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 13,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 26,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-09-08",
+      "event_count": 27,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-09-09",
+      "event_count": 24,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-10",
+      "event_count": 28,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-11",
+      "event_count": 15,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-05 ~ 2026-09-11）共 147 則事件，重點為「Lululemon Athletica (LULU) Cut Full Year Guidan...」。Shenzhou International情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Shenzhou International",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Lululemon",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Coach",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

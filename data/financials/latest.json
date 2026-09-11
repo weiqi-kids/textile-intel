@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T12:28:04.589193Z",
+  "updated_at": "2026-09-11T12:26:01.989724Z",
   "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "印地紡",
       "ticker": "ITX.MC",
       "currency": "EUR",
-      "ar": 1066000000,
-      "ar_prev": 1180000000,
-      "ar_qoq": "-10%",
+      "ar": 1158000000,
+      "ar_prev": 1066000000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
-      "inventory": 3812000000,
-      "inv_prev": 4499000000,
-      "inv_qoq": "-15%",
+      "inventory": 3789000000,
+      "inv_prev": 3812000000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-04-30"
+      "quarter_date": "2026-07-31"
     },
     {
       "id": "lealea",

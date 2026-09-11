@@ -1,0 +1,16 @@
+{
+  "total_raw": 406,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 200,
+  "gate1_fail": 29,
+  "gate2_fail": 48,
+  "passed": 29,
+  "gate2_samples": [
+    "Citic Securities Keeps Their Buy Rating on Shenzhou International Group Holdings (SZHIF) - The Globe",
+    "Nike’s Wagyu Air Max Is a Full-Flavored Stepper - highsnobiety.com",
+    "adidas AG: Bjørn Gulden, buy - TradingView",
+    "Adidas stock slips after RBC reiterates Outperform rating - ad-hoc-news.de",
+    "Adidas stock heads into the open after a 2.6% Xetra drop - ad-hoc-news.de"
+  ]
+}
