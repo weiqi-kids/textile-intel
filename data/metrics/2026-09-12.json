@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-12",
+  "total_events": 11,
+  "by_company": {
+    "lululemon": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "pvh": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 2,
+      "sentiment_avg": -0.38
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

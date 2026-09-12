@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 207,
+  "gate1_fail": 25,
+  "gate2_fail": 46,
+  "passed": 24,
+  "gate2_samples": [
+    "Citic Securities Keeps Their Buy Rating on Shenzhou International Group Holdings (SZHIF) - The Globe",
+    "Nike’s Wagyu Air Max Is a Full-Flavored Stepper - Highsnobiety",
+    "adidas AG: Birgit Kretschmer, Purchase, settlement via joint custody account with spouse. - TradingV",
+    "Adidas stock heads into the open after a 2.6% Xetra drop - ad-hoc-news.de",
+    "Zara owner Inditex reports strong August trading amid heatwaves - Yahoo Finance"
+  ]
+}
