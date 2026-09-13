@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 210,
+  "gate1_fail": 20,
+  "gate2_fail": 41,
+  "passed": 15,
+  "gate2_samples": [
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "Citic Securities Keeps Their Buy Rating on Shenzhou International Group Holdings (SZHIF) - The Globe",
+    "Nike’s Wagyu Air Max Is a Full-Flavored Stepper - Highsnobiety",
+    "adidas AG: Birgit Kretschmer, Purchase, settlement via joint custody account with spouse. - TradingV",
+    "Zara owner Inditex looks to US for next phase of growth - reuters.com"
+  ]
+}

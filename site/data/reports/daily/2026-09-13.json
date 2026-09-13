@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T12:55:25.811587Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-09-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas stock reacts to insider share purchases and updated guidance - ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeUI3Z01IV1k4UVFyWllBR1Y0OW50ZnhneXl2cFltNjFYdVY5QldoVUxCZjNGdzhJX1RrWG1zanBGZTk0OFNQeGZVOFgxWnZpQnl5T2pOcTJxM3NuX214Qk9BZEFwT01JMmJCamZ5OFh1UUhKLWVUY1lqcVo0MWs1OHFtaHU1RE1EZjhDalhhcHN4dXFJZjhKd0RqVHhJWmh3UnYxTWlya1RFdnFUalk3cDJjcDU3cUptMklZWWZaYTExRFQ2SWVqWC1R?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pvh-2026-09-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hsbc Holdings PLC Trims Stock Position in PVH Corp. $PVH - MarketBeat",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUm1XTWJVX3hpaC1QQ19FaUxINXJCZzZXS09DOC12ZWlSaWF6R3lfNXl2ZDhHMDRCN290VDZVYzAycW51TTNwc1NvdEl0WV9NTTBlMXlON21fb21JZzZRQ2ItNG13UWZKbm1OS2ZfVTd1OHN1RE1RU1FBWm9fQ3MzYjR1SmFuT1BuY2pDSVQ5VnZubm16N0NCc0VNeXlDZ0FFdkZKVlJHR3pUNUViM0ZtcnN0dHg3UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-09-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stitching our warped reality together: a cartoonist and art critic take different approaches to the Bayeux tapestry - The Guardian",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWJZczVNbnQyNTJVaW9HeFFLNTJJLTVoYi1Pa3VSQm4zYU41cnc3a2o5RE9neC01OHRSM1VGRU14R0tqWUVsOVdHMWZWOEJKUV9BN2hEUzhoZVBVQ3dGN1hfUnY5LUU0SHVGbHZqSkF4cjhkUkk4MU5YM05ET19lczE1OHZkamZHUl9oM1BUMlhzNWR3SXphOVdydFNPUE9rbzZRTVNQMWl1ZjRXWkN4ZGMtMzBXTkFGTHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tapestry-2026-09-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Detroit Free Press. . “It’s remarkable that it has endured for nearly a thousand years,” visitors say as the Bayeux Tapestry goes on display for the first time in Britain for a landmark exhibition. - facebook.com",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVTh4M2RTRkN2c05Zel83emM2TUtfQlg2b1BtMjRSUnBxSTZUc2ZjMjlmLUZPU1lLLUlEajVmNGlXWHgwbFJ1Q3dueUkyRWFGY1YxcWc4dWk1Q1JDaTVheWdOV1VIQ2dyWnBxQVdWN3k1SkJENGlWQzZNYzU3a2VNMVdoSHp2QXcwbFRqaGVWMEtMM0wyZ0ZwejVIVEh0aHpiLVEtS0RCbHA5WFoxblRFVzlweDBhQ0Zqa3V1NTdONUNKNloxSlh0VGFnUVM2TnpSRnExeVRhVDEzWEhIOUxBQg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India pushes stronger BRICS supply chains, easier market access",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-pushes-stronger-brics-supply-chains-easier-market-access-313443-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 119,
+    "too_old": 210,
+    "gate1_blocked": 20,
+    "gate2_blocked": 41,
+    "passed": 15,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "Citic Securities Keeps Their Buy Rating on Shenzhou International Group Holdings (SZHIF) - The Globe",
+      "Nike’s Wagyu Air Max Is a Full-Flavored Stepper - Highsnobiety",
+      "adidas AG: Birgit Kretschmer, Purchase, settlement via joint custody account with spouse. - TradingV",
+      "Zara owner Inditex looks to US for next phase of growth - reuters.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Coach、愛迪達、PVH相關動態：「Adidas stock reacts to insider share purchases and update...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Adidas stock reacts to insider share purchases and updated guidance - ad-hoc-...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hsbc Holdings PLC Trims Stock Position in PVH Corp. $PVH - MarketBeat",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
