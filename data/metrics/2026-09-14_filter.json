@@ -1,0 +1,16 @@
+{
+  "total_raw": 406,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 218,
+  "gate1_fail": 23,
+  "gate2_fail": 46,
+  "passed": 14,
+  "gate2_samples": [
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "adidas AG Share Price - ADDYY, RNS News, Articles, Quotes, & Charts (OTCMKTS: ADDYY) - Proactive fin",
+    "adidas AG: Birgit Kretschmer, Purchase, settlement via joint custody account with spouse. - TradingV",
+    "adidas AG (ADS.DE) P/FCF US GAAP (year values) - Smart-Lab",
+    "Adidas stock heads into the open after closing at EUR 142.10 - ad-hoc-news.de"
+  ]
+}

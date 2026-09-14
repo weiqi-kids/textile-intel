@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:33:05.755215Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-09-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Adidas stock steadies as insider buying, higher guidance and upcoming Q3 results shape outlook - ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVTFxc1FXMzJ6QW1tdm9yTE5wUG1UTFZiTzBsYlpocGtDMVhKRGEySVMxaXBYdjFJWTlfUW1CUXhwYVM5d2dXVklnZ1g3VmhTTDVtWVZoMmVtRXJWNXRQRmVONUNSQWluMGx1dDdla2ZnejJXZTFpUXo0enZnWmgxMXZCZFFCRV9Wb2U0Zm0xZ0w2VDl2UUx1cm50b2wxeUpEUDRGeS1VQmN2WXZaLTlKWFgyWTY4eU50aElQUkhvQzBpU1haQ2VlclplN1lZS3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Indian Railways loads 137.9 mn tonnes of freight in August",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/indian-railways-loads-137-9-mn-tonnes-of-freight-in-august-313457-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "adidas-2026-09-14-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "TikTok and fashion: How brands turn trends into sales",
+      "companies": [
+        "adidas",
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/tiktok-and-fashion-how-brands-turn-trends-into-sales-313452-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-14-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Cambodia’s trade rises 20.2% to $50.68 bn in Jan-Aug",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/cambodia-s-trade-rises-20-2-to-50-68-bn-in-jan-aug-313448-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-09-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "lululemon athletica (NASDAQ:LULU) Earns \"Hold\" Rating from Argus - marketbeat.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGZDLWpSVE5PcDRCVDZrdFZlcDUxdnltR0VIMjVsTGhEYzUwR29XaGZDWWI4V2pnZTZ0bjRhSy04bGZVTUZOaFZDdlhWNmxNRU5haThKOG5IMUZnM1BwV01Qb1lLZERUUkJNN3pYOURXWXpwREhfc2U5NU1vN3dYcG9mb1ZqeWVUQ21IaGtiamxDdGtRMHBibXFZZm1FcHN0WWZPWWRZeHMyeVUtVHlvMTVnMUN6YWNDNVVaaW05VQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 3
+      },
+      {
+        "id": "adidas",
+        "count": 2
+      },
+      {
+        "id": "inditex",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 105,
+    "too_old": 218,
+    "gate1_blocked": 23,
+    "gate2_blocked": 46,
+    "passed": 14,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "15.3%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "adidas AG Share Price - ADDYY, RNS News, Articles, Quotes, & Charts (OTCMKTS: ADDYY) - Proactive fin",
+      "adidas AG: Birgit Kretschmer, Purchase, settlement via joint custody account with spouse. - TradingV",
+      "adidas AG (ADS.DE) P/FCF US GAAP (year values) - Smart-Lab",
+      "Adidas stock heads into the open after closing at EUR 142.10 - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Lululemon、愛迪達、Zara相關動態：「Adidas stock steadies as insider buying, higher guidance ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Adidas stock steadies as insider buying, higher guidance and upcoming Q3 resu...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Indian Railways loads 137.9 mn tonnes of freight in August（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
