@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 206,
+  "gate1_fail": 24,
+  "gate2_fail": 43,
+  "passed": 28,
+  "gate2_samples": [
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "J.P. Morgan Sticks to Their Buy Rating for Shenzhou International Group Holdings (SZHIF) - The Globe",
+    "Adidas | History, Products, & Facts | Britannica Money - Britannica",
+    "Adidas AG: Ralf Kretschmer, Purchase, settlement via joint custody account with Birgit Kretschmer. -",
+    "Adidas stock holds steady after Baird downgrade and ahead of Q3 update - ad-hoc-news.de"
+  ]
+}
