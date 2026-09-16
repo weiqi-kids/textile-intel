@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T12:55:44.898578Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is private equity setting the stage for technical-materials M&A?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/is-private-equity-setting-the-stage-for-technical-materials-m-a--313529-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-16-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BKMEA urges Bangladesh govt to form garment policy panel",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bkmea-urges-bangladesh-govt-to-form-garment-policy-panel-313499-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-09-16-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike earnings preview: Is it a buy now amid improving risk-reward? - Investing.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNG9SXzBiZWtGVDM3Wnk4R1FZRWpoUDF5VWtsM1JBUmlBdmVwak1LbkpFY0VJSVZMTEZTbk5pU3QtMGdBMnFlMm9sUkhKQmkwd3ZhcHpLZEM5TlEyU1BPS01nVTdGZ1ZRT2RqSHM4a043d3NQOUVhMXNLNlNUaEUydzhtZXNKcVVHSjg2VHA0TVYxVzA3Wmt4amRoOXF5NjNLUm9QRV9RSnpJM0Q5cUF4LXJ1WjBtVGo2c01mazVnd1NvVVk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-09-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Former Nike, Lazada and Victoria’s Secret Leader Afshan Banu Joins PointAI to Drive Global Fashion & Beauty AI Expansion - hrtoday.in",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOW50a2EzUWl5aDdlQ3dwbHFvUVVSakdPUlhEV3pCS3hpd3pGM1RTalVzN2xtWkFzNFNnWW1kMDhSVlhIZ1NPdjM1RjIzV1NQMWsyaTNqZjJKN3o2NURockdFUlNhcV9LRF95aVB2UEt2a09qUzFlZXNGX192Y3QzNzd4amRsQkxWMXhkanhoMmUxR0dwNHZsc3NqemRyTUt0bUFoZGNXWHYyXzl6cUFwU2dnRjRhdER6NVN2dXFhUGp1Q2tRMjUwZGJsSklmLVFjZ1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-09-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "WINTON GROUP Ltd Sells 19,516 Shares of Tapestry, Inc. $TPR - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakllZ29WSVFEVE5iQ3MweVNjR0tqNnI4cXdXN2VLZUhLQUEzQUhQeVVOVDB0eXcyaUllM2NncnhhUUtaMEJFazBuZ1FRYzdNdXRwRVJ6LXNQZUszMjVzazJTUnA1S0ozbnJXejUtRVdxY0FNYWthTS1neVhGVXQxbGozZUdKMHB6OEpmTVg4bU9KVzFqdlpUT2dwSFFXZmpQTncxR3c4WXJwZ0V0ZDRCdUIxNTlmdEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 111,
+    "too_old": 214,
+    "gate1_blocked": 20,
+    "gate2_blocked": 36,
+    "passed": 25,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "J.P. Morgan Sticks to Their Buy Rating for Shenzhou International Group Holdings (SZHIF) - The Globe",
+      "A New York Label Made a Nike Tennis Sneaker as Chic as Its Clothes - Highsnobiety",
+      "Why Nike Is No Longer a Blue Chip Stock - The Business of Fashion",
+      "Adidas stock heads into the open after a 0.04% Xetra gain - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為耐吉、Coach相關動態：「Is private equity setting the stage for technical-materia...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is private equity setting the stage for technical-materials M&A?（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "BKMEA urges Bangladesh govt to form garment policy panel（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 406,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 214,
+  "gate1_fail": 20,
+  "gate2_fail": 36,
+  "passed": 25,
+  "gate2_samples": [
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "J.P. Morgan Sticks to Their Buy Rating for Shenzhou International Group Holdings (SZHIF) - The Globe",
+    "A New York Label Made a Nike Tennis Sneaker as Chic as Its Clothes - Highsnobiety",
+    "Why Nike Is No Longer a Blue Chip Stock - The Business of Fashion",
+    "Adidas stock heads into the open after a 0.04% Xetra gain - ad-hoc-news.de"
+  ]
+}
