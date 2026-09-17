@@ -1,0 +1,181 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T12:52:28.171077Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Global cotton prices firm as major benchmarks rise in August",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/global-cotton-prices-firm-as-major-benchmarks-rise-in-august-313526-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "adidas-2026-09-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas stock falls as Bank of America cuts price target - ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWhoRjR6Ym5BZ3Q4eFFneFMxSUVZSm9uTDY3SzdaWkxvUDdwXy1HeXJaY3AxWTN4QS11dk9tUmJSOC1CSldwa1RkU3ppRVhFYW1vN19MVHM4ek50MmVLSGgzVW13SGpRbHZkOGhhbzkzMnlEaFRKN2hHeU9rYTlHeHRDbVlQZVF6MU14OW1FbkhLdERHcVVXWDM0bDZKT1BZZ1hYWU1mTkp3Z3I3djhkekt4TGlKQ3c0NUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-09-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Athletica stock slips ahead of the opening bell after a 2.4% Nasdaq drop - ad-hoc-news.de",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZGhVVEFSbXM0TC1WYVJwcTZ5TEc4WkVUOTVNRGdIR21lZmNzYnBlTGN0MjV6WVAxeVR0MWRHei0tSWZxWXNvNWREVWNwbHNaVHJ3RXVqNHljdjB2OFVfMzd3WWY2Yy1XZXV6dDU1VXl2Z2I5Yy1iVUhKc1BDcGZhU1Ria044TjlUampobnpLVElMaHBmbEdQTW5Gd05leTRZSk85eDRMQjhlOHAtRnFiRzhNZk85TmtOMmotcGx1OVBlUFR1SEVLZlJwdWI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pvh-2026-09-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Engineers Gate Manager LP Makes New $1.70 Million Investment in PVH Corp. $PVH - MarketBeat",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcXRDTUNUSkV0TVlRTWJGMmM1dVhSbVl6UW10R3hsem5UcGlyRXFJQWJkQTJxUzJlVjNFOEFUcTdLOEtHTXh2bXhtbHQxREJNeGUwQ1BrcS04aEZHU2xNa3ppbm82R3h5enpVZks4ak9oYmx0NEh2cm9vM0x3SmxpbElEeGRrTUJBZ0w4SVpUamRwNThLV1JsN2tKcjRaUmdUX0RQYTRPNkdSQ3RFS2RoeWlQNUQ0aVdfT2tmMUhTN1FrS0c5dURaTnBKa2NmOVpk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 123,
+    "too_old": 214,
+    "gate1_blocked": 17,
+    "gate2_blocked": 38,
+    "passed": 13,
+    "pass_rate": "4.6%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "J.P. Morgan Sticks to Their Buy Rating for Shenzhou International Group Holdings (SZHIF) - The Globe",
+      "Why Nike Is No Longer a Blue Chip Stock - The Business of Fashion",
+      "adidas AG (ADS.DE) P/FCF US GAAP (year values) - Smart-Lab",
+      "Adidas stock heads into the open after a 1.9% Xetra gain - ad-hoc-news.de",
+      "adidas AG (ADS.DE) Assets US GAAP (year values) - Smart-Lab"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為愛迪達、Lululemon、PVH相關動態：「Global cotton prices firm as major benchmarks rise in August」。主要關注主題為棉花價格、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Global cotton prices firm as major benchmarks rise in August（棉花價格、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Adidas stock falls as Bank of America cuts price target - ad-hoc-news.de",
+        "level": "green"
+      },
+      {
+        "text": "棉花價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

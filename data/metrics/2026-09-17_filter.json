@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 214,
+  "gate1_fail": 17,
+  "gate2_fail": 38,
+  "passed": 13,
+  "gate2_samples": [
+    "J.P. Morgan Sticks to Their Buy Rating for Shenzhou International Group Holdings (SZHIF) - The Globe",
+    "Why Nike Is No Longer a Blue Chip Stock - The Business of Fashion",
+    "adidas AG (ADS.DE) P/FCF US GAAP (year values) - Smart-Lab",
+    "Adidas stock heads into the open after a 1.9% Xetra gain - ad-hoc-news.de",
+    "adidas AG (ADS.DE) Assets US GAAP (year values) - Smart-Lab"
+  ]
+}

@@ -1,5 +1,78 @@
 [
   {
+    "id": "adidas-2026-09-17-001",
+    "date": "2026-09-17",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas stock falls as Bank of America cuts price target - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWhoRjR6Ym5BZ3Q4eFFneFMxSUVZSm9uTDY3SzdaWkxvUDdwXy1HeXJaY3AxWTN4QS11dk9tUmJSOC1CSldwa1RkU3ppRVhFYW1vN19MVHM4ek50MmVLSGgzVW13SGpRbHZkOGhhbz",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWhoRjR6Ym5BZ3Q4eFFneFMxSUVZSm9uTDY3SzdaWkxvUDdwXy1HeXJaY3AxWTN4QS11dk9tUmJSOC1CSldwa1RkU3ppRVhFYW1vN19MVHM4ek50MmVLSGgzVW13SGpRbHZkOGhhbzkzMnlEaFRKN2hHeU9rYTlHeHRDbVlQZVF6MU14OW1FbkhLdERHcVVXWDM0bDZKT1BZZ1hYWU1mTkp3Z3I3djhkekt4TGlKQ3c0NUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-09-17-002",
+    "date": "2026-09-17",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon Athletica stock slips ahead of the opening bell after a 2.4% Nasdaq drop - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPZGhVVEFSbXM0TC1WYVJwcTZ5TEc4WkVUOTVNRGdIR21lZmNzYnBlTGN0MjV6WVAxeVR0MWRHei0tSWZxWXNvNWREVWNwbHNaVHJ3RXVqNHljdjB2OFVfMzd3WWY2Yy1XZXV6dDU1VX",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZGhVVEFSbXM0TC1WYVJwcTZ5TEc4WkVUOTVNRGdIR21lZmNzYnBlTGN0MjV6WVAxeVR0MWRHei0tSWZxWXNvNWREVWNwbHNaVHJ3RXVqNHljdjB2OFVfMzd3WWY2Yy1XZXV6dDU1VXl2Z2I5Yy1iVUhKc1BDcGZhU1Ria044TjlUampobnpLVElMaHBmbEdQTW5Gd05leTRZSk85eDRMQjhlOHAtRnFiRzhNZk85TmtOMmotcGx1OVBlUFR1SEVLZlJwdWI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-09-17-003",
+    "date": "2026-09-17",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Engineers Gate Manager LP Makes New $1.70 Million Investment in PVH Corp. $PVH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcXRDTUNUSkV0TVlRTWJGMmM1dVhSbVl6UW10R3hsem5UcGlyRXFJQWJkQTJxUzJlVjNFOEFUcTdLOEtHTXh2bXhtbHQxREJNeGUwQ1BrcS04aEZHU2xNa3ppbm82R3h5enpVZks4ak",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcXRDTUNUSkV0TVlRTWJGMmM1dVhSbVl6UW10R3hsem5UcGlyRXFJQWJkQTJxUzJlVjNFOEFUcTdLOEtHTXh2bXhtbHQxREJNeGUwQ1BrcS04aEZHU2xNa3ppbm82R3h5enpVZks4ak9oYmx0NEh2cm9vM0x3SmxpbElEeGRrTUJBZ0w4SVpUamRwNThLV1JsN2tKcjRaUmdUX0RQYTRPNkdSQ3RFS2RoeWlQNUQ0aVdfT2tmMUhTN1FrS0c5dURaTnBKa2NmOVpk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-004",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Global cotton prices firm as major benchmarks rise in August",
+    "summary": "Global cotton prices strengthened in August 2026, with the A Index rising from around 90 cents to 95 cents per pound, according to Cotton Incorporated. \nThe market remains influenced by global product",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/global-cotton-prices-firm-as-major-benchmarks-rise-in-august-313526-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nike-2026-09-16-001",
     "date": "2026-09-16",
     "companies": [
@@ -196,6 +269,120 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNG9SXzBiZWtGVDM3Wnk4R1FZRWpoUDF5VWtsM1JBUmlBdmVwak1LbkpFY0VJSVZMTEZTbk5pU3QtMGdBMnFlMm9sUkhKQmkwd3ZhcHpLZEM5TlEyU1BPS01nVTdGZ1ZRT2RqSHM4a043d3NQOUVhMXNLNlNUaEUydzhtZXNKcVVHSjg2VHA0TVYxVzA3Wmt4amRoOXF5NjNLUm9QRV9RSnpJM0Q5cUF4LXJ1WjBtVGo2c01mazVnd1NvVVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-09-16-012",
+    "date": "2026-09-16",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "positive",
+    "title": "Adidas stock gains as RBC sticks to Outperform rating - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNamJXaWZ6bnVXNVJoQW00WC1idlpkcVJPbUt1S1p4M3dFN2pUODhidkpiaV9EYmloVU10cjE5RlNqeEh2X2NGc0xGWmxLeVQzZ2dtcFZtWnpSbzJhXzhBSnFUNEpzZW9UOGtLM1dLS0",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamJXaWZ6bnVXNVJoQW00WC1idlpkcVJPbUt1S1p4M3dFN2pUODhidkpiaV9EYmloVU10cjE5RlNqeEh2X2NGc0xGWmxLeVQzZ2dtcFZtWnpSbzJhXzhBSnFUNEpzZW9UOGtLM1dLS0pEOUc2b1NCclNpWlRsd1R1TUhFX3ZvN0hHTHBlOHBNVnpjZmdXcFB3S1RZQWlfTkxwYzFqWUxpVGY0RWFXX0hGNTNDNHJGbTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-09-16-013",
+    "date": "2026-09-16",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon Just Dropped 18% in a Month. Is It Time to Sell? - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDRGZjRtODZrcWhFeXBsNFNIZnBXbzJOV3BZQjFmTjdPdExaVDlvWHU4Z0xJVXdGY1FjZWZ2SnRMUjFZYjJoSTFOVVY0dmN2ejRwaTZieUU0Sk1iWFN1VGlscnZaVi13dzM5WFJQcm",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDRGZjRtODZrcWhFeXBsNFNIZnBXbzJOV3BZQjFmTjdPdExaVDlvWHU4Z0xJVXdGY1FjZWZ2SnRMUjFZYjJoSTFOVVY0dmN2ejRwaTZieUU0Sk1iWFN1VGlscnZaVi13dzM5WFJQcmVsdDNxOFA5bU1WaHN1Z1FDMlpQOS1WSHlfQm1yX0s1Tng1VU5WRkdmSVhVdkota2ZK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-09-16-014",
+    "date": "2026-09-16",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VF Corporation Cut Its Dividend 82%. Five Historical Cases Show What Could Happen Next - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHFuWklKV3FGOHRjUWdHMUtYeVl4bkxqRThaMllXdU9MVmJXWDhBYmUyLTFBZGtUZ2hCaHVpZzg4QVVRb2xxVEU4MTBqYjZFZjc3NzhGTUU4cVBKZDZxTmxtTUZwN3kwZDBsR0xmNV",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHFuWklKV3FGOHRjUWdHMUtYeVl4bkxqRThaMllXdU9MVmJXWDhBYmUyLTFBZGtUZ2hCaHVpZzg4QVVRb2xxVEU4MTBqYjZFZjc3NzhGTUU4cVBKZDZxTmxtTUZwN3kwZDBsR0xmNVRhdHYxOF9peXZSSHJnaHdkV1lYeDV1NC0yUDBiZnliQWZCSzc3RFdsZVIwUTFmaUt5R1lMMVZPd0RuS2ZTYlBkVGlMb091MFQ5N2EzaS1RZl9jaDc0MDVF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-16-015",
+    "date": "2026-09-16",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Reflecting On Consumer Discretionary - Footwear Stocks’ Q2 Earnings: Nike (NYSE:NKE) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmp1aUV5S0xmUXhIaXp3aHRvTDVuWjVfZjNDLU52SDJGR2JFWF9PUmxHU1VueFJBeURWbVIya3B3eHZxZW5mSGotbWVFVUZuSXdlU3lVTmRMZVNpLWFoSW9RZ3h3dnVJcFRFazFqV2",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmp1aUV5S0xmUXhIaXp3aHRvTDVuWjVfZjNDLU52SDJGR2JFWF9PUmxHU1VueFJBeURWbVIya3B3eHZxZW5mSGotbWVFVUZuSXdlU3lVTmRMZVNpLWFoSW9RZ3h3dnVJcFRFazFqV2tiSTNCQlN5ZkhPeEhCd2RXQ1ZDREhtZE12MkNQMWhyTUJqdk5ITDJaOHc2VjZqVlZHWlFSLVB4c0ZpS3VfLVhEOWZWYVY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-16-016",
+    "date": "2026-09-16",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Alexandre Arnault Joins NIKE, Inc. Board of Directors – Company Announcement - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOajBzZ25xcmsxQ0twMnZWTy1qQ29heTRFMWRyTUFaQWpRalI4SzkyeTBSQ3Z2MTItT09ua3Byc2c5aWNMVnRIVlVwSTJmYXdIN2RWMnR5Z0hNWi1tREpnb1JWR0k0Z1h5MVllQkE0a2",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOajBzZ25xcmsxQ0twMnZWTy1qQ29heTRFMWRyTUFaQWpRalI4SzkyeTBSQ3Z2MTItT09ua3Byc2c5aWNMVnRIVlVwSTJmYXdIN2RWMnR5Z0hNWi1tREpnb1JWR0k0Z1h5MVllQkE0a2NQV0NkdGFxdFpJeGloY2RqcTJnXzhMNkVMV3dwc19TNDFFTHM5ak91cmRKSzNfSHoxSTZ5REZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-16-017",
+    "date": "2026-09-16",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Sets October 1 for the $140 Caitlin 1—and for Its Next Earnings Report - TechStock²",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2dVY1FQTUpKcnNfMW5ITDlWVFdmS29LRWJpSEl0dTVjeXNrUHVPc09yR0J1RDZud0ZBXzcyMkJtMGtlNlYyUjI3Ym5rSUFpSXltMFhUemdkTlJSUUVRcldjczhmVUktUmJJd2JpM0",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2dVY1FQTUpKcnNfMW5ITDlWVFdmS29LRWJpSEl0dTVjeXNrUHVPc09yR0J1RDZud0ZBXzcyMkJtMGtlNlYyUjI3Ym5rSUFpSXltMFhUemdkTlJSUUVRcldjczhmVUktUmJJd2JpM0FfWGdSWmgwb0FLNkhXYUZpZVo3V056bzFMcnRzSFg1bG5pU2hWbVA3NkE3WQ?oc=5",
         "type": "rss"
       }
     ]
@@ -623,6 +810,42 @@
     ]
   },
   {
+    "id": "adidas-2026-09-15-024",
+    "date": "2026-09-15",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Benfica, Adidas extend record US$138mil sponsorship deal - The Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVlsbFd6M0FfUE84SGx2dk5ydE1ObEFlNlF6NWlNTE8zSm1wTl9LekdfWktsb2VkVFIydVA3ckxXWDNFaENYZk9fbGJCVlBwc05YLXBHVjZmelNUM092MkY2dnEzM3M5MEhua0h6OX",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVlsbFd6M0FfUE84SGx2dk5ydE1ObEFlNlF6NWlNTE8zSm1wTl9LekdfWktsb2VkVFIydVA3ckxXWDNFaENYZk9fbGJCVlBwc05YLXBHVjZmelNUM092MkY2dnEzM3M5MEhua0h6OXNFQzBNZ1ktS1JmSG9fS3phX1pKaWlHc19WOV9fRTBVVERBcDE3WU5fT01QYUZtbG1oSVFMaEFEcmh3T1VraThTRUx0SW1mUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-09-15-025",
+    "date": "2026-09-15",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "In About-Face, British Museum Bans Photography of Bayeux Tapestry - artforum.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHl2NnQzUFhTUVB4ajlSNWlmZXFaZGgzV2ItcGhwSmlTcmtpY09OQkU0VzNZekVCLTNWQk5xZUpOOFRKRW1WUlc5QUo1ZmNWR2ZmZWh6eHI3UUVwN08wWkNTZjJtMUxLNGxOZGtPcT",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHl2NnQzUFhTUVB4ajlSNWlmZXFaZGgzV2ItcGhwSmlTcmtpY09OQkU0VzNZekVCLTNWQk5xZUpOOFRKRW1WUlc5QUo1ZmNWR2ZmZWh6eHI3UUVwN08wWkNTZjJtMUxLNGxOZGtPcTFTdExWbXNoanlpZVItdW1qcnVEdHlBeEJLMTZGb0xTWUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-09-14-001",
     "date": "2026-09-14",
     "companies": [
@@ -1001,6 +1224,24 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUW8teEJPZ0tFQ3lWVWx3QlJad0lJakJvLV9NV240dGlFSWNOTHRVeWY0MExXdF9uMl9CMFhmWk0yMjZickI3NVBlLUJJMFc3Z2NjaEozMTE2Y0lfVVRnTVBGZU9sQXVLdzgtOGNOMnFod2xTUzN1NFRCTkF2VEhpTF9tbzN2dVJKUFM4SA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-09-14-022",
+    "date": "2026-09-14",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH CEO & Director Acquires 7.8% More Stock - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVV2MUtsNTl5Yk16VkVBdGJfQjR1d0VfWkJNRzhCOGZTNFpVdTloNE1tQ2JTb3ZiWkpsWllWaTFEcjZwVXFLLXptU2w5YV9DbVlDd2VrVUY5LWpfcTFodDM2ZTFBQXhzSFJwUTlKb1",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVV2MUtsNTl5Yk16VkVBdGJfQjR1d0VfWkJNRzhCOGZTNFpVdTloNE1tQ2JTb3ZiWkpsWllWaTFEcjZwVXFLLXptU2w5YV9DbVlDd2VrVUY5LWpfcTFodDM2ZTFBQXhzSFJwUTlKb1RxdDJEN1Ayc3hnSXlJYXE5THpETmtrUWFfVGc?oc=5",
         "type": "rss"
       }
     ]
