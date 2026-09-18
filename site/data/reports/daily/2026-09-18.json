@@ -1,0 +1,235 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:27:16.499413Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-18-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LVMH’s luxury crown slips as consumer spending starts to shift",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/lvmh-s-luxury-crown-slips-as-consumer-spending-starts-to-shift-313586-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-18-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vietnam projected to lead SEA-6 growth at 6.2% annually through 2035",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-projected-to-lead-sea-6-growth-at-6-2-annually-through-2035-313583-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "adidas-2026-09-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas stock reacts to Bank of America price target cut - AD HOC NEWS",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXFuc0FFVU5iM0lmZUQ1S1gxeFdQQzVyaDNTQkkzVzdmRjFaOHlsSy1ORzJUb0JKOGNDSmJYQXlfZkhjSVcwRDNNNmpmNkJrMkZRaUhCS0R4NFFmekR1ZWJPRkIyRGhYVXJOTWFrTFFXcXFiUGVaTU1YQ0k3TTVqd2tLSGJpbG95M1VrVEd6cS1uWFR5T1BOUENHNlNVLTNrQ0xxUjRDZVhBZWZCYzdhZFdyT2wtX1NrekE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-09-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "lululemon athletica inc. (NASDAQ:LULU) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ3dneHVnM285ejVvVWZwYUNET2VNLW5Cby0yM2JYV1hUd1V1RWZGNXFGdEwzbmZ0ZGxaSnJJLVNwUC1wS1NpTnNQQjlXUmppbmh5THc0bjdjUl93bU5zWjFiSjB0cVNnYkNKYkFndVk0cWVRalA0WERva2lOc3FxdkVqWERWZjlBSXZTWmxrdHZOQnQybDVtT3YtV0drdWRSV21nMEczTlU0aG5DYm1IYzBFU2ZOMWxoYlM1THpYUDFyZlVrcVBQMkYtekk5UzlLYzNMR0lRT3lBOGVtamdoaEtrQnB3SWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-09-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Bayeux Tapestry at the British Museum review — full of drama and disbelief - maxwell museums",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmxOWExodEVSeERuVXNpc3ByM2YySGVfSHFNelRUNjRLc3JvQ3lBM0pLQlZOTUVYMzRPMnJDOWtmbnRHRS1UQmtTWmpHNzNnXzVMaWk5ZWZpZGNJUHltdHB1aU9vMkZyemRoZWVXYTM2dmw0ZFNKT2tRTWtwbEhxb1FEN3llUWk2UGc2ZWRCbDJXSnhwQ2s4YkR4WkY0aG5pdzBvb3N0cXhoWjRHQUtBS1Zn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.67,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 106,
+    "too_old": 208,
+    "gate1_blocked": 21,
+    "gate2_blocked": 41,
+    "passed": 29,
+    "pass_rate": "9.7%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "FENC Elevates Sustainable Finance Innovation, Winning - feg.com.tw",
+      "Alexandre Arnault Joins Nike’s Board of Directors - The Business of Fashion",
+      "Downfall of Nike leaves it a long way from Jordan era - The Times",
+      "Why Nike Is No Longer a Blue Chip Stock - The Business of Fashion",
+      "adidas AG (ADS.DE) P/FCF US GAAP (year values) - Smart-Lab"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Coach、愛迪達、Lululemon相關動態：「LVMH’s luxury crown slips as consumer spending starts to ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LVMH’s luxury crown slips as consumer spending starts to shift（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vietnam projected to lead SEA-6 growth at 6.2% annually through 2035（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

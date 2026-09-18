@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 208,
+  "gate1_fail": 21,
+  "gate2_fail": 41,
+  "passed": 29,
+  "gate2_samples": [
+    "FENC Elevates Sustainable Finance Innovation, Winning - feg.com.tw",
+    "Alexandre Arnault Joins Nike’s Board of Directors - The Business of Fashion",
+    "Downfall of Nike leaves it a long way from Jordan era - The Times",
+    "Why Nike Is No Longer a Blue Chip Stock - The Business of Fashion",
+    "adidas AG (ADS.DE) P/FCF US GAAP (year values) - Smart-Lab"
+  ]
+}
