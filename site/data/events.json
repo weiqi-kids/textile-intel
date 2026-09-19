@@ -1,5 +1,136 @@
 [
   {
+    "id": "adidas-2026-09-19-001",
+    "date": "2026-09-19",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas stock gains support as Citi trims price target but keeps Buy rating - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZXNzMloxWXBEdWhwNHVidkhKSEVrTERNQkxobGtOZDJFMWtqQXpTbXRMOU1oeDdGa1FjZUJWaGJJeGtNRFNMQzllYTFKVlFhaldwSUgySDg4Vmh5TW1fMV9pZm93V0NCTzFGZTFteH",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZXNzMloxWXBEdWhwNHVidkhKSEVrTERNQkxobGtOZDJFMWtqQXpTbXRMOU1oeDdGa1FjZUJWaGJJeGtNRFNMQzllYTFKVlFhaldwSUgySDg4Vmh5TW1fMV9pZm93V0NCTzFGZTFteHhJcktNM1M4Z0NLLUp0YjdzUHFmSjVVX1RodWUxejFvWTlWNGYwRU0wZWRXYTh5Vi1UT0c4RXhRZVJoRzNJQUphM0QtdmE4UGVZZFNRbGVEWXBMYmNfTmhhRDNNeVROeFNtUlh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-09-19-002",
+    "date": "2026-09-19",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PVH stock gains on valuation focus after recent earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGxzLU45NWQwNGlPMDlGVTZzdGdRZEJLR0tLX0JOV0pGLWpnVVlfZHdOVmxGN0tHbDhNU0Y3NWRGdDk3d0tXc2ViSWZiWEhxbDE5LS1zczVQVzBQaHdVdmdHMzloWGlfQmI1U200ck",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGxzLU45NWQwNGlPMDlGVTZzdGdRZEJLR0tLX0JOV0pGLWpnVVlfZHdOVmxGN0tHbDhNU0Y3NWRGdDk3d0tXc2ViSWZiWEhxbDE5LS1zczVQVzBQaHdVdmdHMzloWGlfQmI1U200ckd0R2RJYWtnTE5yVmZJNmtJWWI1eXJVMF9rLWhYS1dvZ1Y4SUNBSTBqLUo3ejN4YkpfVVpuRGxnazRMMzFLYWV1UmtXeUV1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-003",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Trump signs law as India risks 100% tariffs over Russian oil",
+    "summary": "US President Donald Trump has signed H.R. 5334, expanding sanctions, tariffs and prohibitions on Russia and extending existing sanctions on Iran. \nThe law can expose goods from top Russian oil and gas",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/trump-signs-law-as-india-risks-100-tariffs-over-russian-oil-313618-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-004",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "India's FY27 GDP forecast raised to 7% on economic resilience: Moody’s",
+    "summary": "Moody’s Ratings has raised its forecast for India’s real GDP growth in FY2026-27 to 7 per cent from 6 per cent, citing stronger-than-expected economic momentum and resilience to global disruptions. \nG",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-fy27-gdp-forecast-raised-to-7-on-economic-resilience-moody-s-313602-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-005",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India’s trade gains face new tariff uncertainty",
+    "summary": "New Zealand’s Parliament has passed legislation to implement the India FTA, with all Indian goods to receive duty-free access after ratification.\nFor Indian textiles, apparel and made-ups, removing 5-",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-trade-gains-face-new-tariff-uncertainty-313593-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-006",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Weak demand drags cotton yarn prices lower in South India",
+    "summary": "Cotton yarn prices declined in Tiruppur and Mumbai as weak downstream demand, payment constraints and falling cotton prices kept buyers cautious.\nTiruppur prices dipped ₹4-5 per kg, while Mumbai eased",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/weak-demand-drags-cotton-yarn-prices-lower-in-south-india-313610-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-007",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "US cotton exports weaken as Upland shipments fall 20%",
+    "summary": "US Upland cotton net sales for 2026-27 fell 4 per cent to 71,200 RB, 30 per cent below the four-week average; Vietnam led buying.\nUpland shipments dropped 20 per cent to 142,100 RB, while Pima sales f",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/us-cotton-exports-weaken-as-upland-shipments-fall-20--313608-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-09-18-001",
     "date": "2026-09-18",
     "companies": [
@@ -212,6 +343,42 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/india-apparel-exports-slide-11-as-6-5-bn-sourcing-prize-emerges-313590-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vf_corp-2026-09-18-013",
+    "date": "2026-09-18",
+    "companies": [
+      "vf_corp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VF Corporation stock gains analyst attention as Deutsche Bank resumes coverage - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNbEYxS1J2VDVVU3RqV21FajlQYUgtTzhsYi1GRzNEdml2T1dqTDB5VW84Q0tKU1B3ZjV0UE9CbFptelpIUjFjWUdKNm85Ym5PamFJYk5Id0w3b0gxY2dxN3g5d0JMb2hXQ0dZV0dzMH",
+    "sources": [
+      {
+        "name": "vf_corp",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbEYxS1J2VDVVU3RqV21FajlQYUgtTzhsYi1GRzNEdml2T1dqTDB5VW84Q0tKU1B3ZjV0UE9CbFptelpIUjFjWUdKNm85Ym5PamFJYk5Id0w3b0gxY2dxN3g5d0JMb2hXQ0dZV0dzMHZaaEdPcFpqaWFXYjVMQkdqanFhMDI1dWV0UWVHenVOZFgxc29scVQ2ZUJGQzgyNjNNajBBWjBaSWVaZzJ3SHVseWZiX0pObXljVG95VXE4ZjNkaDA2OE9xSGxIYkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-09-18-014",
+    "date": "2026-09-18",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Continues Brand Elevation and Efficiency Efforts, but Consumer Demand Is Shaky - morningstar.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPVTlFTTdtRFdfUkExS2p2NWVESXFWUXh3Z21UYUt2MFEzRWJsRk9xbUtpeDVueU1pbEEzWnBhR3hOa1RUSjRmUldEYXFicHY4TXctam02eHI1c256R0t1aTlLTWtJbndMbFR2YmlHbX",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVTlFTTdtRFdfUkExS2p2NWVESXFWUXh3Z21UYUt2MFEzRWJsRk9xbUtpeDVueU1pbEEzWnBhR3hOa1RUSjRmUldEYXFicHY4TXctam02eHI1c256R0t1aTlLTWtJbndMbFR2YmlHbXd3TVRjNkg0UEttZ1QwRTVBdmFjaHRDek50NnNVRWpzS25OMVF0UGdOblNuYXg0U25wb2F0cDA0Snp6T2p2WEI3NXFfY1ZTeUhzcm9vaVVNVUFTS05XNDlkOVdubTgtdw?oc=5",
         "type": "rss"
       }
     ]
@@ -489,6 +656,26 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbzR1Q2plNmlmeUtGRWdnenpFcjhPTlVpTzVjUnNNSUs3eURCZ0wzUXJnb1JJMFBMMHpWTGhJVEJtMG9Bbk0welRqSmtUeS0xUE5ESkFxOFdiNk5GcjJSMEc2a1htLUxDSHg4MnNRbHlPQTdIekZhYUhqdW9hUDdvQUtKT1Yxd1I2eEg3VkI2OTQxSG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-09-17-016",
+    "date": "2026-09-17",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lululemon (LULU) Cuts its Outlook Again Just as a New CEO Walks through the Door - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnRtSWEzR0xCUDh4RENrYWdpYnZqMEU1TkVwbHJsX0g2U1RkZlJSQmpKUWZtbjU5MUw2bF9VQnRjMnRlSUNudml4bEROalVIdUZsdFdRS0hLbENwRFJpclJZN1Q0QmxBNV9qdzdhVF",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnRtSWEzR0xCUDh4RENrYWdpYnZqMEU1TkVwbHJsX0g2U1RkZlJSQmpKUWZtbjU5MUw2bF9VQnRjMnRlSUNudml4bEROalVIdUZsdFdRS0hLbENwRFJpclJZN1Q0QmxBNV9qdzdhVF9IOFZUMVFDZHZTMllSbWdvTU5OYjZFSFZsUFNyMWNaSjFPMlZZdWlJYjl6VW50d1k?oc=5",
         "type": "rss"
       }
     ]
