@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:44:28.344241Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vf_corp-2026-09-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corporation stock holds at low-teens while earnings pressure keeps analysts cautious - AD HOC NEWS",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdExXR3lfbmczaHZNOTBWa3ltNS1mQk5LRjhia2hnSEVucXNONUlWUGwwMW1GM0dobzJIZmQ0dFVpWGtpNFozN2l1c3ZfR2EyS3FkYU9pTk4zRkk1NFhFWWRVTlJSd3g0d0N0YXlJOFEtUk9aSWZUZWE4bXVhN3ozekwxeXl3RFd6MVFVdi1ENDV6cGowNkY1RnpmMUZObS01TGNiWW9mUWI2Ui1ma2Fxa1dqWXZLS0tWU05taXpEUDdNQkh2by1sSnE4Mzg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-09-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Corp DE Takes $70.24 Million Position in lululemon athletica inc. $LULU - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZmZ2Q2M0NXFqTWNWSFhvTUpNdmstN05vdmNXUVQwUmdqQ0FTWVNXS0s2STVIZG45X3NRUGVuY3pCYWNpV3hjODFyTENKM29NMmY0QmdGSFBtUzlBRVRqN3d2UVJMVE4xYW9EQk5lOFhQeGE3MHplcEcyUFJfUzZYU3M0b0pJMjhrYWtqejZnZU5qdjRJR2VnZGlESC1td1VzNFRLZG1DRTlpLW9reVQ1MHhPSDJHaGRmVmFQU3NtVlZzY2VIbTV6TE1MVkM3V3lUNEtkY2hVX3R3WTFv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-09-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "British Museum bans photographs of Bayeux Tapestry - telegraph.co.uk",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN3E1ZHBVTUdTVFo1M1ptbXVWNGxNNWhnY2VtcEN2RjJ3YWxLUUxTMEU2M1U1My12anVBcW54TmhxZm1sN1hJUy0tWWZyeHlPdFJNaGdZU0NUZzRodm1FWVlhMVJBTTYtX0t1cUJTbzU3VVpPb0VJbUhMTmw5N29EeWhpdXdkdGpJM3R2NDNWeU9NZEpRVWlIbDJ5TQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India’s trade deals creating new markets for entrepreneurs, says Modi",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-trade-deals-creating-new-markets-for-entrepreneurs-says-modi-313623-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CITI seeks India-US talks over 100% tariff law signed by Trump",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/citi-seeks-india-us-talks-over-100-tariff-law-signed-by-trump-313621-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 114,
+    "too_old": 210,
+    "gate1_blocked": 27,
+    "gate2_blocked": 36,
+    "passed": 18,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "12.4%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "FENC Elevates Sustainable Finance Innovation, Winning Best Sustainable Treasury Solution at 2026 Ada",
+      "Alexandre Arnault Joins Nike’s Board of Directors - The Business of Fashion",
+      "Downfall of Nike leaves it a long way from Jordan era - The Times",
+      "A New York Label Made a Nike Tennis Sneaker as Chic as Its Clothes - Highsnobiety"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Lululemon、VF、Coach相關動態：「VF Corporation stock holds at low-teens while earnings pr...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "VF Corporation stock holds at low-teens while earnings pressure keeps analyst...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bank of America Corp DE Takes $70.24 Million Position in lululemon athletica ...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

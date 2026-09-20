@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 210,
+  "gate1_fail": 27,
+  "gate2_fail": 36,
+  "passed": 18,
+  "gate2_samples": [
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "FENC Elevates Sustainable Finance Innovation, Winning Best Sustainable Treasury Solution at 2026 Ada",
+    "Alexandre Arnault Joins Nike’s Board of Directors - The Business of Fashion",
+    "Downfall of Nike leaves it a long way from Jordan era - The Times",
+    "A New York Label Made a Nike Tennis Sneaker as Chic as Its Clothes - Highsnobiety"
+  ]
+}

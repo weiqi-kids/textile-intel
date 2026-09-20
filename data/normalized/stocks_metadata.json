@@ -13,20 +13,20 @@
   },
   "far_eastern": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6643,
+    "latest": "2026-09-20",
+    "count": 6644,
     "history_complete": true
   },
   "formosa_taffeta": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6643,
+    "latest": "2026-09-20",
+    "count": 6644,
     "history_complete": true
   },
   "lealea": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6643,
+    "latest": "2026-09-20",
+    "count": 6644,
     "history_complete": true
   },
   "shenzhou": {
@@ -37,14 +37,14 @@
   },
   "eclat": {
     "earliest": "2001-04-18",
-    "latest": "2026-09-18",
-    "count": 6307,
+    "latest": "2026-09-20",
+    "count": 6308,
     "history_complete": true
   },
   "makalot": {
     "earliest": "2003-01-22",
-    "latest": "2026-09-18",
-    "count": 5847,
+    "latest": "2026-09-20",
+    "count": 5848,
     "history_complete": true
   },
   "nike": {
