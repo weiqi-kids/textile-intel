@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-21",
+  "date_range": {
+    "start": "2026-09-15",
+    "end": "2026-09-21"
+  },
+  "generated_at": "2026-09-21T14:40:34.839339Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lululemon-2026-09-15-004",
+      "date": "2026-09-15",
+      "title": "Does Soft Earnings Reset Change The Bull Case For Lululemon (LULU)? - simplywall.st",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 15,
+      "last_week": 14,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.02
+    },
+    "supply_chain_shift": {
+      "this_week": 35,
+      "last_week": 34,
+      "week_over_week_change": "+3%",
+      "sentiment_this_week": -0.01
+    },
+    "order_visibility": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.09
+    },
+    "cotton_price": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.09
+    },
+    "sustainable_textile": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "lululemon": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "tapestry": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nike": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 3
+    },
+    "adidas": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "pvh": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lenzing": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "vf_corp": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 8
+    },
+    "toray": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "eclat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 122,
+        "last": 169,
+        "change_pct": -27.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-15",
+      "event_count": 25,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 21,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 19,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 18,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 11,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 7,
+      "sentiment_avg": -0.21
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 21,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-15 ~ 2026-09-21）共 122 則事件，重點為「Does Soft Earnings Reset Change The Bull Case F...」。VF情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "VF",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Lululemon",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Coach",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
