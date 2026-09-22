@@ -1,0 +1,234 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T12:55:21.584156Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-09-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wall Street Slashes Targets On Lululemon Athletica (NASDAQ: LULU) As Analysts See No Clear Bottom After Jarring Guidance Cut - foreignpolicyjournal.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQi1xOVJYQU85YWk0VGJscXR5eVVJQmFKb2k5OGRFdlplUkxla25KRW5Najl5eVAyQVI3YnpCbjZPWUhJSjQxVjl6amVWUEw5LUgzUmhLQ1dvdXdmdzZ6TDJCOXhZZEJxN0wwOHFjR3AzRW9Dc0YzejFkOVJzcVl5b3JtU1FMcHhTTFdFZW5zbnVxbWttOVZHaVk5RlJqUkFwaHVMSDZRcFVfS1RQb0o3Z2c5NDR6QmNVeDg1cEFHc1Nwa2Q0M0EtLV95a1FLSm5WX0haQ3NLSUtCZnV5VkVGZ0lQZDVXYlRBZURMcld1OHdYVmRqU2E4RmNqT0xCbzQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-09-22-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon Athletica stock extends rebound as investors digest guidance cut and earnings beat - AD HOC NEWS",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQThDTFZGYTRLUzFnVllsZFM3aHhpbkJCQlM5OHFKNXZRdzk4bERMWWlsTVBxcl84Y2tVTWNQUFVocDVhbzN0NnFoRG56aFJvRFlTRjZ4THEtaDY1bGNGTlhNUm1CTHVMQU12MFlDN0tqZF92NkpRclNKdTA3aURfMS0xelNEanBtQmREMXVKTXdUZ19vNl93ampwckNvbl8tZkZST292NWhrT3cyVjBMdU5oMm9kMWtqdXh5UkU3TXZYUXpod2dnZ2djYjFTQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-22-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India's jute sales seen rising 15% this fiscal as fibre costs ease",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-jute-sales-seen-rising-15-this-fiscal-as-fibre-costs-ease-313672-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-22-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heat is erasing 4.1% of Bangladesh garment factory revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/heat-is-erasing-4-1-of-bangladesh-garment-factory-revenue-313682-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-09-22-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike (NKE) Stock May Be 12% Undervalued Following Earnings Forecast Cuts - simplywall.st",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTHlvUmhodUF2bW5acUFMS3JaejVTeGZjVGxCS1lpT0N3VXRKZG5qUXFtS0RtcUI1VE9xNFZvZ2JLbm0xeHRvdDJ5MUppdHhLNWptcTBSUzhpNHZwSzM2SV9lYTUyWEU2SHBRbkxfNkZjZUpMQmxuUXRVZFV2bGtJYTQybmpQaGNoYTNsZFBLU2xYRHkxSENBSUQzbDB5VzZhX1pZMGpsVFZITWxveHRNbzlqRkNpUTBNQlNtVzRZNlpzVDFLYUdYMtIBzgFBVV95cUxPOUc2MjZQQ0dSZkF6a2Z0b0hFQUozQ1JKNFNkcEtpWUlrR1paS0E3YTN3NDFuUk9wc1M0bUExY0FIam85RVVNR2k1UG5NRUc5VVNSNjM4TEhzVjZqR1E3X1hpNDBsRnFEVUV0ZVF5NEZRd2lZMXczd3h5YnlUamFrdGJtempFc1kzQlIzYm04OEpTWmhUTmZNcGlNaklxRFpSNEh3c2N6VVRCZkYtLTd1LXdmUGJvTHEtaFNpNVdPaDRVZWMxZXQ2QTN2V0pDZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.34,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 3
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 114,
+    "too_old": 207,
+    "gate1_blocked": 28,
+    "gate2_blocked": 36,
+    "passed": 22,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "Far Eastern New Century Unit to Sell Land for NT$754 Million - marketscreener.com",
+      "Far Eastern New Century: EPS surged 74% YoY in 1H26, with green products and sustainability driving ",
+      "Far Eastern New Century's Unit to Sell Land in New Taipei City for NT$202 Million; Shares Down 4% - ",
+      "FENC Elevates Sustainable Finance Innovation, Winning Best Sustainable Treasury Solution at 2026 Ada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Lululemon、愛迪達、Coach相關動態：「Wall Street Slashes Targets On Lululemon Athletica (NASDA...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Wall Street Slashes Targets On Lululemon Athletica (NASDAQ: LULU) As Analysts...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lululemon Athletica stock extends rebound as investors digest guidance cut an...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

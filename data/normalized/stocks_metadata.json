@@ -7,44 +7,44 @@
   },
   "lenzing": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-21",
-    "count": 6757,
+    "latest": "2026-09-22",
+    "count": 6758,
     "history_complete": true
   },
   "far_eastern": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6645,
+    "latest": "2026-09-22",
+    "count": 6646,
     "history_complete": true
   },
   "formosa_taffeta": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6645,
+    "latest": "2026-09-22",
+    "count": 6646,
     "history_complete": true
   },
   "lealea": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6645,
+    "latest": "2026-09-22",
+    "count": 6646,
     "history_complete": true
   },
   "shenzhou": {
     "earliest": "2005-11-24",
-    "latest": "2026-09-21",
-    "count": 5133,
+    "latest": "2026-09-22",
+    "count": 5134,
     "history_complete": true
   },
   "eclat": {
     "earliest": "2001-04-18",
-    "latest": "2026-09-21",
-    "count": 6309,
+    "latest": "2026-09-22",
+    "count": 6310,
     "history_complete": true
   },
   "makalot": {
     "earliest": "2003-01-22",
-    "latest": "2026-09-21",
-    "count": 5849,
+    "latest": "2026-09-22",
+    "count": 5850,
     "history_complete": true
   },
   "nike": {
@@ -55,20 +55,20 @@
   },
   "adidas": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-21",
-    "count": 6828,
+    "latest": "2026-09-22",
+    "count": 6829,
     "history_complete": true
   },
   "inditex": {
     "earliest": "2001-05-24",
-    "latest": "2026-09-21",
-    "count": 6497,
+    "latest": "2026-09-22",
+    "count": 6498,
     "history_complete": true
   },
   "hm": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-21",
-    "count": 6779,
+    "latest": "2026-09-22",
+    "count": 6780,
     "history_complete": true
   },
   "lululemon": {
