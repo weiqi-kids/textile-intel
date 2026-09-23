@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 231,
+  "gate1_fail": 25,
+  "gate2_fail": 37,
+  "passed": 21,
+  "gate2_samples": [
+    "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+    "Far Eastern New Century Unit to Sell Land for NT$754 Million - marketscreener.com",
+    "Far Eastern New Century: EPS surged 74% YoY in 1H26, with green products and sustainability driving ",
+    "Far Eastern New Century's Unit to Sell Land in New Taipei City for NT$202 Million; Shares Down 4% - ",
+    "FENC Elevates Sustainable Finance Innovation, Winning Best Sustainable Treasury Solution at 2026 Ada"
+  ]
+}

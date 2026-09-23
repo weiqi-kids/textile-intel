@@ -1,5 +1,231 @@
 [
   {
+    "id": "nike-2026-09-23-001",
+    "date": "2026-09-23",
+    "companies": [
+      "nike",
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Should Investors Buy Nike Stock Instead of Lululemon? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0xOT0p4NHdqNy1aQV83QW1hdmRVZmFRM2ZpRC1yaDJWRWlYdy1UTTczTDNEZTRrUjJvaVVrUWd3dndvSjlOOXlTQzRqU2lSM0NkcUZseDRHOGxwQS10ZGpCbGJXU1hkMDIwYl9WYU",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0xOT0p4NHdqNy1aQV83QW1hdmRVZmFRM2ZpRC1yaDJWRWlYdy1UTTczTDNEZTRrUjJvaVVrUWd3dndvSjlOOXlTQzRqU2lSM0NkcUZseDRHOGxwQS10ZGpCbGJXU1hkMDIwYl9WYUs3MExVSWxxTW1CVGc5akRnMjhPMmUwaV9qYjBYZXlaU2h3TXV3cl9fYXpTR29uX2FOMnhGOU9DRThvVWNjNk1uX01yOVE1cmNfV0NDZnhfRlJQNzluNjcyRWxsMm90MFFtVDFtag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-09-23-002",
+    "date": "2026-09-23",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A Look at PVH Corp (PVH) After 3.4% Gain -- GF Value $98.81 vs Price $75.89 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkVfd0JWcHJtN2VHLUF5eHM2aFBGVFZ2Q3hzVmUxUmRLTXNCQTd5NnVDWGZESWQwdE1TaGRIREJvRk5LR3lQMzVfRG1QbVFBYWtWdDhsVW5Vd2Y5U1NEUk4wSU1NV0xhYmNQQlp0VT",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkVfd0JWcHJtN2VHLUF5eHM2aFBGVFZ2Q3hzVmUxUmRLTXNCQTd5NnVDWGZESWQwdE1TaGRIREJvRk5LR3lQMzVfRG1QbVFBYWtWdDhsVW5Vd2Y5U1NEUk4wSU1NV0xhYmNQQlp0VTQ3UVRsZE96dGhUdU1manI1UnRlWGxyRFRQR0NzRXR4d0J5S0FFNlJPeS05VXZtbElsRGV3dHJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-09-23-003",
+    "date": "2026-09-23",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "British Museum bans visitors from photographing Bayeux Tapestry - The Art Newspaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORkhud2FjZFQtWnFfSDlJYU9LQ0FReEdvb01FbmZ1QktCck1wU0xpUGEtWFU1VU5OWlZYemxlaFQ3N2V6N1FWNkI3bXVuN1hQdkRreVV0aGRFUUJhcll6QVowWUxvd1VfLXM5c2ZueF",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORkhud2FjZFQtWnFfSDlJYU9LQ0FReEdvb01FbmZ1QktCck1wU0xpUGEtWFU1VU5OWlZYemxlaFQ3N2V6N1FWNkI3bXVuN1hQdkRreVV0aGRFUUJhcll6QVowWUxvd1VfLXM5c2ZueFVLZE02UktmcGhiNDdjMUFwdDVtTk9LZ09iN1BIZFZfVE56NkpYSVFHbzNuR1RSUUJVV2h1YUpHVjNLdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenzing-2026-09-23-004",
+    "date": "2026-09-23",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Lenzing pivots to premium as specialty fibre supply tightens",
+    "summary": "Lenzing is exiting low-margin textile fibres, closing Austria and UK plants and shifting to branded specialty fibres and nonwovens.\nH1 revenue fell 5.5 per cent, but net result after tax more than dou",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/lenzing-pivots-to-premium-as-specialty-fibre-supply-tightens-313714-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-005",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India’s textile growth hinges on value addition & automation",
+    "summary": "SIMA says India’s textile industry needs higher-value products, automation and diversification to strengthen global competitiveness.\nPalanisamy urged investment in man-made fibres, technical textiles,",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-textile-growth-hinges-on-value-addition-automation-313710-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-006",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India's FY27 GDP growth forecast raised to 7% from 6.6%: S&P Global",
+    "summary": "S&P Global raised India’s FY27 GDP growth forecast to 7 per cent from 6.6 per cent, citing stronger-than-expected industrial activity, consumption, exports and government investment. \nIt expects growt",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-fy27-gdp-growth-forecast-raised-to-7-from-6-6-s-p-global-313705-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-007",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Giving yarn packages a digital identity: What it means for mills?",
+    "summary": "Barmag presented atmos.io on September 10, 2026, as a smart-factory platform for yarn production, giving each package its own production data.\nThe system links polymer processing, shop-floor data, ERP",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/giving-yarn-packages-a-digital-identity-what-it-means-for-mills--313707-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-008",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "neutral",
+    "title": "ICE cotton eases after sharp rally as export demand weighs",
+    "summary": "ICE cotton futures settled lower as traders weighed Monday’s sharp rise, with volume easing to 52,195 contracts.\nUS upland export sales fell 4 per cent week on week to 71,231 bales, while shipments dr",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-eases-after-sharp-rally-as-export-demand-weighs-313706-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-23-009",
+    "date": "2026-09-23",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BTIG shares its Nike stock outlook ahead of next week’s earnings - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczk0U0UycEhjSXZqdllrdGdsUzEyRERRMkJHTXpWS3hOVXBsN0lEUmhIMFNrdzRXMk9ra2NZY1h3R3hPVnpIU2xPb0N5bzU2NlZDR0xCQUNXeFpTWVR5U0p5Nkp0LTEweEppbVNsUU",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczk0U0UycEhjSXZqdllrdGdsUzEyRERRMkJHTXpWS3hOVXBsN0lEUmhIMFNrdzRXMk9ra2NZY1h3R3hPVnpIU2xPb0N5bzU2NlZDR0xCQUNXeFpTWVR5U0p5Nkp0LTEweEppbVNsUU1XazhMQ2Fpc2NXRXNlLS1PbkNYV3paWkxNdkVuT0x3WHBCN1ByY1NPVHh3b1YzQ29NRm42WmhaUnRReUxGc1ZFU3JleXFOS2kyMmh3M0FLSFJsVEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-23-010",
+    "date": "2026-09-23",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Stock In Focus As Barclays Cuts Price Target To $48 Ahead Of Q1 Earnings - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGpuY0xuamtBQVZ1MWEtazJ1YnNjTXZiYXJNZkFrT18ya0N3OGhHWjE5S3NsVWxvOVdYMjJJZnl3MHh6YmNBcEl0d3VadGkyWE1HYnNjT0paXzJCZWVrZU9mbzdKdHNILXRqakY5ZG",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGpuY0xuamtBQVZ1MWEtazJ1YnNjTXZiYXJNZkFrT18ya0N3OGhHWjE5S3NsVWxvOVdYMjJJZnl3MHh6YmNBcEl0d3VadGkyWE1HYnNjT0paXzJCZWVrZU9mbzdKdHNILXRqakY5ZGNxZnBsNHVfNkI3bjhraXAtVHNwMjVUWjBtU29lbUItYmlDZEtaaUxOdm9wSDlOTHhXVk9BNW5fSEowMEhjT2g1bjYxSU42UFd4NWJvb003Q1ROUTlYOGFVWEw1X0NCeEktbGxN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-23-011",
+    "date": "2026-09-23",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Margin Story Shapes BTIG Thesis Ahead of Earnings - TradingPedia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWgtNTJXcXNHa1ZDd1h5SkpMTE5weWx0YnZoUE5ZZ25UTnZwb0xuS2FoSkFIakFudHFobkNhZGVadkVmcERTZEcwSjZpTm91OEREeEcyWmozQ0VXekg2bThCWHI5LVdpWVpuN25LUF",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWgtNTJXcXNHa1ZDd1h5SkpMTE5weWx0YnZoUE5ZZ25UTnZwb0xuS2FoSkFIakFudHFobkNhZGVadkVmcERTZEcwSjZpTm91OEREeEcyWmozQ0VXekg2bThCWHI5LVdpWVpuN25LUFE2MkM4UUxyVkptVWlFVkp4VUYydzlZbk90R0xHZnZRdTJnZVNKTTZRUkc3WQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-23-012",
+    "date": "2026-09-23",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike stock gains 1.66 percent as Stifel cuts its target - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQM094V280TzdseUNycUV0RlNsMUZERWo1OVJKRE9Vb2Yzb3QyZXNWOHEwRTBRREJXMXNfdWlSenhTTTVaZUJvMWxfeFlLSlI3N3hwWlR4b1ZGSndtS29zTUMtbTZBYUxCZEUwYkI2cm",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM094V280TzdseUNycUV0RlNsMUZERWo1OVJKRE9Vb2Yzb3QyZXNWOHEwRTBRREJXMXNfdWlSenhTTTVaZUJvMWxfeFlLSlI3N3hwWlR4b1ZGSndtS29zTUMtbTZBYUxCZEUwYkI2cmF4NllKejFoenJERDMtTXREaWc3ZkpGUWdDbVI4b0JyYXpfa0xqYXRDN0FicnpYc2J1bEdlUjVGaFNwZVdYRXAybU5nNDBtVnh1RkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-09-22-001",
     "date": "2026-09-22",
     "companies": [
@@ -219,6 +445,60 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTHlvUmhodUF2bW5acUFMS3JaejVTeGZjVGxCS1lpT0N3VXRKZG5qUXFtS0RtcUI1VE9xNFZvZ2JLbm0xeHRvdDJ5MUppdHhLNWptcTBSUzhpNHZwSzM2SV9lYTUyWEU2SHBRbkxfNkZjZUpMQmxuUXRVZFV2bGtJYTQybmpQaGNoYTNsZFBLU2xYRHkxSENBSUQzbDB5VzZhX1pZMGpsVFZITWxveHRNbzlqRkNpUTBNQlNtVzRZNlpzVDFLYUdYMtIBzgFBVV95cUxPOUc2MjZQQ0dSZkF6a2Z0b0hFQUozQ1JKNFNkcEtpWUlrR1paS0E3YTN3NDFuUk9wc1M0bUExY0FIam85RVVNR2k1UG5NRUc5VVNSNjM4TEhzVjZqR1E3X1hpNDBsRnFEVUV0ZVF5NEZRd2lZMXczd3h5YnlUamFrdGJtempFc1kzQlIzYm04OEpTWmhUTmZNcGlNaklxRFpSNEh3c2N6VVRCZkYtLTd1LXdmUGJvTHEtaFNpNVdPaDRVZWMxZXQ2QTN2V0pDZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-09-22-013",
+    "date": "2026-09-22",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas stock rises after the close without a U.S. close - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxONXZKRjBIVDBvTnNESE9YQVBCUDhzWFJuZGdxOWtfYWVhMG5rQkJjVDQ3V3cyazRWTUFmSmVOcTBRQUQ3Q19QNkVidDU2SGtjUWZ3RlA2VlFJeGhfbnNUNlNZSU9wWFhUMWZGNzJxSE",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXZKRjBIVDBvTnNESE9YQVBCUDhzWFJuZGdxOWtfYWVhMG5rQkJjVDQ3V3cyazRWTUFmSmVOcTBRQUQ3Q19QNkVidDU2SGtjUWZ3RlA2VlFJeGhfbnNUNlNZSU9wWFhUMWZGNzJxSEVOeHNSMFUySWNzRmo0R3hhNURQRTktMjRBa2g4TzZOMk9peXNNOHBVZXVhS1dXZUNlWnZXSFNjcG1wVkVlR2kwNDFtbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-09-22-014",
+    "date": "2026-09-22",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon Athletica stock gains 3.3 percent near its yearly low - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjBIRnVNNDkzR1NULTIwSWEwcFFqa3lGenI5TDZaZ0lERmdVRHQtQzU4eXhnN1pNMjVaUUNqWGZnNXV0bk13ZzJxdy00Nm5uSXNkUzdETUNqaVUzYnpEYmdVejhEMDV3aU1DZjlFRX",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjBIRnVNNDkzR1NULTIwSWEwcFFqa3lGenI5TDZaZ0lERmdVRHQtQzU4eXhnN1pNMjVaUUNqWGZnNXV0bk13ZzJxdy00Nm5uSXNkUzdETUNqaVUzYnpEYmdVejhEMDV3aU1DZjlFRXhaSXNqMmozRnFMRmZwc1BHdlRpYUxvSmdiTzdPNTJOdUFHd1ItMGFnV2dESTR0VU5LOWgzRThpRnVUYTVYY0NIQ09WMktqTzU2ZTRrRkM5VHdTdnJY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-09-22-015",
+    "date": "2026-09-22",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "lululemon: A 40% Selloff And Still No Bottom In Sight (NASDAQ:LULU) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPanhCUnRsc08yVUFtWC1ZQnAtbG5ZYjVIdl9yamZMVzhZLUtfUVN5bWYtR3VKbTFpTHVhMjUtSWQ4ZWZGWUlJWXgtSGoza2xxMk9hbWs2dldoMEtGV0t3b2UzN1ZtaV9VNDhLamJBTn",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPanhCUnRsc08yVUFtWC1ZQnAtbG5ZYjVIdl9yamZMVzhZLUtfUVN5bWYtR3VKbTFpTHVhMjUtSWQ4ZWZGWUlJWXgtSGoza2xxMk9hbWs2dldoMEtGV0t3b2UzN1ZtaV9VNDhLamJBTnJ5YW95TmpkSTRmdFZPb2RGYURaYnhOT1ZEaHVWRUVRWHlCWGU2MDNReUtQVUpkS3ltb0E?oc=5",
         "type": "rss"
       }
     ]
@@ -738,6 +1018,60 @@
       {
         "name": "tapestry",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3RMaTFuWnN2ODJNTVZtV010eHZrVUZUN1lYeTBOa1NnTDMtMUFpbW9iT1V1Mzk2TUpZQlhJUFdGRGlrWEx4VEJvOXU1RFpXbGVYMThKM054cExQLUZPV0t4cnBvSTVHN2ZzMEZjMGVmRTg5X0xaNFRqRU5iQjBNTDNIU2JuX0VFX21ldW92U1RzM0IzV2QzRi14RmFGcWZ5U25teFF6NzAyYzhaeUxqMHEzN3ZkWGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-09-21-029",
+    "date": "2026-09-21",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tim Hortons Inc. and Adidas Ag Launch Tims Run Club Collection in Connection with National Coffee Day - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNkhOV2xvalFzVUFwTWpnZF9IdGxmUnJieXBuTzRudWZoYy1hWVZBT2FlTDlPeGZadlRaS0VJVFNHZ2dQNW9RcG54N1dmZWR2Z0Z5bHFLVUZxMWZ0c2RYMjREWTRHZ2xsMG9VYlp1dj",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNkhOV2xvalFzVUFwTWpnZF9IdGxmUnJieXBuTzRudWZoYy1hWVZBT2FlTDlPeGZadlRaS0VJVFNHZ2dQNW9RcG54N1dmZWR2Z0Z5bHFLVUZxMWZ0c2RYMjREWTRHZ2xsMG9VYlp1djl4YnFjcGJRUjIxZGVrVEMxLUIyYURHU0t2aEpCOWNNZnVVRjZCcWNydDBWM2VvS0tTdG5QSUtwV1c5U0lmdXFEeFNvUnRrS0VlTGlfMGFOSlhPN3doQTh6UFlwWXdfTU9IdmpkdUIyWWliTm5PMXhfeE1nNXNMVkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-09-21-030",
+    "date": "2026-09-21",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "British Museum Bans Photography of Bayeux Tapestry to Keep Lines Moving - The New York Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNS09rZUxYX3h2MzFYY1M0bnVFM0g3eVRJYk0wVFFEWDY1Y2IwdEE0VExydTZ3VXRrUU9rVFcwSmV2eFNwN2Nlc2FBLURNWXFRdzFra1doVzN3WVg2WldPZFlRT01JbnY0OHRBWXJiY3",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS09rZUxYX3h2MzFYY1M0bnVFM0g3eVRJYk0wVFFEWDY1Y2IwdEE0VExydTZ3VXRrUU9rVFcwSmV2eFNwN2Nlc2FBLURNWXFRdzFra1doVzN3WVg2WldPZFlRT01JbnY0OHRBWXJiY3p6dVR6YlYxQUZsY0ZUamMyWXpYUFpGUjViMHpLRzZNZG4zcEJvNGlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-09-21-031",
+    "date": "2026-09-21",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "British Museum bans photos of Bayeux Tapestry to avoid lingering crowds - Le Monde.fr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUE55WDMzYW5hd1M0MVpQeUtZdHItTFl4U1RQQTBRMjRvNC05VDNwV1FWZ3RDT2FKV1B6aFBrQ09wUmV3a1VVY29ndDd5dTA1RUszU1htcEF2WllVVng2TU0zQndOaG42eXhmT1Y2dz",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUE55WDMzYW5hd1M0MVpQeUtZdHItTFl4U1RQQTBRMjRvNC05VDNwV1FWZ3RDT2FKV1B6aFBrQ09wUmV3a1VVY29ndDd5dTA1RUszU1htcEF2WllVVng2TU0zQndOaG42eXhmT1Y2dzB4WHNKMnZ2WHVsTGdFVk16UWxwUGZfaTB3VTF3WVNja2JXeW1uOFQ2cV9fdXlxSERhb3lvLXJ4R21sZVc4YWlWNUFESjZzd1plYkFMOTM4RkxaTk80ck9CTF8xQm1EdWVjbl9PS09tcw?oc=5",
         "type": "rss"
       }
     ]
@@ -1442,6 +1776,24 @@
     ]
   },
   {
+    "id": "tapestry-2026-09-18-020",
+    "date": "2026-09-18",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "British Museum Bans Photography of Historic 'Bayeux Tapestry' Days After Blockbuster Exhibition Opens - petapixel.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcHo0a29jMzAtWEZzSEMtdW1qamszX3VPV2IwNWk1ck5halIwUGJpN2pTSldTMTEyekpxZUxzTDF5ZFkzUXVaMXlWeU1ha2thd0pCT1VVUUhWOFN1ZHlnQ2Q3MXQ4RXNUQzh5eUVKaW",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcHo0a29jMzAtWEZzSEMtdW1qamszX3VPV2IwNWk1ck5halIwUGJpN2pTSldTMTEyekpxZUxzTDF5ZFkzUXVaMXlWeU1ha2thd0pCT1VVUUhWOFN1ZHlnQ2Q3MXQ4RXNUQzh5eUVKaWJkaWgtQy15M1YyMVp0QUwxX2s4bmR6dDdoWWlzVXlWWEhtRkgwLXU0YW5FMEFtS3NETmdYZEdqYllaLUk0SzRjSHVyTC0tMG5Ia3FpVUVZRlNhYkw3QmNSX0RKU3VzQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-09-17-001",
     "date": "2026-09-17",
     "companies": [
@@ -1810,6 +2162,44 @@
       {
         "name": "pvh",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcXRDTUNUSkV0TVlRTWJGMmM1dVhSbVl6UW10R3hsem5UcGlyRXFJQWJkQTJxUzJlVjNFOEFUcTdLOEtHTXh2bXhtbHQxREJNeGUwQ1BrcS04aEZHU2xNa3ppbm82R3h5enpVZks4ak9oYmx0NEh2cm9vM0x3SmxpbElEeGRrTUJBZ0w4SVpUamRwNThLV1JsN2tKcjRaUmdUX0RQYTRPNkdSQ3RFS2RoeWlQNUQ0aVdfT2tmMUhTN1FrS0c5dURaTnBKa2NmOVpk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-09-17-021",
+    "date": "2026-09-17",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Corp. (PVH) Stock Forecasts - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1A3Z1JnZ1VPcUZ5TmxHQ1N4bkFHM28zSFltVlZfQ3M5US1sNG1RQlBUV2txRUZoV3RmYl8xNi1lQ0N2MUx4R1BPWXFkZUVXaFVEcWtjQ0piQkY2NUNHVGZOQVp1ZGZUUTRXUFNTNz",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1A3Z1JnZ1VPcUZ5TmxHQ1N4bkFHM28zSFltVlZfQ3M5US1sNG1RQlBUV2txRUZoV3RmYl8xNi1lQ0N2MUx4R1BPWXFkZUVXaFVEcWtjQ0piQkY2NUNHVGZOQVp1ZGZUUTRXUFNTNzZmYXFna3dmLUNkWGw3Yi10ZjRvRjhLaDJxM2plYmdqNFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-17-022",
+    "date": "2026-09-17",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike's Fiscal Q1 Earnings Expected to Miss Analyst Expectations, UBS Says - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmJYSExtYW11NmVsLUVsU2lmUHpzOUdnOG01ZmlwM0owekJ4dkdMOXNacFM0QWFZZ1FJU3lVMlpET1JJOVEzNm4tLWp1dUpucm4tSjFNcV96cWstcUE3MWtiWFg1M21nYmQ3c2cybl",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmJYSExtYW11NmVsLUVsU2lmUHpzOUdnOG01ZmlwM0owekJ4dkdMOXNacFM0QWFZZ1FJU3lVMlpET1JJOVEzNm4tLWp1dUpucm4tSjFNcV96cWstcUE3MWtiWFg1M21nYmQ3c2cyblVpR0JDcmtzYU5UZjlfajByMV9RWHNiWjJpSmZrU0x6RTBiNG1pcFpjUQ?oc=5",
         "type": "rss"
       }
     ]

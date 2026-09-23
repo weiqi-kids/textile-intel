@@ -1,0 +1,239 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:06:48.709647Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lenzing-2026-09-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lenzing pivots to premium as specialty fibre supply tightens",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/lenzing-pivots-to-premium-as-specialty-fibre-supply-tightens-313714-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-09-23-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BTIG shares its Nike stock outlook ahead of next week’s earnings - Investing.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczk0U0UycEhjSXZqdllrdGdsUzEyRERRMkJHTXpWS3hOVXBsN0lEUmhIMFNrdzRXMk9ra2NZY1h3R3hPVnpIU2xPb0N5bzU2NlZDR0xCQUNXeFpTWVR5U0p5Nkp0LTEweEppbVNsUU1XazhMQ2Fpc2NXRXNlLS1PbkNYV3paWkxNdkVuT0x3WHBCN1ByY1NPVHh3b1YzQ29NRm42WmhaUnRReUxGc1ZFU3JleXFOS2kyMmh3M0FLSFJsVEU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-09-23-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Stock In Focus As Barclays Cuts Price Target To $48 Ahead Of Q1 Earnings - TradingView",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGpuY0xuamtBQVZ1MWEtazJ1YnNjTXZiYXJNZkFrT18ya0N3OGhHWjE5S3NsVWxvOVdYMjJJZnl3MHh6YmNBcEl0d3VadGkyWE1HYnNjT0paXzJCZWVrZU9mbzdKdHNILXRqakY5ZGNxZnBsNHVfNkI3bjhraXAtVHNwMjVUWjBtU29lbUItYmlDZEtaaUxOdm9wSDlOTHhXVk9BNW5fSEowMEhjT2g1bjYxSU42UFd4NWJvb003Q1ROUTlYOGFVWEw1X0NCeEktbGxN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-09-23-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Margin Story Shapes BTIG Thesis Ahead of Earnings - TradingPedia",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWgtNTJXcXNHa1ZDd1h5SkpMTE5weWx0YnZoUE5ZZ25UTnZwb0xuS2FoSkFIakFudHFobkNhZGVadkVmcERTZEcwSjZpTm91OEREeEcyWmozQ0VXekg2bThCWHI5LVdpWVpuN25LUFE2MkM4UUxyVkptVWlFVkp4VUYydzlZbk90R0xHZnZRdTJnZVNKTTZRUkc3WQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-09-23-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Should Investors Buy Nike Stock Instead of Lululemon? - The Globe and Mail",
+      "companies": [
+        "nike",
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0xOT0p4NHdqNy1aQV83QW1hdmRVZmFRM2ZpRC1yaDJWRWlYdy1UTTczTDNEZTRrUjJvaVVrUWd3dndvSjlOOXlTQzRqU2lSM0NkcUZseDRHOGxwQS10ZGpCbGJXU1hkMDIwYl9WYUs3MExVSWxxTW1CVGc5akRnMjhPMmUwaV9qYjBYZXlaU2h3TXV3cl9fYXpTR29uX2FOMnhGOU9DRThvVWNjNk1uX01yOVE1cmNfV0NDZnhfRlJQNzluNjcyRWxsMm90MFFtVDFtag?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 5
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 93,
+    "too_old": 231,
+    "gate1_blocked": 25,
+    "gate2_blocked": 37,
+    "passed": 21,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "Toray Industries Inc (OTC: TRYIF) Stock Price, News & Analysis - Kalkine",
+      "Far Eastern New Century Unit to Sell Land for NT$754 Million - marketscreener.com",
+      "Far Eastern New Century: EPS surged 74% YoY in 1H26, with green products and sustainability driving ",
+      "Far Eastern New Century's Unit to Sell Land in New Taipei City for NT$202 Million; Shares Down 4% - ",
+      "FENC Elevates Sustainable Finance Innovation, Winning Best Sustainable Treasury Solution at 2026 Ada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為耐吉、Lululemon、PVH相關動態：「Lenzing pivots to premium as specialty fibre supply tightens」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lenzing pivots to premium as specialty fibre supply tightens（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "BTIG shares its Nike stock outlook ahead of next week’s earnings - Investing.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
