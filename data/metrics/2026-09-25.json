@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-25",
+  "total_events": 17,
+  "by_company": {
+    "lululemon": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "pvh": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "supply_chain_shift": {
+      "count": 5,
+      "sentiment_avg": -0.25
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
