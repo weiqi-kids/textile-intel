@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:34:46.543256Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-09-26-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings Preview: Nike to Report Financial Results Post-market on October 01 - Moomoo",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1l5dXYwUnRvOGlsODRmRDgycnZjMHVIR3dzYkJGSjRoZ01yMi0wTWlUb3M3RlMtYlFpMkJpaGM0QjNFWnExejdvNFltVmlRemNfRi1tTUM4bGpsT2gwV3Q2YUVRZ3QtYlBNb21DeklGbklXV25ZSUFvb0h2MkltbmpuZ3l1d0R5TTVpSXQ5THE0YmtlOU5WcnlXdUlGSUxCbnYtZ09FOEpTRm91?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-09-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "23,507 lululemon athletica inc. $LULU Shares Sold by Corient Private Wealth LP - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb3ZiejV5Rk40MnZPLUdvdlgycHg3VXowSkxrUGlOSHhSclpfNXFVODdGOGRpRkUzVUY3Wm9WVUhQRFhlTUxTS3I1Rk1vR2xjRVB0OEswUll6a2pBbVdoekllbW5pTjBKeXFGTXRYTjdvU0dDcm1jdmItUVdCanE0R2xaWTE1N21uWEZPQW1VSHdsU3RLQm1iaHdmYTFFazlST0hBb3Nrd29BUDdCbi0zSExEMGhxak42cXlRZVZEOHlNWXYzTXZlWlF2d0xVcm82d2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pvh-2026-09-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Corp DE Makes New Investment in PVH Corp. $PVH - MarketBeat",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOajJ0WE5hRExVMTNEclBwUkRNTmhHLWpxV0Q2TWZtZ3pzSU9tcGVEdWh6bHY4REYwWk5DckZJeUVJelZaUlRzYXRJRHRfSUFDelBKVTlQa3F0U3hiNDl4bE9lbVJVTUQ3TzVOOHBsZk5aS3I1djAzb0Vpd1hWR3k2SzRxY0g3clVWbWhUbjBLcVZYeGN5NUo2RnpNaFdveDBtTGdqZVZzOUZxb21fQWVsaWNKSk11SFg3MlI5VGJB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh extends loan relief deadline for raw jute exporters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-extends-loan-relief-deadline-for-raw-jute-exporters-313772-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh eases MMF imports: A new route for synthetic apparel?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-eases-mmf-imports-a-new-route-for-synthetic-apparel--313787-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.62,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 114,
+    "too_old": 213,
+    "gate1_blocked": 31,
+    "gate2_blocked": 27,
+    "passed": 20,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Stock Short Interest Falls 98.4% - MarketBeat",
+      "Far Eastern New Century: EPS surged 74% YoY in 1H26, with green products and sustainability driving ",
+      "Far Eastern New Century Unit to Sell Land for NT$754 Million - marketscreener.com",
+      "Far Eastern New Century's Unit to Sell Land in New Taipei City for NT$202 Million; Shares Down 4% - ",
+      "adidas AG (ADI.NE) Stock Price, News, Quote & History - ca.finance.yahoo.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Lululemon、PVH、耐吉相關動態：「Earnings Preview: Nike to Report Financial Results Post-m...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Earnings Preview: Nike to Report Financial Results Post-market on October 01 ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "23,507 lululemon athletica inc. $LULU Shares Sold by Corient Private Wealth L...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

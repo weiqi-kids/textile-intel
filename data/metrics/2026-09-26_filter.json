@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 213,
+  "gate1_fail": 31,
+  "gate2_fail": 27,
+  "passed": 20,
+  "gate2_samples": [
+    "Toray Industries Inc. (OTCMKTS:TRYIY) Stock Short Interest Falls 98.4% - MarketBeat",
+    "Far Eastern New Century: EPS surged 74% YoY in 1H26, with green products and sustainability driving ",
+    "Far Eastern New Century Unit to Sell Land for NT$754 Million - marketscreener.com",
+    "Far Eastern New Century's Unit to Sell Land in New Taipei City for NT$202 Million; Shares Down 4% - ",
+    "adidas AG (ADI.NE) Stock Price, News, Quote & History - ca.finance.yahoo.com"
+  ]
+}
