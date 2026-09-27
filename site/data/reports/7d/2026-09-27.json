@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-27",
+  "date_range": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "generated_at": "2026-09-27T13:24:24.132279Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nike-2026-09-24-019",
+      "date": "2026-09-24",
+      "title": "Earnings Preview: Nike (NKE) Q1 Earnings Expected to Decline - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "supply_chain_shift": {
+      "this_week": 35,
+      "last_week": 29,
+      "week_over_week_change": "+21%",
+      "sentiment_this_week": -0.03
+    },
+    "earnings": {
+      "this_week": 22,
+      "last_week": 14,
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": -0.03
+    },
+    "sustainable_textile": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.5
+    },
+    "cotton_price": {
+      "this_week": 9,
+      "last_week": 5,
+      "week_over_week_change": "+80%",
+      "sentiment_this_week": -0.23
+    }
+  },
+  "company_7d_summary": {
+    "toray": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "eclat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "lululemon": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "pvh": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tapestry": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nike": {
+      "event_count": 18,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "adidas": {
+      "event_count": 4,
+      "sentiment_avg": 0.13,
+      "rank": 5
+    },
+    "lenzing": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 146,
+        "last": 136,
+        "change_pct": 7.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-21",
+      "event_count": 35,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 16,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 22,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 24,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 29,
+      "sentiment_avg": -0.12
+    },
+    {
+      "date": "2026-09-26",
+      "event_count": 14,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-27",
+      "event_count": 6,
+      "sentiment_avg": -0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-21 ~ 2026-09-27）共 146 則事件，重點為「Earnings Preview: Nike (NKE) Q1 Earnings Expect...」。Lenzing表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Lululemon",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "PVH",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Coach",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

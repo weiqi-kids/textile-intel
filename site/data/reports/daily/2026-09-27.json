@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:24:23.988755Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bangladesh's RMG exports to UK rise 3.74% in July-August",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-s-rmg-exports-to-uk-rise-3-74-in-july-august-313797-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-09-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Equities Outlook: Nike, Micron Technology, Carnival Corp. - forex.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbENMeDk3OXhDVGV6M1o2cW1naHhCbTJBRW04bW9ZUVZHUVRaSlVsdUZBR1A4RXh6TVpldUxVNndOYktOeTRNdGNGVjJ1MWl0ZTZoWnk5VWNITDl0MGQyVDA4MVRIVEowWDVFQXRvWjBPa3hRU1FWaldvZEhQMHZkdElLX3NZV1B0ZWp3Q1NHQ29seWpXcFJmT2dxTHFuZWtCUnY1RUh1N2UyRlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-09-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Week Ahead: Earnings from Carnival, Nike - BNN Bloomberg",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXJzTF81ZnZCOHd0VUxEVDdxUF9kblRZS1lSYlVHQmxEdzVoNTBod0NmcG5WZkdfOHc0T0FoMXJKUVQtVlJEUDNVVmN3V3cxVHE3UzZrNlU5VE5scF9faWo4NFROOWMwajU4dzM1UjVUdXF0bVdMR2o1R3NPVy1VYnVqS0x2aG56TzA1S1RSVTVadkZwR0M0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tapestry-2026-09-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Bayeux Tapestry has 626 men but just three women – their stories revealed - The Argus",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHNwVmd4U1BIWGJGLUFYX3NndDNCOTVkUVZlbE45dDJobm5ROE0xOXVla3o1a2tCc0Q0SEhuTVFKd1FSRFhHeF82LWVSdTBTVDhiMXJVaHBLWGg3NFdMVHFQWVlmdmMzZkl1MS12dTR2OXJoVElFQkVib1hJdDFtMFlJdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India eases origin documentation for UK imports under CETA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-eases-origin-documentation-for-uk-imports-under-ceta-313796-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 396,
+    "dup_title": 106,
+    "too_old": 227,
+    "gate1_blocked": 18,
+    "gate2_blocked": 30,
+    "passed": 15,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Stock Short Interest Falls 98.4% - MarketBeat",
+      "Far Eastern New Century: EPS surged 74% YoY in 1H26, with green products and sustainability driving ",
+      "Far Eastern New Century Unit to Sell Land for NT$754 Million - marketscreener.com",
+      "Far Eastern New Century's Unit to Sell Land in New Taipei City for NT$202 Million; Shares Down 4% - ",
+      "adidas AG (ADI.NE) Stock Price, News, Quote & History - ca.finance.yahoo.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為耐吉、Coach相關動態：「Bangladesh's RMG exports to UK rise 3.74% in July-August」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Bangladesh's RMG exports to UK rise 3.74% in July-August（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Weekly Equities Outlook: Nike, Micron Technology, Carnival Corp. - forex.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

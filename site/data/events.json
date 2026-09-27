@@ -1,5 +1,118 @@
 [
   {
+    "id": "tapestry-2026-09-27-001",
+    "date": "2026-09-27",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Bayeux Tapestry has 626 men but just three women – their stories revealed - The Argus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHNwVmd4U1BIWGJGLUFYX3NndDNCOTVkUVZlbE45dDJobm5ROE0xOXVla3o1a2tCc0Q0SEhuTVFKd1FSRFhHeF82LWVSdTBTVDhiMXJVaHBLWGg3NFdMVHFQWVlmdmMzZkl1MS12dT",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHNwVmd4U1BIWGJGLUFYX3NndDNCOTVkUVZlbE45dDJobm5ROE0xOXVla3o1a2tCc0Q0SEhuTVFKd1FSRFhHeF82LWVSdTBTVDhiMXJVaHBLWGg3NFdMVHFQWVlmdmMzZkl1MS12dTR2OXJoVElFQkVib1hJdDFtMFlJdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-27-002",
+    "date": "2026-09-27",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India eases origin documentation for UK imports under CETA",
+    "summary": "CBIC has eased customs documentation for importers claiming preferential duties on UK-origin goods under the India-UK CETA. \nA valid Origin Declaration will generally suffice, with Form-I required onl",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-eases-origin-documentation-for-uk-imports-under-ceta-313796-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-27-003",
+    "date": "2026-09-27",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "New Nanning-Can Tho service strengthens China-Vietnam cargo link",
+    "summary": "Can Tho Port JSC, Vietnam National Shipping Lines and Beibu Gulf Port Group welcomed the first vessel on a direct Nanning-Can Tho container service on September 24.\nThe route gives Mekong Delta and so",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/new-nanning-can-tho-service-strengthens-china-vietnam-cargo-link-313793-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-27-004",
+    "date": "2026-09-27",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Bangladesh's RMG exports to UK rise 3.74% in July-August",
+    "summary": "Bangladesh’s RMG exports to the UK rose 3.74 per cent year on year to $915.63 million in July-August FY2026-27, supported by a 10.53 per cent increase in August that offset a 2.44 per cent decline in ",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-s-rmg-exports-to-uk-rise-3-74-in-july-august-313797-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-27-005",
+    "date": "2026-09-27",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Weekly Equities Outlook: Nike, Micron Technology, Carnival Corp. - forex.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbENMeDk3OXhDVGV6M1o2cW1naHhCbTJBRW04bW9ZUVZHUVRaSlVsdUZBR1A4RXh6TVpldUxVNndOYktOeTRNdGNGVjJ1MWl0ZTZoWnk5VWNITDl0MGQyVDA4MVRIVEowWDVFQXRvWj",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbENMeDk3OXhDVGV6M1o2cW1naHhCbTJBRW04bW9ZUVZHUVRaSlVsdUZBR1A4RXh6TVpldUxVNndOYktOeTRNdGNGVjJ1MWl0ZTZoWnk5VWNITDl0MGQyVDA4MVRIVEowWDVFQXRvWjBPa3hRU1FWaldvZEhQMHZkdElLX3NZV1B0ZWp3Q1NHQ29seWpXcFJmT2dxTHFuZWtCUnY1RUh1N2UyRlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-27-006",
+    "date": "2026-09-27",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Week Ahead: Earnings from Carnival, Nike - BNN Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXJzTF81ZnZCOHd0VUxEVDdxUF9kblRZS1lSYlVHQmxEdzVoNTBod0NmcG5WZkdfOHc0T0FoMXJKUVQtVlJEUDNVVmN3V3cxVHE3UzZrNlU5VE5scF9faWo4NFROOWMwajU4dzM1Uj",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXJzTF81ZnZCOHd0VUxEVDdxUF9kblRZS1lSYlVHQmxEdzVoNTBod0NmcG5WZkdfOHc0T0FoMXJKUVQtVlJEUDNVVmN3V3cxVHE3UzZrNlU5VE5scF9faWo4NFROOWMwajU4dzM1UjVUdXF0bVdMR2o1R3NPVy1VYnVqS0x2aG56TzA1S1RSVTVadkZwR0M0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lululemon-2026-09-26-001",
     "date": "2026-09-26",
     "companies": [
@@ -142,6 +255,118 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1l5dXYwUnRvOGlsODRmRDgycnZjMHVIR3dzYkJGSjRoZ01yMi0wTWlUb3M3RlMtYlFpMkJpaGM0QjNFWnExejdvNFltVmlRemNfRi1tTUM4bGpsT2gwV3Q2YUVRZ3QtYlBNb21DeklGbklXV25ZSUFvb0h2MkltbmpuZ3l1d0R5TTVpSXQ5THE0YmtlOU5WcnlXdUlGSUxCbnYtZ09FOEpTRm91?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-09-26-009",
+    "date": "2026-09-26",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Each woman smuggled into the Bayeux Tapestry tells a powerful story - The Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObUcwVVZKQlViaFMzTjNxa3gwSTBndWppekNNbmJFMncyVUwtczdqVDEzNDFVT2NpTHJvLVROUURiNzZObHVpUFlmaVQ5c3dyNTY5WFJIZW9YWmZGbVJFZVE4a2dnVnZ2Ql93dlROVF",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUcwVVZKQlViaFMzTjNxa3gwSTBndWppekNNbmJFMncyVUwtczdqVDEzNDFVT2NpTHJvLVROUURiNzZObHVpUFlmaVQ5c3dyNTY5WFJIZW9YWmZGbVJFZVE4a2dnVnZ2Ql93dlROVFlPalY1OU90ajI2cGpiNUpCX0hqVThRcnNBNzRvSWQ1X0ExbldBTVdzbFJmTmloMmV1U3UtZjFENDk1eklQMWpSVk9ZVld4a2J3bmp3ejNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-09-26-010",
+    "date": "2026-09-26",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Broigne: What Armour Do You See in the Bayeux Tapestry? - Medievalists.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTZPVjlkOWhJdEQxRW9hYXg1cDJkUE5UNGMxSjh4TXM5UWNReGtEM3hEMzc4Z1k4UWV5OGJoM0RDVDY0dHFNOHdoSjVzX2VPZzYtWGFCWVEyamJfZTVuVGRqQjRzaEVMeEFkZS1Cek",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTZPVjlkOWhJdEQxRW9hYXg1cDJkUE5UNGMxSjh4TXM5UWNReGtEM3hEMzc4Z1k4UWV5OGJoM0RDVDY0dHFNOHdoSjVzX2VPZzYtWGFCWVEyamJfZTVuVGRqQjRzaEVMeEFkZS1CekMxMUVIOEdVVTVBZUV6Y3RxbUlaU2lDTjBMaFpta2lkeC1GZEtoRktsOUtHZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-09-26-011",
+    "date": "2026-09-26",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TAPESTRY, INC. ($TPR) CEO 2026 Pay Revealed - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVJWaXRfYkFjU3N1SXJHM0lXLVNwY0VXVl9pUzY5UzYzNjlEUnpwSnMzSUxueVBWS09OaE5pMm1oV0tmSEhwOFdITXJEVy1ZbDdSa3ZiNjBNTWhkNjJvUEZSS1JDblVjNnBtazdvTU",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVJWaXRfYkFjU3N1SXJHM0lXLVNwY0VXVl9pUzY5UzYzNjlEUnpwSnMzSUxueVBWS09OaE5pMm1oV0tmSEhwOFdITXJEVy1ZbDdSa3ZiNjBNTWhkNjJvUEZSS1JDblVjNnBtazdvTUprZFRjRGU0VEVwNWJWS0VsdWl4c1BXanJ1UlM1dA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-26-012",
+    "date": "2026-09-26",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Stock Has Become Oversold. Will Upcoming Earnings Lead to a Reversal? - benzinga.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXpyUlRsbDRJLUhNVTMycUtNcjVmLXcxd0lPMVlRSjktbHozWk81Yks4RWVUZHhWUlp6NU0xSXNiYlFxdHdIckZCdnNiTE8tOGZBaUZrMDhfQUxQaUtSWHZ6a2RXVHh6Q1NEQWxkb2",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXpyUlRsbDRJLUhNVTMycUtNcjVmLXcxd0lPMVlRSjktbHozWk81Yks4RWVUZHhWUlp6NU0xSXNiYlFxdHdIckZCdnNiTE8tOGZBaUZrMDhfQUxQaUtSWHZ6a2RXVHh6Q1NEQWxkb2VVbFJvYzZ2UFdyckNHZWlLUlFscWhWaFRYT3N2ck9FbjJWRGljUG5JZFBDNXNxdVV1MVlNZmFlbmxreVlhQWRMZzV5U0IzeXVqaWZFQ0x1MVNUd3pkVUhnT3FWYU1idw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-26-013",
+    "date": "2026-09-26",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Stock: 12-Year Low, Revenue Remains $5B Below Its 2024 Peak - CryptoRank",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPaE8wVmFXa05IaTByeElIUVFaaUJGZWlGdkJMT1VlZ19kZzRScl9lNHFhWmZ2b2txZExsV1M4dld0TDdLblpMYUFJak5DVFVXVHBIU0tGV1d2dTlvWXZJa1dWdFVvMzc5UGtNcXExNU",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaE8wVmFXa05IaTByeElIUVFaaUJGZWlGdkJMT1VlZ19kZzRScl9lNHFhWmZ2b2txZExsV1M4dld0TDdLblpMYUFJak5DVFVXVHBIU0tGV1d2dTlvWXZJa1dWdFVvMzc5UGtNcXExNU5zUnlfazRtOXo0VEpGUzV5ZVhIeHAtQklBNHhQTHNFUk85ZmFSaFRfVkRtbGZVZ0Fp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-26-014",
+    "date": "2026-09-26",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Should You Buy Nike Stock Before Oct. 1? - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTdzbXZNZWZWQ25OVnM5WDBTOXhnN0szeDVCeDdOaktaaU43eFU1SUdoMkU4ajlFVU1zLW9GYjJWZENvQWFKNmNmbFRJTjVSWVJEZXF1WHV6ZWxYaVNnYXNGQllKaWhBNG9KSktXNk",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTdzbXZNZWZWQ25OVnM5WDBTOXhnN0szeDVCeDdOaktaaU43eFU1SUdoMkU4ajlFVU1zLW9GYjJWZENvQWFKNmNmbFRJTjVSWVJEZXF1WHV6ZWxYaVNnYXNGQllKaWhBNG9KSktXNklWS3REQU40VTJ2YzgxWVktSlNleXVYbHRyemtrNmh1MGlCOTFFREVXUEZ5WURhN184dmp4MTJnN3dwT0taNE5EYnFSdHpqUFI0MDRud05vNnlyZw?oc=5",
         "type": "rss"
       }
     ]
@@ -648,6 +873,44 @@
     ]
   },
   {
+    "id": "nike-2026-09-25-028",
+    "date": "2026-09-25",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nike Trades at a 12-Year Low Into Q1 Earnings: Here’s What Has to Go Right on October 1 - tikr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUtaUVpkbWdjZklCcG9BVHRJUW9IeEQ2aWpGSGt5bjM1MW5wQ2l6b2tfSE1saU80UmluRkM4dTItSnlTdl9zMXhERlMwY1hpZ05HUUN0SnF2UFRTZEhsZk5vaER6MWM3d292ZzVJOV",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUtaUVpkbWdjZklCcG9BVHRJUW9IeEQ2aWpGSGt5bjM1MW5wQ2l6b2tfSE1saU80UmluRkM4dTItSnlTdl9zMXhERlMwY1hpZ05HUUN0SnF2UFRTZEhsZk5vaER6MWM3d292ZzVJOVhsWWlma0NZMVZTM0FFekowVG1OLU5zRnZUMFo4aUdDNkdnR2VDeWRZS2JYR0VQX3RVV0pHSjZmRzJzT1pSZ05hSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-25-029",
+    "date": "2026-09-25",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bank of America Just Cut Nike to $30. Is NKE Stock a Falling Knife or a Generational Buy? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVY4QnUtN2RId2JYZDE1eHhQWm9XbXZQNEtVbGZzZXAtWExSdlQ3bTNEdU04NnhPM1RDTkMxdGlnZVJ2OVRlakdmUV9ad1NoTzdJU0h5SGZKeEVGcDVrdEFqdVdCU2swU2JqXy1oZV",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVY4QnUtN2RId2JYZDE1eHhQWm9XbXZQNEtVbGZzZXAtWExSdlQ3bTNEdU04NnhPM1RDTkMxdGlnZVJ2OVRlakdmUV9ad1NoTzdJU0h5SGZKeEVGcDVrdEFqdVdCU2swU2JqXy1oZVVVNVJZV21TMDRlcUtXYk4tQzNhOXBjeEU5ZE1PV04wOFFhZ1BWQmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-09-24-001",
     "date": "2026-09-24",
     "companies": [
@@ -1073,6 +1336,24 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0FUckZtMGhBbFZ5MURLWHkzTllZR3BJWnRFakRQOVFEOTkySDc5V1lvQ3RCQXFXUVZtZnJLN2dYUFoxQmtuQjJ6dk5GVE5vUFVQNFhkWk9aZ3JoT1doNXlDMW1zcHZERHBQclRqX2dZNWtBMlQxSnhpVUtULU92VkdFc0FSR2hsMlB3OWZHQjRMaEtkZk81Ui1SeU9NTlE4TWllcTRfbW1GLUNFYVdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-09-24-024",
+    "date": "2026-09-24",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike Gears Up For Q1 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analyst - benzinga.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQN2MxZUtnaVRKaHRjRng5SXRuVThVNTBKRGxYUWItY1JwT0F4WEhZeWVVMlRmSXFRMXJvV1NoOEMwbWhtd2UzZmI1bGczeHVHbU50MFBWOEU1bVc0WV9zb3lGSllsTHlKWW1rcnN1Qk",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQN2MxZUtnaVRKaHRjRng5SXRuVThVNTBKRGxYUWItY1JwT0F4WEhZeWVVMlRmSXFRMXJvV1NoOEMwbWhtd2UzZmI1bGczeHVHbU50MFBWOEU1bVc0WV9zb3lGSllsTHlKWW1rcnN1QkFtaHJUVzlzN0thMDJNb1NOdWdLSm9jclM5UUZ4ek5KSnlYc3BfM21VRG4xSlBqUzloeEtRdlFNLUZDMW1Xc25QNldyR3E3WHJ5Ym00bHAxNThfdlFfdzY4d3pDdVNzTHkyWG9yR2ZJZUtIdW8zWW5EenJpLTdWcTQ5N0Z3OGpKdTBLcDJTNl9NN24ycTVBTXB2b21rMXdodTNKMUM1X1E?oc=5",
         "type": "rss"
       }
     ]

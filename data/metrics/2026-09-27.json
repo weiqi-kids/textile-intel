@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-27",
+  "total_events": 6,
+  "by_company": {
+    "tapestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 3,
+      "sentiment_avg": -0.08
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": -0.08
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
