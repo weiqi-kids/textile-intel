@@ -1,14 +1,14 @@
 {
   "toray": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-25",
-    "count": 6668,
+    "latest": "2026-09-28",
+    "count": 6669,
     "history_complete": true
   },
   "lenzing": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-25",
-    "count": 6761,
+    "latest": "2026-09-28",
+    "count": 6762,
     "history_complete": true
   },
   "far_eastern": {
@@ -31,8 +31,8 @@
   },
   "shenzhou": {
     "earliest": "2005-11-24",
-    "latest": "2026-09-25",
-    "count": 5137,
+    "latest": "2026-09-28",
+    "count": 5138,
     "history_complete": true
   },
   "eclat": {
@@ -49,62 +49,62 @@
   },
   "nike": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-25",
-    "count": 6723,
+    "latest": "2026-09-28",
+    "count": 6724,
     "history_complete": true
   },
   "adidas": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-25",
-    "count": 6832,
+    "latest": "2026-09-28",
+    "count": 6833,
     "history_complete": true
   },
   "inditex": {
     "earliest": "2001-05-24",
-    "latest": "2026-09-25",
-    "count": 6501,
+    "latest": "2026-09-28",
+    "count": 6502,
     "history_complete": true
   },
   "hm": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-25",
-    "count": 6783,
+    "latest": "2026-09-28",
+    "count": 6784,
     "history_complete": true
   },
   "lululemon": {
     "earliest": "2007-07-27",
-    "latest": "2026-09-25",
-    "count": 4822,
+    "latest": "2026-09-28",
+    "count": 4823,
     "history_complete": true
   },
   "vf_corp": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-25",
-    "count": 6723,
+    "latest": "2026-09-28",
+    "count": 6724,
     "history_complete": true
   },
   "fast_retailing": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-25",
-    "count": 6668,
+    "latest": "2026-09-28",
+    "count": 6669,
     "history_complete": true
   },
   "pvh": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-25",
-    "count": 6723,
+    "latest": "2026-09-28",
+    "count": 6724,
     "history_complete": true
   },
   "tapestry": {
     "earliest": "2000-10-06",
-    "latest": "2026-09-25",
-    "count": 6530,
+    "latest": "2026-09-28",
+    "count": 6531,
     "history_complete": true
   },
   "etf_xrt": {
     "earliest": "2006-06-22",
-    "latest": "2026-09-25",
-    "count": 5097,
+    "latest": "2026-09-28",
+    "count": 5098,
     "history_complete": true
   }
 }

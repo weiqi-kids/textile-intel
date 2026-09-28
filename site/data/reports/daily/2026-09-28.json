@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:12:14.394221Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-28-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Performance Days CEO to debut on fossil-free performance panel",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/performance-days-ceo-to-debut-on-fossil-free-performance-panel-313819-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-28-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China’s industrial profits rose 15.7% in first eight months of 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/china-s-industrial-profits-rose-15-7-in-first-eight-months-of-2026-313807-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-28-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India apparel’s next growth test: Can scale translate into profit?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-apparel-s-next-growth-test-can-scale-translate-into-profit--313816-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-09-28-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Earnings Preview: Only Bullish Aspect To The Stock Is The Extreme Bearishness (NKE) - Seeking Alpha",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTFoZEVnbXIyc0dfakJ0OEE5WlBKcHdnVmdPUTVNTXVmZU0wNzI1R19yWDllV2poOFUxV01SZkt1Q1NrTGtwQ1puTWVjTkdFZHJFWEpBV0ZSX0ZMbW9nT1NfY0MzSFUxY1pBN1A0bDBBNlNwd3ZycGgtZkRPUEhpVGVjbDZGSjBHb1lEckdjMW1fbUlkZWlaLWJWUkFNUnZ2OWJMU1UteUEwSnJk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-09-28-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NIKE’s Q1 2027 Earnings: What to Expect - Yahoo Finance",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmgwbHFnamk3WDYwcFUySnVwbWQxWjRlSGRBWDRnOTZGbUw1M21QUHR6OU1zUTlRVDlLWkV6Zlh2S2pFVE1uY183cnFtaWJlQi13b3F4Nll2OGJ2cG00UTdJM1BsX19GQUtnVEZReUFCZHI3Zlk3TVFoc3BISGU2Zy1MeEVJTlE4azhRRUtvY3dmZVBSXzRaSA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 6
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 102,
+    "too_old": 213,
+    "gate1_blocked": 26,
+    "gate2_blocked": 35,
+    "passed": 29,
+    "pass_rate": "9.6%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Stock Short Interest Falls 98.4% - MarketBeat",
+      "Far Eastern New Century: EPS surged 74% YoY in 1H26, with green products and sustainability driving ",
+      "Far Eastern New Century Unit to Sell Land for NT$754 Million - marketscreener.com",
+      "Far Eastern New Century's Unit to Sell Land in New Taipei City for NT$202 Million; Shares Down 4% - ",
+      "adidas AG (ADI.NE) Stock Price, News, Quote & History - ca.finance.yahoo.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為耐吉、Coach、愛迪達相關動態：「Performance Days CEO to debut on fossil-free performance ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Performance Days CEO to debut on fossil-free performance panel（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "China’s industrial profits rose 15.7% in first eight months of 2026（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 9 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
