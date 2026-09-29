@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:26:52.353202Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "makalot-2026-09-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "[Makalot FY2026 Q3 Earnings Call] Middle East Conflict Reshapes Order Patterns — Makalot Says Short-Lead and Rush Orders Are Boosting Gross Margin, Indonesia Capacity Share to Hit 45% - finance.biggo.com",
+      "companies": [
+        "makalot"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZZnc1TDhTLW8ySzZQSjFFTmdielZpZ0xKQmMxem1aU3VUaUtJSXM4V0VTTkNVWkN4TUozQk50ZFRTMjBpQkxlX2diUWdVMF9EdVdreEpSdG84T0IwTnA4czVn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-09-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lululemon Athletica stock faces a lower 2026 outlook - AD HOC NEWS",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSFJuNFFoWUJSb3NmcDFCT0NmWDRXaXVFVWZTUmlnR0FkWnczbnF5Ung3U3prMEVPVnpWT0djUFptTTlUQmtLWEJLdG5GN1U4Z1ptWjc4aFNGdktoOUFydjVLNnNPc0RqYWRHRjJmNHJNbzVOTk1kUWE5ajZYUGd1RTZ4VUxGWmV5LVdGM3hpaGxoSjNLOTN3aEFTTlhFLW40b1dSMXVvMFljWjhTLWlqYWl1dVYtUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-09-29-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Earnings Doubts At Nike Stock Have Changed Its Investment Story - simplywall.st",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcG5sSk1MTHJjX05leDhBNVI0UTd1REtVVmFuYnZPamEtVWp0RzBscGtodDRGOGVjRGdGVURxcUo4czBoWEtGbW0yS1hwUHBjb3F2WmM1T2kxZmpZaGJEdWN6SGxvQzNnMWFjelRiNDVwcDhpTjRPcU8zb0IyeUJlSFFPaVV6T1NXaVpfZF96RlRkVEljSUNOUzF5amhxVS1TdFVLdjk5cHpLdnFxLUVWdGNUWGZxTjBRWWkyeHR3aVI4Y1hHbFlDSdIBzgFBVV95cUxNdjF0TnpBYlBuemV5YkJlRGx2TFRrNUZLa0RyQWhQRUpJcjZTWXFmUEhiejBhenFBd3BTbDk1ZERmZW5PaDJ6TnVvZ2hZVGZ2YnNicTBpUi0xRVcybWRXUk14NE5pNnNrdldCbkpZdWJhTHdMaW0xaHlJX2xXd2UzZ0s1VHpaUGQ3anRhR0p1VXpZY1lQRTRMRTJDdEZURVBMMmRxdGNmZHBvQUdiOTgyRTlCOUpTamFiVUFkUjdtYnNubUlPLVZhNE9FeW9UQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-09-29-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NKE Stock Heads For Another Month In The Red: Jefferies Bets On Nike's Recovery, Sees A Q1 Earnings Beat - Stocktwits",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVklUM1J0SDdQV3B0REJrSGdjU2pjbGdQTndBT1dJRFZIeTRHdTY3bzVsWWNxUjFlbXRBUkZCTzNRRUhpZDQwdmZTbjRHd3VpYWhkZFNLbmNjMGN0TzJ6MGtaczJUN1pwS0s4QTlaWDdLODlPWFl3YmdybXJyNkFlZ1I1XzUxTnpwcWlLNl9UakdyaVRzcWRiN2c0aDhwUlk3Q0NFWVdFbW5oRlVlcXM2NFRZRkNGdl9wZGkxTE02WXg3dVFSRm5KdWpXTXVUWk4yLWpRTWVGdWItWlItQzdCcDRnRzNKZFhCRk51S0RpVG9jc1NpX20wOU1n?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-09-29-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Faces 2 Major Tests This Week. Earnings Isn't the One To Watch - AOL.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qbzYyNUhFd3FGU2V1REpLS3dlYlZnUmJTcDJOeVZXclQwWGVwOFpZZkNjQWdtVUxLdFE4R2xiSEE0MUpMTjVCRGw4dDQ0YVJTa0FFaVdwQnA2WlpjanNacnV1WlJxbjNHRUpmSGszWkhGODNuNFN3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 5
+      },
+      {
+        "id": "lululemon",
+        "count": 2
+      },
+      {
+        "id": "makalot",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "cotton_price",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 404,
+    "dup_title": 104,
+    "too_old": 215,
+    "gate1_blocked": 29,
+    "gate2_blocked": 29,
+    "passed": 27,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Stock Short Interest Falls 98.4% - MarketBeat",
+      "Adidas AG : Gets a Buy rating from Jefferies - marketscreener.com",
+      "adidas AG (ADDYY) stock price, news, quote and history - Yahoo Finance Singapore",
+      "Analysts Offer Insights on NA Companies: Metals Royalty Company Inc. (TMCR) and adidas AG (GB:0OLD) ",
+      "Adidas AG Lobbyists, 2026 - OpenSecrets"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為耐吉、Lululemon、Makalot Industrial相關動態：「[Makalot FY2026 Q3 Earnings Call] Middle East Conflict Re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "[Makalot FY2026 Q3 Earnings Call] Middle East Conflict Reshapes Order Pattern...（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lululemon Athletica stock faces a lower 2026 outlook - AD HOC NEWS（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

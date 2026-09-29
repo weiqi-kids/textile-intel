@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-29",
+  "total_events": 18,
+  "by_company": {
+    "makalot": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 8,
+      "sentiment_avg": 0.09
+    },
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "cotton_price": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

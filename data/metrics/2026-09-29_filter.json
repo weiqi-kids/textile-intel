@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 29,
+  "gate2_fail": 29,
+  "passed": 27,
+  "gate2_samples": [
+    "Toray Industries Inc. (OTCMKTS:TRYIY) Stock Short Interest Falls 98.4% - MarketBeat",
+    "Adidas AG : Gets a Buy rating from Jefferies - marketscreener.com",
+    "adidas AG (ADDYY) stock price, news, quote and history - Yahoo Finance Singapore",
+    "Analysts Offer Insights on NA Companies: Metals Royalty Company Inc. (TMCR) and adidas AG (GB:0OLD) ",
+    "Adidas AG Lobbyists, 2026 - OpenSecrets"
+  ]
+}
