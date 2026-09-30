@@ -1,0 +1,16 @@
+{
+  "total_raw": 406,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 209,
+  "gate1_fail": 37,
+  "gate2_fail": 31,
+  "passed": 24,
+  "gate2_samples": [
+    "Toray Pioneers Chemical Recovery Process for Engineering Plastic - PlasticsToday",
+    "Toray Industries Inc. (OTCMKTS:TRYIY) Stock Short Interest Falls 98.4% - MarketBeat",
+    "ETFs Investing in Shenzhou International Group Holdings Limited Stocks - TradingView",
+    "adidas AG (ADDYY) stock price, news, quote and history - sg.finance.yahoo.com",
+    "Adidas AG Share Price & Chart - forex.com"
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:24:01.085000Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-30-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "NKE Ticks Higher Ahead Of Q1 As Short Interest Hits Record 87M Shares — Could Earnings Squeeze The Bears? - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS2ZCM1A5MTc1RmNHQU90dkN5aEs0NDZBc1ZrOW13cDFDbGlSLUJWVks5b19RaWZIZWVGSjZIWUtrdTM1dXM2M3NWLTFDY1ZWQjB5T0hNT0RXODBVelJxTkNpd3BSMENLSktES1NyZHNkcVRxX205NzlERjBvTHNXMnlLWDJLaXUxNVVKOWxSaHhnMm8wUG1rMmlfZHhhbmNPUzM3WF85OHdscGRnTFl2eVJKbFh4RWc5UlB4LVk5OE9SR05rUmNXRXgyWFhwcExDYnF0ckE3cG1maGs4UWx1MUZWYzZnR2hMZ29DTWI0ZzNBRThCQ1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "shenzhou-2026-09-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Gross profit of Shenzhou International Group Holdings Limited – HAN:S6L - TradingView",
+      "companies": [
+        "shenzhou"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQalNna1RtcEhlUEpUbDdOWW9lU2laekZ4SHM1WHhBSlkteHpEQm1aUlJBeEhqTzgwb3hxWldQR1RVUmQwWWVFVlY3OXR3bk1iRUt6aG9peTVwenhaZThId3BGd0RLLWx3U19LUWs1elVFZzdWNEZldW9obHNna2g4OFliVWJpeU9XQ0RtN2hB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-30-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hong Kong's Win Hanverky returns to profit in H1 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/hong-kong-s-win-hanverky-returns-to-profit-in-h1-2026-313852-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-09-30-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Q1 Earnings Preview: Can Transformation Reach an Inflection Point? Highest Wall Street Target at $75 - tradingkey.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWJ3TVlhMUlENFlPeFp0Z0p6djMyWmhQZVBpQ2FxcWJvWXlpU280Yy1rWHUyaVpmNkY5QlFVbE5qMm10aEdtSGhZTktFTkdxY01qY1NwY3VTdll3S1Q2ZmZMVE9jYlRma19XZ0xrS0J3MGwzNy10aEtrd1JfUm82TjVJTUxpRDQyY1cydFFwOU9fQ0VoMEpqR090Ykx6d21DTjlyLTQxazhkNHl1bmVj?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-09-30-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike (NKE) Reports Q3: Everything You Need To Know Ahead Of Earnings - FinancialContent",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZllvZGNQNENqYlJFY0EzVkktUVgwOUQ2ZHlGV0NmckdQa2NXTmw2UUh2NmpEWG9JTkdEZ3FWZHBnVGtyb3E4TElIZ1R6NUx5dWlVNWhPQVBpTVptdERvQlJjRDZGdElYNUdCb0xCT0RDTEl0Wm9oMTN0M19xdndtX1pSbjNubUo0cHNscWRaZ1pyVEhRMU5hWlJSU0FraWl3dlF4YzJxNXdjUjF0N3VpRVhkZnZNMFNuZmMxNFNyckh6U0ZRdktCbGVOT1Z3OElaWWFGZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.67,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.34,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "shenzhou",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 105,
+    "too_old": 209,
+    "gate1_blocked": 37,
+    "gate2_blocked": 31,
+    "passed": 24,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Toray Pioneers Chemical Recovery Process for Engineering Plastic - PlasticsToday",
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Stock Short Interest Falls 98.4% - MarketBeat",
+      "ETFs Investing in Shenzhou International Group Holdings Limited Stocks - TradingView",
+      "adidas AG (ADDYY) stock price, news, quote and history - sg.finance.yahoo.com",
+      "Adidas AG Share Price & Chart - forex.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Coach、耐吉、東麗相關動態：「NKE Ticks Higher Ahead Of Q1 As Short Interest Hits Recor...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "NKE Ticks Higher Ahead Of Q1 As Short Interest Hits Record 87M Shares — Could...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Gross profit of Shenzhou International Group Holdings Limited – HAN:S6L - Tra...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
