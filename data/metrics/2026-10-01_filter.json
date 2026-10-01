@@ -1,0 +1,16 @@
+{
+  "total_raw": 406,
+  "dup_title": 97,
+  "no_date": 0,
+  "too_old": 206,
+  "gate1_fail": 33,
+  "gate2_fail": 37,
+  "passed": 33,
+  "gate2_samples": [
+    "Toray Pioneers Chemical Recovery Process for Engineering Plastic - plasticstoday.com",
+    "Toray Industries Inc. (OTCMKTS:TRYIY) Stock Short Interest Falls 98.4% - MarketBeat",
+    "Toray develops recycling process for PPS - RECYCLING magazin",
+    "Book value per share of Shenzhou International Group Holdings Limited – HAN:S6L - TradingView",
+    "Shenzhou International Group Holdings Stock Advances 0.8% in Hong Kong - Moomoo"
+  ]
+}

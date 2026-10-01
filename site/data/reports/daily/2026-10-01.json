@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:55:30.100276Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-10-01-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Earnings: Hopes Aren’t High. The Stock Keeps Dropping. - barrons.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HemNiRkJjSUhVNmMwNjFwSUdPd2dvSDZkOGkzZVY5OGtQalp4M2p1dGxMMC1vODVqVk81YU9ha0JMZlFSRHhpRmt2aHVxTXh5U0djeDlyV2E0aHh6YzlxRzZhX09lYU42bEVBVjJDXzNLcGt1Ync?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-10-01-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike earnings, mortgage rates, jobless claims: What to Watch - Yahoo Finance",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNlN2M3pzWF9TZHFDcTNDU08wNnpaOUxvd094cWVwWnFBNEVxR3pXbGdUT19TOHh5NE9JZkxyVjFKeHhPVVpCQkZnSVdEYjJDT200NXRkMm5qTDM3R2xIY3pzS3lSQjBCdUZDQ1pyOGI3eTJLX0lZc3FuZWx3UkZGV0x6TUNKVmpmOEhv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-10-01-023",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Stock Climbs Ahead of Q1 Earnings - Benzinga",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3N3NFlpejYyZEx3UkJzbVd1ZmZrWTZ4WUJPWjJ4TlpMMkRyYlFjcnpHNmVNdXRkUW9PVFVzWFgyWlNoQXVRWThzZU9ZaEZhcGZRMEVPNXNnZm5Rd2dKMEtOU0NYMm1heWZ3NUdkdlhYd3dLdnU1NmpuQzRGeVRmZzFVOWZQRjNZS3RSTWFLWWhUa1l0aGZLRWpkSzhSb2JR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-10-01-024",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike reports earnings after the bell: What to expect - CNBC",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVTNyZlBSQU83UVlQYkQwX09TT184ZWMwOHdxX0kzWWtxSnZHZXUyV1ZqTWtHS2tISVR1VXpWN2YtZXFEWnFFQlE4VFFLUlM1bk02dEkxbDVwWWhsb25rSzlMalF1Y1dJRl9SZmVJZGFsWGd4NkczVDBxeFBHN2dIZ3JkSDhPVEgyVDM1Zk5ocTBGTGEyWkpPdF9n?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-10-01-026",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike set to report earnings amid mounting turnaround doubts - Investing.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSno4dER4bVJHSTJNdWkxcmEwNk5GR1dqcDNnWjItRVFMaHhmVUVOTWdFWjVpei1KQWNNMmxnR0tVQkROc3Zxd1RuX2pfY3Z4RENzb3VRMkdZY1J4SnM5X1BXU2VqTG9ra0Q2dE9YNl9yamhoenpjRDJOV01XcmUtS1dhYzlQU3RZVVhDcGtTNzYzLTJNaHVETVVUcElVRFMwcmp1MTVfbTF2VW96UmJTMlBB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 24,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 9
+      },
+      {
+        "id": "lenzing",
+        "count": 4
+      },
+      {
+        "id": "adidas",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 97,
+    "too_old": 206,
+    "gate1_blocked": 33,
+    "gate2_blocked": 37,
+    "passed": 33,
+    "pass_rate": "10.7%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "Toray Pioneers Chemical Recovery Process for Engineering Plastic - plasticstoday.com",
+      "Toray Industries Inc. (OTCMKTS:TRYIY) Stock Short Interest Falls 98.4% - MarketBeat",
+      "Toray develops recycling process for PPS - RECYCLING magazin",
+      "Book value per share of Shenzhou International Group Holdings Limited – HAN:S6L - TradingView",
+      "Shenzhou International Group Holdings Stock Advances 0.8% in Hong Kong - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為耐吉、Lenzing、愛迪達相關動態：「Nike Earnings: Hopes Aren’t High. The Stock Keeps Droppin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nike Earnings: Hopes Aren’t High. The Stock Keeps Dropping. - barrons.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nike earnings, mortgage rates, jobless claims: What to Watch - Yahoo Finance（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 9 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
