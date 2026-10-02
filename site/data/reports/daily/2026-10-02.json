@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:17:14.644378Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-10-02-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Nike Sinks 8% as Weak Outlook and Layoffs Follow Revenue Miss; Lululemon and On Holding Remain Flat - Yahoo Finance",
+      "companies": [
+        "lululemon",
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNEJlU0xpU0N0WDBxQjNtZjUtM0FKaTRKd3F0bFZNdVVWbHE2MU9veXUxUV9zR0Vnd1VHWmZPLWY0MGhxNi1pbW8tX0FnbXdvMFJjd213Z1d3eEZ2X0tSdWFSdVNtWmVwQ25xWkFocHNKNGFOUXJTNjQ0SVVoNnJ5aXR1bFpnQ08zLUk3Q2c0dWtGbGdL?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-10-02-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nike Forecasts Full-Year Revenue Decline, Unveils Plan to Transform Operating Model - Yahoo Finance",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0lKNy1ONG1Ed01LOEVNdExzNDVBYVhQbGdRdnRhU2g2ek1ITHROdk12OEtpTlg3UGZsMTl0SEdfODg1eWFRTk02RXBuNkhjcnRIdDYxVW1DWFAzdjduRVlEUW43MHpVeE94MTJVbzgyRWRGTkE4azNub29aLXNIN2x1WFFlMEhJeGtETU0xQ1MyMkh2UnJaVExaSzlPTGVUdFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-10-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike’s Earnings Show Sluggish Turnaround Remains Obstacle for Stock - Barron's",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HemNiRkJjSUhVNmMwNjFwSUdPd2dvSDZkOGkzZVY5OGtQalp4M2p1dGxMMC1vODVqVk81YU9ha0JMZlFSRHhpRmt2aHVxTXh5U0djeDlyV2E0aHh6YzlxRzZhX09lYU42bEVBVjJDXzNLcGt1Ync?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-10-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike stock sinks as revenue misses estimates, expects to cut jobs - Yahoo Finance",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYXRicUlOb3RzalpFbGZoQXFjQ2w4d282UDBQWkdJNEVEdGdNaExNemx3TWZjdmtOcEk2SnEzRFZyd0l0eHdwbUJBY1pYcHV1NkVqbHpPa0pvMlFtbDlKdjl5eTFHeTlpMlpUbFAxeENYOWNJZjdycC1tVVRyYmEwLWtaSEZ2LXN3ZkgyTmtkSmxucGlKcjRUMDYwVmxSekFvbkVyem5jZDdoenR0VVBUeERIUFBsbWlWSEo0dEx3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-10-02-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike falls 9% as revenue miss, weak guidance signal more pain ahead - Investing.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekZKMTdsUHMwMW1rdklXSTJYUWhZcFFzSzNwcEdHVC1kZ2t0dWktdG9DUV9tdnd5aGZyUF9YaUlTS09ZSmpUQXdORDBwcUUxRG1Rd3dhNXZwVTh0cFVQd2dlTDdDOFVrcXBmMldmS2ZYMlpfQ05rbjdiOGgtREp2d0FQMW8wOGxHNWRrMDAwY1pJTlJKMnYtSnB2ZFMyTzlaeHZUbERqNnJJcTg3MXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.28,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 10
+      },
+      {
+        "id": "adidas",
+        "count": 2
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 97,
+    "too_old": 205,
+    "gate1_blocked": 38,
+    "gate2_blocked": 39,
+    "passed": 28,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance UK",
+      "Toray Pioneers Chemical Recovery Process for Engineering Plastic - PlasticsToday",
+      "EXEC: Lenzing Looks to Raise €300M in Rights Offering - SGB Media",
+      "Book value per share of Shenzhou International Group Holdings Limited – HAN:S6L - TradingView",
+      "Shenzhou International Group Holdings Stock Advances 0.8% in Hong Kong - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為耐吉、愛迪達、Lenzing相關動態：「Nike Sinks 8% as Weak Outlook and Layoffs Follow Revenue ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nike Sinks 8% as Weak Outlook and Layoffs Follow Revenue Miss; Lululemon and ...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Nike Forecasts Full-Year Revenue Decline, Unveils Plan to Transform Operating...（法說會）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
