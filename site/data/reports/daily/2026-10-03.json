@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T12:49:50.022758Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-10-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bernstein raises target for Adidas stock as growth outlook holds - ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZHY3ZHVtYWVSZVJFNEt5V0NqbHhNSTBsODdrQXhVS0ZnZVZad18tQmF1WVpjSWNpMUdhSy12Z2hmbTBBdE9YakhNemJZVExjVFBCZmxBYkpoMS0yc2NHNlRZeUhIUGlfZ1NMNUNtUHdjUXM1QjI4eFJhRUJXSDcyMnN6eDFhOFdfVnhxcThOVEJUOHBnd2Y4NFkzSFZCakhROTB0c0R0RlJmRkQ0Q3NabDYxY1pTeUZsVnZEUnRlOVhHUVNoTlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lenzing-2026-10-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lenzing's Dual Shock: Rights Issue Arithmetic and a Berenberg Downgrade Collide - ad-hoc-news.de",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRU9MQnhkS09zcXFqRlhMa0JSeWR5bVU0N3JwOEF3WUJvVWhCWFVXalNJdnc5ZkkzQkx4ZnVIS2JRVktXempSWXFaeTNBZnI2YW1EUnZMUFVnVEFkVGZabS1nMFIwUFpoS09ZR0xFcmhwRUphR0RUeDNmbllxeUItYWJianhWR1hLckFxUm1VVjBudzhnc2hnM2p3TEY4U21BTk1aT0tQZi1rZ3hfeXd2OFZzSXdrdE00ZFZUcmMybjJQZ2tVekpUN2wtRGtqdW1nX2VFRGh3ZGhwUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-10-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "lululemon athletica inc. $LULU Shares Purchased by Envestnet Asset Management Inc. - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTDY0RXY4NURCY0tmajFubGRwWnIwT2I2Sy0tZHFxcVRnalc2OWVJU2ljaHFKQkxxSHkyblRXTHhKOGtqcHV0MGJVWXRoYzU3LVR0R28tZUZmNlhQNzg1VmdlWDM3aWJYVGlWMXZHbkktcXNuakVVdE9QOVIxbmI3aGIwRHJhclBBUkg5amlTMjFiVm1xMFAtR1BGbEtaaTdNb2l0SUJqYXV4OUUzeWR5YndmMERRVEFrX2NyUmZBTE9JQkFwOFBZNHZwb2d0ZUVVUUhQb1lSSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What drove India's manufacturing PMI to a 7-month high in September?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/what-drove-india-s-manufacturing-pmi-to-a-7-month-high-in-september--313916-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India’s growth resilience faces energy & capital flow pressures: S&P",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-growth-resilience-faces-energy-capital-flow-pressures-s-p-313884-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 104,
+    "too_old": 201,
+    "gate1_blocked": 40,
+    "gate2_blocked": 46,
+    "passed": 16,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "15.2%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance UK",
+      "Toray Pioneers Chemical Recovery Process for Engineering Plastic - PlasticsToday",
+      "EXEC: Lenzing Looks to Raise €300M in Rights Offering - SGB Media",
+      "Lenzing's 42.5% Arithmetic Reset: Rights Issue Discount and a Berenberg Downgrade Land on the Same D",
+      "Book value per share of Shenzhou International Group Holdings Limited – HAN:S6L - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Lenzing、愛迪達、Lululemon相關動態：「Bernstein raises target for Adidas stock as growth outloo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bernstein raises target for Adidas stock as growth outlook holds - ad-hoc-new...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lenzing's Dual Shock: Rights Issue Arithmetic and a Berenberg Downgrade Colli...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

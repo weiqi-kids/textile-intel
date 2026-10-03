@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 201,
+  "gate1_fail": 40,
+  "gate2_fail": 46,
+  "passed": 16,
+  "gate2_samples": [
+    "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance UK",
+    "Toray Pioneers Chemical Recovery Process for Engineering Plastic - PlasticsToday",
+    "EXEC: Lenzing Looks to Raise €300M in Rights Offering - SGB Media",
+    "Lenzing's 42.5% Arithmetic Reset: Rights Issue Discount and a Berenberg Downgrade Land on the Same D",
+    "Book value per share of Shenzhou International Group Holdings Limited – HAN:S6L - TradingView"
+  ]
+}
