@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:34:47.054666Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-10-04-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NIKE (NKE) Cuts 2027 Revenue Outlook As Fair Value Stays Just Above The Stock - finance.yahoo.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZnk1Wk9jWnRIYWZ4S0JTbXNjcjBnaFBPVmVOZU80OUlkdDRWN3BnTS1KX0Z4ZnFxcVRaTEJ1dHFmWFRSb20xeENHVUwyMG5Za3ZMbVhsbTAtMGs1dElFOHE2U3djdFdUSUxrcGFQUVl2RDl1TnllenpnTzIxSDVxU2pNcHptVk5TQi1FOGs0X2NZTElLakE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toray-2026-10-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toray develops first solvent-based recycling technology for high-performance PPS - Indian Chemical News",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTGduSDlUMVlVRk1lOWlBQ2ZaUHFsOHQ2OTlMeVBiWDJEMlVhMnhNdWFmenNyajJxQ2FDbEJ2aldCeTQ3U0ZCN29uU2pjRGZGQkJXdmF6VEc4Q3Qtb2JDQXRVYkt3YVAzYm8xcnZnZ0Y5YjNHWEJPa2JTZlBCZDR4TlFva2ZSVXFqbE4tRWVZVnpFbURweFFrTS0xQkNPeXFPZVZJTFZOWWROTTZTSlZOdTlaOVY0clkxWDFNaTZFR0FzcFZ1UzROekppNNIB0gFBVV95cUxPNnRuM19ST0pIc3M4WjJ3RHJ4RHJVZms2VWc3WWFNMGFFbk41d0g5VnBtWVJZWHNkSGVUcmxvNzlCaFVFZ0Ryel91cnNrNWtYWmlwYTMydmJuLUNxUzIzb1EyN2lSREJNRlppTjBGOUlCRzZoTGRaZEhRTkx6cFlLWjlac3QzekNBOTA2TzBDY3dtOElNcnFrTjZoT1hsZElhSmxtcUUwODA3Ukx5UE5xVXM3SS1ua05GM0o0aExweTY0dnk3ZDVaWkVRM1lpd2N5c1E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vietnam textile exports target $47.5 bn on green shift",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-textile-exports-target-47-5-bn-on-green-shift-313943-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vietnam's GDP grows 9.95% in Q3 as goods trade rises",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-gdp-grows-9-95-in-q3-as-goods-trade-rises-313941-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Goyal urges WTO-consistent action on trade distortions at G20",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/goyal-urges-wto-consistent-action-on-trade-distortions-at-g20-313940-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 408,
+    "dup_title": 105,
+    "too_old": 210,
+    "gate1_blocked": 38,
+    "gate2_blocked": 40,
+    "passed": 15,
+    "pass_rate": "5.0%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) stock price, news, quote and history - uk.finance.yahoo.com",
+      "Toray Pioneers Chemical Recovery Process for Engineering Plastic - PlasticsToday",
+      "EXEC: Lenzing Looks to Raise €300M in Rights Offering - SGB Media",
+      "Berenberg Downgrades Lenzing to Hold, Cuts PT - marketscreener.com",
+      "ETFs Investing in Shenzhou International Group Holdings Limited Stocks - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為東麗、耐吉相關動態：「NIKE (NKE) Cuts 2027 Revenue Outlook As Fair Value Stays ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "NIKE (NKE) Cuts 2027 Revenue Outlook As Fair Value Stays Just Above The Stock...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Toray develops first solvent-based recycling technology for high-performance ...（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
