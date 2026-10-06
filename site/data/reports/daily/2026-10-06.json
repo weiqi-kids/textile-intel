@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:35:01.980534Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-10-06-019",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "NIKE (NKE) Is Down 6.7% After Guiding For High-Single-Digit 2027 Revenue Decline - Has The Bull Case Changed? - Yahoo Finance",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVlOd20zVnNYdWhjZHJSRm5rTjdhMVI0eGh3NkhzdDA4Q0VXdVFHSUgyY1JDR0FEdmRIMlp6UjNLbGhkWndjVlJqeG0yZlNWZ1hOQzI5ZXNnOWhjd0s2Xy1lNGlCbGRlSmlCYXlheFNiN1haZ2hYb2tJWTV5OUZCRlFjOVpZSktfanc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-06-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan's Sanyo Shokai maintains FY27 profit plan after H1 loss",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/japan-s-sanyo-shokai-maintains-fy27-profit-plan-after-h1-loss-314010-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-10-06-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike (NKE) Faces Revenue Pressure Amid Dividend Sustainability C - GuruFocus",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWVmS1owM1JqaHl2djZ0RGVsQi1hSmw3ZkFhdk5seEVKZ05SMTE1UFR4MlI3WnM3dmRESFFreWtRN2dwYzFXVEt1UDdYRHN6WTZvUUxUTWlXbHpkbkR4NzlLY1ZKQXV2NDlmSGJZemJDZnB4RTJvX283VVFPSzJqZndKLWFvc1duMVJMTG41RGlSZVNDSlpaUlM4VnJLeGx3RVpDR1Vnc044QWtVSHlud1FTaU5MNC1vYS1JUjRqN0ItckhfX3pTNm5B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-06-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Vietnam posts $1.27 bn trade surplus in September 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-posts-1-27-bn-trade-surplus-in-september-2026-314008-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "far_eastern-2026-10-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FENC Leads the 100% Polyester Circular Revolution, Pioneering a New Era of Low-Carbon Materials and Sustainable Functional Textiles - feg.com.tw",
+      "companies": [
+        "far_eastern"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4ZU5vUlluVk1ELXdRTU9XOUV0d3ZJVzRaUFJCUDhjb1dteG43cDdJMHQ1amk4LTZwNDFOVzFRVVROZkJLZUF1RldSX3NKRU55TE40VFlYV1E5Zm41MXUxd0pMZHVtUFU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.23,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.58,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 12,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 4
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "far_eastern",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "order_visibility",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 110,
+    "too_old": 192,
+    "gate1_blocked": 32,
+    "gate2_blocked": 48,
+    "passed": 24,
+    "pass_rate": "8.1%",
+    "gate2_block_rate": "16.2%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance UK",
+      "Toray Pioneers Chemical Recovery Process for Engineering Plastic - PlasticsToday",
+      "EXEC: Lenzing Looks to Raise €300M in Rights Offering - SGB Media",
+      "Berenberg Downgrades Lenzing to Hold, Cuts PT - marketscreener.com",
+      "FENC Champions Sustainable Innovation: TopCool® Petal Selected for 2026 FIFA World Cup Alongside Bre"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Lululemon、Coach、耐吉相關動態：「NIKE (NKE) Is Down 6.7% After Guiding For High-Single-Dig...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "NIKE (NKE) Is Down 6.7% After Guiding For High-Single-Digit 2027 Revenue Decl...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Japan's Sanyo Shokai maintains FY27 profit plan after H1 loss（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
