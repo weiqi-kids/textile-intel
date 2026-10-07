@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-07",
+  "total_events": 15,
+  "by_company": {
+    "toray": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lenzing": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adidas": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "supply_chain_shift": {
+      "count": 6,
+      "sentiment_avg": -0.25
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.5
+    },
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

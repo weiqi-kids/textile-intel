@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T14:51:58.207485Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-10-07-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nike stock falls after revenue miss, NKE forecasts 2027 revenue decline and announces layoffs - here's wha - The Economic Times",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNMl9FY0xweTAyeVYxVnVQNU1aN2lqeEsxY2FUMkhiWUJmbmtsMW94a3lnbW9zdGhzMDUzRmpfaHhRU2t3OW42YzFIc1FOcGM1SUJPclZWSENwS3g5ZWRlZmQ1OS1EVVlsU01SWXJrVTFBcEt1a2NvSEhkY2FJMjY0cHExRV83TzgyZFR2WC05WTZNUUY1VzB1NGtoVjNqYTBGTFNqUVM1OWQ1a0ZPaXFibW0tRm02ekZYdVhOVldFcWJqVlA3Q2NJdklrbDFBSE82OGlBNngzRmE4bm42eUthM3Q5b1dCcFpPV0h5bUgxaWJwUHFKUHlTbnMwR21jN2swdXl4ZkV6ejFDc0ZJUUswekQ2WEVCZ1N5YldWNTRUR3d0YmlUMk10YkFR0gGvAkFVX3lxTE5FbDZZU2JuYTJ1NndOODFja3Y1dTkyM2N2WVpnWHM0ZlhvVlNsYU5LVDU5UVRjeHV0aDhQNkx6M2ppZUJZbzhIbk9tN2haQnlESjNFcFo0NzhlZ2JXSFpaQ3JvUWcwb1RIdmVqbFoxU3FLX0FuLThWVEt5ZjVBVDl0c095NURLeVFLSTZmcUd2bDhRVTNzNXVxMWlBdmN1REsyc1dwY1Y2LXRIR1hMNWlFTmtIRG1YNktKSTVCWmdhRV9rdzJObUZlQWlFNFJpMlVSRGduOFB1NGNiTnROdWJaRC1tMFhZdFF3cFVzOGFnVnRERzBkR3hSeF85Ql9zSE9IRFVOQ0lVSU1qVjBFSExsRDBMbUE4N1RPMWFXdzZHb01kV1ZDMk8wUVM5aGtmZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-07-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bangladesh growth seen at 3.4% in FY26 & FY27: World Bank",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-growth-seen-at-3-4-in-fy26-fy27-world-bank-314057-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-07-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "World Bank lifts Vietnam GDP forecast to 7.4%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/world-bank-lifts-vietnam-gdp-forecast-to-7-4--314045-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-07-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US splits $44 bn apparel market as China imports fall 31.5%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-splits-44-bn-apparel-market-as-china-imports-fall-31-5--314044-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "toray-2026-10-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toray Industries stock highlights new PPS recycling technology - AD HOC NEWS",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaG84V1pfdU9vTTEzY3hsbUVXcVdJU3h3WTVfeldkVlRWbmJyLXJIcU1aVFpKaDdfOThHcDJrYm5GVy1XdTBVNnZnMnBUMUZ1VnJIaXdLUThaRDlyaVB2SW1fcm9UT0xVZEl2RVF4TVRJUjNVMzlnUUIxVHFiUm9MN3VkaUlfWnY1ZVFCTnhINTQ4NGhSWG5lT2NzdTB6UjVERURKR1pWWFpfUllaNzNiMlE4UTFhSlA1SkFXTnVn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "adidas",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 107,
+    "too_old": 189,
+    "gate1_blocked": 30,
+    "gate2_blocked": 46,
+    "passed": 34,
+    "pass_rate": "11.4%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance UK",
+      "Toray Pioneers Chemical Recovery Process for Engineering Plastic - PlasticsToday",
+      "EXEC: Lenzing Looks to Raise €300M in Rights Offering - SGB Media",
+      "Lenzing's €300 Million Recapitalisation: Anchor Investors Back Heavily Discounted Rights Issue - AD ",
+      "Berenberg Downgrades Lenzing to Hold, Cuts PT - www.marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為愛迪達、Coach、東麗相關動態：「Nike stock falls after revenue miss, NKE forecasts 2027 r...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nike stock falls after revenue miss, NKE forecasts 2027 revenue decline and a...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Bangladesh growth seen at 3.4% in FY26 & FY27: World Bank（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
