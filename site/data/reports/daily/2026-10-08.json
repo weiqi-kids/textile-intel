@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:02:32.383406Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-08-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US' Levi Strauss raises FY26 profit outlook after strong Q3",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-levi-strauss-raises-fy26-profit-outlook-after-strong-q3-314064-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-10-08-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Guided Earnings Below Its Dividend. Here’s What Backs the CFO’s Payout Pledge - TIKR.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1dKQlJVcW80djV1YWlpa0RLaW8zbjVwdU1EMzVvX3hvbDdsbmhIY1pkd1J4TkZLN0tMS3lGRHFZdldJenNPQmRHdFpPMmNWaGZOdjFscEZNUF9PZ0U3Y2xVUjd5OGlPZUp3bDNjYkhOUmhVWjhETWtIb19yUzBIcG5DajN2Z1BPSFhMM2piTUJBeF9MeHU3ZEpFLWw0ZEE1bmtZSWJvVXM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-10-08-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Weak Guidance At Nike Stock Has Changed Its Investment Story - Simply Wall Street",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbHNnOWJTRUotR09uZlV5TWQwaEtLSHI0RW50WkRXdjQzaVVnVmx6Z19Hbi1yOHdVS3l3RUE5cEJEZzZ3V2o5WGVjN1N0YVJ4R0JPVHhRRnZpSGFFUXRTZXRYMjZNUHc4ZWlxRDM4c0xPb0MyWnp3MkZna3lOT0Q5YnhEUThocWNlMnAxbkw5LUtFZDlkRkhoN2ZyT2I1LTRETFR1NjJqMlUzUm9BbUlFalZjMDRDZzktZEdiWEV5X1JYaGx6Nzh5MdIBzgFBVV95cUxPUVM2dS1XM3RvakNMa1Y1bXo5Y2I1eXBJdGpiNHloNVRTMFFnNDAzUms1RnpHZ2pqSFJqUmlLU0kwXzlMOGFpX3huWi1VOVpLS1hKS095MU95UUxXQzU5QlFEVWRucXZ1ZUdCR2JidGRHa2puM2wzeUpNd3h5TkUyMUo3UEVEdjh3R0hINS1LOHRHVkxtUTdFNmJ3ZnhoVWZ2NDlnNlNieklkcHNBNmdqdkVLNlNZOXUzWnVpWnZ6NnAxV2pGQkVLN1QzUmZGUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-08-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-08-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bangladesh's apparel exports to US rebound in August",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-s-apparel-exports-to-us-rebound-in-august-314087-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 3
+      },
+      {
+        "id": "nike",
+        "count": 3
+      },
+      {
+        "id": "lenzing",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 2
+      },
+      {
+        "id": "shenzhou",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 396,
+    "dup_title": 104,
+    "too_old": 191,
+    "gate1_blocked": 18,
+    "gate2_blocked": 48,
+    "passed": 35,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "16.4%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance UK",
+      "Toray Industries stock falls 2.28 percent while fair value rises - AD HOC NEWS",
+      "Lenzing AG (LNZ) Allocates 1.49M Subscription Rights - TradingView",
+      "EXEC: Lenzing Looks to Raise €300M in Rights Offering - SGB Media",
+      "Lenzing stock loses 0.79 percent pre-market to EUR 12.50 - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Lululemon、耐吉、Lenzing相關動態：「US' Levi Strauss raises FY26 profit outlook after strong Q3」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "US' Levi Strauss raises FY26 profit outlook after strong Q3（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nike Guided Earnings Below Its Dividend. Here’s What Backs the CFO’s Payout P...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

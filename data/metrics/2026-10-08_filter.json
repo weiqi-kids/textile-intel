@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 191,
+  "gate1_fail": 18,
+  "gate2_fail": 48,
+  "passed": 35,
+  "gate2_samples": [
+    "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance UK",
+    "Toray Industries stock falls 2.28 percent while fair value rises - AD HOC NEWS",
+    "Lenzing AG (LNZ) Allocates 1.49M Subscription Rights - TradingView",
+    "EXEC: Lenzing Looks to Raise €300M in Rights Offering - SGB Media",
+    "Lenzing stock loses 0.79 percent pre-market to EUR 12.50 - AD HOC NEWS"
+  ]
+}
