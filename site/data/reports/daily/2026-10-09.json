@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:46:48.975075Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "fast_retailing-2026-10-09-003",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Fast Retailing Takes Silver, Surpassing H&M and Closing In on Inditex - Modaes",
+      "companies": [
+        "fast_retailing",
+        "hm",
+        "inditex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRUFjWFdKM1Z0d1FVaUFYbDJpYmFtYzd5MnpicEF1WGxtZEdFVjJHelJ5ZEdOREQ4QjBjQngwRU5EblJVUjFVVGQySnJQNlBDcVRMR000Q0diZGRZcTZWLXBDYkNwVVRDeXE5MjFSR3pWRlZ2cnAzQjdFMFIySWs2THJPc19fRnMwNHdwdTBFUnhPZFJsVG5kRXVhNnlaLXAzeDJrbV9USmhDa1d4dnNxRDBzRllTeS1xYWRGZjhPbU1FdHNBdUZSMU1PUmJJaFpxbTRFZg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-09-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vietnam’s R&I credit rating rises to BBB- with stable outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-r-i-credit-rating-rises-to-bbb-with-stable-outlook-314145-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-09-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India targets $1 trn exports in current year: Goyal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-targets-1-trn-exports-in-current-year-goyal-314134-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-09-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ICE cotton futures edge lower ahead of USDA WASDE report",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-futures-edge-lower-ahead-of-usda-wasde-report-314116-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-09-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Cambodia, Indonesia ship $5.6 bn in US apparel: China losing ground?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/cambodia-indonesia-ship-5-6-bn-in-us-apparel-china-losing-ground--314126-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 12,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "adidas",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 2
+      },
+      {
+        "id": "pvh",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "fast_retailing",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 101,
+    "too_old": 198,
+    "gate1_blocked": 26,
+    "gate2_blocked": 53,
+    "passed": 28,
+    "pass_rate": "9.2%",
+    "gate2_block_rate": "17.4%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance UK",
+      "Toray Industries stock falls 2.28 percent while fair value rises - AD HOC NEWS",
+      "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Cash Flow – VIE:LNZB - TradingView",
+      "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Statistics – VIE:LNZB - TradingView",
+      "Number of employees of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingV"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為愛迪達、Lululemon、PVH相關動態：「Fast Retailing Takes Silver, Surpassing H&M and Closing I...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Fast Retailing Takes Silver, Surpassing H&M and Closing In on Inditex - Modaes",
+        "level": "yellow"
+      },
+      {
+        "text": "Vietnam’s R&I credit rating rises to BBB- with stable outlook（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 9 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

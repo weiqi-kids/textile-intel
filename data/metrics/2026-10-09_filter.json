@@ -1,0 +1,16 @@
+{
+  "total_raw": 406,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 198,
+  "gate1_fail": 26,
+  "gate2_fail": 53,
+  "passed": 28,
+  "gate2_samples": [
+    "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance UK",
+    "Toray Industries stock falls 2.28 percent while fair value rises - AD HOC NEWS",
+    "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Cash Flow – VIE:LNZB - TradingView",
+    "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Statistics – VIE:LNZB - TradingView",
+    "Number of employees of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingV"
+  ]
+}
