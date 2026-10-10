@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 200,
+  "gate1_fail": 27,
+  "gate2_fail": 56,
+  "passed": 16,
+  "gate2_samples": [
+    "Toray Industries stock falls 2.28 percent while fair value rises - AD HOC NEWS",
+    "Lenzing AG: Christian Skilich, Allocation of 1,710 pieces of subscription rights in the course of a ",
+    "Lenzing AG (LNZ) Allocates 1.49M Subscription Rights - TradingView",
+    "Operating margin % of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingVi",
+    "Asset turnover of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingView"
+  ]
+}
