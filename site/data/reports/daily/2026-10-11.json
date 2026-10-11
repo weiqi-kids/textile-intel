@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:29:05.135475Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-10-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nike And 2 Other Dividend Stocks To Watch - Simply Wall Street",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1ZuTnVWMTdvRUxCcnJ5bFB5REZfUnlZM1hLaTlNXzF1WFVjX0dBcmFMVEQwQjBfNWVGQkhLckRoYWhMWjRUSUhOOEhsc1kta05IYmxOa2dNLVR5SWxqbnkteEFiUnB5ak40Z2g3TUkyN21YZ2hfQnQySjQwR1pGcFM1cnB1Z0RjZUc2MmxzZHhlOU1Zek5HTmhXb080N0o4dUhhTTdkb09GSlBIMHA00gG0AUFVX3lxTE83Q1RCc2dUeFZ6b08xX3pfLXJxWWF0WXZ4aFBBeUxRcy16a1IyUlFzVzdIcU5PSlMweGV6b2xpaFNXR3FmYW4xVXFiRGJpNzBXN3o0aDRDUWtONDZxOUFhbDdDeUt3NWRBRjhhSW1fMzhRM25qdjkwZFJCN203MkZtemllR3RkOWk5U3JfQXh2dS01aEhtXzFUTHB4OEs1YTMxc1pfdkgyNnNQSWVIVUpDOG8zcQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 130,
+    "too_old": 196,
+    "gate1_blocked": 27,
+    "gate2_blocked": 49,
+    "passed": 3,
+    "pass_rate": "1.1%",
+    "gate2_block_rate": "17.8%",
+    "gate2_samples": [
+      "Toray Industries stock falls 2.28 percent while fair value rises - AD HOC NEWS",
+      "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Financial Statements – VIE:LNZB - TradingVie",
+      "Lenzing AG (LNZ) Allocates 1.49M Subscription Rights - TradingView",
+      "Enterprise value to EBITDA forward of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:",
+      "Operating margin % of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingVi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為耐吉相關動態：「Nike And 2 Other Dividend Stocks To Watch - Simply Wall S...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Nike And 2 Other Dividend Stocks To Watch - Simply Wall Street",
+        "level": "green"
+      },
+      {
+        "text": "耐吉為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
