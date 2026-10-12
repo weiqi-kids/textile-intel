@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-12",
+  "total_events": 13,
+  "by_company": {
+    "adidas": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vf_corp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 3,
+      "sentiment_avg": -0.58
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": -0.44
+    },
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "supply_chain_shift": {
+      "count": 6,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

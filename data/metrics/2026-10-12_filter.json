@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 195,
+  "gate1_fail": 18,
+  "gate2_fail": 47,
+  "passed": 16,
+  "gate2_samples": [
+    "Toray Industries stock falls 2.28 percent while fair value rises - AD HOC NEWS",
+    "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Financial Statements – VIE:LNZB - TradingVie",
+    "Lenzing AG (LNZ) Allocates 1.49M Subscription Rights - TradingView",
+    "Net income of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingView",
+    "Non-operating income (total) of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB -"
+  ]
+}
