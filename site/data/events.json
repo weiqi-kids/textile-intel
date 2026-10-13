@@ -1,5 +1,189 @@
 [
   {
+    "id": "shenzhou-2026-10-13-001",
+    "date": "2026-10-13",
+    "companies": [
+      "shenzhou"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Huachuang sets HKD 52.41 target for Shenzhou stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnVYNnNDNEpyWGV5ZXZ4MnRjSHpfeW1hbU9lTWV5czQ1cm5UZFJCOGZNR3lGV2ZjVnU0OEl6bVVEek0xRVd3TXdNeGZqV1NOMV9GVzU4czdfT254YzNGelNncXRfSFVmaGlKTGxzT1",
+    "sources": [
+      {
+        "name": "shenzhou",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnVYNnNDNEpyWGV5ZXZ4MnRjSHpfeW1hbU9lTWV5czQ1cm5UZFJCOGZNR3lGV2ZjVnU0OEl6bVVEek0xRVd3TXdNeGZqV1NOMV9GVzU4czdfT254YzNGelNncXRfSFVmaGlKTGxzT1V3RHFtbXNsWDZNS0RLQzdCenpTLWN5dGNVekZOSXZWTFM5ZHY1c3BKVjUyT3F0aXlaOXZhV09PQXlRREhzS0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-002",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Global growth forecast at 3.1% in 2026 amid shocks: IMF",
+    "summary": "The IMF has kept its global growth outlook broadly unchanged from April, projecting activity to expand 3.1 per cent in 2026 and 3.4 per cent in 2027 despite persistent energy disruption. \nHeadline inf",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/global-growth-forecast-at-3-1-in-2026-amid-shocks-imf-314221-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-003",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Canada leads biggest India trade mission as CEPA advances",
+    "summary": "Canada is leading nearly 300 delegates on its biggest India trade mission in over 30 years, as it pursues a trade pact by end-2026. \nThe five-sector mission spans clean tech, ICT, life sciences, aeros",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/canada-leads-biggest-india-trade-mission-as-cepa-advances-314218-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-004",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "India & UK seek to double trade by 2030 under CETA",
+    "summary": "India and the UK have been urged to use CETA to double bilateral trade by 2030, turning market access into exports, investment, partnerships and jobs.\nPiyush Goyal said CETA gives zero-duty UK access ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-uk-seek-to-double-trade-by-2030-under-ceta-314217-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-005",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India must leverage FTAs, textiles to boost exports & jobs: Goyal",
+    "summary": "India's Minister of Commerce Piyush Goyal said India must combine access to advanced global technologies with job creation and business growth. \nHighlighting FTAs and strengths in textiles, footwear, ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-must-leverage-ftas-textiles-to-boost-exports-jobs-goyal-314210-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-006",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "South Indian cotton yarn firms as higher fibre prices lift sentiment",
+    "summary": "South India's cotton yarn sentiment improved as Mumbai prices rose ₹5–8 (~$0.05–0.08) per kg on stock replenishment, while Tiruppur held steady after last week's ₹2–3 gains.\nGujarat cotton jumped anot",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/south-indian-cotton-yarn-firms-as-higher-fibre-prices-lift-sentiment-314214-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-007",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India & UK to exchange annual data on CETA business use",
+    "summary": "India and the UK used the 16th JETCO in New Delhi to review Comprehensive Economic and Trade Agreement (CETA) implementation and agree priorities for the year ahead, including annual data sharing on p",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-uk-to-exchange-annual-data-on-ceta-business-use-314206-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-008",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UK trade mission to India targets $1.32 bn, boosts retail expansion",
+    "summary": "A UK trade mission to India has secured over $1.32 billion in business deals across retail, engineering, aviation, technology and healthcare. \nBritish kidswear brand Angel & Rocket plans 100 stores in",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/uk-trade-mission-to-india-targets-1-32-bn-boosts-retail-expansion-314201-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-009",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Is caprolactam duty risk: Can nylon yarn makers absorb the shock?",
+    "summary": "India has opened an anti-dumping probe into caprolactam from China, Russia, Thailand and the US after GSFC's complaint.\nThe case lands on a stable nylon chain that is short of demand, with Ahmedabad p",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/is-caprolactam-duty-risk-can-nylon-yarn-makers-absorb-the-shock--314211-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-010",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Bangladesh aligns economic reform priorities with World Bank, IMF",
+    "summary": "Bangladesh has reached broad policy alignment with the World Bank and IMF on economic reforms to restore financial stability, boost tax revenue, expand social protection and create jobs, Adviser Rashe",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-aligns-economic-reform-priorities-with-world-bank-imf-314187-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-10-12-001",
     "date": "2026-10-12",
     "companies": [
@@ -237,6 +421,62 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVC1Rb0lZbWdTMXJjX3Q0NHNjTW12bDlLSlc3NFpCWVV2Z2pfVlRHdjdOLWd6SjNxLTkxenJvM3dhMUs3LVNGZ0NBbkxITllkMkFCOTFhb04zVHIzSklLMWV3Z3AxTE1JdGRGbzA2OFExSHBsbGw1SE8waGJtOXlTNi1ZUFFfeVVHSDZWZ3dEd1ZXV3JZenZmYkhjb3o5TkFNRnFlTnd2QWxDaExkSUh2ajJxbHRVYkVQcG5Hei1zakpXazlT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-10-12-014",
+    "date": "2026-10-12",
+    "companies": [
+      "toray"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toray develops solvent-based recycling technology for PPS plastic used in automotive parts and more, aiming for sales with virgin-equivalent quality by around 2030 - Circular Economy Hub",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxPeFJJaGRFbGxYUUppMmZmVU1ja0pZY1BWeFFTbFlFNk1kOU9jamt2cXFzcmwyczhyaDZSZWJseHV0aUJSUWl0MkdNUW1ZOGhGcldYdXBBZGtSU1JPaEVSX2Y1c1E2ZGNIY0hXMUZMTC",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPeFJJaGRFbGxYUUppMmZmVU1ja0pZY1BWeFFTbFlFNk1kOU9jamt2cXFzcmwyczhyaDZSZWJseHV0aUJSUWl0MkdNUW1ZOGhGcldYdXBBZGtSU1JPaEVSX2Y1c1E2ZGNIY0hXMUZMTC1ublJDVldISVFranlkQjV0RWtPcVNNVVVBa2V4Q1paMDNYYVBxRHdnRm96bW1OWHB4Q3REVlNiNzRjZnprcE1YR3BPb0Rya0p4blJ4cUwxTW4xWGk0VXpXVWg5N3VERUp2N0ZLaVlGaG5KMmE4VVdLVGFTOHNldEJZZV9TQ2lYUjRwWGV0S0Z1UTVfcWJlVzV1dTgzeE84TUkzUHRtR3NVdFFPbEcwVXFOX1Br?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-10-12-015",
+    "date": "2026-10-12",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "lululemon athletica inc. News — LSE:0JVT - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB2RGJsNlc2RlpNQ3FheE5nZ1FGOWZ1aFZ6R2x3TkhyZ3UwMjRSMXA5WGVkbVZqSXlraktWWXFoVHNCZmdPRkZJbEtQMWpPMWNieDNKZUVFeU0xRFBCTy05TXpidzJRQTNKOWk1dUQyVG",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2RGJsNlc2RlpNQ3FheE5nZ1FGOWZ1aFZ6R2x3TkhyZ3UwMjRSMXA5WGVkbVZqSXlraktWWXFoVHNCZmdPRkZJbEtQMWpPMWNieDNKZUVFeU0xRFBCTy05TXpidzJRQTNKOWk1dUQyVGtEaFd1dWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-10-12-016",
+    "date": "2026-10-12",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nike's Reset Isn't Working Yet as Revenue Declines Deepen - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGN3R3Bkam1sZmsxYU80RnV4d2xCcDh5Yk9kajR1NG9JRmhqV1dZN1FMM2NmQjNETW9SZTNxLXNucmxFTG1NRTBDZTdGcFhUeTA1UzczLW5oTzNndEZEam8tYVowbUNDc0JRMENXZT",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGN3R3Bkam1sZmsxYU80RnV4d2xCcDh5Yk9kajR1NG9JRmhqV1dZN1FMM2NmQjNETW9SZTNxLXNucmxFTG1NRTBDZTdGcFhUeTA1UzczLW5oTzNndEZEam8tYVowbUNDc0JRMENXZTZJNHZPYjdaTy0xUktnVHRhRTkyRy15VEZ3NXhhQWttUHctTm51SjMwZkpQd2stWkQxaTNaYy1xcUl5bFBmd0tqSlBuendadjJt?oc=5",
         "type": "rss"
       }
     ]
@@ -1432,6 +1672,24 @@
       {
         "name": "tapestry",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXcwSzJDVFhCc1BDOFhhdkE5emg1dUFycWdsYzFIdC1wMXhJM1g0NksxU0NkRktRMU5DSFA1LXZiM0FxWmw0ZjFLdnl5TklKVDdIMDRia1ZMZzRFdVRwN3hOUkI0SzFzemlRODNVWG04eklRNmN2SG5fdXVjY0t2cHhzSWxPenNCZ3BFX2p6X2FPczh6aGpWeVh5ODVmQnhSUVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenzing-2026-10-08-036",
+    "date": "2026-10-08",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Dividends – VIE:LNZB - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5RaFVCUVQzdzkwQ2dqbE1JZ2QxT3V1b3hYZktIZS1oVUhKYVJOWUN6a2t6ZnNqaG0wQWRBemxQMmFQdF9QR2VPVHRPNDFaU2doMVhBcVc3X3lnZi00NHdOdzQ4YmlFOTFRUHNFRTBWaV",
+    "sources": [
+      {
+        "name": "lenzing",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RaFVCUVQzdzkwQ2dqbE1JZ2QxT3V1b3hYZktIZS1oVUhKYVJOWUN6a2t6ZnNqaG0wQWRBemxQMmFQdF9QR2VPVHRPNDFaU2doMVhBcVc3X3lnZi00NHdOdzQ4YmlFOTFRUHNFRTBWaV9wREU2?oc=5",
         "type": "rss"
       }
     ]
