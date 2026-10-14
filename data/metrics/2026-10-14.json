@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-14",
+  "total_events": 8,
+  "by_company": {
+    "toray": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "eclat": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "adidas": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "nike": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "supply_chain_shift": {
+      "count": 2,
+      "sentiment_avg": -0.09
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": -0.67
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

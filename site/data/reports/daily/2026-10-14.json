@@ -1,0 +1,233 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:10:45.581297Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eclat-2026-10-14-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Eclat expected record revenue: what it meant for Eclat stock - ad-hoc-news.de",
+      "companies": [
+        "eclat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmFwNVlOSV9veUFqQ0laT2lwSzE4d0M2Zy1tRkRyQnM0RzBuQ1dQdExRNkN2SHlSZldzakVELWhDNExfOE96OS13TG1fUGlLazktV2R0NHY0bGlOMDAxR0FTUjgtaGNnVHRZUWphZ1V2aFlIUlp2VXM5SzAtbDBUcU1pcm0ya04wRi1BWFpVSVpzNTF1YUhhMk1iYkUtVVduNVFZVkg1MjNHYXZSX04zYnk4UnF6a2VIdGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-10-14-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike’s $2.5 bn pace plan: Which Asian suppliers face pressure?",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/nike-s-2-5-bn-pace-plan-which-asian-suppliers-face-pressure--314252-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-10-14-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung Health Makes Sleep Coaching Easier To Start and Tailors Weekly Guidance",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.samsung.com/global/samsung-health-makes-sleep-coaching-easier-to-start-and-tailors-weekly-guidance"
+    },
+    {
+      "rank": 4,
+      "event_id": "toray-2026-10-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How New Cartridge Production At Toray Industries (TSE:3402) Has Changed Its Investment Story - Simply Wall Street",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWphcXYtRDhJRUN5M2lyRVRPR1BISkNqTS02b2l3Vm0yaUx1UzFlOGFaa0JubDg4eWlUSE9KRG1nUEtoQzJ6RmFROG5ZSHd6Sml0TlR0dFdUME4xbVljS1ZjblBVYWR2QVBzT1dXMS12bVlsbUV4Um9WNHNOb1BsVHM3ZXhyZVZGOUEybENyY3FJdGZpQkpDSVhSbWxmWTRLd2tJcEZqYWZPNXliejBIR2JnRzM4bkNrbURMRzdUUDRoWC1mYlRqb2lmZl9ESEpqaXlBbjUwZ9IB3AFBVV95cUxPbjkxZW51RnVndUZCeDRzR3QweHhyakFNTnFLbXlQRk9qOTBsSXVhb1lETU9qbVI0QlVYalJYZjU0LTY1Nk1vSmRlek1rMkdqZWZGNHNvaE9PcmhCTFZVNWIzck43eW5hckhOaWhsaTJYNElkemhDZHlpcEpNNEpPcTNOMHc0LUhfR2hCc0paMzgzeFV6M2lMNHRoazNXQmJCNEppbjhoUHVVSmxtWDJjaWQxaC1mMXRMUnQ5Z1U4bEplSEU3cE93NzBGWjlza2Q5NjA2TFV1X0t1WEdN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adidas-2026-10-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Bank cuts target for Adidas stock to EUR 205.00 - ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZFpadmVVRkE4NEZXUVNNYlZuRFdRVG4tMUNONU1ZVmxFR2dSX21rc3BqT1dGV2lwT0pqLW96QUlIQXZCNi1SaFAwS1lsVUtPTENrVUpTSGtDTmdjNXhtNndpMHRteEhpZUZoYUpDZ3NTdnJfcnJYczNUSzJUMDE5OXBPcFB3eFJ4Z0VwSHNqM3RKOWxRemhUbm5uYUJEMTlfbnBGeFE5NXNDR2FzMnZZakl2djBvVXNabTBF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.67,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 3,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "eclat",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 111,
+    "too_old": 203,
+    "gate1_blocked": 37,
+    "gate2_blocked": 42,
+    "passed": 13,
+    "pass_rate": "4.4%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Toray Industries stock falls 2.28 percent while fair value rises - AD HOC NEWS",
+      "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Financial Statements – VIE:LNZB - TradingVie",
+      "CapEx per share of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingView",
+      "Non-operating income (total) of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB -",
+      "Enterprise value to EBITDA forward of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Coach、東麗、Eclat Textile相關動態：「Eclat expected record revenue: what it meant for Eclat st...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Eclat expected record revenue: what it meant for Eclat stock - ad-hoc-news.de（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Nike’s $2.5 bn pace plan: Which Asian suppliers face pressure?（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
