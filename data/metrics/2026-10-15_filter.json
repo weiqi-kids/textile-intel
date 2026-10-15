@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 195,
+  "gate1_fail": 35,
+  "gate2_fail": 46,
+  "passed": 22,
+  "gate2_samples": [
+    "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Financial Statements – VIE:LNZB - TradingVie",
+    "CapEx per share of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingView",
+    "Total liabilities of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingVie",
+    "Net current asset value per share of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:L",
+    "Operating margin % of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingVi"
+  ]
+}

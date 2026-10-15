@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T12:56:45.095611Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-15-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Why India's trade deficit with China widening despite export growth?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/why-india-s-trade-deficit-with-china-widening-despite-export-growth--314291-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-15-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US apparel unit values jump 7.2%: Are Asian factories paid more?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-apparel-unit-values-jump-7-2-are-asian-factories-paid-more--314261-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "toray-2026-10-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toray develops polyester-nylon fibre with almost 93% recycled content - The Textile Magazine",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcHFBbHNVbXFyMjVzUTJUOHdvMkVsakpwVmZBdGpscVNURTdVMm9lb1VvX0d5dDBJOUN4SzJQbWNkeUpRSEQ3TDU3bHJFR1BidXNyazA3MVZPbkVta3JEbU40Vkx3TGptTk9Wd0hRV1hoeFFqQ0RnelVzSms4R0ZmVmhER0FPUjdkQmhRT0VRN1NYR2xGdFFjd0Etd0RvaDExWUx1eEd4a0c4UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "far_eastern-2026-10-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "INNOVATE. COMPETE. WIN TOGETHER. From World Cup Jerseys to Circular Innovation, Far Eastern New Century Leads the Way in Sustainable Textiles - Macau Business",
+      "companies": [
+        "far_eastern"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "sustainable_textile"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONkY4a0s4bE5wanlCdUxCOHd5YTllbDljeFZaYnBmYUJuZjRfbVJDYklTSkxyMHNubXNJYWU2ZVplTTU3eWp3Q3lpQnFFMUd3dkprVHI2ZE9vQ2hFSDFDSzIwR0wzMnJYSjRDWTRwMFBkY0hvek41V1dUcHNqUXliQ2R0eExrTTBOVXZiTlQtdVRCSmUzSFI0VDlLUTlvYkpMX3FhYmRUX1ZBTk1icG1nYzJ5c1dOMldsZWpuSHVJck94NW03Z25PcThIVFNaQThHLXBrbkdHZ2NPNG4yVXNBTGt3aTFOTTJsTUZxSVF1OGhjTkRRSE9B?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-10-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Makes Changes to Fabric Team After See-Through Mishaps - The Business of Fashion",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEZmVG8wSGVzeE1uRTNTYnVYbjV0R1lSWFhTMFVqYk9lVUV3Z1FqUHFIdzdzVTU0cUMyVFlLaEJYbzgwY0Z2d01FbVJfSkNXR2ZWdThtUk04TzVDeXNlOXFHSzR3My1Rak1BZ0Flei1QSWFEN3MyQ1ZhUVlTeG5EeVhvUWlfSmVmY2J4ZkVPLU9INWZmamtn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "far_eastern",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 109,
+    "too_old": 195,
+    "gate1_blocked": 35,
+    "gate2_blocked": 46,
+    "passed": 22,
+    "pass_rate": "7.4%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Financial Statements – VIE:LNZB - TradingVie",
+      "CapEx per share of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingView",
+      "Total liabilities of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingVie",
+      "Net current asset value per share of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:L",
+      "Operating margin % of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingVi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為東麗、Far Eastern New Century、Lululemon相關動態：「Why India's trade deficit with China widening despite exp...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Why India's trade deficit with China widening despite export growth?（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "US apparel unit values jump 7.2%: Are Asian factories paid more?（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
