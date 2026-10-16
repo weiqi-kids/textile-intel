@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 199,
+  "gate1_fail": 25,
+  "gate2_fail": 35,
+  "passed": 18,
+  "gate2_samples": [
+    "Toray Industries, Inc. (3402.T) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Financial Statements – VIE:LNZB - TradingVie",
+    "CapEx per share of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingView",
+    "FENC Releases 2025 Climate and Nature-Related Financial Disclosures Report - Far Eastern Group",
+    "Has Nike Done Lasting Damage to Jordan Brand? - The Business of Fashion"
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T12:48:56.086190Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-16-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India’s textile & apparel exports rise 17.51% in September",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-textile-apparel-exports-rise-17-51-in-september-314324-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "adidas-2026-10-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas stock pre-market at EUR 158.15: plus 0.32 percent - ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWd5Tjlkb0ExVmRyZnRCaU1HVmZHd0Etc3RDMG1kYmt0OTBmcEtHSm5OYVZzTmxqYWtGaTRETzVGVHFKSXFRMFl0amdRbkRxM0dyT05QMnRKQUpFX0JvTnZnc2dpbFotRjBEbjRPSHpMYmctWkNiNHpoWDdYQVctODN3M3NJWnFoUUlMbWd4dUw4RU4xZmI1NzctTHVhejhlTGpJQ18xMkdHeFhiU0lLN0dnRQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-10-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Alo Yoga's rise is making Lululemon and other athletic apparel brands sweat (LULU:NASDAQ) - Seeking Alpha",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUo3VkJja0llbmhlUkVRWXp1RnM0QVphU3c3SHNZdDZnSkEyWF9nVktheDFCNk5qMDI4c0FLQ1BaN29XTElfaVEtTXRNNFRycGpWblVrM2NPMnFzdTVHdDZ2S01LZktXR0p4ZkVZenhhd3ZMcW1Ic1F4WEVVNWdnZ293MW1DZjBqWFowUTM2RVVjVDJ6Rk1vcDFlaFZtbUhMZExZLWx1WFVNMmxrRUxNbUZB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India & Canada sign commercial deals, aim for CEPA by end-2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-canada-sign-commercial-deals-aim-for-cepa-by-end-2026-314333-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cotton yarn prices hold steady in south India as buyers stay cautious",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/cotton-yarn-prices-hold-steady-in-south-india-as-buyers-stay-cautious-314328-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 116,
+    "too_old": 199,
+    "gate1_blocked": 25,
+    "gate2_blocked": 35,
+    "passed": 18,
+    "pass_rate": "6.5%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Financial Statements – VIE:LNZB - TradingVie",
+      "CapEx per share of Lenzing AG Subscription Rights 2026-20.10.26 For Shares – VIE:LNZB - TradingView",
+      "FENC Releases 2025 Climate and Nature-Related Financial Disclosures Report - Far Eastern Group",
+      "Has Nike Done Lasting Damage to Jordan Brand? - The Business of Fashion"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為愛迪達、Lululemon相關動態：「India’s textile & apparel exports rise 17.51% in September」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "India’s textile & apparel exports rise 17.51% in September（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "Adidas stock pre-market at EUR 158.15: plus 0.32 percent - ad-hoc-news.de",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

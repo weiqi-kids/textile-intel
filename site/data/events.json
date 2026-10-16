@@ -1,5 +1,168 @@
 [
   {
+    "id": "adidas-2026-10-16-001",
+    "date": "2026-10-16",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas stock pre-market at EUR 158.15: plus 0.32 percent - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWd5Tjlkb0ExVmRyZnRCaU1HVmZHd0Etc3RDMG1kYmt0OTBmcEtHSm5OYVZzTmxqYWtGaTRETzVGVHFKSXFRMFl0amdRbkRxM0dyT05QMnRKQUpFX0JvTnZnc2dpbFotRjBEbjRPSH",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWd5Tjlkb0ExVmRyZnRCaU1HVmZHd0Etc3RDMG1kYmt0OTBmcEtHSm5OYVZzTmxqYWtGaTRETzVGVHFKSXFRMFl0amdRbkRxM0dyT05QMnRKQUpFX0JvTnZnc2dpbFotRjBEbjRPSHpMYmctWkNiNHpoWDdYQVctODN3M3NJWnFoUUlMbWd4dUw4RU4xZmI1NzctTHVhejhlTGpJQ18xMkdHeFhiU0lLN0dnRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-10-16-002",
+    "date": "2026-10-16",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Alo Yoga's rise is making Lululemon and other athletic apparel brands sweat (LULU:NASDAQ) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUo3VkJja0llbmhlUkVRWXp1RnM0QVphU3c3SHNZdDZnSkEyWF9nVktheDFCNk5qMDI4c0FLQ1BaN29XTElfaVEtTXRNNFRycGpWblVrM2NPMnFzdTVHdDZ2S01LZktXR0p4ZkVZen",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUo3VkJja0llbmhlUkVRWXp1RnM0QVphU3c3SHNZdDZnSkEyWF9nVktheDFCNk5qMDI4c0FLQ1BaN29XTElfaVEtTXRNNFRycGpWblVrM2NPMnFzdTVHdDZ2S01LZktXR0p4ZkVZenhhd3ZMcW1Ic1F4WEVVNWdnZ293MW1DZjBqWFowUTM2RVVjVDJ6Rk1vcDFlaFZtbUhMZExZLWx1WFVNMmxrRUxNbUZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-003",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India & Canada sign commercial deals, aim for CEPA by end-2026",
+    "summary": "India and Canada have signed commercial agreements and MoUs in Karnataka while reaffirming plans to conclude CEPA talks by end-2026. \nThe fifth round in Ottawa covered goods, services, investment, rul",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-canada-sign-commercial-deals-aim-for-cepa-by-end-2026-314333-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-004",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "cotton_price",
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Cotton yarn prices hold steady in south India as buyers stay cautious",
+    "summary": "Cotton yarn prices stayed steady in Mumbai and Tiruppur after earlier gains, with sentiment split between weak Mumbai demand and firmer export-led support in Tiruppur.\nGarment units resisted higher fa",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/cotton-yarn-prices-hold-steady-in-south-india-as-buyers-stay-cautious-314328-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-005",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "China factory-gate inflation hits 5%: Can SS27 buyers protect margins?",
+    "summary": "China’s producer prices rose 5.0 per cent year on year in September, shifting SS27 sourcing assumptions without proving inputs are rising.\nIndia’s textile WPI rose 13.85 per cent against 3.57 per cent",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/china-factory-gate-inflation-hits-5-can-ss27-buyers-protect-margins--314329-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-006",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Bangladesh must keep policy tight, pursue reforms: IMF",
+    "summary": "IMF has urged Bangladesh to keep monetary conditions tight as inflation persisted, averaging 8.65 per cent in September, and said tightening alone would not restore stability. \nIt forecast FY2026-27 i",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-must-keep-policy-tight-pursue-reforms-imf-314322-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-007",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "India’s textile & apparel exports rise 17.51% in September",
+    "summary": "India’s textile and apparel exports grew 17.51 per cent year on year to $3.081 billion in September 2026, with textiles up 19.87 per cent and apparel up 13.68 per cent.\nApril–September exports rose 2.",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-textile-apparel-exports-rise-17-51-in-september-314324-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-008",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Bangladesh garment exporters face pressure from steep US freight",
+    "summary": "Bangladesh’s exporters warned that high US freight costs, rising raw-material prices and expensive financing were weakening competitiveness. \nShipping a garment container from Chattogram to New York c",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-garment-exporters-face-pressure-from-steep-us-freight-314317-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-009",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "EU traceability push puts Bangladesh’s SMEs to the test",
+    "summary": "Bangladesh’s garment SMEs could face a disproportionate burden from EU traceability and DPP rules as they invest in data collection, verification, system integration and training.\nStakeholders seek cl",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/eu-traceability-push-puts-bangladesh-s-smes-to-the-test-314306-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "toray-2026-10-15-001",
     "date": "2026-10-15",
     "companies": [
@@ -232,6 +395,153 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/us-apparel-unit-values-jump-7-2-are-asian-factories-paid-more--314261-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-10-15-014",
+    "date": "2026-10-15",
+    "companies": [
+      "toray"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Consensus lifts Toray Industries stock target to JPY 1,430.91 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWNpbno3ajAxbUNqNXRQeDBBWXZRcFBTYVh2RE5KX0JlU3Z2RHRhd21meU1pclNPMVp0NXhMNXFTMERWQWxlWldjV2pKaFZUQ2FEM01tOHM3WFZxTC1aYUN4bXpTb25qS0h3MnQ1bU",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWNpbno3ajAxbUNqNXRQeDBBWXZRcFBTYVh2RE5KX0JlU3Z2RHRhd21meU1pclNPMVp0NXhMNXFTMERWQWxlWldjV2pKaFZUQ2FEM01tOHM3WFZxTC1aYUN4bXpTb25qS0h3MnQ1bU5NVGYyZy1MRWozeFNkSTdzYjdZYzhINngzZklqaXVSN2VkZ3VqQ0pHU2I2MVB5Z293aE5qV1ktS0hmeVMzWGQ1alRPYkJPU3RyLXpNWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toray-2026-10-15-015",
+    "date": "2026-10-15",
+    "companies": [
+      "toray"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toray unveils recycled polyester-nylon fibre - Knitting Trade Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNnpyN2NhNWd0T2hFMEhHbGs5ZXNZendBMm51YlQtZ1NjczFiMU5vQjNCT2Z4ajZaVTk3UDZJWVNuTHNiS2dNUFJuaUZCMUs5bWdLX3l1cGtjbGNoa2daRDFSRjZzcFJqWWZOX285UF",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNnpyN2NhNWd0T2hFMEhHbGs5ZXNZendBMm51YlQtZ1NjczFiMU5vQjNCT2Z4ajZaVTk3UDZJWVNuTHNiS2dNUFJuaUZCMUs5bWdLX3l1cGtjbGNoa2daRDFSRjZzcFJqWWZOX285UFFZVjdiWjZ0OEJPMmRYMThNVFFPaThsTktBVVBPZFY5ek13SXZSb3RiSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "far_eastern-2026-10-15-016",
+    "date": "2026-10-15",
+    "companies": [
+      "far_eastern"
+    ],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "INNOVATE. COMPETE. WIN TOGETHER. From World Cup Jerseys to Circular Innovation, Far Eastern New Century Leads the Way in Sustainable Textiles - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNeXBIN0p1NFg1V19ocDRfNHJ1Y2ZRSmFFT2trY2J0UDVYc1NFcmsyY2FOdm0ybDdEeURQUWx4Z3YtbXB5cDJRY053OWs4SWxXc0tJYU94YjZzWEQ3bkdkeFZNSnJyVzl5eW1MQWlkRS",
+    "sources": [
+      {
+        "name": "far_eastern",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNeXBIN0p1NFg1V19ocDRfNHJ1Y2ZRSmFFT2trY2J0UDVYc1NFcmsyY2FOdm0ybDdEeURQUWx4Z3YtbXB5cDJRY053OWs4SWxXc0tJYU94YjZzWEQ3bkdkeFZNSnJyVzl5eW1MQWlkRS1ZZmN4NnRLcEY1NGVSNU9nQXktWnZHLUtSUWhnNTU4SzIzRHZWTUgycWtyTWt4a1NRZDJROWN5elAwQ2l6UFFSWlVhTzlSNklXeVM5SWRXRWNpOWlDdGNkZVptLVd6U2c1SFFWNmkwbEc2MTVRV3VFcjZ6RGk0QzBtWERoYUs2c3lEQnE0RzN3WjJlamhfNDVwVUltRzl1STFhV051akJaZE9lMTRkbmtIZmZKNXdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-10-15-017",
+    "date": "2026-10-15",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why lululemon athletica (LULU) Stock Is Up Today - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXN6eDkzTjNwTVE5dDJ1TjU3dHQ5OE1GS001dU4zM1VxMlpCa0RTcV9pV3VoSkRRWXljc19SUjl4X1lIN1lIR3NOSi1HakJMOVdBWGVrQ2VHLUZjVE5OMzBaRU9KckMwMjhHSkZXY0",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXN6eDkzTjNwTVE5dDJ1TjU3dHQ5OE1GS001dU4zM1VxMlpCa0RTcV9pV3VoSkRRWXljc19SUjl4X1lIN1lIR3NOSi1HakJMOVdBWGVrQ2VHLUZjVE5OMzBaRU9KckMwMjhHSkZXY0NZYlZYYzNkTFhxV3lkQlNxWXp3RGdROFdYUU9lczdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-10-15-018",
+    "date": "2026-10-15",
+    "companies": [
+      "lululemon",
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nike Climbs 5% as Beaten-Down Consumer Names Catch a Bid; Lululemon Rises 4%, On Holding Dips - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2JQNzZjM2RmZ28yc2FfYWFqZEo3OXd5T2Fzd2N6VnZRVFVIYnoxYmpCYWdGUzNHQkRUc2VNMnJ1ME1RLUtlaHc0YzR0Sk9fV3BZczRTbUJoWjVmU3QyZ1l4amtnQ3E3aHptZjZLMD",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2JQNzZjM2RmZ28yc2FfYWFqZEo3OXd5T2Fzd2N6VnZRVFVIYnoxYmpCYWdGUzNHQkRUc2VNMnJ1ME1RLUtlaHc0YzR0Sk9fV3BZczRTbUJoWjVmU3QyZ1l4amtnQ3E3aHptZjZLMDhxbGpQMmQwdlhTRVE0cVRPSmt0Z3UyeWZtNnJXY3JNYnZRaXZyS20yMjNNTndZWEtxc1FUNlZzblRMdWFSRmpUOGgwOEhmaVFnRFI3dHRsc0hRVnQ5dS0tMThtUmJhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-10-15-019",
+    "date": "2026-10-15",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Corp Is Maintained at Buy by Jefferies - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXlyUGhIb1JJVlZ1TG1RbkNJeEdDdXRqeXNFSHNpOHBxWEw1a1BlSVlDMWZiUk5vNFRNNFhqdXhoNWNmcEwxVWp0cGNWc1FxTHZvV255ZWhTU09oaExjYWY3RklnQ01naFk0eUx0ST",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXlyUGhIb1JJVlZ1TG1RbkNJeEdDdXRqeXNFSHNpOHBxWEw1a1BlSVlDMWZiUk5vNFRNNFhqdXhoNWNmcEwxVWp0cGNWc1FxTHZvV255ZWhTU09oaExjYWY3RklnQ01naFk0eUx0STA0ekpteXZKQWFCd29WRlZqcklWZlEtekFnSWVrY1RnTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-10-15-020",
+    "date": "2026-10-15",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Corp. (PVH) Stock forecasts - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNaW1HMUlaU0d1aXY5SUZOckdGQ05RT0Q3LWVDeFRZZTVISElWSkx0Tnl6QUFoRlJ6YXVVNVZhZ3ZRaHA0WV9jM0xVZW1Jc1BIc2VxS1o0S1drYUQ3WkhkU1pDeEtJaDkycGFzcVN4QX",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaW1HMUlaU0d1aXY5SUZOckdGQ05RT0Q3LWVDeFRZZTVISElWSkx0Tnl6QUFoRlJ6YXVVNVZhZ3ZRaHA0WV9jM0xVZW1Jc1BIc2VxS1o0S1drYUQ3WkhkU1pDeEtJaDkycGFzcVN4QXhsYnJWN0VWcGNITGJwMUxTWkJBNVlHUUNIODNoZjBJcFBYMUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-10-15-021",
+    "date": "2026-10-15",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Corp. (PVH) Stock forecasts - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDZTNXlqSWFGdHQyR2FPc3hra045ZUlxalR4b3dhbWtITG9LbUhaOFE0YXBYQThWUlFORGJJOVB6R2FYV0FNOGhNZGtpZHI5Nlo0aUFNQzZSZXdzRzd0MUp3d1JLelFqTk1SRDdBeU",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDZTNXlqSWFGdHQyR2FPc3hra045ZUlxalR4b3dhbWtITG9LbUhaOFE0YXBYQThWUlFORGJJOVB6R2FYV0FNOGhNZGtpZHI5Nlo0aUFNQzZSZXdzRzd0MUp3d1JLelFqTk1SRDdBeUFJOE5sNjZJNkkwM2tzUFNiUHlUMUtYT3hXd1Nla3NxdFl0MDQ?oc=5",
         "type": "rss"
       }
     ]
@@ -493,6 +803,24 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTVDRXEwNFY5MnR4dFRkMmZZc05mdWRqOTJEdUNIYk84RTlhdVZSb0ZOMm9rWDk1YjJ0WmFfUmNHRW91ckdrcU10czhMUnNVazhTdzhyUkRTcHpMUnJYTjJVeFdPcGdyc0hnU3J4VGltZG01LV9CY0libDQxUlNub1Z2eE1QQkxJTFczc1BGV0FGUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-10-14-015",
+    "date": "2026-10-14",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon Makes Changes to Fabric Team After See-Through Mishaps - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDhGRUNqM1NXQ1RCV05iSTFTV1E2dWIyRVV2WjVtaHlrdTNRV2Z1MFR4Vkg3aUwzNUJxS3hsQnZEY2p0eW9xeXZaYUV0Y2VIX0FLUnFnYS0wdlNwSzJQVGxaeXNTUVpVTmlCVmh0eE",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDhGRUNqM1NXQ1RCV05iSTFTV1E2dWIyRVV2WjVtaHlrdTNRV2Z1MFR4Vkg3aUwzNUJxS3hsQnZEY2p0eW9xeXZaYUV0Y2VIX0FLUnFnYS0wdlNwSzJQVGxaeXNTUVpVTmlCVmh0eEpTUHg1cTRSUGJ4cTNxeE40NGRzWjR6bHZlOTljakhSU1NJVlptX1lMTkhTWkNkUHI5NGM0M2YyelZTNXhJRER1QU9TN2VTUQ?oc=5",
         "type": "rss"
       }
     ]
