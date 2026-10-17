@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 201,
+  "gate1_fail": 38,
+  "gate2_fail": 35,
+  "passed": 15,
+  "gate2_samples": [
+    "Toray Industries, Inc. (3402.T) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Lenzing AG (CEUX:LNZv) - Valuation Measures & Financial Statistics - GuruFocus",
+    "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Financial Statements – VIE:LNZB - TradingVie",
+    "FENC Releases 2025 Climate and Nature-Related Financial Disclosures Report - Far Eastern Group",
+    "Shenzhou International Group Holdings Stock Rallies 2.8% in Hong Kong - Moomoo"
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:49:48.874720Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lenzing-2026-10-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lenzing launches EUR 300 million capital increase as Lenzing stock was last at EUR 10.68 - ad-hoc-news.de",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOREZGbUV6YUQxOER0blk5ZjFXempXVXc4UklvRUItbmRYdzlsTXdZRWh2dnU2QmtiRm5Xdld5WnFnMmlBcnI1bzhSMFJ0dFdCY1F5b0JJaVZWbXVkRUhqMjg2SnM2S1JlSlROd3YxQVJ5WUZQNDFMcHhTZDJzX21oQWF6YzNlcnd4dkdvaWpmVFliTDAyWFloMk43Wklya2JwRndGYWlrT1Bhb1hBZUM5QVZUZFpkWTI5SUxQQ2F1bTNFbEVHRkdNbHpRVHdRQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adidas-2026-10-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RBC keeps EUR 200.00 target for Adidas stock - ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHVza3ItejJMWTctWW5JdHg1eE5VRkJGNG5UZ0NERWVvZmwyQmxOV05jUk9xMHNKNDcyZHVoeGJJTTQxSzBaNEE1YUdCRXE5OWpGRWpDSzQ1SWhLSUp5RzVmR01zeERiZzhDS3llWGVMakd3Rk8wVldQU2tlcnVZYnJvdUpuTnJSOGhTbXhmb1lsbzdhcUZRbHN6c2lhLUNGUzhlNU8zYTA2VWM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-10-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Athletica (NASDAQ:LULU): A GARP Candidate in Athletic Apparel - ChartMill",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWkVIalVpaWpUanBxR0MwS2tOOFpPbUR2MkVqQXVBNXRPbndXNXBzcGI3enBZeTduNi1yWmxZRmxQMjVRMnBtcFF6Wjc0N2UwM0NoYURpNFgyd1o4NEpvZDZnTHRteUtWSXdpSlRNY0I2UGsxUFREQ1ZZQlU4bUhfTkZZSkxBbXRLYkRJaWFsNGpnNUV5cmlPTGdVRzJIb0t0djlUclY2d3BaLXkwMFRSQ1BiU3RuOVFSbHVR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Russian diesel deal and questions over US trade policy consistency",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/russian-diesel-deal-and-questions-over-us-trade-policy-consistency-314342-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "IMF raises Asia-Pacific growth forecast to 4.8% for 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/imf-raises-asia-pacific-growth-forecast-to-4-8-for-2026-314325-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 116,
+    "too_old": 201,
+    "gate1_blocked": 38,
+    "gate2_blocked": 35,
+    "passed": 15,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Lenzing AG (CEUX:LNZv) - Valuation Measures & Financial Statistics - GuruFocus",
+      "Lenzing AG Subscription Rights 2026-20.10.26 For Shares Financial Statements – VIE:LNZB - TradingVie",
+      "FENC Releases 2025 Climate and Nature-Related Financial Disclosures Report - Far Eastern Group",
+      "Shenzhou International Group Holdings Stock Rallies 2.8% in Hong Kong - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Lenzing、愛迪達、Lululemon相關動態：「Lenzing launches EUR 300 million capital increase as Lenz...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lenzing launches EUR 300 million capital increase as Lenzing stock was last a...",
+        "level": "green"
+      },
+      {
+        "text": "RBC keeps EUR 200.00 target for Adidas stock - ad-hoc-news.de",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
