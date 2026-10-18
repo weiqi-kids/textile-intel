@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-18",
+  "date_range": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "generated_at": "2026-10-18T12:15:19.637216Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nike-2026-10-12-011",
+      "date": "2026-10-12",
+      "title": "What's next for Nike after its multi-year revenue decline and strategic reset? - TradingView",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 13,
+      "last_week": 19,
+      "week_over_week_change": "-32%",
+      "sentiment_this_week": 0.11
+    },
+    "fast_fashion": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "supply_chain_shift": {
+      "this_week": 39,
+      "last_week": 38,
+      "week_over_week_change": "+3%",
+      "sentiment_this_week": 0.06
+    },
+    "cotton_price": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.33
+    },
+    "sustainable_textile": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "order_visibility": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "adidas": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "lululemon": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "vf_corp": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nike": {
+      "event_count": 4,
+      "sentiment_avg": -0.56,
+      "rank": 4
+    },
+    "shenzhou": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "toray": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "eclat": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 8
+    },
+    "tapestry": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "far_eastern": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "lenzing": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 108,
+        "last": 159,
+        "change_pct": -32.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-12",
+      "event_count": 18,
+      "sentiment_avg": -0.12
+    },
+    {
+      "date": "2026-10-13",
+      "event_count": 15,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-10-14",
+      "event_count": 17,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-15",
+      "event_count": 22,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 16,
+      "sentiment_avg": -0.11
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 9,
+      "sentiment_avg": 0.16
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-12 ~ 2026-10-18）共 108 則事件，重點為「What's next for Nike after its multi-year reven...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "耐吉",
+        "reason": "本週情緒偏負面（-0.6），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "愛迪達",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lululemon",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

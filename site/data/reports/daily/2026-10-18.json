@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:15:19.499209Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-18-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Vietnam's trade to top $1.11 trn by year-end: PM",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-trade-to-top-1-11-trn-by-year-end-pm-314345-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-18-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vietnam’s export growth masks margin crunch?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "order_visibility",
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/vietnam-s-export-growth-masks-margin-crunch--314334-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-10-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why I swapped Bayeux Tapestry queues for the Loire Valley’s enormous, apocalyptic alternative - The Telegraph",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVlIbC1fWHpDUVNnWV8wT29Va3UyckRSN2c2aHRPNnRBOXpIWFhDYmk0ajRBckpyT2ROZEpLbGFmemp1eXNRV3VXZWpSblE1MnMybnlQbW5LLUZnVjlsQzlpMkFnaVRTLWpoTkwwbmlyTEZyR2hPLUt0Rm1CaVlKZVVLRTRFcGczTVNKb0tUUFZaZjRENnRYc3VfYUVPYjdpUmtYXzdSOE01dU5ZSWZv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tapestry-2026-10-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tapestry, Inc. $TPR Stake Lessened by Curated Wealth Partners LLC - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSUY1aklRcnV4WlkxX1prcHp1OGJtRWVUTWhIV2k0ZmxPNWN2eDdRbW1qbEZLcG8zTkJNLWxXb0Z1MzhnSGxtM2NkTEJ1cm9lekxWVUlabTFCQ0JPZ3VCaTRnTXV1dkRmXzRTMkRlM3FGRmpjYWNDcWFrWms1TjhabGdhV2JSVWxkUk14SUU1RWxscG41dEtNMWNoWTY1ZlpOTy1QZ01iUVdHUGNJVnZEOFJHc0ZyekxZUUhldGxuejU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-10-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "British Museum Bayeux Tapestry Tickets Booking: New 2027 Dates and Price Rules - cristinaiglesias.com",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "order_visibility"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQODFkVTI1TXNfRHJiZmRGZGctZ0w1cG9GOVNyQjExNmY2TVZwZEdodU9rTzZEeXZBbzNrdFNVS2FXY2gyanR6d0hiZ21wLUo4RXF3WTdPQnBhWXVLeHItU0lLSGxUV092LVVsRjd5dGFTOTFsUklrZFpwOFBGR0h1Z0xkby03cTNtUkMyc3N4cmxrcXVKRlJKVnhGM3Noam83b1lRYk4xM0M4bjNWMDI0Yk1tWWxIZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "order_visibility": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.28,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.62,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "order_visibility",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 116,
+    "too_old": 207,
+    "gate1_blocked": 34,
+    "gate2_blocked": 34,
+    "passed": 15,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Toray Industries schedules November 10 results for Toray Industries stock - ad-hoc-news.de",
+      "Lenzing AG (CEUX:LNZv) - Valuation Measures & Financial Statistics - GuruFocus",
+      "FENC Releases 2025 Climate and Nature-Related Financial Disclosures Report - Far Eastern Group",
+      "Shenzhou International Group Holdings Stock Rallies 2.8% in Hong Kong - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Coach相關動態：「Vietnam's trade to top $1.11 trn by year-end: PM」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vietnam's trade to top $1.11 trn by year-end: PM（供應鏈轉移、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Vietnam’s export growth masks margin crunch?（訂單能見度、供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

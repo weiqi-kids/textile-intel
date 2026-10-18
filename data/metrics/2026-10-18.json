@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-18",
+  "total_events": 9,
+  "by_company": {
+    "tapestry": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "order_visibility": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "supply_chain_shift": {
+      "count": 5,
+      "sentiment_avg": 0.28
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.62
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
