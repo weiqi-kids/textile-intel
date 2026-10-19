@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:07:34.870608Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-19-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Polyester raw material prices decline in India as Asian markets weaken",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/polyester-raw-material-prices-decline-in-india-as-asian-markets-weaken-314358-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "vf_corp-2026-10-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corp (NYSE:VFC): Can Brand Recovery Support Revenue Growth? - Kalkine Media",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1RJakJ3elEyX09lNlJoeDJyM1NHSVFValpLNlFiWjgxV0R3ajlMTUZfMXg4SHlGVGVPbTI0WFNPTk80aUwtWC1zRTdySWFWWkdNSVdUcjBINmJta3JQanV0ZEJBV0F2VzAySVF3c2c2c0xlMWRzN1hGMzF5S1o4Y09nZ0twLU01U1FwLVdWUXJybUU4aVNIc0xSUTRSMDBac0Rj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-19-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "France's Damartex protects profitability amid Q1 revenue decline",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.67
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/france-s-damartex-protects-profitability-amid-q1-revenue-decline-314376-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "nike-2026-10-19-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zacks Research Issues Pessimistic Estimate for NIKE Earnings - MarketBeat",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaEVRb3R6VWdlcWVYTXFVMzdka1M4TXFwclNMUHMzV21EWDJmRTY5endMckVNUkVjMExUemZXZVFiWkVUX3dPV0I1MlBYVERSU0JfMEM0OHA4djFfU2lZamQtLXFkZlBUVTFOaHpPbUNpUjRtYmZhbnYySGtjU1JxR3VQS1Z5RmwxNGlxSk5mOXU2SlhFdkNXT2s1RGFZc0l2YXhPbjEwNmwyVHZjMl81OTZCSnFJY0RWd090NjU3OFpUQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-10-19-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "In 2013, Nike Mispronounced Stephen Curry’s Name and Left Kevin Durant’s Name in Its Pitch—He Joined Under Armour and Helped Drive 95% Footwear Revenue Growth - Men's Journal",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPSUxhVDAzS2p6clNad1ZRSVU4RVBjck95MkVJSExZQ2ZWYnR0LXlWV1pTVl9hc2F1OW12NWx5a3MzdlExT3pDRnRpUFBJNElSaHB5c2JhNU5lVDhsZkJ6OHhIWHBucEVoSEQ0YzNpbks5TjJJVEZqZUdlLVRWaWRTRENxLTd1SGV0dkh6c0xvX181Z1RjNFBzSTFFVS1jV1FLckpJdTFBeUN2NHo5WUdLNlJIQjNNLXN1QmNQTmlSV1d2Y3VsRVRrZ1l6cTdGVTJ6OEw0elNzbmtPUjdZbEFaMWFkTFJMU1FrYUh3cVNubE5ySDhGSmpzakZ5NnFoVXBqN0c5TU5DMW9oTEZUcEgzNGxEWTBkdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.22,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 5,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 115,
+    "too_old": 197,
+    "gate1_blocked": 26,
+    "gate2_blocked": 41,
+    "passed": 16,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Toray Industries (TSE:3402) On Bluejay Manufacturing Progress And The Undervalued Narrative - Simply",
+      "Toray Industries, Inc. (3402.T) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Toray Industries schedules November 10 results for Toray Industries stock - ad-hoc-news.de",
+      "Toray develops composite fiber with 93% recycled content - Textile Today",
+      "Lenzing AG (CEUX:LNZv) - Valuation Measures & Financial Statistics - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Coach、耐吉、VF相關動態：「Polyester raw material prices decline in India as Asian m...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Polyester raw material prices decline in India as Asian markets weaken（供應鏈轉移、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "VF Corp (NYSE:VFC): Can Brand Recovery Support Revenue Growth? - Kalkine Media（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
