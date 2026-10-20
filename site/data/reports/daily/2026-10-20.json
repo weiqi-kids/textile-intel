@@ -1,0 +1,228 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:07:48.961679Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-20-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Luxury’s split market: Ultra-rich spend, aspirational buyers retreat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/luxury-s-split-market-ultra-rich-spend-aspirational-buyers-retreat-314378-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-10-20-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NIKE Stock Earnings Estimates Decreased by Zacks Research - MarketBeat",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONGhidFVkUWpvcjdOdmZyeTJYRElYMVUwNDhZMVN4WGY3WVREWDA1bF9BbzFnTzA5NGdHSlRFbXZucW5OS0xZWnFHTUJhc3lDQU1TMkQ3YXQ4eGFMZFJ2c3M0ZFNhdDBsXzVPRzBXRkpGY0M3Wkd6OURyaTRYeThfNzhQM0duYk81RFZCV0hMcGdtLVlicXdMLWkwVTRKb25MVjJ0Nmx3RVF2TVhwTEZpVTBud1J1NFN4N0Z1LUNR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-20-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bangladesh's apparel exports to EU may gain in late 2026: Eurostat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-s-apparel-exports-to-eu-may-gain-in-late-2026-eurostat-314381-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "toray-2026-10-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toray develops polyester-nylon fiber made with ‘at least 93 percent recycled material’ - Robotics & Automation News",
+      "companies": [
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ0FrTU1RRXhLTXRGY0JfaU0wMGl6dDB3V0RTTjFxRkkxdDY0ajVOLUpwZzlCYXRBUUJMN01faVVHWFNsUHZMakw4NGxXRlhvX2ZUaERWNVhHbWE2amQ3YVBnN2VIZkY0dXlqUzlwa2NENVJWZnNiYTlkcnVSbmJDeE5ZM1RQRUdPbURBSmJsN25rMEZWdm9XTHJ6eU1iRDdMVGJ6TXJoRVBSaU9VZjhoM1A3Tm9FZUJBbjJqNnBIUHA5Yy1lc3RkMjZGQ1FyVkRrRTRKVmxCZzU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "adidas-2026-10-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas stock: sportswear group trades pre-market 0.52 percent below Xetra close - ad-hoc-news.de",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWHl3TXBLeF9BU3pQMFRSYzRxdHRXbmp3eHBieEVoaFY0QTllQlBUMmx0Rmo0dTJWSFB0TWZNWkZiX09EZEMySFFQdC1SMm5LWm02Z0xWT2pxVkg3YzNZSDdWc19ibC1SbzRTbU5zbHhPb2Q2eU03cHVFbVdBTzhTS0gzWkRMdDZ5d256SVNDOWRiVmJsUXFIUjNoYk1VdHd2cHNMRWQ1Y01BWjZRdnVMYXpQSG5GSjlpLXdsNDJRUTEwUjlaLUo2QUlBVGlqN1lHbVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 3
+      },
+      {
+        "id": "toray",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 406,
+    "dup_title": 115,
+    "too_old": 195,
+    "gate1_blocked": 35,
+    "gate2_blocked": 43,
+    "passed": 18,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "14.8%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Toray Industries (TSE:3402) On Bluejay Manufacturing Progress And The Undervalued Narrative - Simply",
+      "Toray Industries schedules November 10 results for Toray Industries stock - ad-hoc-news.de",
+      "Toray develops composite fiber with 93% recycled content - Textile Today",
+      "Lenzing AG (CEUX:LNZv) - Valuation Measures & Financial Statistics - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Coach、東麗、愛迪達相關動態：「Luxury’s split market: Ultra-rich spend, aspirational buy...」。主要關注主題為供應鏈轉移、法說會、快時尚趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Luxury’s split market: Ultra-rich spend, aspirational buyers retreat（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "NIKE Stock Earnings Estimates Decreased by Zacks Research - MarketBeat（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
