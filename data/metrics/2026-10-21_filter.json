@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 187,
+  "gate1_fail": 29,
+  "gate2_fail": 56,
+  "passed": 25,
+  "gate2_samples": [
+    "Toray Industries, Inc. (TRYIY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Enterprise value to EBITDA forward of Toray Industries, Inc. Unsponsored ADR – FWB:6HK - TradingView",
+    "Toray Industries (TSE:3402) On Bluejay Manufacturing Progress And The Undervalued Narrative - Simply",
+    "Toray develops composite fiber with 93% recycled content - Textile Today",
+    "Toray Industries schedules November 10 results for Toray Industries stock - AD HOC NEWS"
+  ]
+}
