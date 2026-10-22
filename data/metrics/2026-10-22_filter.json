@@ -1,0 +1,16 @@
+{
+  "total_raw": 383,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 202,
+  "gate1_fail": 23,
+  "gate2_fail": 42,
+  "passed": 24,
+  "gate2_samples": [
+    "Toray Industries, Inc. (TRYIY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Toray develops polyester-nylon fiber with recycled content - Recycling Today",
+    "Lenzing AG: Lenzing Aktiengesellschaft: Preliminary results of rights offering - TradingView",
+    "Lenzing Aktiengesellschaft: Successful completion of capital increase - www.marketscreener.com",
+    "Far Eastern New Century showcases circular textiles: what it means for Far Eastern New Century stock"
+  ]
+}

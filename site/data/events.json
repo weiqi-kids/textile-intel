@@ -1,5 +1,246 @@
 [
   {
+    "id": "adidas-2026-10-22-001",
+    "date": "2026-10-22",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adidas AG : Receives a Buy rating from DZ Bank - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeEVpSHRSdm5ONXNXa3VUMnlsX2otb3ZETlpqbjZWejVEMFc2SFg3aGJwUkVheGVYVzM2aEJVUVpzZ0t2cm9zYVdIcmo2d1lrMzdkRU9Ud3R1N3hZYmNGeFhBRmozQ2szN0haQ01vT1",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEVpSHRSdm5ONXNXa3VUMnlsX2otb3ZETlpqbjZWejVEMFc2SFg3aGJwUkVheGVYVzM2aEJVUVpzZ0t2cm9zYVdIcmo2d1lrMzdkRU9Ud3R1N3hZYmNGeFhBRmozQ2szN0haQ01vT1lyZXZzemZ2TXk4cDBoeDdaTEZDd1psZldFYjhqY241WWJKRXNOelJOU3dfTDBjZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-10-22-002",
+    "date": "2026-10-22",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "fast_fashion"
+    ],
+    "impact": "neutral",
+    "title": "lululemon athletica Dark Charcoal Heather High-Rise Leggings with Side Pockets - khorasantimes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NSHE0X1VoRjJuYW5fLU54ZDljVlY1SHQwa2E2dGJoUXZ2NTRDTFgtUERnVWFzbGU5aURiNDdtcTF1S1R6ekZHZHV0TXZVUQ?oc=5\" target=\"_blank\">lululemon athletica D",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NSHE0X1VoRjJuYW5fLU54ZDljVlY1SHQwa2E2dGJoUXZ2NTRDTFgtUERnVWFzbGU5aURiNDdtcTF1S1R6ekZHZHV0TXZVUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-10-22-003",
+    "date": "2026-10-22",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tapestry, Inc. to Host FY27 First Quarter Earnings Call - Tapestry, Inc.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXJYSGxqcnhNb3p6eDcwMWRpMEhVcDd0NVhPV0dfQ09PS2xkZVRiYzhLN2JRUGxsZ3JmeDFzY1NSNkg3LVlLcnNIajVsRzZPWTN6bzVVOFotbmhvZEFsSDlHTXVpVDlNTDhjLVpvVD",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXJYSGxqcnhNb3p6eDcwMWRpMEhVcDd0NVhPV0dfQ09PS2xkZVRiYzhLN2JRUGxsZ3JmeDFzY1NSNkg3LVlLcnNIajVsRzZPWTN6bzVVOFotbmhvZEFsSDlHTXVpVDlNTDhjLVpvVDBUS09SR21OSmlsM2V3bXE5a2E5aHVtZC1GeTlNUDNLbGRhTVdlZFlBUlpGeFV2Qm02Zm8zV3U2SDFMMDczcVR3Nms4XzM2Qnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-004",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "VSF prices stable: Will yarn orders or raw material break deadlock?",
+    "summary": "VSF prices in China and India stayed in a narrow band during October 14-20, 2026, as balanced cost and demand signals kept the cellulose chain flat-to-soft.\nChinese 1.2D*38mm fibre held at $2.204/kg, ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/vsf-prices-stable-will-yarn-orders-or-raw-material-break-deadlock--314438-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-005",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Bangladesh plans rail links for all Chattogram port terminals",
+    "summary": "Bangladesh Railway is moving to connect all Chattogram port terminals by rail as the government seeks to shift more freight from road to rail.\nThe Logistics Policy 2025 targets lifting rail's freight ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-plans-rail-links-for-all-chattogram-port-terminals-314428-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-006",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Livinguard pilot cuts dyeing wash-off water use by 32%",
+    "summary": "An independent pilot assessment at an Indian knit mill found Livinguard +DYE SC reduced reactive dyeing wash-off water use by 32 per cent, batch time by 23 per cent and emissions by 29 per cent, with ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/livinguard-pilot-cuts-dyeing-wash-off-water-use-by-32--314431-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-007",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "cotton_price"
+    ],
+    "impact": "negative",
+    "title": "ICE cotton futures rise for third straight session on weaker dollar",
+    "summary": "ICE December 2026 cotton settled at 81.83 cents, up 1.17 per cent, its highest close since September 28, as a weaker US dollar and buying interest supported prices.\nTrading volume jumped about 48 per ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/ice-cotton-futures-rise-for-third-straight-session-on-weaker-dollar-314429-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-008",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "negative",
+    "title": "Bangladesh plans trade licence portal & joint inspections",
+    "summary": "Bangladesh plans to issue trade licences through a single online portal and combine regulatory inspections to cut delays, duplication and compliance costs for businesses. \nCommerce Minister Khandakar ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-plans-trade-licence-portal-joint-inspections-314423-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-009",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan's Fulgent Sun's Q3 revenue rises 42%",
+    "summary": "Taiwanese footwear OEM Fulgent Sun’s FY26 Q3 revenue rose 42.32 per cent year on year to NT$5.44 billion (~$167.84 million), supported by added capacity. \nOperating profit fell 23.74 per cent and net ",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/taiwan-s-fulgent-sun-s-q3-revenue-rises-42--314443-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-010",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "US' UniFirst FY26 revenue rises as merger costs curb profit",
+    "summary": "UniFirst Corporation recorded fiscal 2026 revenue of $2.52 billion, up 3.7 per cent, supported by growth across its operating segments. \nNet income fell to $109.5 million as proposed Cintas merger and",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/us-unifirst-fy26-revenue-rises-as-merger-costs-curb-profit-314435-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-011",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "From online hype to profit: Why India’s apparel brands need stores",
+    "summary": "India’s D2C apparel websites account for only $3.3 billion, or 3.4 per cent, of the country’s $95.7 billion domestic apparel market in 2025.\nOffline channels still hold 83 per cent of sales, while mar",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/from-online-hype-to-profit-why-india-s-apparel-brands-need-stores-314415-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-10-22-012",
+    "date": "2026-10-22",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Germany's Adidas raises 2026 profit outlook to $2.81 bn",
+    "summary": "Adidas raised its 2026 operating profit outlook to €2.5 billion (~$2.81 billion) after record Q3 results.\nRevenue rose 9 per cent to €7.252 billion (~$8.14 billion), while operating profit climbed 37 ",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/germany-s-adidas-raises-2026-profit-outlook-to-2-81-bn-314394-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-10-22-013",
+    "date": "2026-10-22",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Decoding Nike’s Subtle Investor Relations Rebrand - SportsVerse | Daniel-Yaw Miller",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPd29QdDhDZ3ZCM1lsei1WbWpnRFpsQ2s1UjBOaUNBY1JEVTVtRkdZbkVPUTFYeE1PRjc0NVZhSWgyY1hsSEhlU1ZqNFZwUGlXRGdCczNPS05FVFhZS1JvdkdnamZvcXhnc250b3FvOW",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd29QdDhDZ3ZCM1lsei1WbWpnRFpsQ2s1UjBOaUNBY1JEVTVtRkdZbkVPUTFYeE1PRjc0NVZhSWgyY1hsSEhlU1ZqNFZwUGlXRGdCczNPS05FVFhZS1JvdkdnamZvcXhnc250b3FvOWNpZ1lWYjhWeE5SRGhuMVdJOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lenzing-2026-10-21-001",
     "date": "2026-10-21",
     "companies": [
@@ -199,6 +440,138 @@
       {
         "name": "fibre2fashion_textile",
         "url": "https://www.fibre2fashion.com/news/textile-news/india-new-zealand-fta-takes-effect-opens-duty-free-textile-access-314385-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenzing-2026-10-21-012",
+    "date": "2026-10-21",
+    "companies": [
+      "lenzing"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lenzing stock: At Lang & Schwarz, Lenzing stock rises 3.05 percent - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUFZVMWlLQmFJbDI0TkViRDRYbFVXcEp4cndlM2MxTTdScVlSb0pFYndjVF9SaWFIU1lGRUZqVlNqYmV1RHFrMjNYVmRDV0dyM09tS3l2SFJmNUE5N2VQZEI3cWZDQ0laOEFMOVRpWW",
+    "sources": [
+      {
+        "name": "lenzing",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUFZVMWlLQmFJbDI0TkViRDRYbFVXcEp4cndlM2MxTTdScVlSb0pFYndjVF9SaWFIU1lGRUZqVlNqYmV1RHFrMjNYVmRDV0dyM09tS3l2SFJmNUE5N2VQZEI3cWZDQ0laOEFMOVRpWW9ya0hxVUN2cnJMS0ZRYXZYWTJ4cmJoOXppV0xEOXQwdHdpS3hWczVhMWQxYkkzVUtWRTVFSnY2MmU5SFZDT0ZpbGY4Z0o0TXRMNExjWjFlOG9aSThMVlF6bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-10-21-013",
+    "date": "2026-10-21",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "adidas AG Stock 12‑Month Price Target Raised to €198.5, Implies 26% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPenJJZFNQajFQV0JjaXJ2eEk2TGJORVJHN2k2Wlctakp3WTNfSDR4SElzSFFKX0VJNGJVVnowOG8tLW9PTEE4Z3pTNHU4V2lkNkFDZTdaSEx6SDNpRkNPb3g0aUZPU18tMnl6U0NtTV",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenJJZFNQajFQV0JjaXJ2eEk2TGJORVJHN2k2Wlctakp3WTNfSDR4SElzSFFKX0VJNGJVVnowOG8tLW9PTEE4Z3pTNHU4V2lkNkFDZTdaSEx6SDNpRkNPb3g0aUZPU18tMnl6U0NtTVRncjJVUGZZazFJa0s4azI3Qm5WdE5va0JJdnNYU2RkSDVmTnVLeU01NUNxRTktdWZrbzd5aXhFd2kyY1pvYXk5enk4RTc1b0FXVF8zNWxRYk9yandEZC1ia3hiT0I5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-10-21-014",
+    "date": "2026-10-21",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Adidas Lifts Outlook on Robust Demand for Apparel, Sports Gear - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGZJeTU1MUxtNVdhMlRrZklvdV9UNmJrd2tTdFFyVHl1Nm5QQ0lReEg0S2NOZ2FISndDYXBmLUVGY1ZBekRoZmtYZ3prYmI0QkVuSDFmTUVpZzRaVVp5VVozQmNHd203LVowUmt0az",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGZJeTU1MUxtNVdhMlRrZklvdV9UNmJrd2tTdFFyVHl1Nm5QQ0lReEg0S2NOZ2FISndDYXBmLUVGY1ZBekRoZmtYZ3prYmI0QkVuSDFmTUVpZzRaVVp5VVozQmNHd203LVowUmt0azUyeDBWeHI5RmpxY2E1VTg2TEFhTWVLWmtpQkduX1NvaVptRjh3WmhXVTZ3c1llTURDTF9EZ1J4alk0N0FyUkpKRXhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-10-21-015",
+    "date": "2026-10-21",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lululemon Is Down 54% and Trades at 8.5 Times Earnings. Is Wall Street Getting This Stock Wrong? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ3RobmFNdzhXaUtPN0I1OE9nWjBtVEJCc0NpMnkyU1RKbzkzWkhYR25YM0tYU1R2ZWlwZXgyaGtDMk5YTEJkX0Y1QmEtaGZMVTdjNDY2VnQ3YlhUX2ZnRV9IYXJTNFU0Y19uM0htTH",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ3RobmFNdzhXaUtPN0I1OE9nWjBtVEJCc0NpMnkyU1RKbzkzWkhYR25YM0tYU1R2ZWlwZXgyaGtDMk5YTEJkX0Y1QmEtaGZMVTdjNDY2VnQ3YlhUX2ZnRV9IYXJTNFU0Y19uM0htTHVDMGhTaGhjUmJzeUdaTE5jSnhSSTRJOXBLdF9qQkVqQmxjbG1DdlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-10-21-016",
+    "date": "2026-10-21",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lululemon Is Down 54% and Trades at 8.5 Times Earnings. Is Wall Street Getting This Stock Wrong? - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5vSUVISk4wamFkYWZqWGJGUWZXVGNqNDZRYnRRcGZjbHgwX3hKWmkxRnlKT2czWlBiSy0yOGI5T2FXZ1ZYU2RtcVdSb3BlaEdiMW1hRFA5Zld3Ry1lTDhJUkp3QkZCT0NCMm9NY2sxdG",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vSUVISk4wamFkYWZqWGJGUWZXVGNqNDZRYnRRcGZjbHgwX3hKWmkxRnlKT2czWlBiSy0yOGI5T2FXZ1ZYU2RtcVdSb3BlaEdiMW1hRFA5Zld3Ry1lTDhJUkp3QkZCT0NCMm9NY2sxdGt1ZW9HcFNOVkdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-10-21-017",
+    "date": "2026-10-21",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH CORP. : JEFFERIES RAISES TARGET PRICE TO $100 FROM $95 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDltZlVmMU9rZ1Y4VXlvWkdzdzg4azVWWHFJRVZDSDV4RFE0UDZ0ODRJNzdjSUtpb0tsNlhZM1YwalFtaGM1dXp1U2t1VDUyTDdJWlNIbUIyTy1uYnRRbWJEVENMYjV5V3ZtRmtHU1",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDltZlVmMU9rZ1Y4VXlvWkdzdzg4azVWWHFJRVZDSDV4RFE0UDZ0ODRJNzdjSUtpb0tsNlhZM1YwalFtaGM1dXp1U2t1VDUyTDdJWlNIbUIyTy1uYnRRbWJEVENMYjV5V3ZtRmtHU1RreVlvUzVNY28tNFF2bWphc3QwSkYxX2EtWEFublV3SUJXUmNubUNHbjd4ZnpuVEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-10-21-018",
+    "date": "2026-10-21",
+    "companies": [
+      "nike"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vicor and NIKE have been highlighted as Zacks Bull and Bear of the Day - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVBmeDJVNV9MS09ULWgwUVBERHAxWjJSRUZkb19wUXBVM0daSHVCN0JzcHVCY3hEUUVMTHEtQmZvbkQyUG9Hd3I0WG9pTGZfekItN1BZT051ZnZjUUxLb3lKNG90MDNDVDg5MWlMcW",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVBmeDJVNV9MS09ULWgwUVBERHAxWjJSRUZkb19wUXBVM0daSHVCN0JzcHVCY3hEUUVMTHEtQmZvbkQyUG9Hd3I0WG9pTGZfekItN1BZT051ZnZjUUxLb3lKNG90MDNDVDg5MWlMcWcwZ2xaVEJ2TEo1QmdUOTRGcVFNbEwxdEw2MHJIel9VZXhqRmNnQkJtMGlkQ2kxU0E?oc=5",
         "type": "rss"
       }
     ]
@@ -630,6 +1003,24 @@
     ]
   },
   {
+    "id": "adidas-2026-10-20-024",
+    "date": "2026-10-20",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "adidas AG (ADDYY) Stock Forecasts - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjlRdU5VbTc1akxHNXhaYklOZHZTdnd3dWl1SldzaHJHcHB6R1RvRGVDSklGaW1lU3hNTTFqN29FNVJJc3RtMGFMSnl6SlZqWS1nR2RvUVpNSlVkazF4RHBLczVOa0lnVkoyWXlPd1",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjlRdU5VbTc1akxHNXhaYklOZHZTdnd3dWl1SldzaHJHcHB6R1RvRGVDSklGaW1lU3hNTTFqN29FNVJJc3RtMGFMSnl6SlZqWS1nR2RvUVpNSlVkazF4RHBLczVOa0lnVkoyWXlPd1M4Z2VOeVpYZ0dJTXFPQXQxV0hxSVJBbWtVamxTbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vf_corp-2026-10-19-001",
     "date": "2026-10-19",
     "companies": [
@@ -961,6 +1352,46 @@
       {
         "name": "tapestry",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjVpZHdybHQ1U1dqU2ZfRG9ibDVjUlctUU1tWjBZZTdRWjV5RF8zMHRhbVRGTUJNUTVMT0t2cDl3RElmREgwMGNNdDBHYkhkcl81dnU0OXJuY0JxaTEydUdPSU5uejlIY3FlaUEyQS03Ym5rMzhGMVhVeElOQWlaeVU2Tm5DNkRNYW5SRElyQklrSG5GalZXWjJzeTZiZHFFOU5Hd2FjcThaUGZWRHNoa2hPQmcwNHJGX2ZrdHlBRUY3R0NSaWpXR3Y2UHVZekk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eclat-2026-10-19-019",
+    "date": "2026-10-19",
+    "companies": [
+      "eclat"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "What does Eclat's record revenue mean for Eclat stock? - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDdNU1RYXzU1VTgxZVg4d21uMkd3OWNCRnhITl9IM3pScGRXTmkxNjFBWG9MTUNxeTcwVVRHNkRLdS04NGJnVDdmcFZJd1FlQ29HTHRMazlPR1R1WmVjS0RZSWp0ZU5mU2cxS0VNUj",
+    "sources": [
+      {
+        "name": "eclat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDdNU1RYXzU1VTgxZVg4d21uMkd3OWNCRnhITl9IM3pScGRXTmkxNjFBWG9MTUNxeTcwVVRHNkRLdS04NGJnVDdmcFZJd1FlQ29HTHRMazlPR1R1WmVjS0RZSWp0ZU5mU2cxS0VNUjhHbGZ4bWVVU3Z1RTFHTUdEeGs2VVNaT1hVTDNSLTNzcUFpcWZvWE9iWEVicG1nMDRQUjdxVWlvVWVtRGZsdHNMNVhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "makalot-2026-10-19-020",
+    "date": "2026-10-19",
+    "companies": [
+      "makalot"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Makalot reports September revenue growth: what it means for Makalot stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNbGRXQUxtYjg5T1JZaEtLWmRDcFRKY3RTY0c1dGpnYkR3dDBGVWc1azlkZk5SVUdFbEFzeWs5Q3RnMGtYcmdtV2lPNkhFTGlhRV92aEdzZ3lTWjZvOEdZSVd3U2VpbnRnaWhEQ1dwek",
+    "sources": [
+      {
+        "name": "makalot",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbGRXQUxtYjg5T1JZaEtLWmRDcFRKY3RTY0c1dGpnYkR3dDBGVWc1azlkZk5SVUdFbEFzeWs5Q3RnMGtYcmdtV2lPNkhFTGlhRV92aEdzZ3lTWjZvOEdZSVd3U2VpbnRnaWhEQ1dwekxPeHhldmp1eEhhQUtxUWpVWHBNOXhmUlFvcjlJcXRXYkh4dlI4VmVJb25yQjhSR3JJQ0gtem4yN1c1NER4aExOZGRaT3pJVEZyNE55eEtXZTFHc0tYQ1VIbTdTdw?oc=5",
         "type": "rss"
       }
     ]
@@ -2141,6 +2572,26 @@
       {
         "name": "far_eastern",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejNTN1hnOHU5RU9XRndhbGJUUTdia2JEb0FYbnlXNTF3aTkyOTVvWlVHM216Smt5UW5pLXlvaDBucVNTbmJBd0FsYXlYQWhocFVrV0dRRUhFNllPbEx3NEVpTUdISWNtZ0pUWm1UTXhFQlVpUnlnclBpd0t5MFBkcGQ2RlJmVHdx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "far_eastern-2026-10-15-026",
+    "date": "2026-10-15",
+    "companies": [
+      "far_eastern"
+    ],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "INNOVATE. COMPETE. WIN TOGETHER. From World Cup Jerseys to Circular Innovation, Far Eastern New Century Leads the Way in Sustainable Textiles - Plataforma Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPS0trMlNQekpvOXgyTjhKNkhXc3hTMVRzU1ByWWlrZUxWR2Vmc3hsblpTSnhUQmFSZ0VJYjBNWUpLYlpBTnExdlIwallQS3IyTkFEc1NBdlQzOTE4QlB3ekVPVFQ0ZTBYVzlUd3F3Z0",
+    "sources": [
+      {
+        "name": "far_eastern",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPS0trMlNQekpvOXgyTjhKNkhXc3hTMVRzU1ByWWlrZUxWR2Vmc3hsblpTSnhUQmFSZ0VJYjBNWUpLYlpBTnExdlIwallQS3IyTkFEc1NBdlQzOTE4QlB3ekVPVFQ0ZTBYVzlUd3F3Z0hZVzhaNjJJUTlQelJjTWh6NWVza3JudGRVNi1selZ2QjdVUEh2QTlKNXRDWlNMQmUwNHpmOFhCRGV1cWJmWFVOa2xsN1RxMlJ0NV9HWXNKWmp2czNRWkVCcWZkWXhTQ3ppUkpwTzlLVDZoZDhzMTBMMkFZSW12SVh1U3RvM3pPWjc5QUtWQ3ZJNnl0WDBUMzlodU5GV1B1Q0V5aFhmTktLcE9n?oc=5",
         "type": "rss"
       }
     ]

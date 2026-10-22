@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:18:20.991356Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adidas-2026-10-22-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Germany's Adidas raises 2026 profit outlook to $2.81 bn",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/germany-s-adidas-raises-2026-profit-outlook-to-2-81-bn-314394-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-10-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tapestry, Inc. to Host FY27 First Quarter Earnings Call - Tapestry, Inc.",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXJYSGxqcnhNb3p6eDcwMWRpMEhVcDd0NVhPV0dfQ09PS2xkZVRiYzhLN2JRUGxsZ3JmeDFzY1NSNkg3LVlLcnNIajVsRzZPWTN6bzVVOFotbmhvZEFsSDlHTXVpVDlNTDhjLVpvVDBUS09SR21OSmlsM2V3bXE5a2E5aHVtZC1GeTlNUDNLbGRhTVdlZFlBUlpGeFV2Qm02Zm8zV3U2SDFMMDczcVR3Nms4XzM2Qnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-22-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Fulgent Sun's Q3 revenue rises 42%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/taiwan-s-fulgent-sun-s-q3-revenue-rises-42--314443-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-22-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US' UniFirst FY26 revenue rises as merger costs curb profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.67
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-unifirst-fy26-revenue-rises-as-merger-costs-curb-profit-314435-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-22-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "From online hype to profit: Why India’s apparel brands need stores",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/from-online-hype-to-profit-why-india-s-apparel-brands-need-stores-314415-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "adidas",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 383,
+    "dup_title": 92,
+    "too_old": 202,
+    "gate1_blocked": 23,
+    "gate2_blocked": 42,
+    "passed": 24,
+    "pass_rate": "8.2%",
+    "gate2_block_rate": "14.4%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (TRYIY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Toray develops polyester-nylon fiber with recycled content - Recycling Today",
+      "Lenzing AG: Lenzing Aktiengesellschaft: Preliminary results of rights offering - TradingView",
+      "Lenzing Aktiengesellschaft: Successful completion of capital increase - www.marketscreener.com",
+      "Far Eastern New Century showcases circular textiles: what it means for Far Eastern New Century stock"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為愛迪達、Lululemon、Coach相關動態：「Germany's Adidas raises 2026 profit outlook to $2.81 bn」。主要關注主題為法說會、供應鏈轉移、快時尚趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Germany's Adidas raises 2026 profit outlook to $2.81 bn（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Tapestry, Inc. to Host FY27 First Quarter Earnings Call - Tapestry, Inc.（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
