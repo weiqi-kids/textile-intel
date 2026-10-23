@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T12:57:17.939403Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tapestry-2026-10-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TAPESTRY INC (NYSE:TPR): Dividend Quality Backed by Strong Profitability - ChartMill",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSm1RYXVaWkJRSmNEWkFOc3UzSURfTUt2bmMta3NadXdvTWJRLUQtYTd3MkRBWVdJVy03SWZsaTI3d09OdTY0RmVPSVp1Q29MUjNQOE92NkJnM1RIcGgzYXJkbk9TMV8xY2xuWHFPMkJRR3c3R2xfdFZycXFOdzg3WDRDQXRMYmEwSFl0cWRwcVBuYVFvbFAtZGdTaFpfNmpEMWJmT1BYTGFqQWZQYnR2RU1ybk9GZEkyck5J?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-23-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US’ Deckers Brands' Q2 profit rises 17% as Hoka, UGG expand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-deckers-brands-q2-profit-rises-17-as-hoka-ugg-expand-314468-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-23-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bangladesh apparel exports to EU fall 11.4%: What drives the drop?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-apparel-exports-to-eu-fall-11-4-what-drives-the-drop--314497-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "adidas-2026-10-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "adidas AG Estimates – OTC:ADDDF - TradingView",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZjhUWDVpVjJtRXc3TTJkbWZlczF3NWpCcWZqR0dpUWMyTU0zRjVaRHItbU9ucURvWjFQRGtEU3FFdXBMUGJXN0ZHRHFPbUtBSjFVS1BNTUVRT3BDbE15dy1CX2FDaG41c1A1X0FyOUpFWVNaYkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-10-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nearly 6 in 10 Britons consider the Bayeux Tapestry important to national heritage, but most have only limited knowledge of the artifact's precise history - Ipsos",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUd4c0ExaHFqZUF6cENRdzFyZ2tZN0VyaG9uWXpEUVJ6eXJ6cWtaclh2NTJvc1NiYUpnNGhuWVd0N2g0SFJRNVhxVUNVajYyT29xQ085SzZON0tWTHZscFFjcG9BS1V6N1M2MlpfT2RDdllreWRiZVo3dzhHZ0dhZzJabjZaQWtOektFdmpHekI1dDdCcEVMazBCZHhXalFWdFlQc0hOS2l3OFpaQkxyUzZjb0dNaVpORDVjSTNhalE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.23,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 6,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 3
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 401,
+    "dup_title": 106,
+    "too_old": 207,
+    "gate1_blocked": 29,
+    "gate2_blocked": 45,
+    "passed": 14,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "15.3%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (TRYIY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Material World: Toray Reworks Yarn, Ponda Wades Into Workwear - WWD",
+      "Lenzing AG: Lenzing Aktiengesellschaft: Preliminary results of rights offering - TradingView",
+      "Lenzing completes capital increase to raise 301.2 million euros - Fashion United",
+      "Lenzing AG (CEUX:LNZv) Stock News, Headlines & Updates - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Coach、愛迪達相關動態：「TAPESTRY INC (NYSE:TPR): Dividend Quality Backed by Stron...」。主要關注主題為供應鏈轉移、法說會、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "TAPESTRY INC (NYSE:TPR): Dividend Quality Backed by Strong Profitability - Ch...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "US’ Deckers Brands' Q2 profit rises 17% as Hoka, UGG expand（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

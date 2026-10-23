@@ -1,0 +1,16 @@
+{
+  "total_raw": 401,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 207,
+  "gate1_fail": 29,
+  "gate2_fail": 45,
+  "passed": 14,
+  "gate2_samples": [
+    "Toray Industries, Inc. (TRYIY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Material World: Toray Reworks Yarn, Ponda Wades Into Workwear - WWD",
+    "Lenzing AG: Lenzing Aktiengesellschaft: Preliminary results of rights offering - TradingView",
+    "Lenzing completes capital increase to raise 301.2 million euros - Fashion United",
+    "Lenzing AG (CEUX:LNZv) Stock News, Headlines & Updates - GuruFocus"
+  ]
+}
