@@ -13,20 +13,20 @@
   },
   "far_eastern": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-22",
-    "count": 6665,
+    "latest": "2026-10-23",
+    "count": 6666,
     "history_complete": true
   },
   "formosa_taffeta": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-22",
-    "count": 6665,
+    "latest": "2026-10-23",
+    "count": 6666,
     "history_complete": true
   },
   "lealea": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-22",
-    "count": 6665,
+    "latest": "2026-10-23",
+    "count": 6666,
     "history_complete": true
   },
   "shenzhou": {
@@ -37,20 +37,20 @@
   },
   "eclat": {
     "earliest": "2001-04-18",
-    "latest": "2026-10-22",
-    "count": 6329,
+    "latest": "2026-10-23",
+    "count": 6330,
     "history_complete": true
   },
   "makalot": {
     "earliest": "2003-01-22",
-    "latest": "2026-10-22",
-    "count": 5869,
+    "latest": "2026-10-23",
+    "count": 5870,
     "history_complete": true
   },
   "nike": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6742,
+    "latest": "2026-10-23",
+    "count": 6743,
     "history_complete": true
   },
   "adidas": {
@@ -73,14 +73,14 @@
   },
   "lululemon": {
     "earliest": "2007-07-27",
-    "latest": "2026-10-22",
-    "count": 4841,
+    "latest": "2026-10-23",
+    "count": 4842,
     "history_complete": true
   },
   "vf_corp": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6742,
+    "latest": "2026-10-23",
+    "count": 6743,
     "history_complete": true
   },
   "fast_retailing": {
@@ -91,20 +91,20 @@
   },
   "pvh": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6742,
+    "latest": "2026-10-23",
+    "count": 6743,
     "history_complete": true
   },
   "tapestry": {
     "earliest": "2000-10-06",
-    "latest": "2026-10-22",
-    "count": 6549,
+    "latest": "2026-10-23",
+    "count": 6550,
     "history_complete": true
   },
   "etf_xrt": {
     "earliest": "2006-06-22",
-    "latest": "2026-10-22",
-    "count": 5116,
+    "latest": "2026-10-23",
+    "count": 5117,
     "history_complete": true
   }
 }

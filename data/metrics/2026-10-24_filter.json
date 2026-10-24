@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 202,
+  "gate1_fail": 30,
+  "gate2_fail": 52,
+  "passed": 16,
+  "gate2_samples": [
+    "Toray Industries, Inc. Estimates – SWB:TOR1 - TradingView",
+    "Toray develops polyester-nylon fiber with recycled content - Recycling Today",
+    "Enterprise value to EBITDA forward of Toray Industries, Inc. Unsponsored ADR – FWB:6HK - TradingView",
+    "Toray Industries (TSE:3402) On Bluejay Manufacturing Progress And The Undervalued Narrative - Simply",
+    "Lenzing AG: Christian Skilich, buy - TradingView"
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T12:57:14.234078Z",
-  "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
+  "updated_at": "2026-10-24T12:19:25.377500Z",
+  "quarter": "2026-02-28, 2026-03-31, 2026-05-31",
   "companies": [
     {
       "id": "adidas",
@@ -92,17 +92,17 @@
       "name": "H&M",
       "ticker": "HM-B.ST",
       "currency": "SEK",
-      "ar": 15814000000,
-      "ar_prev": 14561000000,
-      "ar_qoq": "+9%",
+      "ar": 16545000000,
+      "ar_prev": 15814000000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 34942000000,
-      "inv_prev": 34608000000,
-      "inv_qoq": "+1%",
+      "inventory": 39355000000,
+      "inv_prev": 34942000000,
+      "inv_qoq": "+13%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-05-31"
+      "quarter_date": "2026-08-31"
     },
     {
       "id": "inditex",
@@ -228,17 +228,17 @@
       "name": "申洲",
       "ticker": "2313.HK",
       "currency": "HKD",
-      "ar": 6943819000,
-      "ar_prev": 6512967000,
-      "ar_qoq": "+7%",
+      "ar": 6101042000,
+      "ar_prev": 6943819000,
+      "ar_qoq": "-12%",
       "ar_period": "QoQ",
-      "inventory": 6709855000,
-      "inv_prev": 6989920000,
-      "inv_qoq": "-4%",
+      "inventory": 7316693000,
+      "inv_prev": 6709855000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "tapestry",

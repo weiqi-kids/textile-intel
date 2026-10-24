@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:19:29.325974Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-10-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "lululemon Stock Has Likely Lost All Guidance Credibility (NASDAQ:LULU) - Seeking Alpha",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1g1YnJKVDhMRmNpZ3Zrajk3Ni1mbGRQM2hYM3VLc2tBdGV2VUpFQ2hDa0dZdG5XN25oQmVXbFRGMy1aVHA5YU1nNy1jZm5jTzJTQ3Q1dGR6NTk0encwYkN2V2JoV0Z6Vk5rUVhYb1BXWlZOT2Y4WFNlYTdTRG8yT1duODVzT0huUHpCZFk4Ync?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-24-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deckers stock slides, but HOKA and UGG hold its full pricing power",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/deckers-stock-slides-but-hoka-and-ugg-hold-its-full-pricing-power-314500-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-10-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Wunder Train High-Rise Short 6\" - khorasantimes.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16UEN0bVZCRkpGY1hVdFNBNXJDSlpid1NmektoeDNYT2tFS0lOcHV6Z29HRU9JMWFoNXlEQzBtTlhNNnlPYXZneVkxZkRJV28?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-10-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Never Lost Keychain - khorasantimes.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wWFJCRnBjR3hVa0Y5eGNkUGhua2dDTjhxTEpuenoySWtKaE5XVmlmMmpuRzlrWXJLdUJmQzAxTnEtYjVJUFh5aXZFWDhkcXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-10-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Go Cozy Jacket - khorasantimes.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSODJKeldJVnkzbnMzZFdkZmstTnFNUDVnMW43MHZDWjFjb21vUXZrZ0h6NklnZnJNMnlabTNiekZ5T2lYQ3ZNdGc2QmdJUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 5
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 105,
+    "too_old": 202,
+    "gate1_blocked": 30,
+    "gate2_blocked": 52,
+    "passed": 16,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "17.3%",
+    "gate2_samples": [
+      "Toray Industries, Inc. Estimates – SWB:TOR1 - TradingView",
+      "Toray develops polyester-nylon fiber with recycled content - Recycling Today",
+      "Enterprise value to EBITDA forward of Toray Industries, Inc. Unsponsored ADR – FWB:6HK - TradingView",
+      "Toray Industries (TSE:3402) On Bluejay Manufacturing Progress And The Undervalued Narrative - Simply",
+      "Lenzing AG: Christian Skilich, buy - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Lululemon、Coach相關動態：「lululemon Stock Has Likely Lost All Guidance Credibility ...」。主要關注主題為法說會、供應鏈轉移，市場情緒中性。",
+    "signals": [
+      {
+        "text": "lululemon Stock Has Likely Lost All Guidance Credibility (NASDAQ:LULU) - Seek...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Deckers stock slides, but HOKA and UGG hold its full pricing power（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
