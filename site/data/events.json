@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-10-25-001",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India & Germany discuss trade & technology ties in Berlin",
+    "summary": "India’s Commerce and Industry Minister Piyush Goyal has concluded a two-day Germany visit, with Berlin talks focused on trade, investment, advanced manufacturing, research and emerging technologies. \n",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-germany-discuss-trade-technology-ties-in-berlin-314508-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lululemon-2026-10-24-001",
     "date": "2026-10-24",
     "companies": [
@@ -141,6 +159,80 @@
       {
         "name": "fibre2fashion_apparel",
         "url": "https://www.fibre2fashion.com/news/apparel-news/canada-s-lululemon-appoints-tara-poseley-to-board-of-directors-314492-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenzhou-2026-10-24-009",
+    "date": "2026-10-24",
+    "companies": [
+      "shenzhou"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Pzena cuts 1.5674 million shares in Shenzhou International stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxON09GVnBMSHhRYXhTeDVWTG1yQWlPMjJhbUJsSHRhOW9TeGJFRmFVMUtqVEtrQU1BNU1nVHFTcGJkRnp2NEVleFhRVE1Jcmx0MU5mU0lyQmYxVzVWSFBCQmtkWjRqY1NLUjVDcnFGaT",
+    "sources": [
+      {
+        "name": "shenzhou",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON09GVnBMSHhRYXhTeDVWTG1yQWlPMjJhbUJsSHRhOW9TeGJFRmFVMUtqVEtrQU1BNU1nVHFTcGJkRnp2NEVleFhRVE1Jcmx0MU5mU0lyQmYxVzVWSFBCQmtkWjRqY1NLUjVDcnFGaTQyMzJmYkFwZGFhZnJoeERhM3AxcTFLZnp6TEh3VVBBUUp5cWJHZmJVQ3BPS1BFR2FoZ3FkZ2R0dHlXWkJDT3Rod1duNllNWVhDQXVtenhJVkY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eclat-2026-10-24-010",
+    "date": "2026-10-24",
+    "companies": [
+      "eclat"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Eclat Textile Co., Ltd. Estimates – TWSE:1476 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1CQzdnQk1KalZNZmRuMDM5TXgxVDd5LUUwTXlteTF0T1dWX2xfVFNBNGYtWGl0NXJVS0pIZE0yTGRFclhMMFZPbE5GMGxWWWFnbWFSWmhlUnFNUGlOX0VfamlQVGYxUTZ2Z1dRYjBTel",
+    "sources": [
+      {
+        "name": "eclat",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CQzdnQk1KalZNZmRuMDM5TXgxVDd5LUUwTXlteTF0T1dWX2xfVFNBNGYtWGl0NXJVS0pIZE0yTGRFclhMMFZPbE5GMGxWWWFnbWFSWmhlUnFNUGlOX0VfamlQVGYxUTZ2Z1dRYjBTelhmUkpZZFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-10-24-011",
+    "date": "2026-10-24",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "lululemon Has Likely Lost All Guidance Credibility (Rating Downgrade) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1g1YnJKVDhMRmNpZ3Zrajk3Ni1mbGRQM2hYM3VLc2tBdGV2VUpFQ2hDa0dZdG5XN25oQmVXbFRGMy1aVHA5YU1nNy1jZm5jTzJTQ3Q1dGR6NTk0encwYkN2V2JoV0Z6Vk5rUVhYb1",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1g1YnJKVDhMRmNpZ3Zrajk3Ni1mbGRQM2hYM3VLc2tBdGV2VUpFQ2hDa0dZdG5XN25oQmVXbFRGMy1aVHA5YU1nNy1jZm5jTzJTQ3Q1dGR6NTk0encwYkN2V2JoV0Z6Vk5rUVhYb1BXWlZOT2Y4WFNlYTdTRG8yT1duODVzT0huUHpCZFk4Ync?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-10-24-012",
+    "date": "2026-10-24",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Bayeux Tapestry belongs in France - and I’m no woke snowflake for saying so - LBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkswWVZORHBJVEdxUDBNY3FMdENPemREOWZVZlpXcnBndjluRThFWFp5VFNSTFZ6VndSTEotQTFrd0dKYnRHUTY2S1lRUWE0UHdJY2VDbXhuTmY1TnQ1enRlZUVTSmVoVkUxdldXVE",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkswWVZORHBJVEdxUDBNY3FMdENPemREOWZVZlpXcnBndjluRThFWFp5VFNSTFZ6VndSTEotQTFrd0dKYnRHUTY2S1lRUWE0UHdJY2VDbXhuTmY1TnQ1enRlZUVTSmVoVkUxdldXVEFDS2hGZzFqN042bVJhcjJHdnY1cGhVY2FRbXZSYXRRTTc?oc=5",
         "type": "rss"
       }
     ]
@@ -732,6 +824,24 @@
       {
         "name": "tapestry",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWtISF9SQWF1ZUpwdm5zc0VxQ0JOV09JZjk1LWgtN2g5SU9BaVVLRU1lMGtHcUxiVVFveVBoVEZhamdIMF9HdzA5V3gtVHNzakZmMjdMQU9kWlBXRGowek9lM012dU55Ylh0TXd5RTQ2M2ZRVmZ4eUdnSHl1aUxJbU94ejNKUDZlX19Yd1BZcEMzTnlYS1NONg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-10-22-017",
+    "date": "2026-10-22",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "lululemon Announces Appointment of Tara Poseley to Board of Directors - Lululemon",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlRZZEo4QVBkbGViMUQ3SFNPRDh2TzY3RmdLN2VYVmFiUkZhV2Z1b2NNRDZ0WWVnWEw5c1JIa1h4bDJ0Mk9WaktIMUJldHA4WWJBa280UEQtZTBaQVBtaEl6dFhNbEQwM2dKQnRDdm",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlRZZEo4QVBkbGViMUQ3SFNPRDh2TzY3RmdLN2VYVmFiUkZhV2Z1b2NNRDZ0WWVnWEw5c1JIa1h4bDJ0Mk9WaktIMUJldHA4WWJBa280UEQtZTBaQVBtaEl6dFhNbEQwM2dKQnRDdm00Yl9xT3hzdUJFU1k4bzlTOVY4LXJxUlFK?oc=5",
         "type": "rss"
       }
     ]
@@ -1550,6 +1660,42 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0FQblVFXzZSTHljNFNSNjVNbHpzRXdvTGhEN1MzRDRueG9ZMTh6T0lsYnhCSzBaeDdQQy1SXzBiaXVPekxLLTZ0aFlFUlFoaDhMZTFLS3JtQjFnY3hBVHF2NjR2ZlJ0QVk1VEp2VDJZWGhuNS1vSzN0ckI3bFY1VW42VXJ5RG42OEZER2JWVFFlallaVHBoX0VhMkdjSFU1LW9jbnZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenzhou-2026-10-20-027",
+    "date": "2026-10-20",
+    "companies": [
+      "shenzhou"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Barron's cites HKD 44.32 consensus target for Shenzhou International stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXhXRHJKQjFvZ0Y2VGJvLW93MHRGeUVtODNtaWFEUlhBZlFaOUZxX05na2JuLV9ydzd6UHVfYnUzem45blBIS1VWb2F3Rmwzb3NzUmFyOHh5WEFtS3otcS1vNWZSall5SzVQZmpUNn",
+    "sources": [
+      {
+        "name": "shenzhou",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXhXRHJKQjFvZ0Y2VGJvLW93MHRGeUVtODNtaWFEUlhBZlFaOUZxX05na2JuLV9ydzd6UHVfYnUzem45blBIS1VWb2F3Rmwzb3NzUmFyOHh5WEFtS3otcS1vNWZSall5SzVQZmpUNnBmNGZBLUd3QkFlM0t0RDdmdkRxWC1QQ1QzNkVuSGVuZ1ZkME9JUjlhLVhUaUFuYmNjTDZrZG5Ld2RScmE3YVJUeDZDODNQUmdfRFlnb3FsUGl2bFVGOXpmUXJaZG1YZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-10-20-028",
+    "date": "2026-10-20",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Transcript : PVH Corp. Presents at 2026 Global Consumer & Retail Conference, Oct-08-2026 10:25 AM - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxORm5WbW5vUVVaSUtKaEFNNFNFSldvdjhhTkFkQWJ2SVZhUjNNQWxiM3d3ck42bnNqRkNtdmQyUGQ0S0RPTjdjVi1Jcm5DZkRQcUVFWGF3SGR3bnlxRGY1SG5HdndYbC1vR1p6UHZaTF",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORm5WbW5vUVVaSUtKaEFNNFNFSldvdjhhTkFkQWJ2SVZhUjNNQWxiM3d3ck42bnNqRkNtdmQyUGQ0S0RPTjdjVi1Jcm5DZkRQcUVFWGF3SGR3bnlxRGY1SG5HdndYbC1vR1p6UHZaTFd5SXFlS3pncDRRaS1LdkZsQUxZZmtEZ25lMk5rUHBrZEhxTTd5WXVvV01RTDlEVmp4bDlTcjdXNlR4S3NQLXR0T0hrOWJwYnVBNE1ock9PQ2VPVUxhQmtiS2ZaOXkyRS1ud3NTc0FMcDI1MENv?oc=5",
         "type": "rss"
       }
     ]

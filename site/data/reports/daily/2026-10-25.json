@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T12:50:59.053285Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India & Germany discuss trade & technology ties in Berlin",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-germany-discuss-trade-technology-ties-in-berlin-314508-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 105,
+    "too_old": 208,
+    "gate1_blocked": 36,
+    "gate2_blocked": 50,
+    "passed": 8,
+    "pass_rate": "2.6%",
+    "gate2_block_rate": "16.6%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (TOR1.F) stock price, news, quote and history - Yahoo Finance UK",
+      "Toray Industries, Inc. Estimates – SWB:TOR1 - TradingView",
+      "Toray develops polyester-nylon fiber with recycled content - Recycling Today",
+      "Veritas identifies hit compounds in Toray collaboration: what it means for Toray Industries stock - ",
+      "Toray Industries (TSE:3402) On Bluejay Manufacturing Progress And The Undervalued Narrative - Simply"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為供應鏈轉移相關動態：「India & Germany discuss trade & technology ties in Berlin」。主要關注主題為供應鏈轉移，市場情緒中性。",
+    "signals": [
+      {
+        "text": "India & Germany discuss trade & technology ties in Berlin（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

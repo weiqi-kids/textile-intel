@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 208,
+  "gate1_fail": 36,
+  "gate2_fail": 50,
+  "passed": 8,
+  "gate2_samples": [
+    "Toray Industries, Inc. (TOR1.F) stock price, news, quote and history - Yahoo Finance UK",
+    "Toray Industries, Inc. Estimates – SWB:TOR1 - TradingView",
+    "Toray develops polyester-nylon fiber with recycled content - Recycling Today",
+    "Veritas identifies hit compounds in Toray collaboration: what it means for Toray Industries stock - ",
+    "Toray Industries (TSE:3402) On Bluejay Manufacturing Progress And The Undervalued Narrative - Simply"
+  ]
+}
