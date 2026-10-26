@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T14:39:50.170074Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: Q3 profit surge, guidance up and strong demand, Q4 ads - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNkppU3U1Sk9WUnZhblljX09sZVljNlhwOWJCRFRzMG5sd1JRS21CMktEN2o1VlhNZlcwbGJ0RWZzLUlaVlJNMEZseHRZSEllWHRpYm5Ja1Q4YU9kOXptSVE3MkJLMU9vNU9DNmg3QVJaQU15NXBaaVVoODBHcGhHT0VZWDlrTTR6YXotWXRDNWVQWXBPUzdCMUxSVE5jR3luTTF6aTljUTlaSWJHbkFEald5YlFoRkgySUxEdnNteHlrVmdPWkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pvh-2026-10-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PVH Corp. $PVH Shares Sold by Access Investment Management LLC - MarketBeat",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTYwc2U5MFRGdTdaNGJEb0Z4Zkd3UUcxUlZLVUc0ZjVPMm5nZ0xLNUxDWWNEQXJ3NGZMZU9FQUdjMTVOTTkzRnhVN1MyS0E2Z1FNdUhNU3paa1NKZ2JyRFVzZmc1S0N2VlR5aEc0YVFZbjNVSGlCS29JWmRXUHVhZ2ZpXzlCVlUzYkxjOFNBQW5ZVjVIUGpSakp0R19Jb1dUdkJnUTBQQ29pRzRoQjd5WENpNW1YcENoczFHZ0hR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-10-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Traditional Romanian rugs on display at Madrid’s Royal Tapestry Factory - Romania Insider",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGdsSTFPX3JheVlUZ3oxX3FLemNPcnRxUDVFR1JheDJTVkZvV2tYd1htRHlNQmdOYnNveC10cHctQmpveEl4UEpjMFRrSC1YdkZuUWxzMWlHZVY4aWtqYzUtdGdwTmVZZ1hjWGNuai1tZFhkeTFHVC1fVVlPNHAwWjM4NHJXWkw5d3BzUk83bllPaHZxSGZhQlBHLU5uSklZWHpj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India extends 95% RELIEF export risk cover to March 31, 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-extends-95-relief-export-risk-cover-to-march-31-2027-314535-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "North India’s cotton yarn market stable, liquidity remains tight",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/north-india-s-cotton-yarn-market-stable-liquidity-remains-tight-314532-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 390,
+    "dup_title": 91,
+    "too_old": 209,
+    "gate1_blocked": 29,
+    "gate2_blocked": 44,
+    "passed": 17,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "14.7%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance Singapore",
+      "Lenzing AG: Lenzing Aktiengesellschaft: Preliminary results of rights offering - TradingView",
+      "Lenzing Aktiengesellschaft: Successful completion of capital increase - www.marketscreener.com",
+      "Far Eastern New Century showcases circular textiles: what it means for Far Eastern New Century stock",
+      "Formosa Taffeta Co., Ltd. Estimates – TWSE:1434 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為耐吉、PVH、Coach相關動態：「Weekly Recap: Q3 profit surge, guidance up and strong dem...」。主要關注主題為供應鏈轉移、法說會、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Weekly Recap: Q3 profit surge, guidance up and strong demand, Q4 ads - Tradin...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "PVH Corp. $PVH Shares Sold by Access Investment Management LLC - MarketBeat",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

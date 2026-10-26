@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-26",
+  "total_events": 11,
+  "by_company": {
+    "pvh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "supply_chain_shift": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "cotton_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fast_fashion": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

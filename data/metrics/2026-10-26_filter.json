@@ -1,0 +1,16 @@
+{
+  "total_raw": 390,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 209,
+  "gate1_fail": 29,
+  "gate2_fail": 44,
+  "passed": 17,
+  "gate2_samples": [
+    "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance Singapore",
+    "Lenzing AG: Lenzing Aktiengesellschaft: Preliminary results of rights offering - TradingView",
+    "Lenzing Aktiengesellschaft: Successful completion of capital increase - www.marketscreener.com",
+    "Far Eastern New Century showcases circular textiles: what it means for Far Eastern New Century stock",
+    "Formosa Taffeta Co., Ltd. Estimates – TWSE:1434 - TradingView"
+  ]
+}
