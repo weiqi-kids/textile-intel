@@ -1,0 +1,16 @@
+{
+  "total_raw": 384,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 203,
+  "gate1_fail": 26,
+  "gate2_fail": 47,
+  "passed": 17,
+  "gate2_samples": [
+    "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance Singapore",
+    "Veritas identifies hit compounds in Toray collaboration: what it means for Toray Industries stock - ",
+    "Lenzing completes capital increase to raise 301.2 million euros - Fashion United",
+    "Lenzing AG: Christian Skilich, buy - www.marketscreener.com",
+    "Lenzing AG: Lenzing Aktiengesellschaft: Preliminary results of rights offering - TradingView"
+  ]
+}

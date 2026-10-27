@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T13:44:06.523578Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China's major industrial profits rise 15.5% in Jan-Sept 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/china-s-major-industrial-profits-rise-15-5-in-jan-sept-2026-314557-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "lenzing-2026-10-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lenzing AG: Release according to Article 135, Section 3 BörseG with the objective of Europe-wide distribution - www.marketscreener.com",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUJuRUxtaXY5MXBITGVJVkhIY08xRHVObzVrSDRNTWgyUnBvYnhCZE9teEtKODFERGQtUnpPbjNZRWVIU0t1cFoydG40R2FiYlhXRHJraXhqTEU4N1ZhU0lidFhwS1FvVjRzYjlINmc4VmV4RTJuVUxfNXNLVEZWLWFkNExtLXlLcDhpZnlfUlhYLUgwY2c0V0RQSS05Mm1GTkc0OTZ0elN6S21TcXBoN1ZfRzUyOTd3QjZmWFYxTWJYMkFxU1ZkNVNuVHJ1S0FwSC11U09GX1FwZ19pdHE4TUEzOVVBdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-10-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Former Lululemon executive rejoins company as board member - The Business Journals",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHlZUi0xSEZIdk0xcExtR004X0p4WVRvQ3RUcjlIMHlhaXQ0aW9EVnBVanFxaDdwTzVCQy1zVmg4QzIyR0lzb3NLend6WC12QXVueXdWSVQ2cUxKeVpiNE1Cb1ZTOGRMclFWSEQ2aWhSSnZXZzZWMEZKRGhEMHgyS05VaU9oekJJNWI2ZldUSXRsalVHUi1mSFhpTFl1dHVraWdSU0I3enBPSVpCb2hOMWwyWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tapestry-2026-10-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Beyond Bayeux: Guildhall Art Gallery explores the art of modern tapestry - ianVisits",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXVzeHo5UVpvbkxWNVhTTkJ4NFY5eXN6S1JVTndaZnZwVVo1eFpFRzlndFlWX25rZU9saFZldElPVWUxR01nWXJjbGVjT2hNWmlsdXF0LUhPZ3dEdDY5VGJnczhjaUdpU3hQc3R3NC1QWjdCZ192bHpreGdjY0dnR293aktsVlYzSDhVeEZBTUpINUlaZ0w2SGNFU3d3SWN6dWFEMlFaRVZKUVZFQkd2WDFfdkQxZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-10-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bayeux Tapestry draws young crowds, beating 'The Odyssey' and Spider-Man in ticket spending - Firstpost",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjZYRjROeVJNSERCM241dVdkZHZRU2x0MVN2Nm5JOEtnbjFXNzNsdHlkbXI2TXNwMHZYeWk5ajdud0JOaFppRzRxbjVkX3RUc1M3NlR5UFlkM3FDbzl6bldNM3BSYVh5dFlwc3RHanducFJfbVZSb0x2dHhvQnV5QVhtTVo4R3U2bnFhWEFqUk5PVjB6aFd6aEcyVnRpREpfSVHSAacBQVVfeXFMUDlRY1h6RVNzM3RCXzdCUGJTVkFKcTBqREJieHc3aGItTkt2V0x4N21ZMWpaSFpiZWphTUlKd2dWdm1jWmhYS3YzWHhWMWNUN0ZsR2IycFkyUTduVmxsajVSM3o2SGJSY2hQVlpCYnRySlIwLWUwaDUwb1VPTkNLTlFtenNSdzB0OHNDRnh1cjJLb2NyUGViN0NocWtLeUxCNTJONENwNXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 7
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 384,
+    "dup_title": 91,
+    "too_old": 203,
+    "gate1_blocked": 26,
+    "gate2_blocked": 47,
+    "passed": 17,
+    "pass_rate": "5.8%",
+    "gate2_block_rate": "16.0%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance Singapore",
+      "Veritas identifies hit compounds in Toray collaboration: what it means for Toray Industries stock - ",
+      "Lenzing completes capital increase to raise 301.2 million euros - Fashion United",
+      "Lenzing AG: Christian Skilich, buy - www.marketscreener.com",
+      "Lenzing AG: Lenzing Aktiengesellschaft: Preliminary results of rights offering - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Coach、Lenzing、Lululemon相關動態：「China's major industrial profits rise 15.5% in Jan-Sept 2026」。主要關注主題為供應鏈轉移、棉花價格、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "China's major industrial profits rise 15.5% in Jan-Sept 2026（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lenzing AG: Release according to Article 135, Section 3 BörseG with the objec...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
