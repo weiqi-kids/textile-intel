@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 27,
+  "gate2_fail": 43,
+  "passed": 28,
+  "gate2_samples": [
+    "Toray Industries, Inc. (3402.T) stock price, news, quote and history - Yahoo Finance Singapore",
+    "Toray Industries develops polyester-nylon fibre with at least 93% recycled material by mass - Interp",
+    "TOR1.MU interactive stock chart | TORAY INDUSTRIES INC. R stock - Yahoo Finance Australia",
+    "Lenzing Group provides update on shareholder structure following completion of capital increase - Tr",
+    "Suzano’s parent buys into Lenzing in capital increase - Sporting Goods Intelligence Europe"
+  ]
+}
