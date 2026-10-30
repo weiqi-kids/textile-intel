@@ -1,0 +1,16 @@
+{
+  "total_raw": 391,
+  "dup_title": 83,
+  "no_date": 0,
+  "too_old": 202,
+  "gate1_fail": 29,
+  "gate2_fail": 46,
+  "passed": 31,
+  "gate2_samples": [
+    "Toray Industries, Inc. (TOR1.F) stock price, news, quote and history - Yahoo Finance UK",
+    "Lenzing AG: Release according to Article 135, Section 1 BörseG with the objective of Europe-wide dis",
+    "Suzano’s parent buys into Lenzing in capital increase - Sporting Goods Intelligence Europe",
+    "Lenzing Group provides update on shareholder structure following completion of capital increase - Tr",
+    "Correction dated 27 October 2026: Lenzing AG - www.marketscreener.com"
+  ]
+}
