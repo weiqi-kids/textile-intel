@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:00:14.792861Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-10-31-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "‘They’ve Shot Themselves in the Face’: Ramsey Blames Kaepernick for Nike’s Collapse, but Nike’s China Revenue Was Down 26% - Yahoo Finance",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNanV5SHJlS1hSb1cyUWxJVl9KU3R6b1VLbVEyZXg2TXQyNUlPczhteFB2R1VEaTNYOVAxVWIzaXVrUnpZajhxWDlORnh5alJ3eDFqVVpKVzJiNjNmeTFfT3NnWXpNaVZqelJTRFVkVGs0SVlkRVRlajJxYXRhVkJBc0xDNEtqUnRldFRaZHpybWFVVmlfa2Jvcm8zdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "adidas-2026-10-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "adidas AG (ADDYY) Seasonal returns chart - Yahoo Finance UK",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2MlJvcGNON04zUkNNVEpGdTBqVWVBSE16QXhDUWFxWlB0QW91VDVoc3Q0Z25CMG05bk9SbG1ZM1JOb1pReXNvQ3AzSXhWMUI2bWhjTks3TGhTakJ6SnpvLXE4OA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-10-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Athletica (NASDAQ:LULU): A Quality Investing Case With Strong ROIC and Zero Debt - ChartMill",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVTlzck50TFZSRTJlc05xeDZsV2k3NVpFbWdpRi1uM1BqNi1ybXFLWk1qbTcwMU9pOXB0aENtb1JoUXUwUFdpOXJjVWVIYTQ4ZTdrTlkya212b0l5aklWVHcwTUVFWnVFaGpSWjdHUWxySXJ6RjRXdzRTTlA2ZERHQTVlVDdIbVQ0MXNVTGhJNDRPY2M3RktDWmlIeWhFZkpScVczWC1VdXlld0swaGdaUkJRbXpWWGZoTDhrZ2dQQWtfNkNpanhJVmFOS25oSkVKbnBfSg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-10-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon ear loop face mask khorasantimes.com - khorasantimes.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VeXp3dXFqTEtiNTRoTGpzNmtndGRaMVhnYjlrVjhOQ3VYY1FGM2ZkOFhTTEFGVElvcGNlSlU4ZzV4Vzh6SFUtVjhmbUpJQ0o0UnFFRjVqeHRyaGYxSnFwdjNzVjNIZVlITEJYci1MaUdYamY1UEszMC1yeng?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-10-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "35,114 lululemon athletica inc. $LULU Shares Sold by Evergreen Capital Management LLC - MarketBeat",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDFHbFl1dFpxTGd1aTRXcWJIQVBDSWdVZE5DaFFjVTBmbE16Y2I2LUhoWEpnbjF4OXQ2NVYyYUt5YXBGWENRNXFRUUJwNzBSRzFzdW5xTG9HeTdHeGtYSUJHQUJUbkpwQnVpRUI3WFU0M1Y0c0NzcDJ3RlU4cktGX2ZJUmtSLWpqdEZ2d2FpNXRVVjVIcE11UVdSRllLVHRYbGkwUjFrMkpDcnoxSklNckR2UWR6OElveXJDUDJacy13M2tOOWVHTzlUUjBsOFpGbDIzdDVZZDVWRUk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 3
+      },
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 99,
+    "too_old": 197,
+    "gate1_blocked": 31,
+    "gate2_blocked": 42,
+    "passed": 24,
+    "pass_rate": "8.2%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Lenzing AG: Release according to Article 135, Section 1 BörseG with the objective of Europe-wide dis",
+      "Correction dated 27 October 2026: Lenzing AG - www.marketscreener.com",
+      "Suzano’s parent buys into Lenzing in capital increase - Sporting Goods Intelligence Europe",
+      "Lenzing Group provides update on shareholder structure following completion of capital increase - Tr",
+      "Lenzing stock: Share count rises to 73.37 million after capital increase - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Lululemon、耐吉、愛迪達相關動態：「‘They’ve Shot Themselves in the Face’: Ramsey Blames Kaep...」。主要關注主題為供應鏈轉移、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "‘They’ve Shot Themselves in the Face’: Ramsey Blames Kaepernick for Nike’s Co...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "adidas AG (ADDYY) Seasonal returns chart - Yahoo Finance UK",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

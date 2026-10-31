@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 197,
+  "gate1_fail": 31,
+  "gate2_fail": 42,
+  "passed": 24,
+  "gate2_samples": [
+    "Lenzing AG: Release according to Article 135, Section 1 BörseG with the objective of Europe-wide dis",
+    "Correction dated 27 October 2026: Lenzing AG - www.marketscreener.com",
+    "Suzano’s parent buys into Lenzing in capital increase - Sporting Goods Intelligence Europe",
+    "Lenzing Group provides update on shareholder structure following completion of capital increase - Tr",
+    "Lenzing stock: Share count rises to 73.37 million after capital increase - ad-hoc-news.de"
+  ]
+}
