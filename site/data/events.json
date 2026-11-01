@@ -1,5 +1,117 @@
 [
   {
+    "id": "toray-2026-11-01-001",
+    "date": "2026-11-01",
+    "companies": [
+      "toray"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toray Industries Earnings Date and Estimates - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxORl9ha2dld1Z5N1FaZ3lYejAxaWRxbGFScWZvdG95UVNOU2NZclhqZ2tBZGNSRktBYlktWWZITzZlWjdTU0txRkN1QkhZN1NIYnp6VXhBQTloaUYycTZOR3JndFpiNUthX0JwV004Z3",
+    "sources": [
+      {
+        "name": "toray",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORl9ha2dld1Z5N1FaZ3lYejAxaWRxbGFScWZvdG95UVNOU2NZclhqZ2tBZGNSRktBYlktWWZITzZlWjdTU0txRkN1QkhZN1NIYnp6VXhBQTloaUYycTZOR3JndFpiNUthX0JwV004Z3N3NER3cHJidkFnbWE5WE1PaU5wZjdVVUhEcGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-11-01-002",
+    "date": "2026-11-01",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Beat: adidas AG Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMUtXWnBQMWFhbkZBN1FQWVFKWGxqOXY4MDJ5WkVzcVdUWEI3NVp0cl9zVWF1NkdoMWs0dXFlelhDekhjcUNmZkZoYjV3M1BkcXp3WExwQ20tUkhEUHRQcGZub1Bjb3RkTEhBVjBSUn",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMUtXWnBQMWFhbkZBN1FQWVFKWGxqOXY4MDJ5WkVzcVdUWEI3NVp0cl9zVWF1NkdoMWs0dXFlelhDekhjcUNmZkZoYjV3M1BkcXp3WExwQ20tUkhEUHRQcGZub1Bjb3RkTEhBVjBSUnI3NGlvZHk0X1ZUYURURGdZNG9PdGx6YWg5VlFvV1Ftank5anhWSVcxMVBmdlF5Q0ZNeEFtQ0d5dERWRVp1Z3RYbHAyOV9vaU9OMnFRelhuLUNUZ2diNzVqVUp5QjF1WlRYdUhv0gHYAUFVX3lxTE81RVpiR09aM3JZQU1aOGZrXzFIU1F2UDIxcUk4TmpFZ0FuLVZJZzdXRVJZMnRLMjZSTDhjeVNRR1F2RGpPNTlEVS1pNVNGeXFBRnB0SVhCVkdYWDNhZTZPLTRmbzFkSDhlNXZGenJkTW1xdWd3a3I3MHVsZ3NWejJmUGNWR0NIYUtYZWxzRld0YlpxQ19Ua1V2NHIxdWFjNU5RWXpiV2MwNEZQdnFaWW9XdEExRXZIckxZclVfc0VsRVFNMzk4YmtzNWhZSkFvQjZyRy1UaXNjUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-11-01-003",
+    "date": "2026-11-01",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lululemon tank khorasantimes.com - khorasantimes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE91ZGh4blNqcmg3aHFUN0E5dXNrdlNKa0pBVDF2TmZDVElvS2c0ek9Ydnl1dWpXbjUydXNva29zLURIVjVES0R4RnRLYVZxWlRjenhDR2hENGliUnJLSFdNZTIzdXZyQ1ZXZ2c?oc=5\" ",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91ZGh4blNqcmg3aHFUN0E5dXNrdlNKa0pBVDF2TmZDVElvS2c0ek9Ydnl1dWpXbjUydXNva29zLURIVjVES0R4RnRLYVZxWlRjenhDR2hENGliUnJLSFdNZTIzdXZyQ1ZXZ2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-01-004",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "EU tax-to-GDP ratio rises to 40.7% in 2025",
+    "summary": "EU tax revenue rose as the tax-to-GDP ratio reached 40.7 per cent in 2025, up from 40.2 per cent in 2024, while the euro area ratio increased to 41.3 per cent. \nRevenue from taxes grew by €401 billion",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/eu-tax-to-gdp-ratio-rises-to-40-7-in-2025-314701-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-01-005",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India extends cotton duty exemption until Dec 31; SIMA welcomes move",
+    "summary": "India has extended the cotton import duty exemption until December 31, 2026, amid a projected supply shortage. \nSIMA welcomed the move, saying it would help textile manufacturers secure raw materials ",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-extends-cotton-duty-exemption-until-dec-31-sima-welcomes-move-314695-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-01-006",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "China’s textile profits up 7.2%: Why are apparel-related profits down?",
+    "summary": "China’s textile-industry profits rose 7.2 per cent to ¥42.83 billion, with revenue up 1.7 per cent to ¥1,601.04 billion, NBS data released on October 28 show.\nThe broader manufacture of textile, weari",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/china-s-textile-profits-up-7-2-why-are-apparel-related-profits-down--314692-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "adidas-2026-10-31-001",
     "date": "2026-10-31",
     "companies": [
@@ -143,6 +255,122 @@
       {
         "name": "nike_news",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdkNfVncwQ1pwUlczN0ZheHJFUnc3eGRjZzVHTWF1UXlxbTVfa2JfQUZ1WTY3cUZiZEE4Sk91SFpmaEI5dVJxMEZXQVlwSjl5cXZtSTZoRGJiRDZ1c2M0VlJENFpSUFJtMlhEQWl6N2czVkZWMWZmRkdldF9OSDJvRGxpcGhSa3NqdE96MUJVRDJxbmtBb013cGhVQjNOYWdwb1M3dV9yQ1FMeW84MWI4bENqRUY4WmNYM1RfVndPV3lFeENxcVFPM9IBzgFBVV95cUxOZFd1VUNXZVk1RzVOSFpiSERGbU9LM2lPSzlyVTBNSDVNZmhPQXJwSm5JQXVQWHJDTVFYdk5CR3NlVzZ2QnVnMF9vS0hnNTZhNnFTMXRrUTNhV0VyejU4NWtMcnVic2pTT0w5WGFUOVdFNTFiNlNueW5tM1AwNW5ueGhXZTVBMU1KVW81UVM1T3BFdlNEdUhTbVV5TWtVTXFYYlhsUlVNRGtyWE5CcHFXandOUnhzUnRNRTdHUl9PcVZ4TFlIU2M2azViTUExZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-31-009",
+    "date": "2026-10-31",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "Nelly Korda’s fashion and sponsorship portfolio in 2026: How the LPGA star built her commercial identity - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimANBVV95cUxQU1R6MkZPcVN4ZkVleVBHeG9YbHhhbHRSRFVtTXhlT1kyVkpCT1hjT3JscXZTY2dJdkp1bE5JNk9kT3dNcjB1WWFUTlA3YkFLNVNVOGk1UFIzTnl4cWEyVjM5YWtmVFdLOG9SLURwbG",
+    "sources": [
+      {
+        "name": "nike",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQU1R6MkZPcVN4ZkVleVBHeG9YbHhhbHRSRFVtTXhlT1kyVkpCT1hjT3JscXZTY2dJdkp1bE5JNk9kT3dNcjB1WWFUTlA3YkFLNVNVOGk1UFIzTnl4cWEyVjM5YWtmVFdLOG9SLURwbGhQZWxwUi1JeFg2ci1oOWVMaHNFVG1SYmVSWEJrVUR0bFBGU01yY2l5Q0VWS2xsSERDWk1KU3A5UUhoTUxsU0ZCcUVrdU9nQ3FXRy1IeVgxM2FhUE92dzFqWGNiZm9CRUFHd3RqZERsSjdTek83N2hvTVFiNGVBN1pHb0tjQVJUcjJQazBJMmhzYjhBaGh2NzZKUTIwVEhvZG9JZC1RSHZGRnVYX2pSV3cwT19nMzZqS3BtU0hRd2JUY1hrWVNhbm9BeTlxb3pkY2ZZRVZqazRwbjhGMmE4LXYtZG9YOUJrNXVlWWJFalRURnB0TDloYUpCV2tfeTJ0NEdqR04wZTAwY0l4YkhQaUZUakd0dmpZaG5rRHBjR2FEbkpyelh5MkxEb0lBYVE1aWjSAZ4DQVVfeXFMTy1JX0hhNWo4WVhUWDlkSVpVUlNud3AydDk2bGFkSnpfT3J5cW9tVG9QT1VnZ1YwZmsyT054THJLTVZtNlhobk5Ya1ZvanROWFhZSTZuamZ4Vi00clFlY2JicVZxb2NpLU5NbUpRTy1fbVpYak55TXpwRjc5YnA5Y2QwTGxEYkJ6SDY3aV9XcTdncGFwUTI4RXAyX2RGLW5EOWZKTG5DU2NyWVpUYmVjbmhGUGx4eHZaXzNMVDJBWnl4anB6VkM4am8tME5kWE9wNTIxckR1OERWTE1aZnRIX1F5ZHBzM0l6UDNjX2dON2FwMVZTczZJbzVPZmRLQkR6d09BUFhrTFh2X0JxT09YQjg1NzQ2TW9ZVklhSURWdUtQMUF1TXhNNUtkQ25LSnlGcUtxT2hCbVBFSEN4Tk41bGZRQ1d5aFN4ck1QQlNzTVkwOG9DbUViZ2xlLTY0bHlpLWo3YnRscHBNRF9qQ0FaWXM0MEphM3lSWG5ta19rWUVCcXdwQXRjQ1F4bFhMdDJVbS1vNDB3enhSS1luQzlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-10-31-010",
+    "date": "2026-10-31",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "adidas AG (ADDDF) (Q3 2026) Earnings Call Highlights: Record Q3 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkwzRmZTdDRhS1FMUlZwSFhGVHl3aUJnQ0IxR3I5MWQ2TkN0Y2Z5QmtPUlRmazdMNktCNG1RR1VNNnYwZFBvVkc4dkNPUUZkUEg5Tld0cVRwcF9RVGNTNi00RzEtdGJsRng4YV83bz",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkwzRmZTdDRhS1FMUlZwSFhGVHl3aUJnQ0IxR3I5MWQ2TkN0Y2Z5QmtPUlRmazdMNktCNG1RR1VNNnYwZFBvVkc4dkNPUUZkUEg5Tld0cVRwcF9RVGNTNi00RzEtdGJsRng4YV83bzJuaGRiRldvcy1MUl9kUlVOQkJHRFJYSVhneHl0d19aX1pRRktLVm1talNjRUVYUGhvT3JEQ0dZQy16VkQ1TGtEN2NJS0xYZW5iVmJnU3hrTzYzZk1mcnkxdmhXUDBUZXNJWmFvNFI4emVzdlltM2g1dGNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lululemon-2026-10-31-011",
+    "date": "2026-10-31",
+    "companies": [
+      "lululemon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Lululemon Athletica (LULU) Faces A Valuation Test Following Weak Earnings And Board Change - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRU5GSVN0N25ubzM4VTQwMUVoUGVDaG51OHhvNDFaRVc2b2VRejQ0dS1QNTZ1UUxhTkdqeGRqejhUMUtPSFZlMGtJejQyeVBvbEhLSnhEbks3WlI4dW1Nb09ybldBeGw2VlN6SElhN3",
+    "sources": [
+      {
+        "name": "lululemon",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRU5GSVN0N25ubzM4VTQwMUVoUGVDaG51OHhvNDFaRVc2b2VRejQ0dS1QNTZ1UUxhTkdqeGRqejhUMUtPSFZlMGtJejQyeVBvbEhLSnhEbks3WlI4dW1Nb09ybldBeGw2VlN6SElhN3NxR3E1eTR2NXVRWF9VbmtUUGZsdUNTN3c0TFZnbjVzZ0VNSHVYTDZnS2JrRDY2VW02YkllMG5rX2s2S3VnWjNoMERXNGVkdlpuVjgwTnpOeC1sb3ZIdGkxTUlCWDhtSkZIXzBjSnJQOThncHFPZlp4VtIB5gFBVV95cUxOYlREYVdHazI5UDNROVhweWp4VEd5LWtZTU92cHdPYjFOZEh4Vm03UElrWWV3V2FlYm9LQUdTNEdSSENxOUwxZFBoaGNTUXhKM2RuNG9kbW16QlpveEZuaGFGWU5adEZERDZyaU5aWklYSzkzckMyb0tRRktSUlQ1RkVlY0hoYnl2YmF1OFBlU2s5M3BJaXJMNEx2bmlaeDJlbkkwX1czV2FtTl9SU0hEWmZJVldCSmJuVWNKQlJKTFFPVThTLWVxRnZibDlKUnN0WFh0VVBoTHI4aHRCWVNFeTFNNHZPdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-10-31-012",
+    "date": "2026-10-31",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tapestry (TPR) Stock May Be 39% Undervalued After Luxury Valuation Focus - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPZi1XRTYzVkpNVzlJYXpwQUVrV0FWbXI4ekwtZjdJd2lsZXVCZmpiZWN4d3JuLWVuTGRDamhZUmFKWkd2Y3VQOTJHMUgtMWdRNUhhTVd1MEZHd3B6ZVFXVlByMmc0UjVzNGd3YU1xd1",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZi1XRTYzVkpNVzlJYXpwQUVrV0FWbXI4ekwtZjdJd2lsZXVCZmpiZWN4d3JuLWVuTGRDamhZUmFKWkd2Y3VQOTJHMUgtMWdRNUhhTVd1MEZHd3B6ZVFXVlByMmc0UjVzNGd3YU1xd1JobFYxaDZwSm1ZcXRTVzk1R2hRZENSMkJPTE9GcVJ2NkxKeU1QUWE5Ukl3Y2RDam5SakRLaTZuSi15TFltRG9ETHlVZ21ZdlhmZDNuVUIzbkg2QWQ2Sm5jVjRkcW9oUdIB0wFBVV95cUxOUGRHUEtPTlRzRjY3T2Fyb2RycURoUEhnYUkwMUZZMXlmeGI5bW5WTlREdUxkZE5fV1A4WUhSazZ5UVhFRHBGc25MQlBPYW5CNEVpdnd6bVV0SjdWZnBwSXZERzg2MDNMSkFnbFpTZml5SjB5endoRERGNUpyQVVGR2hyNklUcEd3dk1qU2xkVk5PUkoxWjhQb0pBdFJIX1NUNTJPczVPdnVERjdpbDVQR25aRHVBejBsTzNZMzBlQXBSamhjM28talNTb0oyU2RWRE13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-10-31-013",
+    "date": "2026-10-31",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "'They've Shot Themselves in the Face': Ramsey Blames Kaepernick for Nike's Collapse, but Nike's China Revenue Was Down 26% - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaVMzMVN0NTZVa2NfNzJfRy1GVzR2aU9zb3I2Smpja0FlUjduRFNaVzQzN0JxYXR3RDVpUkRJaGREMzQ5RGk3R1BWb1oxRDdTdFVpcjZ2SEhXbHNiZ2NqcFA2VmtJcldNS0Z2ZGY3SG",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaVMzMVN0NTZVa2NfNzJfRy1GVzR2aU9zb3I2Smpja0FlUjduRFNaVzQzN0JxYXR3RDVpUkRJaGREMzQ5RGk3R1BWb1oxRDdTdFVpcjZ2SEhXbHNiZ2NqcFA2VmtJcldNS0Z2ZGY3SGJWcnpSNVlPNDVNS3hKSnhJUDBmVjNMRE9SYVJ2OUpLMklJU0ZWeVEteFpyekRmTjFZVmhiQ05DZWhuVGFsU2ZwWTByRkhfd25kZHIxZjdQSW1ORTFVN0FHR1hYVEptQnpHNVZlT3BOWTd0eVB1SVlmaW1uZ05fVXVjdUl0LVdMQU44X3JveEV4Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nike-2026-10-31-014",
+    "date": "2026-10-31",
+    "companies": [
+      "nike"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nike's Jordan Brand Revenue Decline Highlights Dividend Sustaina - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPaC1LZ2JMOTgtNW0yN21BRnZVZmJ0NnREWW1zbjBsa2QtR3NWWjYzNmp5WExuaXZ1bmJ3R3NtMFVUaWFfSzlyeGdOcjFOY3BXYUs1YkE4aGs3Nlo2d3FGb2EydzdyWkxLSHo3OXRFUz",
+    "sources": [
+      {
+        "name": "nike_news",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaC1LZ2JMOTgtNW0yN21BRnZVZmJ0NnREWW1zbjBsa2QtR3NWWjYzNmp5WExuaXZ1bmJ3R3NtMFVUaWFfSzlyeGdOcjFOY3BXYUs1YkE4aGs3Nlo2d3FGb2EydzdyWkxLSHo3OXRFUzN0S29obW8tWURucE8zc0gtaTZNbjRtQTZHSjJHb0FuVEVBY1FHampTYks5RUFsODlHWWFSdHNtM1N2QWk4b2ZJck94NDc0NVQtY1dPTHZR?oc=5",
         "type": "rss"
       }
     ]
@@ -1044,6 +1272,46 @@
     ]
   },
   {
+    "id": "adidas-2026-10-29-029",
+    "date": "2026-10-29",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "adidas AG (ADDDF) Q3 FY2026 earnings call transcript - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQQjhYcndYY2VzX0ZyWUoxUFM5NHI4d2d2S2gzTFFpc25YTzRLOVdoZ0VHWWZBeFNqMmhheFVNR2RuVXFINXhLeC1jaFM5QW1ocU5uNlcyOXFIWWNRZzhiOWFfUHAyTERVeWFpTHR4Sz",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQjhYcndYY2VzX0ZyWUoxUFM5NHI4d2d2S2gzTFFpc25YTzRLOVdoZ0VHWWZBeFNqMmhheFVNR2RuVXFINXhLeC1jaFM5QW1ocU5uNlcyOXFIWWNRZzhiOWFfUHAyTERVeWFpTHR4SzRocFMwSndrdElhRjBXM0hkOGYzbWhXaGp0NnkzeVpVNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adidas-2026-10-29-030",
+    "date": "2026-10-29",
+    "companies": [
+      "adidas"
+    ],
+    "topics": [
+      "sustainable_textile"
+    ],
+    "impact": "neutral",
+    "title": "Adidas AG : Gets a Neutral rating from UBS - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbS1hWUZrMHRxcWRjTDJ0YzNIbnJESG5NSERZbEdBQW5hN1g3dUVhUC1zNDYzTnJIME9XX0daYmF6T2lZOEYzRkhCdWt1b3R3Wl9abzFHZWlpbkhmMVhpZHV6V2I0U0lSaVJXTEQ3c3",
+    "sources": [
+      {
+        "name": "adidas",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbS1hWUZrMHRxcWRjTDJ0YzNIbnJESG5NSERZbEdBQW5hN1g3dUVhUC1zNDYzTnJIME9XX0daYmF6T2lZOEYzRkhCdWt1b3R3Wl9abzFHZWlpbkhmMVhpZHV6V2I0U0lSaVJXTEQ3c3VXV1BuTmRjRW9hNmpPVGNIbmZmbWRNVVp2cm5MWXgxdFdsNEhJNE5NNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vf_corp-2026-10-28-001",
     "date": "2026-10-28",
     "companies": [
@@ -1938,6 +2206,62 @@
       {
         "name": "pvh",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV09zX2dHX0RGb01JaE8xUzR4b2RPX09wVDFPRlItcUI3TFpJV1ljazU2aGRWNHdIaWJPaGpSZG0zbEZKcTA0U1BrWFdFVFM4OXpwZnc2bzBYS0JnRUhSZjBVV2VtbERTdDU1UER1dE1yQmlLWXA0cnUxY3ZVbDlpWWlsbjdRYV8zNkNoMC1Sc1JMOUNIWjk1SDVOZW9SaVVxVUlLUnctOEJLTDZPdUtBMzRCTjFuQ0FaUXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-10-28-049",
+    "date": "2026-10-28",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Corp. Declares Quarterly Cash Dividend - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOY21qemwwZXEtczhpb1pSUHRxWll0cF9Pd1l4dzBCV0FkRGktTjlDTUlRMFBQWnd5M0k1cm0xUS16dzhha2p2OTVaS0hmQ2pVaHl0R3MxWWVzMVBPNDY0ZlV1ZjR3NFFoN25YRGdacm",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY21qemwwZXEtczhpb1pSUHRxWll0cF9Pd1l4dzBCV0FkRGktTjlDTUlRMFBQWnd5M0k1cm0xUS16dzhha2p2OTVaS0hmQ2pVaHl0R3MxWWVzMVBPNDY0ZlV1ZjR3NFFoN25YRGdacmY2Uk9uLURVd1U2RFBXaUZHcHVsTTlUS0JYVkRVUWgzTFRUcVRXQTZHdGM3MEJOaVA2R2Jr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-10-28-050",
+    "date": "2026-10-28",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PVH Corp. declares quarterly dividend of $0.0375 per share By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWktcWl1Tks4WVUzU0lUVFRBbDlWSHpWVkI5T1liUUp1MjREcEpQYnBlZDduQ1E2VW4yVUhLaEJpdGRBeTlUdG9qR3pTNURCRGhNUEdOYzZOMkpZbXZGVVJUWU91UnhjRGQwSWtCLW",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWktcWl1Tks4WVUzU0lUVFRBbDlWSHpWVkI5T1liUUp1MjREcEpQYnBlZDduQ1E2VW4yVUhLaEJpdGRBeTlUdG9qR3pTNURCRGhNUEdOYzZOMkpZbXZGVVJUWU91UnhjRGQwSWtCLWlUOEs2bFB0cmJjYUU4VmNLbDZ1NXpVWWZBY2gzazB6NUxESVNzdnV3R25tNVBxZzU2cWpPdmhxMnVFQ2YxSUdGaGpCaXRHTHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tapestry-2026-10-28-051",
+    "date": "2026-10-28",
+    "companies": [
+      "tapestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Tapestry (TPR) Could Beat Earnings Estimates Again - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDJpVlNTT3dSTmtJdWxteVhlcWhwTVAzZHhldG9OSXJCTWVSR0IzMEJjdFAyX2hvVnJlYjdtelZXQjNNTEhMcFNhM1ZvQVdDR25HUGF4aW1vTmdtR3czS2dYZU45LWt4ZzZYekN1NU",
+    "sources": [
+      {
+        "name": "tapestry",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDJpVlNTT3dSTmtJdWxteVhlcWhwTVAzZHhldG9OSXJCTWVSR0IzMEJjdFAyX2hvVnJlYjdtelZXQjNNTEhMcFNhM1ZvQVdDR25HUGF4aW1vTmdtR3czS2dYZU45LWt4ZzZYekN1NUhUWVFHUHNYamNXQ2lQNXRmS013VVZmakVEc1pUMEtMZXJuRUZMYkpR?oc=5",
         "type": "rss"
       }
     ]

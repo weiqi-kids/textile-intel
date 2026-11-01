@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 189,
+  "gate1_fail": 30,
+  "gate2_fail": 44,
+  "passed": 17,
+  "gate2_samples": [
+    "Toray Industries (3402) Stock Forum and Discussion - Moomoo",
+    "Lenzing AG: Release according to Article 135, Section 1 BörseG with the objective of Europe-wide dis",
+    "Suzano’s parent buys into Lenzing in capital increase - Sporting Goods Intelligence Europe",
+    "Lenzing Group provides update on shareholder structure following completion of capital increase - Tr",
+    "Correction dated 27 October 2026: Lenzing AG - www.marketscreener.com"
+  ]
+}
