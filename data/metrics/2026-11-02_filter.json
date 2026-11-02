@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 217,
+  "gate1_fail": 18,
+  "gate2_fail": 29,
+  "passed": 19,
+  "gate2_samples": [
+    "Lenzing stock: Heiligenkreuz closure shifts to 2027 as buyers circle site - ad-hoc-news.de",
+    "Lenzing stock faces Heiligenkreuz closure in early 2027 - ad-hoc-news.de",
+    "Shenzhou International Group Holdings Stock Climbs 4.7% in Hong Kong - Moomoo",
+    "At HK$36.58, Is It Time To Put Shenzhou International Group Holdings Limited (HKG:2313) On Your Watc",
+    "Hermès grows, Nike plummets: Interbrand ranking reveals fashion industry winners and losers - Fashio"
+  ]
+}
