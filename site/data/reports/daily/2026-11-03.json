@@ -1,0 +1,266 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T15:35:07.802497Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lenzing-2026-11-03-013",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Techtextil and Texprocess 2028 strengthen textile value-chain links",
+      "companies": [
+        "lenzing",
+        "toray"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "order_visibility"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/techtextil-and-texprocess-2028-strengthen-textile-value-chain-links-314758-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "eclat-2026-11-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eclat Textile stock outlook strengthens as fourth-quarter revenue rises - ad-hoc-news.de",
+      "companies": [
+        "eclat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWdFenpDN3ZEdF9kdnV4Ry1kemJJVEdhUXY2VFZhaU1mSDJ3dXNiZnI3LTJhTVFJZ3dTcjJreC01OVZHclNseHVBZmpuejVrY0tNYzVRNHhxU1BTUFc0XzdzMVhRVVZkYUFVeTdoWVdjcHdJa1JLNHpVeVJhVGN0NTBPQVZNWThxVjdXbWE1X3NkNWhUYXdZS0J6d2ZMODNBODVpTlNnOXdPeDNSZGR0TmtBel9KNEZVUkt3OVBpY0d2NVRGSXRQbUpB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-03-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "South Indian cotton yarn prices ease amid weak demand, duty relief",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "order_visibility",
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/south-indian-cotton-yarn-prices-ease-amid-weak-demand-duty-relief-314764-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-03-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "600 fewer units, $1 bn down. India’s apparel crisis exposed",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/600-fewer-units-1-bn-down-india-s-apparel-crisis-exposed-314762-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "adidas-2026-11-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adidas AG : Downgraded from Neutral to Sell by UBS - marketscreener.com",
+      "companies": [
+        "adidas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOam9PSkFhN0x1X0ZWS1VKTF9uV3lTNXZnS3UtMm0wcUZvMk9XU3ZBX0syU2tpQlhUV25RVjE4OWxPeXdjRFpRS3N3WmhNZmg2aDA0Y0poS0QwQWoxVW5XQjVCcmtRdEg3eDcxeklOc2ZMTlhLTG9MMi1ySkUycnFfUHRDMjZXd2ZMaS1EcXpBZlE2dl9mRng2aDh0LVVmNXZ1Q2Zz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fast_fashion": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "order_visibility": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 6
+      },
+      {
+        "id": "eclat",
+        "count": 1
+      },
+      {
+        "id": "adidas",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "fast_fashion",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "order_visibility",
+        "count": 2
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 397,
+    "dup_title": 106,
+    "too_old": 213,
+    "gate1_blocked": 20,
+    "gate2_blocked": 36,
+    "passed": 22,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "12.4%",
+    "gate2_samples": [
+      "Toray Industries, Inc. (3402.T) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Toray Industries (3402) Stock Forum and Discussion - Moomoo",
+      "Lenzing AG: Release according to Article 135, Section 1 BörseG with the objective of Europe-wide dis",
+      "Suzano’s parent buys into Lenzing in capital increase - Sporting Goods Intelligence Europe",
+      "Lenzing Group provides update on shareholder structure following completion of capital increase - Tr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Lululemon、Eclat Textile、愛迪達相關動態：「Techtextil and Texprocess 2028 strengthen textile value-c...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Techtextil and Texprocess 2028 strengthen textile value-chain links（訂單能見度）",
+        "level": "yellow"
+      },
+      {
+        "text": "Eclat Textile stock outlook strengthens as fourth-quarter revenue rises - ad-...（快時尚趨勢、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
