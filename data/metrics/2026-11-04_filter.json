@@ -1,0 +1,16 @@
+{
+  "total_raw": 381,
+  "dup_title": 96,
+  "no_date": 0,
+  "too_old": 200,
+  "gate1_fail": 25,
+  "gate2_fail": 36,
+  "passed": 24,
+  "gate2_samples": [
+    "Lenzing stock: Heiligenkreuz closure shifts to Q1 2027 - ad-hoc-news.de",
+    "Lenzing stock faces Heiligenkreuz closure in early 2027 - ad-hoc-news.de",
+    "Lenzing stock: Heiligenkreuz transfer details sharpen shutdown test - ad-hoc-news.de",
+    "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Far Eastern New Century stock expands recycling and fiber portfolio - ad-hoc-news.de"
+  ]
+}

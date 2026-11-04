@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T15:51:37.667426Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "makalot-2026-11-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Makalot Industrial Posts 15% October Revenue Growth on Higher ASPs and Currency Tailwind; Analysts See Dividend Yield Above 7% - BigGo Finance",
+      "companies": [
+        "makalot"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56aldhME4yVUx0dUZkbksxMm44ZVlDb0V5SW1CSVFSS01HOE90NjFnZXZtRGpiNDhZdWJFXzVoSTM1QjQ0N2hnWHlIVFlPc19KZmtQTHE5VHBPaU9QanUtUzNyVkpZSzktUTQwOU5vQ2c2SkdwRUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "makalot-2026-11-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Makalot stock: Company reports third-quarter profit of NT$988.7 million - ad-hoc-news.de",
+      "companies": [
+        "makalot"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkRyd2RTd0FlaFZsVjNUam5nRVFLcjBlTTVwTlJlRS1peDY2VTVPOUNBOElvUDFFdF9JSFVSS1MwT3VDUmdEZmZhY19TWHNxNW1tYnk0bFJIUGNrVjJ2c2U0Y1hBT2szVnFaMzFDc0g2X1hJUmlLaW0yc21xYVhfQjY3ck9VVFZpdXJfM1U4OTRab3c3WWJhcnE3VjFGVmhwSkVDQ3lwTGNFci1TTEI0c09rSFF1UWg2Zm9jMERSUTU3ZnBiX0hRTg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-11-04-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tapestry (TPR) to report earnings tomorrow: here is what to expect - The Chronicle-Journal",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdkVkcC05ckRxbFB1c00teVFPMXFLdkY5NmVWNzlGMjNWWVpRNkwtNkdlTUkyY0h2azk4enBwNnF1Rm1sQnh0RlcxYVR6VWxkQ29nbDBNSWE1WGNDVVE5ZC1KWndEMUJuTGRwbnFEd3IzZUwwRlBUS1licTlWODRMT0VLZFBjSWN6UG43R21nSHBPdnJQenFzQUVVaU5jZDdYM1QwdHh0WVZHNjFZeHRrWDUzWUgxN1pWdV9HUm1pS1hOUDBkMlB4dzBqRjFVdWVsekhwVzkxWWNkZWx3MkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-04-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India's KKCL maintains profitability as H1 FY27 revenue grows 11%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-s-kkcl-maintains-profitability-as-h1-fy27-revenue-grows-11--314779-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-11-04-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Got a $50 Target and a $24 Target the Same Day. Its Gross Margin Explains Why - TIKR.com",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONURwSFNoTTBUUzl0YUhwajRNUmZuMVFfdWVnc3hmVmNZdDNvZDhjYkZrdjZCNENCcUQ1aVVvbDVjZndqUTNmMjV6ZGRPVjlwel9OZnNyVFlwSFEtMlY0X1ZmLUIxNDVteHhlTjBoSEJ4WEtleHp0eXNQY0o0RHZtc01IZ0xCZzFYeTVkOFhqOHBLbU52VlBiVUoxRUNrdU1iLUFROVQ0MVBoZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 3
+      },
+      {
+        "id": "makalot",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 381,
+    "dup_title": 96,
+    "too_old": 200,
+    "gate1_blocked": 25,
+    "gate2_blocked": 36,
+    "passed": 24,
+    "pass_rate": "8.4%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Lenzing stock: Heiligenkreuz closure shifts to Q1 2027 - ad-hoc-news.de",
+      "Lenzing stock faces Heiligenkreuz closure in early 2027 - ad-hoc-news.de",
+      "Lenzing stock: Heiligenkreuz transfer details sharpen shutdown test - ad-hoc-news.de",
+      "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance UK",
+      "Far Eastern New Century stock expands recycling and fiber portfolio - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Coach、Makalot Industrial、Lululemon相關動態：「Taiwan's Makalot Industrial Posts 15% October Revenue Gro...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Taiwan's Makalot Industrial Posts 15% October Revenue Growth on Higher ASPs a...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Makalot stock: Company reports third-quarter profit of NT$988.7 million - ad-...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
