@@ -1,0 +1,16 @@
+{
+  "total_raw": 367,
+  "dup_title": 84,
+  "no_date": 0,
+  "too_old": 203,
+  "gate1_fail": 16,
+  "gate2_fail": 28,
+  "passed": 36,
+  "gate2_samples": [
+    "Lenzing AG: Release of a Financial report - www.marketscreener.com",
+    "Lenzing stock: EUR 301.2 million raise shifts focus to execution - ad-hoc-news.de",
+    "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance",
+    "Formosa Taffeta Co., Ltd. (1434.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
+  ]
+}
