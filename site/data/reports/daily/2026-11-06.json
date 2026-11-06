@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:28:15.289925Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lenzing-2026-11-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lenzing stock: Q3 margin improves as revenue and loss weaken - ad-hoc-news.de",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFFCaWpTN2oxUU1fbWRfNjB4VE03NXlPdER1SzhrM2ZIMmpraWVYemFxS0VnT0ZEY2F4N21zZHJZZVlscDRHZXg1eHZCVVc2eDdfX09rUF9QbTgyUWVfMlpqWkxXa01MZUZPb0RydUdKNnAxZUNoRWRkOUlEekN1QVBhalROR2REajMyQUxEWlZwTmluT1FKVU1hSGJZcUNCQ2hzMUVQWVlBc05nN3FZVFB4TDVVWkRjRGhuekd1aw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-11-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tapestry (TPR) Beats And Lifts Outlook, Is The Stock Still Trading At A Discount? - Yahoo Finance",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcnJTUFhXM1JnVlNBVE9xa09oVVkyNjAyUk1jbGJVY1VOQU5kVE5tZnVDV3JiT3dfVWg2ZG9jblZTWDNUekl1T3RRZ2pmYWNWMG5GR21VbGthdUl1M0d2R2hOWGVwbk16ZXh0Wm01ZXhPT0lrTVUtQkRPX2dwTmtNelJpOHFFRFNOaVMwa0pCbVFHaXJ0YXU3b3VZZEcyUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-11-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China Boosts Ralph Lauren and Tapestry’s Quarterly Results - Luxus Plus",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONXgyTFFVU1NCa2Z2N2c1ZHhiOUlQSzl4d1Z5VExMeWpDWW82dHN6UFI3NGdqbEt4WkJ0dnowX1JCd2w5YVIwN2F6LUxDVXN6anR5c3BHa2RlNnFPbWo2bkxuTHJJZnVKcmcwOFlUQXpwOE0xWmstMWhuSzFnUTgzLVB6NG5CNWJ1R1JWMw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-06-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyosung TNC profit jumps 97%, but can bio-spandex transform its future",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/hyosung-tnc-profit-jumps-97-but-can-bio-spandex-transform-its-future-314867-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-06-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan's Gunze H1 operating profit surges 81.3% despite sales dip",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/japan-s-gunze-h1-operating-profit-surges-81-3-despite-sales-dip-314873-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.62,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 11,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 4
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 409,
+    "dup_title": 80,
+    "too_old": 229,
+    "gate1_blocked": 30,
+    "gate2_blocked": 37,
+    "passed": 33,
+    "pass_rate": "10.0%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "VF Corporation, Timberland® and Bunka Fashion College to Bring Emerging Designers’ Ideas to the Glob",
+      "Lenzing nine-month adjusted EBITDA flat at €353 million - Sporting Goods Intelligence Europe",
+      "Lenzing AG: Release of a Financial report - www.marketscreener.com",
+      "Lenzing stock: EUR 301.2 million raise shifts focus to execution - ad-hoc-news.de",
+      "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Coach、Lenzing、Lululemon相關動態：「Lenzing stock: Q3 margin improves as revenue and loss wea...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lenzing stock: Q3 margin improves as revenue and loss weaken - ad-hoc-news.de（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tapestry (TPR) Beats And Lifts Outlook, Is The Stock Still Trading At A Disco...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "棉花價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

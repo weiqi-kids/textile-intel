@@ -1,0 +1,16 @@
+{
+  "total_raw": 409,
+  "dup_title": 80,
+  "no_date": 0,
+  "too_old": 229,
+  "gate1_fail": 30,
+  "gate2_fail": 37,
+  "passed": 33,
+  "gate2_samples": [
+    "VF Corporation, Timberland® and Bunka Fashion College to Bring Emerging Designers’ Ideas to the Glob",
+    "Lenzing nine-month adjusted EBITDA flat at €353 million - Sporting Goods Intelligence Europe",
+    "Lenzing AG: Release of a Financial report - www.marketscreener.com",
+    "Lenzing stock: EUR 301.2 million raise shifts focus to execution - ad-hoc-news.de",
+    "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}

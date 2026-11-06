@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-06",
+  "total_events": 18,
+  "by_company": {
+    "lenzing": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.14
+    },
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": -0.62
+    },
+    "supply_chain_shift": {
+      "count": 6,
+      "sentiment_avg": 0.19
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

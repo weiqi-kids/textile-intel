@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:54:12.462857Z",
+  "updated_at": "2026-11-06T15:28:10.280779Z",
   "quarter": "2026-05-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -245,17 +245,17 @@
       "name": "Tapestry",
       "ticker": "TPR",
       "currency": "USD",
-      "ar": 237100000,
-      "ar_prev": 305000000,
-      "ar_qoq": "-22%",
+      "ar": 343000000,
+      "ar_prev": 237100000,
+      "ar_qoq": "+45%",
       "ar_period": "QoQ",
-      "inventory": 826200000,
-      "inv_prev": 843900000,
-      "inv_qoq": "-2%",
+      "inventory": 1055000000,
+      "inv_prev": 826200000,
+      "inv_qoq": "+28%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "toray",
