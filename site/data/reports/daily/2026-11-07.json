@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T14:30:09.686505Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-07-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Vietnam’s trade surplus climbs sharply to $7.31 bn in October",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/vietnam-s-trade-surplus-climbs-sharply-to-7-31-bn-in-october-314802-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-11-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon (LULU) Stock Could Be 26% Above Fair Value After Lawsuit Claims - Yahoo Finance Singapore",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEJWWHo5dkJOQ0pvbTdGc184Q2NEQTVxZUhnZ254X1VnQXdhMmdodlVxYXRKeTVIOW5GUTQzREFyUng1VHpIa1ZCRkl1Q0Q2Q20yRnl5amhZWkFVclVjLW9TY0tiaFVKSjdyeFUya0NaLVRuMmZYR1hIX0ZWSkgxd21nTEY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-11-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Lululemon Stock Falling, and Is It a Buying Opportunity? Here's the Answer. - AOL.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjRzRTBqaDdSMTUwaEtrRzhNRUxTLVd4enRpNzRKajVteHdlMW5fQzZMcTBHM3djNzVZalJXQXJacjBYZ09HN1dpTWpORzhGckoyazFhMkdYMzZHaWtieFY3dmtBQlZlZy0zbldPb2hxNlNKLTZrUTRvWjRONWM2SlBUMHU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-11-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Investors Seek Class Cert. In Sluggish Growth Suit - Law360",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGJKbm9ra0Y4WGlocXoxLTVfVVlFX3hYelhWTmV0VEdFTjZRNjV4WUtiX2hhaEJkSzdtYmYzX3pUNS1EMnNhbG93MndYY1RKWW9WZkliSndzazhYX2tPRS01YjFXQ2JCUmh1VURvNURhQVp1XzJnZlJKWWswTUxXanpVNVVHOW5wcl9DdVN5ZGVTNVBxczgtdzdZRVhpYTRX0gFWQVVfeXFMTkE2d1B4cG5hWTBKNm5GWklZenNsTnI1SkVQMk9jV3d5VHJ5SGM0XzVpTzBtcnA4ZnpJdEtzbktHSzNVa3Z4UHYxXy0zYkxXQnRzWjg0MFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-11-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon names brand, strategy chiefs in latest executive shakeup - Castanet",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnBiamRtYzNQbkdrVW5DWlpHT1A0eDBmT1BIRzBVRnVnVnlMMjkzTnJqdlRXNXZrR2JxbXJEak5EY0MwRFNPWnlSRU5mNjVac054NXIyMUF1ZXc5clk1S2xlaFdVbEdtSEdsZ1N4VWxNQTRoMGgyd25xX3BEYXV2ek5QbUdyZXRGR1hOM2NhQjZsRWpLNWxhVjhNLXBzTmE1RlpoMVdFRXpiNTRTN0xBWg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 401,
+    "dup_title": 82,
+    "too_old": 240,
+    "gate1_blocked": 32,
+    "gate2_blocked": 32,
+    "passed": 15,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "Lenzing stock: Heiligenkreuz closure shifts to Q1 2027 - ad-hoc-news.de",
+      "Lenzing stock faces Heiligenkreuz closure in early 2027 - ad-hoc-news.de",
+      "Lenzing stock: Heiligenkreuz transfer details sharpen shutdown test - ad-hoc-news.de",
+      "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance",
+      "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Lululemon相關動態：「Vietnam’s trade surplus climbs sharply to $7.31 bn in Oct...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vietnam’s trade surplus climbs sharply to $7.31 bn in October（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "Lululemon (LULU) Stock Could Be 26% Above Fair Value After Lawsuit Claims - Y...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

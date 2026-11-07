@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-07",
+  "date_range": {
+    "start": "2026-11-01",
+    "end": "2026-11-07"
+  },
+  "generated_at": "2026-11-07T14:30:09.795345Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-11-02-001",
+      "date": "2026-11-02",
+      "title": "Weekly Recap: Record Q3 revenue & operating profit and 2026 outlook raised - TradingView",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 38,
+      "last_week": 26,
+      "week_over_week_change": "+46%",
+      "sentiment_this_week": 0.08
+    },
+    "supply_chain_shift": {
+      "this_week": 38,
+      "last_week": 33,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": -0.04
+    },
+    "fast_fashion": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    },
+    "cotton_price": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.37
+    },
+    "order_visibility": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.75
+    }
+  },
+  "company_7d_summary": {
+    "toray": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 5
+    },
+    "adidas": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "lululemon": {
+      "event_count": 14,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "tapestry": {
+      "event_count": 28,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "nike": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "eclat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "pvh": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "lenzing": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 4
+    },
+    "makalot": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 149,
+        "last": 161,
+        "change_pct": -7.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-01",
+      "event_count": 8,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-02",
+      "event_count": 19,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-11-03",
+      "event_count": 26,
+      "sentiment_avg": -0.15
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 18,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-05",
+      "event_count": 49,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-11-06",
+      "event_count": 22,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 7,
+      "sentiment_avg": 0.29
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-01 ~ 2026-11-07）共 149 則事件，重點為「Weekly Recap: Record Q3 revenue & operating pro...」。東麗情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "東麗",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Lululemon",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Coach",
+        "reason": "本週出現 28 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

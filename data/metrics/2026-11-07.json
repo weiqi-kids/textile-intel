@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-07",
+  "total_events": 7,
+  "by_company": {
+    "lululemon": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 2,
+      "sentiment_avg": 0.75
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
