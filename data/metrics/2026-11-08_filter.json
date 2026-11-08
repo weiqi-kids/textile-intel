@@ -1,0 +1,16 @@
+{
+  "total_raw": 410,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 242,
+  "gate1_fail": 31,
+  "gate2_fail": 33,
+  "passed": 9,
+  "gate2_samples": [
+    "Lenzing nine-month adjusted EBITDA flat at €353 million - Sporting Goods Intelligence Europe",
+    "Lenzing AG: Release of a Financial report - www.marketscreener.com",
+    "Lenzing stock: Heiligenkreuz closure shifts to Q1 2027 - ad-hoc-news.de",
+    "Lenzing stock faces Heiligenkreuz closure in early 2027 - ad-hoc-news.de",
+    "Lenzing stock: Heiligenkreuz transfer details sharpen shutdown test - ad-hoc-news.de"
+  ]
+}
