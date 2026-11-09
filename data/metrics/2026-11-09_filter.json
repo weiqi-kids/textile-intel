@@ -1,0 +1,16 @@
+{
+  "total_raw": 411,
+  "dup_title": 78,
+  "no_date": 0,
+  "too_old": 246,
+  "gate1_fail": 28,
+  "gate2_fail": 40,
+  "passed": 19,
+  "gate2_samples": [
+    "Lenzing and Unifi Target Greater Efficiency Amid Market Pressures - WWD",
+    "Lenzing nine-month adjusted EBITDA flat at €353 million - Sporting Goods Intelligence Europe",
+    "Lenzing AG: Release of a Financial report - www.marketscreener.com",
+    "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance",
+    "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T17:56:36.632202Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tapestry-2026-11-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tapestry raises full-year outlook as Coach sales climb 16% - TheIndustry.fashion",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jVmYtOUVKZ1c3R2RVZjBLUEd4N0tkMXpDTXl2SllVOVllM0F1QnVaYjI3QTJER0tYZjhPWExTdktuY2xSRWVRbzdhM2h3bWp0T3RadWxTY0J1Q0pYUmVnLTh3Zk1PTzVxMkFiN2VoN3p3V1BaQlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-09-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US' Kontoor Brands posts 40% jump in Q3 adjusted EPS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-kontoor-brands-posts-40-jump-in-q3-adjusted-eps-314888-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-09-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Landmark Partnership Between Unspun And Arvind Limited",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.textileworld.com/textile-world/knitting-apparel/2026/11/landmark-partnership-between-unspun-and-arvind-limited/"
+    },
+    {
+      "rank": 4,
+      "event_id": "lenzing-2026-11-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lenzing stock adds financing to its plant-sale turnaround test - ad-hoc-news.de",
+      "companies": [
+        "lenzing"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcXJnNjUwR2FnX000WnpWcFhjQ1MyRDNINFFSOTdCbnRfSjdLdzY3dllZZFdjN01LdDlTZHNiaENTR0dyQ3RzczQ3bjkyN3RsazlCYTJsS0dZeXFZbHBaczEtZ2o0WVNVSFBBT2RJSnJJdU9KWXRra3ZiSk16NmZmTGdUS0I3U0tKdjhOVGFmYXpQT2JFZHhSVDZTd25JOGg5cm4zak1CeUFmcU1vR2tWOW1OdU5fc3VNN0pXUW9zRjhqNms?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-11-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon Athletica (NASDAQ:LULU) Merits a GARP Investing Look - ChartMill",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUUlHcUdrZ2lndFByZWl3OGZCaGJWSDBjVlk4aVMxR3UxbUJOeFVZTzBqcDNoNFNTSXJFXzVFMVhnUGdYR0x0QW1wYWFDZmdjQTUzeUlYUWo1RlBnUWxuZnJmYmtuR3lBNy03aFpKQlBFdVY1QlBQZ044OGFFa2hxa1JrTFh4ZmNNMEUyNmxtbHh6cVBRdDB6aHVySFVkQndXaXJobXhNUFNWVmw3MlpjSg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 6,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 411,
+    "dup_title": 78,
+    "too_old": 246,
+    "gate1_blocked": 28,
+    "gate2_blocked": 40,
+    "passed": 19,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "Lenzing and Unifi Target Greater Efficiency Amid Market Pressures - WWD",
+      "Lenzing nine-month adjusted EBITDA flat at €353 million - Sporting Goods Intelligence Europe",
+      "Lenzing AG: Release of a Financial report - www.marketscreener.com",
+      "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance",
+      "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Coach、Lenzing、Lululemon相關動態：「Tapestry raises full-year outlook as Coach sales climb 16...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tapestry raises full-year outlook as Coach sales climb 16% - TheIndustry.fashion（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "US' Kontoor Brands posts 40% jump in Q3 adjusted EPS（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
