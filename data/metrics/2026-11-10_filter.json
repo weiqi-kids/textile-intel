@@ -1,0 +1,16 @@
+{
+  "total_raw": 410,
+  "dup_title": 82,
+  "no_date": 0,
+  "too_old": 239,
+  "gate1_fail": 27,
+  "gate2_fail": 38,
+  "passed": 24,
+  "gate2_samples": [
+    "Lenzing and Unifi Target Greater Efficiency Amid Market Pressures - WWD",
+    "Lenzing nine-month adjusted EBITDA flat at €353 million - Sporting Goods Intelligence Europe",
+    "Lenzing AG: Release of a Financial report - www.marketscreener.com",
+    "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance",
+    "Formosa Taffeta Co., Ltd. (1434.TW) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}
