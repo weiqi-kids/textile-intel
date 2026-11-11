@@ -1,0 +1,233 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:42:17.979006Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-11-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Under Armour bets on Football cleats and Tech Helix to reset its brand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/under-armour-bets-on-football-cleats-and-tech-helix-to-reset-its-brand-314930-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "makalot-2026-11-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Makalot stock: Third-quarter profit rises 14% year over year - ad-hoc-news.de",
+      "companies": [
+        "makalot"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaU9rVEFacUJGWEM0R19KU1lnYlk2cVNhOE9qNHIwcjgzTVZaQXVrZ0JIdjl4R0E3TFRLVTZiX2ExSmFiYnJjZjdpdjh0cUdXTjFNUXFOZVhPQlNoZjBOU0N0cEk4Tm1tZlQybGFlNS10UUYxdzIzR0cwN1dUYWdnbHlCSmh0SU5pY3djSmxsSjF0LXo2TWxsRDBzazFoTlAzSjVTSXoxbmpxbzFjM0pkOWE3bkdBbWNh?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vf_corp-2026-11-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SAP Opens S.Fashion Store with VF Corporation to Test Retail AI - Unite.AI",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVXBrcWZLalVEQmVRVDlBTVQwNGlxbmdpSmFpMnNJWGg3UzhlaGFjYXlrTHRRYW9KaURiM3E3aHllTU5RajZJN2NIdE1xRXJQRUxJdDJyYmNkT0kzZmp5bmJfdE1FaHVVRFhNZjVmUVE3eFhTTkI2cHp4eFZ2VTh2WVlkcm11LWM5Uk5zRkRB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "vf_corp-2026-11-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SAP and VF Corporation open AI-powered retail store in Germany - StreetInsider",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnY2TTU3bFhEVHl3d0FzZXRjWlBsYnBYSnp0bmpkdF83R3Q0ZXU2dVR6M1o4VkQzbml3MDNUM1k1aUNjbjdkZXpQWWxyTXJmMVZtd1JveTFVWktNVVNCbTM0ejhPRG9NN1J4RkFONnNVWHZacGVuWS15QzNWbEdBMndmMy1tQ2xnVlJudkpiVFgyT1F5bHVXajFlalVNSnBPRkY2RGZ6Q21COEoweV9iZ19YVTBnblFFd05kUk9B?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vf_corp-2026-11-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SAP and VF Corporation launch AI-powered S.Fash... - Pluang",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYjV5NjNJNUFlWURnUnNrZmtRdmNaZzE1eHRvaUs2bjBkOWVFQThuZGdOejVrTEtNVUxBdThLemlrLVgyV3A1V3NpNkNDakN4TTVJOFJRbTFQUE9IWFBLUEI5MWRrZmtReFBtWFpNU0RiOWRzbmMwRElBbDFyR1FqcWdDb2JLb1Ba?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vf_corp",
+        "count": 3
+      },
+      {
+        "id": "makalot",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 1
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 412,
+    "dup_title": 87,
+    "too_old": 235,
+    "gate1_blocked": 30,
+    "gate2_blocked": 39,
+    "passed": 21,
+    "pass_rate": "6.5%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "Toray Reports Six-Month Results Through September 2026 - TipRanks",
+      "Lenzing and Unifi Target Greater Efficiency Amid Market Pressures - WWD",
+      "Lenzing nine-month adjusted EBITDA flat at €353 million - Sporting Goods Intelligence Europe",
+      "Lenzing AG: Release of a Financial report - www.marketscreener.com",
+      "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為VF、Makalot Industrial、Coach相關動態：「Under Armour bets on Football cleats and Tech Helix to re...」。主要關注主題為法說會、供應鏈轉移、快時尚趨勢，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Under Armour bets on Football cleats and Tech Helix to reset its brand（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Makalot stock: Third-quarter profit rises 14% year over year - ad-hoc-news.de（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

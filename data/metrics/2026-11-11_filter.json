@@ -1,0 +1,16 @@
+{
+  "total_raw": 412,
+  "dup_title": 87,
+  "no_date": 0,
+  "too_old": 235,
+  "gate1_fail": 30,
+  "gate2_fail": 39,
+  "passed": 21,
+  "gate2_samples": [
+    "Toray Reports Six-Month Results Through September 2026 - TipRanks",
+    "Lenzing and Unifi Target Greater Efficiency Amid Market Pressures - WWD",
+    "Lenzing nine-month adjusted EBITDA flat at €353 million - Sporting Goods Intelligence Europe",
+    "Lenzing AG: Release of a Financial report - www.marketscreener.com",
+    "Far Eastern New Century Corporation (1402.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance"
+  ]
+}
