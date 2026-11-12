@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:26:13.336981Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vf_corp-2026-11-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SAP and VF Corporation are Turning Insights into Action with AI-enabled End-to-End Retail to Enhance the Customer Experience - EME Outlook Magazine",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUmpVcHV6dU5jLTVxdTh0Vnc0dUZhZmdGdTNmZFcwV3pHWFZDWWw0c0JsN18zT1c1YjVGVFU0WjRkaTdkMk1XQU5PUlV2dXJjS2dVbkNKdkVid0RYay15M0FEdlRRNmE0NlNERXJMQndiVTJQNngzUEZxUnZfZjItWS13YkVhZFBYNWh1b01CVU5kTk8yOHYwM1FTLURKV3FYU0N4czdhaDhDRm5lTjA1Q1hEVUVKVXY0YjdvczQ0eWlzdXptVTVFb1hLRW9zOFBIM0VWWE56Z3I4Q3FTN2JtU1RTZUd0ckRhOVN0Z2JpWHQ1SmpJdVJrY0hqRW5oUVVWUWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-11-12-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Solid Earnings Reflect Tapestry's (NYSE:TPR) Strength As A Business - Simply Wall St",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSW03VzdleXV2STB6UWd5LXNlb01UWURKbVNrUW9IRzNTcWZXb25nRnZ2bTI5QmlxMmJCOTlrYWFKc0x0ZG1qaEo2QlVJY1JNdlAtWERvWm1KMmV3SFJaRG1VV2ctQ1pLejZfemp1RVBWVHNmQkZSazF6X2RjTzBWOHpDX3NwdHJsaG14WDV0NzhiR0o2d1V0MEM4OXVzcUNteHFKWmNHTzk2UkJ6Yl85eG11ajY2M20xSUxTTDNjcVB6WE00dVdDRUhBcXFNZ9IB0wFBVV95cUxNM3A4d0VEZWJDd25WUUplbUlVRks4MmtxcUhWOGZ3aVY2ZUdDczlVaTdMWlN6OUJLLV84YUduWnlzYng2Q2pFVmVMMlZENnpIMjNkVTBNZzlzbFpCYm5vUHAtNkY3ZzJ0ZHJNM3AwMG9FTlhxdVRJQ2kwTE1hQmZJM2dnQWRKU2Z2dE9mam15aC1uSmkxMmJwZFEwNlk4YWpzczg0SzNXZk5XWUhPSGtKeWw2UXZoeVdpQ3A2Nk1HNVkwdVRTeGhzVHFzeWpoYUtheC1B?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-12-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan's Mizuno reports 9.9% H1 sales growth, retains FY27 outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.33
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/japan-s-mizuno-reports-9-9-h1-sales-growth-retains-fy27-outlook-314964-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-12-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "On Holding keeps its premium edge as apparel and running surge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/on-holding-keeps-its-premium-edge-as-apparel-and-running-surge-314947-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "lululemon-2026-11-12-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LULU Shareholder Alert: Lululemon Athletica Inc. Securities Class Action Lawsuit - Investors With Losses May Contact SueWallSt - PR Newswire",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUG54RE1PVnRNVjBwSXBCUVZUVnVmSi1DQnRONldsLXIxWG1fX0FsMGFkbDFOVmpkTk8yMmFTZkZ3V2g3TVRVQzRXVTJkOTRGVnhZRUdPcHJqRVZZSjBWOWotX3kwU2ZhMTB2VlJPUWtPTmo4NVEzWTM0dnhRMUhDSGhSeFMwclBGSHR2dXVVcjNUNnFwWnlfQ3dCREZYX1dWYnc0RERxTDdESS1kdjlUZnN4U2dIYUM0R2J3cE1ZeE5Xb2g0VDZxVHROdFA4SmdFWmo1TTBDd3RRWC15azMwQUlmMUF4Z0RKVGYwYjFSX3pIVlBndWIxT01JX3RheW9ZcTlPLWZ1Tm14Tkto?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "vf_corp",
+        "count": 2
+      },
+      {
+        "id": "pvh",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 90,
+    "too_old": 238,
+    "gate1_blocked": 31,
+    "gate2_blocked": 34,
+    "passed": 22,
+    "pass_rate": "6.8%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Toray Industries (TSE:3402) Stock Looks Fairly Valued As Its 116% Run Continues - Yahoo Finance",
+      "Toray Reports Six-Month Results Through September 2026 - TipRanks",
+      "Lenzing invests EUR 27 mn (USD 31 mn) to strengthen specialty fiber capabilities for nonwovens in Mo",
+      "Lenzing and Unifi Target Greater Efficiency Amid Market Pressures - WWD",
+      "Lenzing AG (LNZV.XD) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為VF、PVH、Coach相關動態：「SAP and VF Corporation are Turning Insights into Action w...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "SAP and VF Corporation are Turning Insights into Action with AI-enabled End-t...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Solid Earnings Reflect Tapestry's (NYSE:TPR) Strength As A Business - Simply ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:42:14.335677Z",
+  "updated_at": "2026-11-12T16:26:07.152423Z",
   "quarter": "2026-05-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "儒鴻",
       "ticker": "1476.TW",
       "currency": "TWD",
-      "ar": 3985311000,
-      "ar_prev": 3493729000,
-      "ar_qoq": "+14%",
+      "ar": 3705707000,
+      "ar_prev": 3985311000,
+      "ar_qoq": "-7%",
       "ar_period": "QoQ",
-      "inventory": 6377248000,
-      "inv_prev": 6203632000,
-      "inv_qoq": "+3%",
+      "inventory": 6477717000,
+      "inv_prev": 6377248000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "far_eastern",
