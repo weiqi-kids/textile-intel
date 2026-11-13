@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:26:07.152423Z",
+  "updated_at": "2026-11-13T15:46:53.239895Z",
   "quarter": "2026-05-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -262,17 +262,17 @@
       "name": "東麗",
       "ticker": "3402.T",
       "currency": "JPY",
-      "ar": 620771000000,
-      "ar_prev": 642708000000,
-      "ar_qoq": "-3%",
+      "ar": 634334000000,
+      "ar_prev": 620771000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 576065000000,
-      "inv_prev": 538586000000,
-      "inv_qoq": "+7%",
+      "inventory": 579723000000,
+      "inv_prev": 576065000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "vf_corp",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 417,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 238,
+  "gate1_fail": 29,
+  "gate2_fail": 36,
+  "passed": 19,
+  "gate2_samples": [
+    "Toray Industries (TSE:3402) Stock Looks Fairly Valued As Its 116% Run Continues - Yahoo Finance",
+    "Toray Reports Six-Month Results Through September 2026 - TipRanks",
+    "Lenzing invests EUR 27 million to expand nonwovens capabilities in Mobile, USA - METissue",
+    "EQS-News: Lenzing invests EUR 27 mn (USD 31 mn) to strengthen specialty fiber capabilities for nonwo",
+    "Makalot Industrial Co., Ltd. (1477.TW) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T15:46:57.406686Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-13-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bata India chases younger consumers with sneakers and premium lines",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bata-india-chases-younger-consumers-with-sneakers-and-premium-lines-314986-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-13-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US’ Wolverine posts eighth consecutive quarter of growth in Q3 FY26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/us-wolverine-posts-eighth-consecutive-quarter-of-growth-in-q3-fy26-314982-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-11-13-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LULU Deadline Imminent: BFA Law Reminds Lululemon Investors of the Upcoming January 4 Deadline in Securities Fraud Class Action to Recover Losses - mykxlg.com",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNaWlzQkp3d2p4TzNubGNlWFF4SlN0bzNIZDJWWFJ1QzBnRU02eWdwSkFGWE1xYkUzVFpiandIcjVOd0FGS3RiZVJoaGhkeE9IX3JUYlNjdGM3aGhHdE1QSU9uN1Zqb25ISHlGYnJ3MkRtRTctUXh2ekoxYWc0NU1LVGdSWGowM3U0SS04SDBPbTJJWUF3R2pBX0haRm1Da01oMjV1Y3EweDRFMjRsQUpTTERLcW9LSlZLNU9RQWJhWXI5d1FQdXd5SExBMGRESXZhZTlBWGRTODZZeDZVS2JIT0N5QUFvbFI2WkE3QXZnQU1Cem51Z0R6b1MwUm90U2piNVpfTGJBWWtDX054aTlJM2lMeTJuV1M3RkdEai1ucUwwbVo1djJr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-13-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India's $1 bn US apparel gap: Can exporters win back buyers?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/india-s-1-bn-us-apparel-gap-can-exporters-win-back-buyers--314976-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-11-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Flame Tree Publishing announces Bayeux Tapestry collection - Licensing.biz",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObS1EOTdhTFlkV0lXY2duQjh2eHgxcHRBOGVWeHRTVUhvYjVoRUVfcldxRG1nd2ttR0cwVlVfLVRBRVBlMGY2dzFtcDFIcHEzaGdLVjhMc0Q4SXJwSWY5aVUxN1pYRkJfU3g0S2pUdjJZY25ZOU9fem5JVXlzWEY3TmlMNmhBamR6?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.34,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 5
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 417,
+    "dup_title": 95,
+    "too_old": 238,
+    "gate1_blocked": 29,
+    "gate2_blocked": 36,
+    "passed": 19,
+    "pass_rate": "5.9%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "Toray Industries (TSE:3402) Stock Looks Fairly Valued As Its 116% Run Continues - Yahoo Finance",
+      "Toray Reports Six-Month Results Through September 2026 - TipRanks",
+      "Lenzing invests EUR 27 million to expand nonwovens capabilities in Mobile, USA - METissue",
+      "EQS-News: Lenzing invests EUR 27 mn (USD 31 mn) to strengthen specialty fiber capabilities for nonwo",
+      "Makalot Industrial Co., Ltd. (1477.TW) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Lululemon、Coach相關動態：「Bata India chases younger consumers with sneakers and pre...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Bata India chases younger consumers with sneakers and premium lines（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "US’ Wolverine posts eighth consecutive quarter of growth in Q3 FY26（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
