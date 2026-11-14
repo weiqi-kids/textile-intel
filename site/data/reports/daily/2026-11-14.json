@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:37:38.097953Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vf_corp-2026-11-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How AI Retail Testing At VF Has Changed Its Investment Story - Simply Wall St",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDBUbkQtN1VuaDJKUzRxQWVyajRxczN1akZOdnhNTUFGUk5uN3V3NWc3OVZkcWRqb2UxOVVVVklXbzIxWUhwbmFNR1ZfaHc1eEdvSGpHLVVudWlQS0txNUhmUjEtR053d2VqSHRZTkNCeWlDd040UDVjZDJPQkVvZ0pDRkNQQWRzdVNkcGFnNzA0aGlBMnlIQ3FEMXFqYl81S1Z5blJWY1ZfU2NQbnIyOVFnX0Z3RS03Q3htRWN6M1lIdGNxVmfSAcsBQVVfeXFMTUJtT1o0N19DNVB0dU5mcXU2LXpkVGhlRWZsazdJUnNGdGVzbTlNZHhOZGcyS0k2TmdDV2JYVU1iU29ZNGxnczd0My10OHk2Nmx2ZU0zTGl2R3RKWjhvNnUxQnRHdnIyOEU1WmlJaEJPTWtGbVZrRjhIUTNTMktjTGNON0QwMVZndjI5MkE2NGZ1Z0RLaV9IdlFkVFo0eEYxTmtKZGFKckxFcnJXUHZscE44S01kMTROS0MyY0lUX2tZNWh3WENsSmdZRWM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh Bank doubles concessional loan scheme to $120 mn",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-bank-doubles-concessional-loan-scheme-to-120-mn-315000-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cambodia’s apparel exports reach at $10 bn in January-October 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/cambodia-s-apparel-exports-reach-at-10-bn-in-january-october-2026-314966-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vf_corp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 103,
+    "too_old": 236,
+    "gate1_blocked": 29,
+    "gate2_blocked": 35,
+    "passed": 12,
+    "pass_rate": "3.8%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "Toray Industries (TSE:3402) Stock Looks Fairly Valued As Its 116% Run Continues - Yahoo Finance",
+      "Toray Reports Six-Month Results Through September 2026 - TipRanks",
+      "Lenzing invests EUR 27 million to expand nonwovens capabilities in Mobile, USA - METissue",
+      "EQS-News: Lenzing invests EUR 27 mn (USD 31 mn) to strengthen specialty fiber capabilities for nonwo",
+      "Makalot Industrial Co., Ltd. (1477.TW) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為VF相關動態：「How AI Retail Testing At VF Has Changed Its Investment St...」。主要關注主題為供應鏈轉移，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How AI Retail Testing At VF Has Changed Its Investment Story - Simply Wall St",
+        "level": "green"
+      },
+      {
+        "text": "Bangladesh Bank doubles concessional loan scheme to $120 mn（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
