@@ -1,5 +1,59 @@
 [
   {
+    "id": "unknown-2026-11-15-001",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "neutral",
+    "title": "India’s textiles minister highlights green manufacturing at Welspun",
+    "summary": "The Minister of Textiles Giriraj Singh has visited Welspun World’s Anjar complex in Kutch, observing production from spinning to towels and bedsheets. \nHe noted its integrated value chain, modern tech",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-s-textiles-minister-highlights-green-manufacturing-at-welspun-315004-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-002",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "India nears $90 bn in Oct exports, eyes $1 trn annual target: Goyal",
+    "summary": "India’s exports hit nearly $90 billion in October 2026, keeping India on track for a $1 trillion export target, Commerce Minister Piyush Goyal said. \nIt included about $50 billion in merchandise and $",
+    "sources": [
+      {
+        "name": "fibre2fashion_textile",
+        "url": "https://www.fibre2fashion.com/news/textile-news/india-nears-90-bn-in-oct-exports-eyes-1-trn-annual-target-goyal-315003-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-003",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "supply_chain_shift"
+    ],
+    "impact": "positive",
+    "title": "Bangladesh RMG workers block highway over death rumour",
+    "summary": "Garment workers in Gazipur’s Kaliakair blocked the Dhaka-Tangail highway on November 14 after a rumour that a worker injured in an earlier police clash had died. \nTraffic halted on both sides before p",
+    "sources": [
+      {
+        "name": "fibre2fashion_apparel",
+        "url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-rmg-workers-block-highway-over-death-rumour-315005-newsdetails.htm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vf_corp-2026-11-14-001",
     "date": "2026-11-14",
     "companies": [
@@ -303,6 +357,24 @@
       {
         "name": "pvh",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3d2dLV193TEpnYURvbTRfVWVhWEhQVW5KVlB1T1NtUERtQ002eEx3UXU1X3VzOFNDMU5MZkRJMm5LVmpJS19CU0Y4aWk2bGpOektZQkRQSGJDejVWbkhWRDJEVHc3aDI5VmtaLW5MaThQZVBzNVl4Z1dUR0cwRHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pvh-2026-11-13-015",
+    "date": "2026-11-13",
+    "companies": [
+      "pvh"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "PVH announces the loss of more than a thousand jobs - FashionNetwork - The World's Fashion Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1o1N2ZaaEpFYUxfN3FxRjBxS1k2LTZSS0hMRm9MNmllQmk4RnV4SlExQ2xzR1FMaTVRbHRnRE5TQ2NBYWFILUc4V1M4alh3U0ZfWG9UZHFmVWpJeF9QejBxZzJEMEE3Qkw5NXJpM0",
+    "sources": [
+      {
+        "name": "pvh",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1o1N2ZaaEpFYUxfN3FxRjBxS1k2LTZSS0hMRm9MNmllQmk4RnV4SlExQ2xzR1FMaTVRbHRnRE5TQ2NBYWFILUc4V1M4alh3U0ZfWG9UZHFmVWpJeF9QejBxZzJEMEE3Qkw5NXJpM0xoeGF6VXYwZ0U0Sk0ta1Z3eThHTDJuT2UzX1BYd3FOd04yRThnR09JbFBXSDNtbm5G?oc=5",
         "type": "rss"
       }
     ]

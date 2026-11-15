@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:05:06.757880Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India’s textiles minister highlights green manufacturing at Welspun",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-textiles-minister-highlights-green-manufacturing-at-welspun-315004-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India nears $90 bn in Oct exports, eyes $1 trn annual target: Goyal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-nears-90-bn-in-oct-exports-eyes-1-trn-annual-target-goyal-315003-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bangladesh RMG workers block highway over death rumour",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/bangladesh-rmg-workers-block-highway-over-death-rumour-315005-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 409,
+    "dup_title": 96,
+    "too_old": 257,
+    "gate1_blocked": 27,
+    "gate2_blocked": 25,
+    "passed": 4,
+    "pass_rate": "1.3%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Toray Industries (TSE:3402) Stock Looks Fairly Valued As Its 116% Run Continues - Yahoo Finance",
+      "Toray Reports Six-Month Results Through September 2026 - TipRanks",
+      "Lenzing and Unifi Target Greater Efficiency Amid Market Pressures - WWD",
+      "Lenzing invests EUR 27 million to expand nonwovens capabilities in Mobile, USA - METissue",
+      "EQS-News: Lenzing invests EUR 27 mn (USD 31 mn) to strengthen specialty fiber capabilities for nonwo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為供應鏈轉移相關動態：「India’s textiles minister highlights green manufacturing ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "India’s textiles minister highlights green manufacturing at Welspun（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "India nears $90 bn in Oct exports, eyes $1 trn annual target: Goyal（供應鏈轉移）",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
