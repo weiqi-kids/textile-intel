@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:39:17.670855Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nike-2026-11-16-018",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nike's $2.5 Billion Slim-Down Fails to Stop the Bleeding as China Revenue Plunges 26%, Investor Day Becomes Key Test - BigGo Finance",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5Z0RHWDZtWnk4QUNnMWtJaXY1VGw5b2FaZHp2ZlFacVBCS1NCYVU1MzF3a3hEUmF3ay1kcjB6OEo5NEEwdExDeHVjRU1hNU80OElPNm03LUthMUNWd21OVmdZaXktMm9QZktFUnNlRDBYZXMtLVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-16-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "South Korea’s Misto Holdings posts 3.4% revenue rise in Q3",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/south-korea-s-misto-holdings-posts-3-4-revenue-rise-in-q3-315020-newsdetails.htm"
+    },
+    {
+      "rank": 3,
+      "event_id": "lululemon-2026-11-16-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Robbins LLP Urges LULU Shareholders Who Lost Money Investing in Lululemon Athletica Inc. to Contact the Firm for information About Leading the Class Action - PR Newswire",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPclpvR0UwSHREV2lNNk9PanVTZkFrWnIwN2tPaUFic2xDbjVqUGo5dUlTTlE4QlFqY2M3QW1HOGM1cTdHSGRaMTd3SG9MeGxMOTVCWlI1dnBkYy1WaU1mOUtKN1BYLVpJcXVYd244eF9EZWZOUXpNN2x6QnI1clRTb3dYbjgxVXVkT2dxbW1kZ0poNExYaGFPdDRYVTd3clMzdzhUYXdWdUNEZEUyYTBuRU5xbkp0RmN0eWZJcEZReVNpeGl4cVlxQlJrMW12NTVIQnlUM2txNjk2NC1xekxXX0x2Y1FweEFKR0dhM0x3N0JCSzZrRzZjMnZDQWZiNlNmdDk1UnpsQnBvZGlyaVVBZXM0V0ZIY0RfX29CSWZHWU54ME1SdFNnN2hQNUFsZ1FzM2pEXw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-11-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LULU DEADLINE: Levi & Korsinsky Reminds Lululemon Athletica - GlobeNewswire",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNdEJVeEJXWWpVcHJyTWlVbzhKXzBtSlYwOWc5eUZfbTk3WGk2bXBOcFZQRzl0MmFZQmpkNkF2aXlXaDJiSkxUY3RSNWNKR3c3QzRKeEFFRjBPNVdVOXF2Sjl0ZzFpVDdabFRCY19FMGVGMWR0T3BvUVRqdmg5QmVHYXhFQXpqTGd1dWpzWkZNeTRPNmJINFlzY1lvQXdDMU43YWswek9TYTdaNmhRYS1yM1hodlRZUGZndlk1X2lCNUdPSTZHMHBhaV9VdUxQQ01LM0l0RmplVWlqYm5yOFphWTJXSHotc1dpWUVFOE5TWk56bXlTWXR3dFVYWlY3NkJ5akdoM1FqeGgwdWxqVjZiZXVOdXI5c2ZaZEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vf_corp-2026-11-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SAP and VF Corporation test out AI and automation technology powered S.Fashion physical store - Retail Technology Innovation Hub",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON2NnRm9Mb0J2WUpIeDljcldRWWpOVy1jeG5kUWxZLXFCLVRqMXNqLWFETnFWT1FUTDNzbUhxRkZTSFZsblR3ZzB2REkycjEtN1NybWR6QVJpSmVDelVGc19PZmZ3c191WTVrYy05aGZ2VXdoUGFLODZhVUF6aFJsbjFnTFd4dFFUMDdjQUNfa2lVU2hLTng5Tm16UXVLRzZCMDhueG1KelhzUFpneG1DZzBGUGN2NVlWNkNvY21hamRKbGVvcUdmOTlKWXZMOWZXWFpTRlV4UWNGZDRK?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 3
+      },
+      {
+        "id": "lululemon",
+        "count": 2
+      },
+      {
+        "id": "vf_corp",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 411,
+    "dup_title": 85,
+    "too_old": 244,
+    "gate1_blocked": 27,
+    "gate2_blocked": 32,
+    "passed": 23,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "Toray Industries (TSE:3402) Stock Looks Fairly Valued As Its 116% Run Continues - Yahoo Finance",
+      "Lenzing Invests $31 Million To Strengthen Specialty Fiber Capabilities For Nonwovens In Mobile, USA ",
+      "EQS-News: Lenzing invests EUR 27 mn (USD 31 mn) to strengthen specialty fiber capabilities for nonwo",
+      "Shenzhou International Group Holdings Limited (S6LA.F) - Yahoo! Finance Canada",
+      "Makalot Industrial Co., Ltd. (1477.TW) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為耐吉、Lululemon、VF相關動態：「Nike's $2.5 Billion Slim-Down Fails to Stop the Bleeding ...」。主要關注主題為供應鏈轉移、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nike's $2.5 Billion Slim-Down Fails to Stop the Bleeding as China Revenue Plu...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "South Korea’s Misto Holdings posts 3.4% revenue rise in Q3（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 9 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
