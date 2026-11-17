@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:39:14.171211Z",
+  "updated_at": "2026-11-17T17:11:19.462185Z",
   "quarter": "2026-05-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "南紡織",
       "ticker": "1440.TW",
       "currency": "TWD",
-      "ar": 1105758000,
-      "ar_prev": 1278944000,
-      "ar_qoq": "-14%",
+      "ar": 1103469000,
+      "ar_prev": 1105758000,
+      "ar_qoq": "-0%",
       "ar_period": "QoQ",
-      "inventory": 3484907000,
-      "inv_prev": 3118644000,
-      "inv_qoq": "+12%",
+      "inventory": 3382755000,
+      "inv_prev": 3484907000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "hm",
@@ -126,17 +126,17 @@
       "name": "力麗",
       "ticker": "1444.TW",
       "currency": "TWD",
-      "ar": 719175000,
-      "ar_prev": 966994000,
-      "ar_qoq": "-26%",
+      "ar": 451806000,
+      "ar_prev": 719175000,
+      "ar_qoq": "-37%",
       "ar_period": "QoQ",
-      "inventory": 3203378000,
-      "inv_prev": 3236672000,
-      "inv_qoq": "-1%",
+      "inventory": 3263895000,
+      "inv_prev": 3203378000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "lenzing",

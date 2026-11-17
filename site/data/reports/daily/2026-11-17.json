@@ -1,0 +1,268 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:11:23.542893Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-17-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "What drove Israel’s Delta Galil to record Q3 sales of $599.6 mn?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fast_fashion",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/what-drove-israel-s-delta-galil-to-record-q3-sales-of-599-6-mn--315069-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "vf_corp-2026-11-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FY2027 adjusted operating margin guidance stays near 8% as VF Corporation (VFC) sets FY2028 targets. - Stock Titan",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDAtQ1FQTkItbmY0NTN2T0M4azVSbDJha3IxNGRfbmJQSWNaNmJmekJxOG9reGdqODR1ZlBKbHd6emlvcEVlRDdQaWZkX01qQTJLcy0zOC1LZjlicXlaeXZBU0VfSm1ZbGZSZEZmbC1iZUFOLTJPZGc2M0hfRXBjZm0wSmtTUEduUkRiRlR2NFB5SnZvTVBySFpNUUs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vf_corp-2026-11-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corp guides to at least $9.8 billion of revenue and $850 million of adjusted operating income in fiscal 2028 - MLQ.ai",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa0xYTjBjSmlNcWlLS1gzRGxDcjIyNkJpb2hnZHNDRjdRYkdqbC1YX21vMjNRVUVqYjBwMlVsY0ZQMnBPT2ZodHU5VDY4eldOMXI2bjNZOFhOUC1ydnI3SU1CWXAzQUlFTmw0Y3FZbGFITVRiVDhFR1hPX2lCV2FBNFJvamdfeElrOHFEQmEwMkhJQjJDaHRQUk4wQmtoZWlhdnZlcWhOZFRubVd5bTctdkxnazctQlBMTEF4cGJjVXRGeC1CeGVsRA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "vf_corp-2026-11-17-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VF Corporation issues FY28 guidance: Revenue $9.8B, operating income $850M - scanx.trade",
+      "companies": [
+        "vf_corp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTTJzNEtiWWRKZHExY2RqVW5oYXNYdURYNlp3SnFJNFdteXRSVU1sV0liREtTa0NsemgxelVJZ2w3RzZiZEp3dHI0bW5VNEtybW5Qamp2WGQzWDJHNXNQQXM3MmhXWTZjTGUycFNQcnZrVDU0Y2h1Mk5veUQ5QUFGd0Z5bTlhVVVzdUNhdmxkcXBoZmhrRVpYVTB5bEVxbzNWM3FpNVJWaTdhY2tZN3V5aTBBLWRuVmYwTV9tQjlXSG8tNDk2RlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nike-2026-11-17-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike Strategy Aims For $5 Bil Revenue Boost By 2031, Shares Jump - Investor's Business Daily",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2ZTa1czX1VjUE9jYUNtcDV2WXZQTk1JcU5NcUFTaF9qUDJQd3VPeW5TNmRwRi1mUUhGb3lQenpHRWcySFN0NG1pTmxjLVFlc2p2MFpDY2hYZWJGR2pfTzlrNktQX3hzWi0zMnhCMTZYLTVTMGVfaFFYN3RJOGFqUDJOeWxsVHZnR0tnRGR4aW5lN0pkUlU2N0p2ekUxVGxkZ0MtdW1ZRW5XUVJpTDEzU2NfMDlJV2M?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.31,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "fast_fashion": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.62,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 14,
+      "neutral": 16,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 16
+      },
+      {
+        "id": "vf_corp",
+        "count": 3
+      },
+      {
+        "id": "lenzing",
+        "count": 1
+      },
+      {
+        "id": "shenzhou",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "fast_fashion",
+        "count": 2
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 408,
+    "dup_title": 80,
+    "too_old": 231,
+    "gate1_blocked": 24,
+    "gate2_blocked": 39,
+    "passed": 34,
+    "pass_rate": "10.4%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Toray Industries (TSE:3402) Stock Looks Fairly Valued As Its 116% Run Continues - Yahoo Finance",
+      "Toray Develops Low-Retardation Biaxially Oriented Polyester Film for Displays - Bisinfotech",
+      "TORAY INDUSTRIES INC. R (TOR1.MU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Lenzing Invests $31 Million To Strengthen Specialty Fiber Capabilities For Nonwovens In Mobile, USA ",
+      "EQS-News: Lenzing invests EUR 27 mn (USD 31 mn) to strengthen specialty fiber capabilities for nonwo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為耐吉、VF、Lenzing相關動態：「What drove Israel’s Delta Galil to record Q3 sales of $59...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "What drove Israel’s Delta Galil to record Q3 sales of $599.6 mn?（快時尚趨勢、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "FY2027 adjusted operating margin guidance stays near 8% as VF Corporation (VF...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

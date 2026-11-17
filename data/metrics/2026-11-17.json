@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-17",
+  "total_events": 33,
+  "by_company": {
+    "lenzing": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "shenzhou": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vf_corp": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "inditex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 16,
+      "sentiment_avg": 0.28
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 12,
+      "sentiment_avg": 0.31
+    },
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "supply_chain_shift": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "fast_fashion": {
+      "count": 2,
+      "sentiment_avg": 0.62
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
