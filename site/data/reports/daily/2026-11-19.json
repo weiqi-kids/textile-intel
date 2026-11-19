@@ -1,0 +1,220 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:55:21.500342Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "V.F. Corporation's Post Earnings Jump Is Not Sustainable (NYSE:VFC) - Seeking Alpha",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkpmb2k5d0tFOFZnOXAzMGt0OTlXMnZWTDhmQlgyYVd1cVZsY1JNRzlia1FzNmFzY2lWM3RGVnlYUjhEVU9XUzRPU2pFYjZGbWZ4cVN2bjVhenhxVmZqSWpPSXpad3NYZDFZUU9WNS1pTTZYRERKVFR3SzhHN2NmTE5pbXdhYkE3THBtWUN2U1RnS2lNTlcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pvh-2026-11-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PVH Corp. to Host Conference Call to Discuss Third Quarter 2026 Earnings Results - Business Wire",
+      "companies": [
+        "pvh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZHJIS3ZIUlVmb2xRRkItYVY3UWp4VHJkM1BPMjZ2X0E2X0pNUXUxWWxwZ0l0bDEwNk53LWdDQ3BTbC1qVUREM2d3OEw2TE5YWkxOMlhua0JVV2lUc1lVUXZyQzh1N0d6ZURDcHd5R3Q1QWNxTldZSEFrTG1pd0hoOXpsREtCcDZmMWVkQ1d1TVkyNDJ0dDBjVVE3eXg2aDh6allUalFvM0VJaTR4REpOWUFBMjlNb3JOaXBYcG1JV3pBLThrZl8xaEtHWEMwcGhJSjR3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-19-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Europe's financial stability outlook clouded by AI & trade risks: ECB",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/europe-s-financial-stability-outlook-clouded-by-ai-trade-risks-ecb-315146-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "lululemon-2026-11-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lululemon shares rally more than 7% after strong momentum lifts stock above short-term averages - Traders Union",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOU9ObENKaGxDcWtxREpHZnI3eEFQSlBpd0JudUhJblRndGFnMnZuVy1jNlpuWEswSWI0T0Y2dFNUSjZMVmttVV9VVGFsRFZwUmlONlR6Vlg3UGVLdkd6cTNaNXNEV3BqNkpuTEVBa0phV3FkZHU5YlpiNUtzLWhTTDlIMWZ5OVo1cmtOZEFJdTduOXhYV09N?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India and Italy seek closer trade and investment ties at Rome talks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-and-italy-seek-closer-trade-and-investment-ties-at-rome-talks-315162-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "pvh",
+        "count": 1
+      },
+      {
+        "id": "nike",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 413,
+    "dup_title": 86,
+    "too_old": 240,
+    "gate1_blocked": 33,
+    "gate2_blocked": 35,
+    "passed": 19,
+    "pass_rate": "5.8%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "TORAY INDUSTRIES INC. R (TOR1.MU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Lenzing Invests $31 Million To Strengthen Specialty Fiber Capabilities For Nonwovens In Mobile, USA ",
+      "EQS-News: Lenzing invests EUR 27 mn (USD 31 mn) to strengthen specialty fiber capabilities for nonwo",
+      "Lenzing stock: Berenberg cuts price target to EUR 13.50 - ad-hoc-news.de",
+      "Daiwa Cuts Shenzhou International Price Target to HK$53.6 as Margin Recovery Delayed, EPS Lowered fo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Lululemon、PVH、耐吉相關動態：「V.F. Corporation's Post Earnings Jump Is Not Sustainable ...」。主要關注主題為供應鏈轉移、法說會、棉花價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "V.F. Corporation's Post Earnings Jump Is Not Sustainable (NYSE:VFC) - Seeking...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "PVH Corp. to Host Conference Call to Discuss Third Quarter 2026 Earnings Resu...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

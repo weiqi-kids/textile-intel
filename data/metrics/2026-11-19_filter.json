@@ -1,0 +1,16 @@
+{
+  "total_raw": 413,
+  "dup_title": 86,
+  "no_date": 0,
+  "too_old": 240,
+  "gate1_fail": 33,
+  "gate2_fail": 35,
+  "passed": 19,
+  "gate2_samples": [
+    "TORAY INDUSTRIES INC. R (TOR1.MU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Lenzing Invests $31 Million To Strengthen Specialty Fiber Capabilities For Nonwovens In Mobile, USA ",
+    "EQS-News: Lenzing invests EUR 27 mn (USD 31 mn) to strengthen specialty fiber capabilities for nonwo",
+    "Lenzing stock: Berenberg cuts price target to EUR 13.50 - ad-hoc-news.de",
+    "Daiwa Cuts Shenzhou International Price Target to HK$53.6 as Margin Recovery Delayed, EPS Lowered fo"
+  ]
+}
