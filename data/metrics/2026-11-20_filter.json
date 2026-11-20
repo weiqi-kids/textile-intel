@@ -1,0 +1,16 @@
+{
+  "total_raw": 415,
+  "dup_title": 84,
+  "no_date": 0,
+  "too_old": 241,
+  "gate1_fail": 29,
+  "gate2_fail": 33,
+  "passed": 28,
+  "gate2_samples": [
+    "TORAY INDUSTRIES INC. R (TOR1.MU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Lenzing Invests $31 Million To Strengthen Specialty Fiber Capabilities For Nonwovens In Mobile, USA ",
+    "Lenzing AG (LNZV.XD) insider ownership and holdings - Yahoo Finance UK",
+    "Daiwa Cuts Shenzhou International Price Target to HK$53.6 as Margin Recovery Delayed, EPS Lowered fo",
+    "Daiwa Securities Adjusts Shenzhou International Group Holdings' Price Target to HK$53.60 - www.marke"
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:29:43.948016Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-20-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "48.9% profit margin: Can Japan's textile giants win the AI boom?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/48-9-profit-margin-can-japan-s-textile-giants-win-the-ai-boom--315179-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "nike-2026-11-20-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike targets $5b growth despite FY2027 revenue decline - Retail Asia",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT25jUm9lTHVOSGtyaTc0aEtmSFFsb29Nc3JORVZ5WkxpN2lCc2dOeGdDN0RFSUxibkZRUFhUYXZjbFdMSDh3cmwtaWRxTmI2OWJlM0lWRmlQeGdFRkpGZ0FVNFYwQXNhUnBlOTVicUZhV3NHaVNfWk5uYWhlWHMzb0g2bkhPZGx4am9MYlRzZktrdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-20-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "₹23,000cr funding push: Can India lift export competitiveness in 2027?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/-23-000cr-funding-push-can-india-lift-export-competitiveness-in-2027--315198-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-20-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India cotton yarn steady amid weak demand; Gujarat prices fall",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-cotton-yarn-steady-amid-weak-demand-gujarat-prices-fall-315192-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-20-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Cambodia's $10.22 bn apparel exports: Can growth last into 2027?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/cambodia-s-10-22-bn-apparel-exports-can-growth-last-into-2027--315193-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.18,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.62,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 6
+      },
+      {
+        "id": "pvh",
+        "count": 2
+      },
+      {
+        "id": "inditex",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 11
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 415,
+    "dup_title": 84,
+    "too_old": 241,
+    "gate1_blocked": 29,
+    "gate2_blocked": 33,
+    "passed": 28,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "TORAY INDUSTRIES INC. R (TOR1.MU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Lenzing Invests $31 Million To Strengthen Specialty Fiber Capabilities For Nonwovens In Mobile, USA ",
+      "Lenzing AG (LNZV.XD) insider ownership and holdings - Yahoo Finance UK",
+      "Daiwa Cuts Shenzhou International Price Target to HK$53.6 as Margin Recovery Delayed, EPS Lowered fo",
+      "Daiwa Securities Adjusts Shenzhou International Group Holdings' Price Target to HK$53.60 - www.marke"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為耐吉、PVH、Zara相關動態：「48.9% profit margin: Can Japan's textile giants win the A...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "48.9% profit margin: Can Japan's textile giants win the AI boom?（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nike targets $5b growth despite FY2027 revenue decline - Retail Asia（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 11 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

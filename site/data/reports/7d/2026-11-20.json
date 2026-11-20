@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-20",
+  "date_range": {
+    "start": "2026-11-14",
+    "end": "2026-11-20"
+  },
+  "generated_at": "2026-11-20T16:29:44.083039Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nike-2026-11-16-018",
+      "date": "2026-11-16",
+      "title": "Nike's $2.5 Billion Slim-Down Fails to Stop the Bleeding as China Revenue Plunges 26%, Investor Day Becomes Key Test - BigGo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "supply_chain_shift": {
+      "this_week": 41,
+      "last_week": 25,
+      "week_over_week_change": "+64%",
+      "sentiment_this_week": -0.03
+    },
+    "earnings": {
+      "this_week": 23,
+      "last_week": 17,
+      "week_over_week_change": "+35%",
+      "sentiment_this_week": 0.11
+    },
+    "sustainable_textile": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "cotton_price": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": -0.43
+    },
+    "fast_fashion": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.62
+    }
+  },
+  "company_7d_summary": {
+    "vf_corp": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "lululemon": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    },
+    "pvh": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tapestry": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nike": {
+      "event_count": 31,
+      "sentiment_avg": 0.15,
+      "rank": 1
+    },
+    "lenzing": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "shenzhou": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "inditex": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 131,
+        "last": 127,
+        "change_pct": 3.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-14",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 4,
+      "sentiment_avg": 0.38
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 19,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 44,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 25,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 14,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-20",
+      "event_count": 22,
+      "sentiment_avg": -0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-14 ~ 2026-11-20）共 131 則事件，重點為「Nike's $2.5 Billion Slim-Down Fails to Stop the...」。Lululemon、Lenzing表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "VF",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lululemon",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "PVH",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
