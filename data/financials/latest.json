@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T16:29:39.818557Z",
+  "updated_at": "2026-11-21T15:44:53.739363Z",
   "quarter": "2026-05-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "遠東新",
       "ticker": "1402.TW",
       "currency": "TWD",
-      "ar": 35825219000,
-      "ar_prev": 32637055000,
-      "ar_qoq": "+10%",
+      "ar": 36116263000,
+      "ar_prev": 35825219000,
+      "ar_qoq": "+1%",
       "ar_period": "QoQ",
-      "inventory": 50307836000,
-      "inv_prev": 47149772000,
-      "inv_qoq": "+7%",
+      "inventory": 52269624000,
+      "inv_prev": 50307836000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "fast_retailing",

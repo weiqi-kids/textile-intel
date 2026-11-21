@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 240,
+  "gate1_fail": 26,
+  "gate2_fail": 37,
+  "passed": 9,
+  "gate2_samples": [
+    "TORAY INDUSTRIES INC. R (TOR1.MU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Daiwa Cuts Shenzhou International Price Target to HK$53.6 as Margin Recovery Delayed, EPS Lowered fo",
+    "Daiwa Securities Adjusts Shenzhou International Group Holdings' Price Target to HK$53.60 - www.marke",
+    "Nike Just Revived Fashion’s Most Experimental Running Line - Highsnobiety",
+    "5 Nike releases to look out for in 2027 - Dazed"
+  ]
+}
