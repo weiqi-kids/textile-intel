@@ -1,0 +1,16 @@
+{
+  "total_raw": 356,
+  "dup_title": 81,
+  "no_date": 0,
+  "too_old": 207,
+  "gate1_fail": 28,
+  "gate2_fail": 30,
+  "passed": 10,
+  "gate2_samples": [
+    "Nike Just Revived Fashion’s Most Experimental Running Line - Highsnobiety",
+    "5 Nike releases to look out for in 2027 - Dazed",
+    "Nike Still Has One Big Question to Answer After Investor Day - The Business of Fashion",
+    "Opinion: Why Nike Needs to Break Up With Skims - The Business of Fashion",
+    "adidas AG (ADS) Reports Expiry of 87,000 Short Puts - TradingView"
+  ]
+}
