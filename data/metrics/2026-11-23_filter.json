@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 79,
+  "no_date": 0,
+  "too_old": 238,
+  "gate1_fail": 29,
+  "gate2_fail": 33,
+  "passed": 26,
+  "gate2_samples": [
+    "VF Brands Holiday Gift Guides",
+    "TORAY INDUSTRIES INC. R (TOR1.MU) Seasonal Returns Chart - Yahoo! Finance Canada",
+    "1LNZ.MI interactive stock chart | Lenzing AG stock - Yahoo Finance Australia",
+    "LeaLea Enterprise Co., Ltd. (1444) Stock News Today - TipRanks",
+    "Daiwa Cuts Shenzhou International Price Target to HK$53.6 as Margin Recovery Delayed, EPS Lowered fo"
+  ]
+}
