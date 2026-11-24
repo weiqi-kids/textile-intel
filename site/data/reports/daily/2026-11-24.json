@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:11:59.441030Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lululemon-2026-11-24-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "lululemon athletica inc. announces third quarter fiscal 2026 earnings conference call - The Joplin Globe",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQjhTTjJBS1RDSjVTVXRFNWY1MW02TmdmSjB3UTN4eFJhcWNGd1dDNDZlbDltSlR2eldvRENNZ2tWcUREM29KWXBmSmdMcDhwbmZMZU9JMEhueDdyN2JHc0p6OHJzWEY1bU1DOGVNRUdkLXR5eEVwNW1RcUxRLUNVNDVnb3dYUDF1bGt3bmp0OHlzNGlmbVVNd3ktaFYzdUlnTnlubVRMa1A0cUhiZ0JxNGRKLUYwVjFvbWhNQWRjVnZmV1N1RGl3ZUEtVGdnd3pHLTBpcFRUR3QxVU9UZGpWMlNOWXlsaDFCNVJla0p1VmozSW8zMUxoTkQ0QjN5d0tEcWYyeVhNSEpiRnAwVnhVbWtfbXVidw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lululemon-2026-11-24-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "lululemon athletica inc. announces third quarter fiscal 2026 earnings conference call - Yahoo! Finance Canada",
+      "companies": [
+        "lululemon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGphQ1NVbXNwX1I3aVdtZkJRNDhhZS1lQVVrZVhkNDhIVVZGRzRfM1psT21SRnpwcmZtRlJQQmVYUE5NUXhuS255aWxIYTFYSHZaR0sycXBjbDJJc0VaU3ZSUmlVZU42ZlZfN2VQTVh5MHdCRjZlSGJBNmhkM0szMmNuSmhma2R0b2xFVDRKSGxOUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nike-2026-11-24-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nike’s 2031 Plan Calls for Earnings to More Than Double. Here’s What That Math Means for the Stock Today. - The Motley Fool",
+      "companies": [
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQclRnTjhzVTJQUG5MQ1l1bHJOZHlyWWJpaUpUaEZEVXRORE0tSjR5VkJWcHVaQlllSU1hWTRZbm9ENTlsdDRwaHRkOWJDZy11cjF5a01PV09hSndQdFdKSVlfckJvOVRkeUNOeFBoZGRSSU5fUW5uRjlwNnpCVURmeGVjMEtNczhiaHU0NE1RYTVNalZra3FqRHJ6Mk1MYUNia1MyS1hwaThMVDdaN3Q4QjZYdV9vbGswX2RidTNCTFBja2VaZFhYekpB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-24-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India’s polyester raw material prices fall as PTA, PSF weaken",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-polyester-raw-material-prices-fall-as-pta-psf-weaken-315225-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-24-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "341 factories shut amid Bangladesh’s $13.75 bn garment rebound",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/341-factories-shut-amid-bangladesh-s-13-75-bn-garment-rebound-315237-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.16,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 17,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 5
+      },
+      {
+        "id": "lululemon",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 2
+      },
+      {
+        "id": "shenzhou",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 414,
+    "dup_title": 80,
+    "too_old": 248,
+    "gate1_blocked": 28,
+    "gate2_blocked": 36,
+    "passed": 22,
+    "pass_rate": "6.6%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "VF Brands Holiday Gift Guides",
+      "Lenzing (WBAG:LNZ) - Stock Analysis - Simply Wall St",
+      "1LNZ.MI interactive stock chart | Lenzing AG stock - Yahoo Finance Australia",
+      "LeaLea Enterprise Co., Ltd. (1444) Stock News Today - TipRanks",
+      "Daiwa Cuts Shenzhou International Price Target to HK$53.6 as Margin Recovery Delayed, EPS Lowered fo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為耐吉、Lululemon、Coach相關動態：「lululemon athletica inc. announces third quarter fiscal 2...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "lululemon athletica inc. announces third quarter fiscal 2026 earnings confere...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "lululemon athletica inc. announces third quarter fiscal 2026 earnings confere...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 13 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 414,
+  "dup_title": 80,
+  "no_date": 0,
+  "too_old": 248,
+  "gate1_fail": 28,
+  "gate2_fail": 36,
+  "passed": 22,
+  "gate2_samples": [
+    "VF Brands Holiday Gift Guides",
+    "Lenzing (WBAG:LNZ) - Stock Analysis - Simply Wall St",
+    "1LNZ.MI interactive stock chart | Lenzing AG stock - Yahoo Finance Australia",
+    "LeaLea Enterprise Co., Ltd. (1444) Stock News Today - TipRanks",
+    "Daiwa Cuts Shenzhou International Price Target to HK$53.6 as Margin Recovery Delayed, EPS Lowered fo"
+  ]
+}

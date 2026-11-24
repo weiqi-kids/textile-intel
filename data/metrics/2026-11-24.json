@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-24",
+  "total_events": 23,
+  "by_company": {
+    "shenzhou": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lululemon": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 13,
+      "sentiment_avg": -0.16
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
