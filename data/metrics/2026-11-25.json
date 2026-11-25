@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-25",
+  "total_events": 21,
+  "by_company": {
+    "far_eastern": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "formosa_taffeta": {
+      "count": 1,
+      "sentiment_avg": -0.25
+    },
+    "lululemon": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "tapestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toray": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nike": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "adidas": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "supply_chain_shift": {
+      "count": 15,
+      "sentiment_avg": 0.1
+    },
+    "cotton_price": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": -0.08
+    },
+    "sustainable_textile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

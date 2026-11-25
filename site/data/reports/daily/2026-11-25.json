@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:16:56.153685Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-25-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UK's Coats targets 2026 EBIT margin near 20% as profits stay resilient",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/uk-s-coats-targets-2026-ebit-margin-near-20-as-profits-stay-resilient-315275-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "formosa_taffeta-2026-11-25-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "[Formosa Taffeta FY2026 Q3 Earnings Call] Core Business Swings to Loss, but First-Half Pretax Profit Still Up 80% with EPS of NT$0.64; New GORE-TEX Vietnam Line to Start Production in 2027, President Li Min-chang: Slight Growth in Outdoor Sports - finance.biggo.com",
+      "companies": [
+        "formosa_taffeta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aeVo5dGVuWUQzTzdPcXZ6RTU0Vndxb0VOVXkxVVhQYW5YaEJycWROUFJ2am9fMllJTkhpdU1FZHRRNHZsbWhFQ2hMSGpremtuLVBLQm9BaHJxalM5VnJtMi1B?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tapestry-2026-11-25-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings Beat Might Change The Case For Investing In Tapestry Stock (TPR) - Yahoo Finance",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2NwX0t3RlZXUVdyY3doYjlrUGxkTmJFZEZ6dW9BR1hiRWhYRm9QWFV0X21YbHdpM3B4Q18xaXVyQTg2SE0xQWJPWXRhTWV1bUJsdEdGVUFQWHdxYmMyZkdWcU51YnFlR2dSaUVFZ0VrWlVDdzI4VzAzNWp1eTN3SDVuSWNua1JfWjhYaWZhdGtwa19LeEFjMmlRVnk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "adidas-2026-11-25-021",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Adidas Sustains Steady Growth, Anta Claims Top Market Share, Nike China Unveils Strategic \"Five-Year Prescription\" for Chinese Market Revival - eu.36kr.com",
+      "companies": [
+        "adidas",
+        "nike"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uSkZmcXB5SFRSTy1tdjRtT0o5eFlFRXpwVXJtY0Q5QnlTVHI1OV9IcGVWTU9NSW9vSlZQbkFhLWxKeWRKVDVySUNqMHBOYUhUdlNz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-25-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "€58 mn denim shift raises stakes for Egypt, China and Bangladesh",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/-58-mn-denim-shift-raises-stakes-for-egypt-china-and-bangladesh-315278-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "sustainable_textile": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 10,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nike",
+        "count": 2
+      },
+      {
+        "id": "far_eastern",
+        "count": 1
+      },
+      {
+        "id": "formosa_taffeta",
+        "count": 1
+      },
+      {
+        "id": "lululemon",
+        "count": 1
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cotton_price",
+        "count": 2
+      },
+      {
+        "id": "sustainable_textile",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 72,
+    "too_old": 236,
+    "gate1_blocked": 20,
+    "gate2_blocked": 27,
+    "passed": 24,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "VF Brands Holiday Gift Guides",
+      "Toray Industries, Inc. (TRYIF) Seasonal returns chart - Yahoo Finance UK",
+      "Lenzing (WBAG:LNZ) - Stock Analysis - Simply Wall St",
+      "1LNZ.MI interactive stock chart | Lenzing AG stock - Yahoo Finance Australia",
+      "LeaLea Enterprise Co., Ltd. (1444) Stock News Today - TipRanks"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為耐吉、Far Eastern New Century、Formosa Taffeta相關動態：「UK's Coats targets 2026 EBIT margin near 20% as profits s...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "UK's Coats targets 2026 EBIT margin near 20% as profits stay resilient（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "[Formosa Taffeta FY2026 Q3 Earnings Call] Core Business Swings to Loss, but F...（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 15 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

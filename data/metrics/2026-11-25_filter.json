@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 72,
+  "no_date": 0,
+  "too_old": 236,
+  "gate1_fail": 20,
+  "gate2_fail": 27,
+  "passed": 24,
+  "gate2_samples": [
+    "VF Brands Holiday Gift Guides",
+    "Toray Industries, Inc. (TRYIF) Seasonal returns chart - Yahoo Finance UK",
+    "Lenzing (WBAG:LNZ) - Stock Analysis - Simply Wall St",
+    "1LNZ.MI interactive stock chart | Lenzing AG stock - Yahoo Finance Australia",
+    "LeaLea Enterprise Co., Ltd. (1444) Stock News Today - TipRanks"
+  ]
+}
