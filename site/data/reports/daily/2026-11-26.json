@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T17:58:27.787810Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s economy kept its momentum in October, RBI officials say",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-economy-kept-its-momentum-in-october-rbi-officials-say-315345-newsdetails.htm"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-11-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bayeux Tapestry Not Damaged In Move To England: Experts Confirm - Barron's",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUp6Uzk0N05CNUFBcElyRmVyd1ZxVGVCWHZiQVZwa0l1czFRcXNiMl95QUZsMGR3RVd4ZnZjMWdkbWRvSWlUQllTeVp0RFJnTXBaWG9QQnA4YnlPTXljVnpGeFM4QURnOWFwdXpZendoV3lnd0I1emlLaklGYkdxbkw5X2pidVVnRFgyWFp2a1IweFAxalprQWVSRUdYbUtLT0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India clears $461 mn Kamarajar Port terminal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-clears-461-mn-kamarajar-port-terminal-315365-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "North India cotton yarn prices steady amid weak demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cotton_price",
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/north-india-cotton-yarn-prices-steady-amid-weak-demand-315359-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US tariff deal could give India’s T&A exporters competitive edge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/us-tariff-deal-could-give-india-s-t-a-exporters-competitive-edge-315350-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "cotton_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 8
+      },
+      {
+        "id": "cotton_price",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 421,
+    "dup_title": 93,
+    "too_old": 243,
+    "gate1_blocked": 31,
+    "gate2_blocked": 40,
+    "passed": 14,
+    "pass_rate": "4.3%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "VF Brands Holiday Gift Guides",
+      "Lenzing resets textiles but keeps TreeToTextile - Sporting Goods Intelligence Europe",
+      "Lenzing AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide dis",
+      "LeaLea Enterprise Co., Ltd. (1444) Stock News Today - TipRanks",
+      "Nike Just Revived Fashion’s Most Experimental Running Line - Highsnobiety"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Coach相關動態：「India’s economy kept its momentum in October, RBI officia...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "India’s economy kept its momentum in October, RBI officials say（供應鏈轉移、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bayeux Tapestry Not Damaged In Move To England: Experts Confirm - Barron's",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 8 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

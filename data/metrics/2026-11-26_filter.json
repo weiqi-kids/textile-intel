@@ -1,0 +1,16 @@
+{
+  "total_raw": 421,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 243,
+  "gate1_fail": 31,
+  "gate2_fail": 40,
+  "passed": 14,
+  "gate2_samples": [
+    "VF Brands Holiday Gift Guides",
+    "Lenzing resets textiles but keeps TreeToTextile - Sporting Goods Intelligence Europe",
+    "Lenzing AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide dis",
+    "LeaLea Enterprise Co., Ltd. (1444) Stock News Today - TipRanks",
+    "Nike Just Revived Fashion’s Most Experimental Running Line - Highsnobiety"
+  ]
+}
