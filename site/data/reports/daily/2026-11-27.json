@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:44:09.480728Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lealea-2026-11-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LEALEA ENTERPRISE CO.,LTD 2026-11-27 Earnings Call - finance.biggo.com",
+      "companies": [
+        "lealea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcTEzUmVubUkyOFZtT0lxOGdCQnlUYnRCamFGUXNwdDZLS0NXRWFES3RkcjA4bmVGWHN6a3cwMTg0clBnaGxfcXEzLVRBT3VJQ3g2R0JyU1pESVlEb3h5YWhVcHRnZFFBRElfOEFhTTg0NE5kN1FyNjNXdkVGRmViTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lealea-2026-11-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "【Lealea Enterprise FY2026 Q3 Earnings Call】Revenue Falls 24% but Taiwan's Lealea Swings to Profit; Net Income NT$140 Million, EPS Turns Positive - finance.biggo.com",
+      "companies": [
+        "lealea"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10T3FUa2FPQjhLVGt6QjI0S3YwMjkwd0twOHE3WE1WeG92TV9LbGhtTzJhRXUwSV9LTzZsenZqOW5MazAwY1ZuMnRBOGVOdFZ4MW1CZWhiYmU4enBibVNOT2tR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-27-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hong Kong's YGM Trading narrows H1 loss as margin improves",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.33
+      },
+      "source_url": "https://www.fibre2fashion.com/news/apparel-news/hong-kong-s-ygm-trading-narrows-h1-loss-as-margin-improves-315376-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-27-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India’s cotton output may fall 14.3% in 2026-27: Agri Min",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/india-s-cotton-output-may-fall-14-3-in-2026-27-agri-min-315395-newsdetails.htm"
+    },
+    {
+      "rank": 5,
+      "event_id": "tapestry-2026-11-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Final Report Details Minor, But Visible Damage to the Bayeux Tapestry Following Trip to the British Museum - ARTnews.com",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVS0tdDh4OWtPdlhrQllHNVk4Z0tGZHcxWUJGdFBrY0JVb3BKUkdySEw2NXFLNWszc0V6bTBzVnJGOFkxcUp1MHVPVExZbEtHUHhoNzNXLUFBZ1FlU21KWVNrTy1EaUJVTVJNbjJ0UTAxUHo1OElDQUQ3M01MbW5zNkc0MUVURDRFQWNmLXRfeDlYN1NEZzRoUVRDUmk5YkduWnl2WE1VNjU3elhjX1lYZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "supply_chain_shift": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lealea",
+        "count": 2
+      },
+      {
+        "id": "tapestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 95,
+    "too_old": 255,
+    "gate1_blocked": 27,
+    "gate2_blocked": 32,
+    "passed": 15,
+    "pass_rate": "4.6%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "VF Brands Holiday Gift Guides",
+      "Lenzing resets textiles but keeps TreeToTextile - Sporting Goods Intelligence Europe",
+      "Formosa Taffeta Co., Ltd. (1434) Stock News Today - TipRanks",
+      "LeaLea Enterprise Co., Ltd. (1444) Stock News Today - TipRanks",
+      "Nike Just Revived Fashion’s Most Experimental Running Line - Highsnobiety"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Lealea Enterprise、Coach相關動態：「LEALEA ENTERPRISE CO.,LTD 2026-11-27 Earnings Call - fina...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LEALEA ENTERPRISE CO.,LTD 2026-11-27 Earnings Call - finance.biggo.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "【Lealea Enterprise FY2026 Q3 Earnings Call】Revenue Falls 24% but Taiwan's Lea...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "供應鏈轉移話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

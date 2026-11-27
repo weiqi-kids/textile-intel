@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 255,
+  "gate1_fail": 27,
+  "gate2_fail": 32,
+  "passed": 15,
+  "gate2_samples": [
+    "VF Brands Holiday Gift Guides",
+    "Lenzing resets textiles but keeps TreeToTextile - Sporting Goods Intelligence Europe",
+    "Formosa Taffeta Co., Ltd. (1434) Stock News Today - TipRanks",
+    "LeaLea Enterprise Co., Ltd. (1444) Stock News Today - TipRanks",
+    "Nike Just Revived Fashion’s Most Experimental Running Line - Highsnobiety"
+  ]
+}

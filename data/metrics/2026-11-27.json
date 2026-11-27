@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-27",
+  "total_events": 10,
+  "by_company": {
+    "lealea": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tapestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": -0.11
+    },
+    "supply_chain_shift": {
+      "count": 6,
+      "sentiment_avg": -0.11
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
