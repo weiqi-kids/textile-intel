@@ -1,0 +1,16 @@
+{
+  "total_raw": 407,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 256,
+  "gate1_fail": 24,
+  "gate2_fail": 29,
+  "passed": 8,
+  "gate2_samples": [
+    "VF Brands Holiday Gift Guides",
+    "Lenzing resets textiles but keeps TreeToTextile - Sporting Goods Intelligence Europe",
+    "Formosa Taffeta Co., Ltd. (1434) Stock News Today - TipRanks",
+    "adidas AG (ADDYY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Celsius vs. lululemon athletica: Which Consumer Goods Stock Is a Better Buy for 2027? - The Motley F"
+  ]
+}

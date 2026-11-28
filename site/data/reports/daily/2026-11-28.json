@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T16:29:16.037168Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tapestry-2026-11-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stratford mayor plans to resign Tapestry board role as Medicare probe continues - CTPost",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWRKWF8zMVJvbzA4YVI5LWZ0blBjbG9PZTBFaWR5OGtiZFlhbVAxMVNPbHllZk1sQ3BacExMNXAzNC1JSUFKcDU1Q0JqMjJoaXpnS1JNWUxGOGoxUVQyWjJxRlFDdUlvRVlXT0dJRGQwVU5veFB2Mk1wZmUxQjhiM3BkY3l3QUs5TEdaNXByZ1d3czFVSkMtUnAtNzFGdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tapestry-2026-11-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tapestry, Inc. $TPR Stock: Worldquant Millennium Advisors LLC Boosts Stake - MarketBeat",
+      "companies": [
+        "tapestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlNjR25xLUtGTkpLWlY2STlxbGhJMnNvNnd2THFDOWJOWWlxY1VPTU5lamkyR2FCSnFDdmh5a2I0dVh2aXpxTUJyMFZrckUxUHFyM1lmMS1zYUlpeG9VdVhNdFUzQlpOVUJiNzBBa3FZZkRORFZUZXotMXhHZkpQQU82N255UjBsM0ZCRzNEdkVfaWFxdDZBVjFuSTU5VEVka0FFRFdqMlp1a0k2dlBQR21BcFFfcmhWS3lBMWNVeGtpMGxxVnU4TGtFTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New US tariff move puts Asia’s export hubs at a crossroads?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/new-us-tariff-move-puts-asia-s-export-hubs-at-a-crossroads--315394-newsdetails.htm"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Indonesia needs stronger productivity to meet 2045 income target: OECD",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "supply_chain_shift"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.17
+      },
+      "source_url": "https://www.fibre2fashion.com/news/textile-news/indonesia-needs-stronger-productivity-to-meet-2045-income-target-oecd-315352-newsdetails.htm"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "supply_chain_shift": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tapestry",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "supply_chain_shift",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 407,
+    "dup_title": 90,
+    "too_old": 256,
+    "gate1_blocked": 24,
+    "gate2_blocked": 29,
+    "passed": 8,
+    "pass_rate": "2.5%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "VF Brands Holiday Gift Guides",
+      "Lenzing resets textiles but keeps TreeToTextile - Sporting Goods Intelligence Europe",
+      "Formosa Taffeta Co., Ltd. (1434) Stock News Today - TipRanks",
+      "adidas AG (ADDYY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Celsius vs. lululemon athletica: Which Consumer Goods Stock Is a Better Buy for 2027? - The Motley F"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Coach相關動態：「Stratford mayor plans to resign Tapestry board role as Me...」。主要關注主題為供應鏈轉移，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Stratford mayor plans to resign Tapestry board role as Medicare probe continu...",
+        "level": "green"
+      },
+      {
+        "text": "Tapestry, Inc. $TPR Stock: Worldquant Millennium Advisors LLC Boosts Stake - ...",
+        "level": "green"
+      },
+      {
+        "text": "供應鏈轉移話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
